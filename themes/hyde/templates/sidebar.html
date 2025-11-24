@@ -1,0 +1,38 @@
+<div class="sidebar">
+	<div class="container sidebar-sticky">
+		<div class="sidebar-about">
+			<h1>
+				<a href="/">
+                  <div class="profile-pic-wrapper">
+					<img class="profile-picture" src="{{ SITEURL }}/images/{{ PROFILE_IMAGE }}">
+                  </div>
+					{{ SITENAME }}
+				</a>
+			</h1>
+			<p class="lead"></p>
+            {% if blogpage %}
+			    <p class="lead">{{ BIO }} </p>
+            {% endif %}
+			<p></p>
+		</div>
+		<nav class="sidebar-nav">
+			<a class="sidebar-nav-item" href="mailto:h@mcla.ug">
+				<i class="fa fa-envelope"></i>
+			</a>
+			{% for name, link in SOCIAL %}
+			<a class="sidebar-nav-item" href="{{ link }}">
+				<i class="fa fa-{{ name }}"></i>
+			</a>
+			{% endfor %}
+			<a class="sidebar-nav-item" href="{{ FEED_ALL_RSS }}">
+				<i class="fa fa-feed"></i>
+			</a>
+			<a class="sidebar-nav-item" href="{{ FEED_ALL_ATOM }}">
+				<i class="fa fa-feed"></i>
+			</a>
+		</nav>
+	</div>
+</div>
+
+<div class="right-sidebar">
+</div>
