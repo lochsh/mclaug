@@ -139,10 +139,7 @@ html {
   margin: 0 auto;
   border-radius: 50%;
   max-width: 10rem;
-}
-
-.profile-pic-wrapper { padding: 10px; border-radius: 50%; display: inline-block;
-  background: #001818;
+  border: 10px solid #001818;
 }
 
 /* Sidebar nav */
