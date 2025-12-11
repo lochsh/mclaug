@@ -11,8 +11,9 @@ from pelicanconf import *
 SITEURL = "https://mcla.ug"
 RELATIVE_URLS = False
 
-FEED_ALL_ATOM = "feeds/all.atom.xml"
-CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
+FEED_ALL_ATOM = "blog/feeds/all.atom.xml"
+FEED_ALL_RSS = "blog/feeds/all.rss.xml"
+CATEGORY_FEED_ATOM = "blog/feeds/{slug}.atom.xml"
 
 DELETE_OUTPUT_DIRECTORY = True
 
