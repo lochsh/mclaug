@@ -51,6 +51,7 @@ Afterwards I wondered: what is the Irish for "frog"?
 
     var LASID = L.layerGroup().addTo(map);
     var DASG = L.layerGroup().addTo(map);
+    var duchas = L.layerGroup().addTo(map);
     var other = L.layerGroup().addTo(map);
 
     $.get(
@@ -66,7 +67,7 @@ Afterwards I wondered: what is the Irish for "frog"?
                     <i>Year</i>: ${line.year}<br>
                     <i>Informant</i>: ${line.informant}<br>
                     <i>Place</i>: ${line.logainm}/${line.placename}<br><br>
-                    <i>Source</i>: ${line.source}<br>
+                    <i>Source</i>: ${line.source}<br><br>
                     <i>Notes</i>: ${line.note}<br>`
                 ).openPopup();
 
@@ -77,6 +78,9 @@ Afterwards I wondered: what is the Irish for "frog"?
                     case "DASG":
                         DASG.addLayer(marker);
                         break;
+                    case "Dúchas":
+                        duchas.addLayer(marker);
+                        break;
                     default:
                         other.addLayer(marker);
                         break;
@@ -84,8 +88,9 @@ Afterwards I wondered: what is the Irish for "frog"?
             }
 
             var overlayMaps = {
-                "LASID": LASID,
-                "DASG": DASG,
+                "Linguistic Atlas and Survey of Irish Dialects": LASID,
+                "Digital Archive of Scottish Gaelic": DASG,
+                "National Folklore Collection": duchas,
                 "other": other,
             }
             var layerControl = L.control.layers({"OSM": osm}, overlayMaps).addTo(map);
