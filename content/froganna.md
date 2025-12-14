@@ -40,7 +40,7 @@ Afterwards I wondered: what is the Irish for "frog"?
 
 ## A collection of Gaelic words for frogs and toads across Ireland, Scotland, and the Isle of Man
 
-<div id="map" style="height: 600px;"></div>
+<div id="map" style="height: 700px;"></div>
 
 <script>
     var map = L.map('map').setView([55.2, -5.3], 6);
