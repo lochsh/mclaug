@@ -44,10 +44,14 @@ Afterwards I wondered: what is the Irish for "frog"?
 
 <script>
     var map = L.map('map').setView([55.2, -5.3], 6);
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
+
+    var LASID = L.layerGroup().addTo(map);
+    var DASG = L.layerGroup().addTo(map);
+    var other = L.layerGroup().addTo(map);
 
     $.get(
         "images/froganna/data.csv",
@@ -65,7 +69,26 @@ Afterwards I wondered: what is the Irish for "frog"?
                     <i>Source</i>: ${line.source}<br>
                     <i>Notes</i>: ${line.note}<br>`
                 ).openPopup();
+
+                switch(line.source_category) {
+                    case "LASID":
+                        LASID.addLayer(marker);
+                        break;
+                    case "DASG":
+                        DASG.addLayer(marker);
+                        break;
+                    default:
+                        other.addLayer(marker);
+                        break;
+                }
             }
+
+            var overlayMaps = {
+                "LASID": LASID,
+                "DASG": DASG,
+                "other": other,
+            }
+            var layerControl = L.control.layers({"OSM": osm}, overlayMaps).addTo(map);
         }
     );
 
