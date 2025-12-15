@@ -135,7 +135,15 @@ https://dasg.ac.uk/fieldwork/view/QWxsaWdpbkpNYWNEb25hbGRzbGlwc3xzb25hc2FufGlkcD
 
 https://dasg.ac.uk/fieldwork/view/SW52ZXJuZXNzS01hY1JhZXNsaXBzfHNvbmFzYW58aWRwMTE1NzUyNjE2fHxmcm9nfHIzN3x8fGFsbA==
 
-happy one?
+happy one? wee joy?
+
+https://deriv.nls.uk/dcn23/1252/1713/125217135.23.pdf
+used here to mean "joys"
+
+https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasan
+"the young frog when it has passed the tadpole stage"
+(has notes about dissimilation leumachan vs leumrachan)
+(has notes about toad "paw")
 
 ### gille-cnàigein
 
