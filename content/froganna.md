@@ -161,6 +161,8 @@ mention of frogs...is cnadan onomatopoeia? title is "signs of rain". I guess it
 means croak! Fun idea: is this only used in places where <cn> is <cr>?
 
 ### craigean, cròigean
+https://www.tobarandualchais.co.uk/track/88600?l=en
+also has muile-mhathag
 
 ### cranag
 
