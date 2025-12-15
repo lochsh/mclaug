@@ -109,6 +109,9 @@ Afterwards I wondered: what is the Irish for "frog"?
 
 Possibly from PIE for burning, cos of burning secretions?
 
+https://www.duchas.ie/en/cbes/4427982/4363624/4467633?HighlightText=loscann&Route=stories&SearchLanguage=ga
+used to mean burning here
+
 ### leumach, leumachan, leumrachan
 
 https://en.wiktionary.org/wiki/leum
