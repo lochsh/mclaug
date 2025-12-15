@@ -60,3 +60,11 @@ LONG_BIO = (
 NAME_EN = "I'm Hannah"
 NAME_JA = "ハナといいます"
 NAME_GA = "Nóra atá orm"
+
+STATIC_PATHS = [
+    "images",
+    "static",
+]
+EXTRA_PATH_METADATA = {
+    "static/favicon.ico": {"path": "favicon.ico"},
+}
