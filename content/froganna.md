@@ -124,7 +124,9 @@ https://www.youtube.com/watch?v=JSP03Q0Mc1I
 
 ### smag, smagach, smaigean
 
-snot, see smugachán
+snot, see smugachán?
+
+or actually just the same as mag
 
 ### sonasan
 
