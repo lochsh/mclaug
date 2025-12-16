@@ -55,7 +55,7 @@ Afterwards I wondered: what is the Irish for "frog"?
     var other = L.layerGroup().addTo(map);
 
     $.get(
-        "images/froganna/data.csv",
+        "../images/froganna/data.csv",
         function(data) {
             var words = $.csv.toObjects(data);
             for (line of words) {
