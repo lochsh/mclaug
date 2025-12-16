@@ -1,6 +1,7 @@
 Title: Caidé mar a deirtear "frog" as Gaeilic?
 Slug: froganna
 Date: 11th Dec 2025
+Status: draft
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
@@ -31,8 +32,6 @@ frog inside, so he must have hopped in when I briefly had the back door open.
 We dispatched him safely outside.
 
 Afterwards I wondered: what is the Irish for "frog"?
-
-## A disappointing dictionary entry
 
 ## The origin of frogs in Ireland
 
@@ -192,6 +191,10 @@ https://www.duchas.ie/en/cbes/4613715/4611694/4660320?HighlightText=lispin
 https://www.duchas.ie/en/cbes/4493647/4407674/4515923?HighlightText=lispin
 
 https://www.duchas.ie/en/cbes/4493647/4407457/4516670?HighlightText=lispin
+
+http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=1580
+
+https://irishplayography.com/play?playid=32411
 
 
 
