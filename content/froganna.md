@@ -160,20 +160,41 @@ Irish Glossary](https://deriv.nls.uk/dcn23/8177/81776163.23.pdf) from 1643:
 ![salamander](../images/froganna/salamander.png)
 
 The notes say the salamander is called <i>loisgionn</i> "because it is burnt"
-(due to hiding in firewood).
+(due to hiding in firewood). Dinneen's dictionary also
+[lists](https://archive.org/details/foclirgaeilgeagu00dinn/page/443)
+"salamander" as a possible translation of <i>loisceann</i>.
 
-It also cites [Leabhar Méig
+The eDIL also cites [Leabhar Méig
 Shamhradháin](https://celt.ucc.ie/published/G402561.html), from the 14th
 century,  as using <i>losguinn</i> when referring to a dragon.
 
 Both salamanders and dragons are associated with fire. Could <i>loscann</i>
-have referred to mythical[^4] fire lizards originally, only to eventually be
+have referred to mythical fire lizards originally, only to eventually be
 applied to the humble frog?
+
+An alternative hypothesis stems from the discovery that the word "salamander"
+has historically been used for crickets and grasshoppers[^4]. Crickets are
+attracted to warmth, and historically have been associated with the hearth[^5].
+I suppose frogs and crickets leap in similar ways &ndash; could there be a
+connection there?
+
+Looking again at the entry from O'Clery's glossary, <i>cú cnámha</i> is
+also listed as a synonym. This would appear to read as "hound of bones". In
+Forbes, A. R. (1905), <i>Gaelic names of beasts (Mammalia), birds, fishes,
+insects, replies, etc.</i>, Oliver and Boyd, this word is cited as meaning
+"louse", as is the other synonym listed by O'Clery, <i>snasán</i>. I suppose,
+like salamanders, you might expect to find woodlice in your firewood, if you
+kept it outside.
+
+I can see the exoskeleton of a woodlouse could fit the bone description. So is
+the O'Clery entry for <i>loisgionn</i> in fact referring to woodlice, not to
+salamanders? Could both frogs and woodlice share an etymylogical relation to
+fire lizards?
 
 ### sonasan
 
 I found this word in two places in Wester Ross. It is also stated to be used in
-nearby Skye in Forbes' [Gaelic names of beasts (mammalia), birds, fishes, insects, reptiles](https://archive.org/details/gaelicnamesofbea00forb/page/52/mode/2up?q=frog).
+nearby Skye in Forbes' [Gaelic names of beasts [...]](https://archive.org/details/gaelicnamesofbea00forb/page/52/mode/2up?q=frog).
 In [Robertson, C. M. (1901), <i>The Gaelic of the West of Ross-shire</i>, Gaelic
 Society of Inverness](https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasan), <i>sonasan</i> is cited as specifically referring to "the
 young frog when it has passed the tadpole stage".
@@ -310,5 +331,13 @@ torbán is given as tadpole
 [here](https://www.duchas.ie/en/cbes/4427982/4363624/4467633?HighlightText=loscann&Route=stories&SearchLanguage=ga)
 to mean "burning", as a variant of standard <i>loisceann</i>.
 
-[^4]: Perhaps salamanders are not so mythical, but I don't believe they have
-ever lived in Ireland, though newts do.
+[^4]: See this [entry](https://anglo-norman.net/entry/salemandre) in an
+Anglo-Norman dictionary, and this blog post ["Not quite
+cricket?"](https://grammarphobia.com/blog/2021/07/cricket-croquet.html) from
+Grammarphobia.
+[This](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED10321)
+Middle English dictionary shows the converse, <i>criket</i>
+being used to refer to the fire lizard.
+
+[^5]: Thank you again to the Grammarphobia blog linked in [^4] for reproducing
+references from the OED that attest this.
