@@ -217,8 +217,13 @@ to the <i>snasán</i> discussed above, listed as a synonym for <i>loisgionn</i>?
 This word <snasán> also (or perhaps now) seems to be used for
 ["polish"](https://www.teanglann.ie/en/fgb/snas%c3%a1n). Instinctively this
 makes me think of shellac made of bugs, but whether this is related I do not
-know.
+know. Shellac is scraped from tree bark, melted and formed into a thin sheet,
+which is then broken into small chips. The Irish word <i>snas</i> means to the
+act of cutting or chipping &ndash; could this also support a connection between
+<i>snasán</i> for "polish" and "woodlouse"? Not that woodlice are made into
+shellac.
 
+<!---
 https://x.com/Gaeilgebheo/status/1762187597361594503
 https://dasg.ac.uk/fieldwork/view/QWxsaWdpbkpNYWNEb25hbGRzbGlwc3xzb25hc2FufGlkcDExNzkzOTYxNnx8ZnJvZ3xyMzZ8fHxhbGw=
 https://dasg.ac.uk/fieldwork/view/SW52ZXJuZXNzS01hY1JhZXNsaXBzfHNvbmFzYW58aWRwMTE1NzUyNjE2fHxmcm9nfHIzN3x8fGFsbA==
@@ -231,6 +236,7 @@ https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasa
 "the young frog when it has passed the tadpole stage"
 (has notes about dissimilation leumachan vs leumrachan)
 (has notes about toad "paw")
+--->
 
 ### fliuchán
 
