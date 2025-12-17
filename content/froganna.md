@@ -211,12 +211,13 @@ The above is from a song <i>Cuairt Mhaidne A'Bhuachaille</i>, by Calum MacEath,
 which won a prize at a 1926 Mòd, and was reprinted in [An Gaidheal](https://deriv.nls.uk/dcn23/1252/1713/125217135.23.pdf) by An Comunn Gàidhealach.
 
 Referring to a frog as "joys" or "wee joy" (<i>-an</i> can also be diminutive
-in Scotland) seemed unexpected to me. However, when reading the entry for
-<i>loisgionn</i> lists <i>snasán</i> as a synonym. The transcriptions of the
-Wester Ross instances of <i>sonasan</i> have [ɑ] as the final vowel, as would
-be the pronunciation of "á" in Munster and much of Connacht. I haven't heard of
-epenthesis between /s/ and /n/ sounds in Irish, but I don't think it's
-outrageous to suggest that these might be the same word.
+in Scotland) seemed unexpected to me. Could <i>sonasan</i> instead be related
+to the <i>snasán</i> discussed above, listed as a synonym for <i>loisgionn</i>?
+
+This word <snasán> also (or perhaps now) seems to be used for
+["polish"](https://www.teanglann.ie/en/fgb/snas%c3%a1n). Instinctively this
+makes me think of shellac made of bugs, but whether this is related I do not
+know.
 
 https://x.com/Gaeilgebheo/status/1762187597361594503
 https://dasg.ac.uk/fieldwork/view/QWxsaWdpbkpNYWNEb25hbGRzbGlwc3xzb25hc2FufGlkcDExNzkzOTYxNnx8ZnJvZ3xyMzZ8fHxhbGw=
