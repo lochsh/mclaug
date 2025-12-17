@@ -23,21 +23,13 @@ unlikelihood. I turned my head to see the dark shape on the floor, still now.
 Then it hopped again: there was a frog in the house! The wee lad was massive as
 well, or such was my perception, faced with the intrusion as I was.
 
-TODO: photo of frog
+![frog](../images/froganna/frog.jpeg)
 
-We have a camera take a photo every time our catflap opens, just to let us know
-how often our cat is out and about. This intel confirmed she did not bring the
-frog inside, so he must have hopped in when I briefly had the back door open.
+We transferred him safely outside. Before he leapt away into the darkness, our
+eyes met, and I understood the task he had bequeathed me: I knew I must find
+all the Gaelic words for frog.
 
-We dispatched him safely outside.
-
-Afterwards I wondered: what is the Irish for "frog"?
-
-## The origin of frogs in Ireland
-
-## The english word "toad": celtic?
-
-## A collection of Gaelic words for frogs and toads across Ireland, Scotland, and the Isle of Man
+## A map of words for frogs across the Gaelic world
 
 <div id="map" style="height: 700px;"></div>
 
@@ -103,13 +95,124 @@ Afterwards I wondered: what is the Irish for "frog"?
 
 </script>
 
+Above is a map showing attested words used by local people for "frog". The main
+sources are:
 
-### loscann, losgann, loscán
+* Wagner, H. (1958-1969), <i>Linguistic Atlas and Survey of Irish Dialects</i>, Dublin Institute of Advanced Studies
+* Digital Archive of Scottish Gaelic (DASG). University of Glasgow <a href='https://dasg.ac.uk'>&lt;https://dasg.ac.uk&gt;</a>
+* National Folklore Collection, University College Dublin
+* Tobar an Dualchais <a href='https://www.tobarandualchais.co.uk'>tobarandualchais.co.uk</a>, Sabhal Mòr Ostaig
 
-Possibly from PIE for burning, cos of burning secretions?
+The markers can be filtered by source by clicking the layers icon in the top
+right-hand corner of the map.
 
-https://www.duchas.ie/en/cbes/4427982/4363624/4467633?HighlightText=loscann&Route=stories&SearchLanguage=ga
-used to mean burning here
+Some of the words provided are cited as meaning "toad" by other sources. I
+learned while doing this research that the distinction between frogs and toads
+is part of a folk taxonomy, rather than a scientific distinction. Speaking for
+myself, I'd mostly use "toad" for particularly knobbly and large or wide frogs.
+
+## Notes and thoughts on the words
+
+### Frog
+
+Could the usage of a foreign loan word, from English, be due to a taboo, where
+it was feared saying the creature's true name would summon them? Christopher
+Lewin, a Manx scholar, kindly corresponded with me about Manx words for frogs,
+and he suggested the possibility of this taboo.
+
+My teacher Dubhán Ó Longáin pondered the belief that frogs entering the home
+was an omen of death, which could support the taboo idea. This belief doesn't
+seem to be universal even within Donegal, see this
+[lore](https://www.duchas.ie/en/cbes/4428354/4398830/4487670) from Leitir Mhic an
+Bhaird claiming a frog in the house to be lucky.
+
+It's quite possible that an English loan came to be used in the usual way,
+through language contact, but it seems unusual in Irish for names of animals to
+change in this way.
+
+Another thing I learned during this research was that it is a common belief
+that frogs did not exist in Ireland until the Normans invaded in the 12th
+century, or perhaps when students of Trinity College brought some over in the
+17th century, or that they first arrived in County Down in the 18th century[^1].
+
+If frogs were indeed brought to Ireland along with colonisation, or came
+post-colonisation, perhaps the word came with them. However, I don't think it's
+clear that the Normans of the 12th Century would have called frogs such.
+
+### loscann, losgann, loscán, losgán
+
+<i>I found this across much of Ireland and Scotland, especially in Argyll</i>
+
+I've seen it suggested that this word is related to
+[<i>loisc</i>](https://en.wiktionary.org/wiki/loisc)[^2], meaning to burn[^3],
+ referring to the sting from touching the secretions of the frog's skin.
+
+![loscann proposed etymology](../images/froganna/losgann.png)
+
+However...I don't believe touching a common frog causes any stinging sensation,
+does it? I have heard it hurts the frog. Could there have been a belief that
+touching the frog would sting you?
+
+I have a perhaps more compelling idea: The Electronic Dictionary of the Irish
+Language entry for [<i>loscann</i>](https://dil.ie/30711) directed me to [O'Clery's
+Irish Glossary](https://deriv.nls.uk/dcn23/8177/81776163.23.pdf) from 1643:
+
+![salamander](../images/froganna/salamander.png)
+
+The notes say the salamander is called <i>loisgionn</i> "because it is burnt"
+(due to hiding in firewood).
+
+It also cites [Leabhar Méig
+Shamhradháin](https://celt.ucc.ie/published/G402561.html), from the 14th
+century,  as using <i>losguinn</i> when referring to a dragon.
+
+Both salamanders and dragons are associated with fire. Could <i>loscann</i>
+have referred to mythical[^4] fire lizards originally, only to eventually be
+applied to the humble frog?
+
+### sonasan
+
+I found this word in two places in Wester Ross. It is also stated to be used in
+nearby Skye in Forbes' [Gaelic names of beasts (mammalia), birds, fishes, insects, reptiles](https://archive.org/details/gaelicnamesofbea00forb/page/52/mode/2up?q=frog).
+In [Robertson, C. M. (1901), <i>The Gaelic of the West of Ross-shire</i>, Gaelic
+Society of Inverness](https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasan), <i>sonasan</i> is cited as specifically referring to "the
+young frog when it has passed the tadpole stage".
+
+This word appears to mean "joys" (<i>sonas</i> + <i>-an</i>), and indeed is used
+this way in a few old sources:
+
+> ’N uair a rainig mi’n gleannan<br>
+B’oirdhearc sealladh nam bruach,<br>
+Bho na chaochail an doinionn<br>
+’S a thainig sonasan nuadh<br>
+
+The above is from a song <i>Cuairt Mhaidne A'Bhuachaille</i>, by Calum MacEath,
+which won a prize at a 1926 Mòd, and was reprinted in [An Gaidheal](https://deriv.nls.uk/dcn23/1252/1713/125217135.23.pdf) by An Comunn Gàidhealach.
+
+Referring to a frog as "joys" or "wee joy" (<i>-an</i> can also be diminutive
+in Scotland) seemed unexpected to me. However, when reading the entry for
+<i>loisgionn</i> lists <i>snasán</i> as a synonym. The transcriptions of the
+Wester Ross instances of <i>sonasan</i> have [ɑ] as the final vowel, as would
+be the pronunciation of "á" in Munster and much of Connacht. I haven't heard of
+epenthesis between /s/ and /n/ sounds in Irish, but I don't think it's
+outrageous to suggest that these might be the same word.
+
+https://x.com/Gaeilgebheo/status/1762187597361594503
+https://dasg.ac.uk/fieldwork/view/QWxsaWdpbkpNYWNEb25hbGRzbGlwc3xzb25hc2FufGlkcDExNzkzOTYxNnx8ZnJvZ3xyMzZ8fHxhbGw=
+https://dasg.ac.uk/fieldwork/view/SW52ZXJuZXNzS01hY1JhZXNsaXBzfHNvbmFzYW58aWRwMTE1NzUyNjE2fHxmcm9nfHIzN3x8fGFsbA==
+happy one? wee joy?
+
+https://deriv.nls.uk/dcn23/1252/1713/125217135.23.pdf
+used here to mean "joys"
+
+https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasan
+"the young frog when it has passed the tadpole stage"
+(has notes about dissimilation leumachan vs leumrachan)
+(has notes about toad "paw")
+
+### fliuchán
+
+![fliuchán](../images/froganna/fliuchán.png)
 
 ### leumach, leumachan, leumrachan
 
@@ -118,7 +221,6 @@ https://en.wiktionary.org/wiki/leum
 ### mag, magán, magag, miag, maigean
 
 https://www.youtube.com/watch?v=JSP03Q0Mc1I
-
 
 ### muile-mòthag, muile-mhag, muile-mhagan, muileag
 
@@ -130,21 +232,6 @@ or actually just the same as mag
 
 ### sonasan
 
-https://x.com/Gaeilgebheo/status/1762187597361594503
-
-https://dasg.ac.uk/fieldwork/view/QWxsaWdpbkpNYWNEb25hbGRzbGlwc3xzb25hc2FufGlkcDExNzkzOTYxNnx8ZnJvZ3xyMzZ8fHxhbGw=
-
-https://dasg.ac.uk/fieldwork/view/SW52ZXJuZXNzS01hY1JhZXNsaXBzfHNvbmFzYW58aWRwMTE1NzUyNjE2fHxmcm9nfHIzN3x8fGFsbA==
-
-happy one? wee joy?
-
-https://deriv.nls.uk/dcn23/1252/1713/125217135.23.pdf
-used here to mean "joys"
-
-https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasan
-"the young frog when it has passed the tadpole stage"
-(has notes about dissimilation leumachan vs leumrachan)
-(has notes about toad "paw")
 
 ### gille-cnàigein
 
@@ -198,8 +285,6 @@ http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=1580
 
 https://irishplayography.com/play?playid=32411
 
-
-
 ### torpán
 
 teanglann has this as small clump or clod, or a pot-bellied person. would make
@@ -207,5 +292,23 @@ sense
 
 torbán is given as tadpole
 
+## Miscellaneous curiosities
 
+["Anybody that lived in rural Ireland remember the frog man?"](https://www.reddit.com/r/CasualIreland/comments/184j053/anybody_that_lived_in_rural_ireland_remember_the/)
 
+[The Etymology of English toad: Effects of the Celtic substrate?](http://centre-for-english-traditional-heritage.org/TraditionToday7/7Sayers_Toad.pdf)
+
+## The english word "toad": celtic?
+
+## Go rabh maith agaibh
+
+[^1]: [Colton, S. (2017), <i>Take on Nature: So just how did frogs come to be in Ireland?</i>, The Irish News](https://web.archive.org/web/20170311175557/https://www.irishnews.com/lifestyle/2017/03/11/news/take-on-nature-so-just-how-did-frogs-come-to-be-in-ireland--955180/)
+
+[^2]: [Macbain, Alexander (1911), <i>An Etymylogical Dictionary of the Gaelic Language</i>, Stirling: Eneas Mackay](https://archive.org/details/etymologicaldict00macbuoft/page/232/mode/2up)
+
+[^3]: The spelling <i>loscann</i> is used
+[here](https://www.duchas.ie/en/cbes/4427982/4363624/4467633?HighlightText=loscann&Route=stories&SearchLanguage=ga)
+to mean "burning", as a variant of standard <i>loisceann</i>.
+
+[^4]: Perhaps salamanders are not so mythical, but I don't believe they have
+ever lived in Ireland, though newts do.
