@@ -216,12 +216,12 @@ to the <i>snasán</i> discussed above, listed as a synonym for <i>loisgionn</i>?
 
 This word <snasán> also (or perhaps now) seems to be used for
 ["polish"](https://www.teanglann.ie/en/fgb/snas%c3%a1n). Instinctively this
-makes me think of shellac made of bugs, but whether this is related I do not
-know. Shellac is scraped from tree bark, melted and formed into a thin sheet,
-which is then broken into small chips. The Irish word <i>snas</i> means to the
-act of cutting or chipping &ndash; could this also support a connection between
-<i>snasán</i> for "polish" and "woodlouse"? Not that woodlice are made into
-shellac.
+makes me think of shellac, made from a resin secreted by bugs, but whether this
+is related I do not know. Shellac is scraped from tree bark, melted and formed
+into a thin sheet, which is then broken into small chips. The Irish word
+<i>snas</i> means to the act of cutting or chipping &ndash; could this also
+support a connection between <i>snasán</i> for "polish" and "woodlouse"? Not
+that woodlice are made into shellac!
 
 <!---
 https://x.com/Gaeilgebheo/status/1762187597361594503
