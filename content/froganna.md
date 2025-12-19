@@ -287,6 +287,8 @@ https://www.duchas.ie/en/cbes/4428116/4379731/4468703?HighlightText=cnadan
 mention of frogs...is cnadan onomatopoeia? title is "signs of rain". I guess it
 means croak! Fun idea: is this only used in places where <cn> is <cr>?
 
+In Stockman (1974), The Irish of Achill, Co Mayo, cnádán is "burr"
+
 ### craigean, cròigean
 https://www.tobarandualchais.co.uk/track/88600?l=en
 also has muile-mhathag
@@ -295,11 +297,10 @@ also has muile-mhathag
 
 ### rannag
 
-from https://en.wiktionary.org/wiki/rana#Latin ?
+from https://en.wiktionary.org/wiki/rana#Latin
 
 ### uillichd
-
-### fliuchán
+wilky?
 
 ### lispín
 
@@ -325,8 +326,6 @@ torbán is given as tadpole
 ["Anybody that lived in rural Ireland remember the frog man?"](https://www.reddit.com/r/CasualIreland/comments/184j053/anybody_that_lived_in_rural_ireland_remember_the/)
 
 [The Etymology of English toad: Effects of the Celtic substrate?](http://centre-for-english-traditional-heritage.org/TraditionToday7/7Sayers_Toad.pdf)
-
-## The english word "toad": celtic?
 
 ## Go rabh maith agaibh
 
