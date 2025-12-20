@@ -289,9 +289,13 @@ means croak! Fun idea: is this only used in places where <cn> is <cr>?
 
 In Stockman (1974), The Irish of Achill, Co Mayo, cnádán is "burr"
 
+In Hamilton's irish of tory island it is burr or burdock
+
 ### craigean, cròigean
 https://www.tobarandualchais.co.uk/track/88600?l=en
 also has muile-mhathag
+
+cróigeán given as "act of footing turf" in irish of tory island
 
 ### cranag
 
@@ -320,6 +324,12 @@ teanglann has this as small clump or clod, or a pot-bellied person. would make
 sense
 
 torbán is given as tadpole
+
+### crónan
+
+purring/croaking
+
+irish of tory island
 
 ## Miscellaneous curiosities
 
