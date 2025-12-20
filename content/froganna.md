@@ -331,6 +331,14 @@ purring/croaking
 
 irish of tory island
 
+### crúbán claidhe
+
+beast of the dyke?
+
+### luascán lathaighe
+
+mud salamander
+
 ## Miscellaneous curiosities
 
 ["Anybody that lived in rural Ireland remember the frog man?"](https://www.reddit.com/r/CasualIreland/comments/184j053/anybody_that_lived_in_rural_ireland_remember_the/)
