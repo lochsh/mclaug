@@ -223,6 +223,17 @@ into a thin sheet, which is then broken into small chips. The Irish word
 support a connection between <i>snasán</i> for "polish" and "woodlouse"? Not
 that woodlice are made into shellac!
 
+> an t - sonasag , an té ruadh , a ' mhìola - mhàg .
+The toad or frog .
+
+from Carmina Gadelica volume 6. sonasag -- happy girl?
+
+> frog n (Rana temporaria) leumrachán [ʟ’eːmrɔxɑn] m, pl leumrachánan [ʟ’eːmrɔxɑn]
+		yellow-coloured frog n (variety of Rana temporaria ; or acc. to some speakers, any small frog) sonasán [sɔ͂nəsɑn] m, pl sonasánan [sɔ͂nəsɑnən], [sɔ͂nəsɑnː]. (Some people described sònasán to me as leumrachán beag buidhe, “a small yellow frog”, and it is possible that this refers to the albino frog, which is a distinctive yellow or orange colour. If this is the case, it is particularly interesting as a dialect term specifically for this uncommon variety of Rana temporaria)
+
+from FACLAN IS ABAIRTEAN À ROS AN IAR (Gaelic words and phrases from wester
+ross)
+
 <!---
 https://x.com/Gaeilgebheo/status/1762187597361594503
 https://dasg.ac.uk/fieldwork/view/QWxsaWdpbkpNYWNEb25hbGRzbGlwc3xzb25hc2FufGlkcDExNzkzOTYxNnx8ZnJvZ3xyMzZ8fHxhbGw=
@@ -251,6 +262,14 @@ https://en.wiktionary.org/wiki/leum
 https://www.youtube.com/watch?v=JSP03Q0Mc1I
 
 ### muile-mòthag, muile-mhag, muile-mhagan, muileag
+
+> miola - mhàg , mola - mhàg , mola - mhàgan , muile - mhàg , murra - mhàg , murra - mhàgag .
+Frog [ or toad ] .
+The last is the form in Loch Carron .
+
+from Carmina Gadelica vol 6
+
+muile-màig in lismore https://archive.org/details/collectionofgael00maci/page/150/mode/2up?q=lismore
 
 ### smag, smagach, smaigean
 
