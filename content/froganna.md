@@ -253,6 +253,23 @@ https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasa
 
 ![fliuchán](../images/froganna/fliuchán.png)
 
+### ceanna-phiullan
+
+Thought this might be ceanna-fiullan, but have found instances of
+<i>ceanna-pholla(i)n</i> so perhaps not.
+
+https://archives.collections.ed.ac.uk/repositories/2/archival_objects/141898
+
+means tadpole there
+
+a couple instances on corpas na gàidhlig:
+
+> Is e Marc a bha ' n seo is e cho coltach ri ceanna-phollain ann an cumadh na bodhaige is gun robh Artar air snodha gàire a dhèanamh nan rachadh aige air leathad nan gualainnean fèitheach a dhìochuimheachadh is an nàdur dùr , neo - mhathach a bha ' n nabachd a ' cur as an leth .
+
+and
+
+> An e fàs suas ann a measg nan ceanna - phollan ann an Loch Odha a rinn e mar a dh ' fhas Topsy aig Uncle Tom ' s Cabin , ann am boglaichean Savannah ; theagamh gu ' r e bhi de ' n bheachd sin a thug air Diùc Iain a tha air mhaireann ann an Dun Ara fathast , creidsinn cho laidir ' s an Darwin theory.
+
 ### leumach, leumachan, leumrachan
 
 https://en.wiktionary.org/wiki/leum
@@ -271,13 +288,13 @@ from Carmina Gadelica vol 6
 
 muile-màig in lismore https://archive.org/details/collectionofgael00maci/page/150/mode/2up?q=lismore
 
+https://archives.collections.ed.ac.uk/repositories/2/archival_objects/142709
+
 ### smag, smagach, smaigean
 
 snot, see smugachán?
 
 or actually just the same as mag
-
-### sonasan
 
 
 ### gille-cnàigein
