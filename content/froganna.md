@@ -139,6 +139,8 @@ If frogs were indeed brought to Ireland along with colonisation, or came
 post-colonisation, perhaps the word came with them. However, I don't think it's
 clear that the Normans of the 12th Century would have called frogs such.
 
+http://focailfholaithe.fng.ie/content/frag tipperary source
+
 ### loscann, losgann, loscán, losgán
 
 <i>I found this across much of Ireland and Scotland, especially in Argyll</i>
@@ -190,6 +192,12 @@ I can see the exoskeleton of a woodlouse could fit the bone description. So is
 the O'Clery entry for <i>loisgionn</i> in fact referring to woodlice, not to
 salamanders? Could both frogs and woodlice share an etymylogical relation to
 fire lizards?
+
+### luascán lathaighe
+
+mud salamander? on achill
+
+http://focailfholaithe.fng.ie/content/luasg%C3%A1n-lathaighe
 
 ### sonasan
 
@@ -269,6 +277,9 @@ a couple instances on corpas na gàidhlig:
 and
 
 > An e fàs suas ann a measg nan ceanna - phollan ann an Loch Odha a rinn e mar a dh ' fhas Topsy aig Uncle Tom ' s Cabin , ann am boglaichean Savannah ; theagamh gu ' r e bhi de ' n bheachd sin a thug air Diùc Iain a tha air mhaireann ann an Dun Ara fathast , creidsinn cho laidir ' s an Darwin theory.
+
+https://dasg.ac.uk/fieldwork/view/SW52ZXJuZXNzS01hY1JhZXNsaXBzfGdyw6BiYXN8aWRwMTE1NzYyNTUyfHxjcmFifHI1MHx8fA==
+https://dasg.ac.uk/fieldwork/view/RHVybmVzc0dNYWNLZW56aWVzbGlwc3xzZ29pbHRlYW58aWRwMTE4ODkzODA4fHxwb3RhdG98cjE4NXx8fA==
 
 ### leumach, leumachan, leumrachan
 
@@ -370,10 +381,6 @@ irish of tory island
 ### crúbán claidhe
 
 beast of the dyke?
-
-### luascán lathaighe
-
-mud salamander
 
 ## Miscellaneous curiosities
 
