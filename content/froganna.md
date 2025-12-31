@@ -1,4 +1,4 @@
-Title: Caidé mar a deirtear "frog" as Gaeilic?
+Title: Caidé mar a deirtear "frog" i nGaeilic?
 Slug: froganna
 Date: 11th Dec 2025
 Status: draft
