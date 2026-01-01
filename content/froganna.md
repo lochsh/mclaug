@@ -60,7 +60,8 @@ all the Gaelic words for frog.
                     <i>Informant</i>: ${line.informant}<br>
                     <i>Place</i>: ${line.logainm}/${line.placename}<br><br>
                     <i>Source</i>: ${line.source}<br><br>
-                    <i>Notes</i>: ${line.note}<br>`
+                    <i>Notes</i>: ${line.note}<br>`,
+                    {maxHeight: 500},
                 ).openPopup();
 
                 switch(line.source_category) {
