@@ -1,4 +1,4 @@
-Title: Caidé mar a deirtear "frog" i nGaeilic?
+Title: Caidé mar a deirtear "frog" i nGaedhilg?
 Slug: froganna
 Date: 11th Dec 2025
 Status: draft
@@ -194,6 +194,10 @@ the O'Clery entry for <i>loisgionn</i> in fact referring to woodlice, not to
 salamanders? Could both frogs and woodlice share an etymylogical relation to
 fire lizards?
 
+[German-language thoughts on etymology of
+loscann](https://archive.org/details/sprogligeoghist00olsegoog/page/n258/mode/2up)
+TODO: incorporate this. Also has thoughts on wilky
+
 ### luascán lathaighe
 
 mud salamander? on achill
@@ -383,11 +387,34 @@ irish of tory island
 
 beast of the dyke?
 
+## Other Celtic words of interest
+
+### Cornish: gwelsken
+
+The Royal Cornwall Polytechnic Society published R. Morton Nance's <i>Celtic
+Words in Cornish Dialect</i> in 1921, and it includes a very transparent
+proposed etymology for the local word <i>wilky</i>, used for frogs:
+
+![quilkin](../images/froganna/quilkin.png)
+
+The meaning of <i>gwelsken</i> is given as "grass-skin", with the Welsh words
+<i>gwellt</i> and <i>cen</i> given as cognates of the Cornish words.
+
+What could a Gaelic cognate look like, and is it attested? Welsh <i>gwellt</i>
+is cognate with Irish <i>innilt</i>, used to mean grazing. The Old Irish word
+<i>cenn</i> does not survive in the language today.
+
 ## Miscellaneous curiosities
 
 ["Anybody that lived in rural Ireland remember the frog man?"](https://www.reddit.com/r/CasualIreland/comments/184j053/anybody_that_lived_in_rural_ireland_remember_the/)
 
+[A jumping frog and other creatures of etymological interest](https://blog.oup.com/2024/03/a-jumping-frog-and-other-creatures-of-etymological-interest/)
+
+[An etymological plague of frogs](https://blog.oup.com/2024/04/an-etymological-plague-of-frogs/)
+
 [The Etymology of English toad: Effects of the Celtic substrate?](http://centre-for-english-traditional-heritage.org/TraditionToday7/7Sayers_Toad.pdf)
+(strongly disagreed with by the previous item)
+
 
 ## Go rabh maith agaibh
 
