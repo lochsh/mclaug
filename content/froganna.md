@@ -387,6 +387,15 @@ irish of tory island
 
 beast of the dyke?
 
+## Given names for the frog in stories and riddles
+
+Gille Criosda Mhic Dhughail
+Séan Ó Lupáin
+Mac I Shliopán
+Mach Uí Stíopháin
+
+why...
+
 ## Other Celtic words of interest
 
 ### Cornish: gwelsken
