@@ -370,6 +370,8 @@ http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=1580
 
 https://irishplayography.com/play?playid=32411
 
+https://maps.app.goo.gl/t1KBnQjdjEhNYCwE6
+
 ### torpán
 
 teanglann has this as small clump or clod, or a pot-bellied person. would make
