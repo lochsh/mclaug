@@ -385,7 +385,9 @@ irish of tory island
 
 ### crúbán claidhe
 
-beast of the dyke?
+beast of the dyke? https://en.wiktionary.org/wiki/cr%C3%B9b#Scottish_Gaelic
+related to crawling? maybe more for toads. crawling makes sense as also used
+for crabs.
 
 ## Given names for the frog in stories and riddles
 
