@@ -399,6 +399,8 @@ Mach Uí Stíopháin
 
 why...
 
+Seid (cos of the expanding when croaking) https://archive.org/details/witchcraftsecon01campgoog
+
 ## Other Celtic words of interest
 
 ### Cornish: gwelsken
