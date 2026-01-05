@@ -372,6 +372,8 @@ https://irishplayography.com/play?playid=32411
 
 https://maps.app.goo.gl/t1KBnQjdjEhNYCwE6
 
+https://www.daltai.com/discus/messages/12465/11517.html?1048156283
+
 ### torpán
 
 teanglann has this as small clump or clod, or a pot-bellied person. would make
