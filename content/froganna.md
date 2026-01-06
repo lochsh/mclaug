@@ -1,4 +1,4 @@
-Title: Caidé mar a deirtear "frog" i nGaedhilg?
+Title: Goidé mar a deirtear "frog" i nGaedhilg?
 Slug: froganna
 Date: 11th Dec 2025
 Status: draft
@@ -435,7 +435,6 @@ is cognate with Irish <i>innilt</i>, used to mean grazing. The Old Irish word
 
 [The Etymology of English toad: Effects of the Celtic substrate?](http://centre-for-english-traditional-heritage.org/TraditionToday7/7Sayers_Toad.pdf)
 (strongly disagreed with by the previous item)
-
 
 ## Go rabh maith agaibh
 
