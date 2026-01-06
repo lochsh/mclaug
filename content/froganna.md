@@ -313,13 +313,20 @@ snot, see smugachán?
 or actually just the same as mag
 
 
-### gille-cnàigein
+### gille-cnàigein, craigean, cròigean
+https://www.tobarandualchais.co.uk/track/88600?l=en
+also has muile-mhathag
+
+cróigeán given as "act of footing turf" in irish of tory island
 
 https://x.com/guthan_g/status/637694618478489600
 
 https://dalriada.scot/gd/a-cromadh-sios-an-rathad-the-last-of-the-gaelic-in-the-land-of-the-whisky
 
 https://dasg.ac.uk/fieldwork/view/Tm9ydGhBcmd5bGxBQ2FtZXJvbm1pc2N8Z2lsbGUgY3LDoGlnZWFufGlkcDE1NjkxMTU4NHx8ZnJvZ3xyN3x8fGFsbA==
+
+knobbly
+https://en.wiktionary.org/wiki/cnag sense 3 on scottish gaelic
 
 ### cnádan
 
@@ -342,12 +349,6 @@ means croak! Fun idea: is this only used in places where <cn> is <cr>?
 In Stockman (1974), The Irish of Achill, Co Mayo, cnádán is "burr"
 
 In Hamilton's irish of tory island it is burr or burdock
-
-### craigean, cròigean
-https://www.tobarandualchais.co.uk/track/88600?l=en
-also has muile-mhathag
-
-cróigeán given as "act of footing turf" in irish of tory island
 
 ### cranag
 
