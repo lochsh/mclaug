@@ -206,6 +206,8 @@ http://focailfholaithe.fng.ie/content/luasg%C3%A1n-lathaighe
 
 ### sonasan
 
+![sonasan](../images/froganna/sonasan.svg)
+
 I found this word in two places in Wester Ross. It is also stated to be used in
 nearby Skye in Forbes' [Gaelic names of beasts [...]](https://archive.org/details/gaelicnamesofbea00forb/page/52/mode/2up?q=frog).
 In [Robertson, C. M. (1901), <i>The Gaelic of the West of Ross-shire</i>, Gaelic
@@ -265,6 +267,7 @@ https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasa
 ### fliuchán
 
 ![fliuchán](../images/froganna/fliuchán.png)
+![fliuchán](../images/froganna/fliuchán.svg)
 
 ### ceanna-phiullan
 
@@ -288,7 +291,11 @@ https://dasg.ac.uk/fieldwork/view/RHVybmVzc0dNYWNLZW56aWVzbGlwc3xzZ29pbHRlYW58aW
 
 ### leumach, leumachan, leumrachan
 
+![leumrachan](../images/froganna/leumrachan.svg)
+
 https://en.wiktionary.org/wiki/leum
+
+https://dasg.ac.uk/fieldwork/view/TGlvbmVsSnVuaW9yU2Vjb25kYXJ5bWFvcmFjaHxicmVhbWFnfGQwZTYxfHxzaXViaGFsfHIxMHx8fGFsbA==
 
 ### mag, magán, magag, miag, maigean
 
