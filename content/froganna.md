@@ -238,6 +238,9 @@ into a thin sheet, which is then broken into small chips. The Irish word
 support a connection between <i>snasán</i> for "polish" and "woodlouse"? Not
 that woodlice are made into shellac!
 
+https://www.duchas.ie/en/cbe/9000894/7260368/9085160 frogs used for polish
+(probably not related)
+
 > an t - sonasag , an té ruadh , a ' mhìola - mhàg .
 The toad or frog .
 
