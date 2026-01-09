@@ -405,6 +405,8 @@ torbán is given as tadpole
 
 ### crónan
 
+![crónan](../images/froganna/crónan.svg)
+
 purring/croaking
 
 irish of tory island
@@ -445,6 +447,8 @@ The meaning of <i>gwelsken</i> is given as "grass-skin", with the Welsh words
 What could a Gaelic cognate look like, and is it attested? Welsh <i>gwellt</i>
 is cognate with Irish <i>innilt</i>, used to mean grazing. The Old Irish word
 <i>cenn</i> does not survive in the language today.
+
+The Breton word <i>glesker</i> may be related.
 
 ## Miscellaneous curiosities
 
