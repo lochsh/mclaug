@@ -144,6 +144,8 @@ http://focailfholaithe.fng.ie/content/frag tipperary source
 
 ### loscann, losgann, loscán, losgán
 
+![loscann](../images/froganna/losgann.svg)
+
 <i>I found this across much of Ireland and Scotland, especially in Argyll</i>
 
 I've seen it suggested that this word is related to
