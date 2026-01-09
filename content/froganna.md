@@ -153,8 +153,8 @@ I've seen it suggested that this word is related to
 ![loscann proposed etymology](../images/froganna/losgann.png)
 
 However...I don't believe touching a common frog causes any stinging sensation,
-does it? I have heard it hurts the frog. Could there have been a belief that
-touching the frog would sting you?
+does it? Toads do secrete a <i>bufotoxin</i>, which can cause an allergic
+reaction on contact, but is mostly dangerous when ingested.
 
 I have a perhaps more compelling idea: The Electronic Dictionary of the Irish
 Language entry for [<i>loscann</i>](https://dil.ie/30711) directed me to [O'Clery's
@@ -214,8 +214,9 @@ In [Robertson, C. M. (1901), <i>The Gaelic of the West of Ross-shire</i>, Gaelic
 Society of Inverness](https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasan), <i>sonasan</i> is cited as specifically referring to "the
 young frog when it has passed the tadpole stage".
 
-This word appears to mean "joys" (<i>sonas</i> + <i>-an</i>), and indeed is used
-this way in a few old sources:
+At first glance this word appears to mean "joys" (<i>sonas</i> + <i>-an</i>;
+the suffix <i>-an</i> forms the nominative plural for feminine nouns in
+Scotland), and indeed is used this way in a few old sources:
 
 > ’N uair a rainig mi’n gleannan<br>
 B’oirdhearc sealladh nam bruach,<br>
@@ -225,9 +226,14 @@ Bho na chaochail an doinionn<br>
 The above is from a song <i>Cuairt Mhaidne A'Bhuachaille</i>, by Calum MacEath,
 which won a prize at a 1926 Mòd, and was reprinted in [An Gaidheal](https://deriv.nls.uk/dcn23/1252/1713/125217135.23.pdf) by An Comunn Gàidhealach.
 
-Referring to a frog as "joys" or "wee joy" (<i>-an</i> can also be diminutive
-in Scotland) seemed unexpected to me. Could <i>sonasan</i> instead be related
-to the <i>snasán</i> discussed above, listed as a synonym for <i>loisgionn</i>?
+The suffix <i>-an</i> is also used diminutively (c.f. <i>-án</i> in Ireland).
+The plural is recorded as <i>sonasánan</i> [sɔ᷉nəsɑnən], [sɔ᷉nəsɑnː] in
+Wentworth, R. (1993) <i>Faclan is Abairtean à Ros an Iar</i>. So it seems more
+likely that frogs are being referred to as "wee joys".
+
+Referring to a frog as a "wee joy" seemed unexpected to me. Could
+<i>sonasan</i> instead be related to the <i>snasán</i> discussed above, listed
+as a synonym for <i>loisgionn</i>?
 
 This word <snasán> also (or perhaps now) seems to be used for
 ["polish"](https://www.teanglann.ie/en/fgb/snas%c3%a1n). Instinctively this
@@ -324,19 +330,24 @@ or actually just the same as mag
 
 
 ### gille-cnàigein, craigean, cròigean
+
+Either "well-pawed one" or "wee knob" depending on whether from <i>cràg</i> or
+<i>cnag</i>. Perhaps vowel length would tell us which etymology is most likely.
+I expect "well-pawed one" which is what is given in
+https://en.wikisource.org/wiki/An_Etymological_Dictionary_of_the_Gaelic_Language/C.
+
 https://www.tobarandualchais.co.uk/track/88600?l=en
-also has muile-mhathag
+also has muile-mhathag (I think from the speaker's father)
 
 cróigeán given as "act of footing turf" in irish of tory island
 
 https://x.com/guthan_g/status/637694618478489600
 
+given as knobbly here
 https://dalriada.scot/gd/a-cromadh-sios-an-rathad-the-last-of-the-gaelic-in-the-land-of-the-whisky
+https://en.wiktionary.org/wiki/cnag sense 3 on scottish gaelic
 
 https://dasg.ac.uk/fieldwork/view/Tm9ydGhBcmd5bGxBQ2FtZXJvbm1pc2N8Z2lsbGUgY3LDoGlnZWFufGlkcDE1NjkxMTU4NHx8ZnJvZ3xyN3x8fGFsbA==
-
-knobbly
-https://en.wiktionary.org/wiki/cnag sense 3 on scottish gaelic
 
 ### cnádan
 
