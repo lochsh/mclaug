@@ -384,6 +384,8 @@ wilky?
 
 ### lispín
 
+![lisbín](../images/froganna/lisbín.svg)
+
 https://www.duchas.ie/en/cbes/4613715/4611694/4660320?HighlightText=lispin
 
 https://www.duchas.ie/en/cbes/4493647/4407674/4515923?HighlightText=lispin
