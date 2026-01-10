@@ -54,8 +54,8 @@ all the Gaelic words for frog.
                 var marker = L.marker([line.latitude, line.longitude]).addTo(map);
                 marker.bindPopup(
                     `<b>${line.word}</b><br>
-                    <i>Source transcription</i>: ${line.source_transcription}<br>
-                    <i>IPA transcription</i>: ${line.ipa_transcription}<br><br>
+                    <i>Source transcription</i>: <span class=ipa>${line.source_transcription}</span><br>
+                    <i>IPA transcription</i>: <span class=ipa>${line.ipa_transcription}</span><br><br>
                     <i>Year</i>: ${line.year}<br>
                     <i>Informant</i>: ${line.informant}<br>
                     <i>Place</i>: ${line.logainm}/${line.placename}<br><br>
@@ -144,67 +144,101 @@ http://focailfholaithe.fng.ie/content/frag tipperary source
 
 ### loscann, losgann, loscán, losgán
 
-![loscann](../images/froganna/losgann.svg)
+<details>
+<summary>
+    <img src="../images/froganna/losgann.svg" alt="A line drawing of a
+    frog sitting in front of a fire in an open hearth. The frog has its back to
+    the viewer, and there is a pot hanging above the fire.">
+</summary>
 
 <i>I found this across much of Ireland and Scotland, especially in Argyll</i>
-
+<br><br>
 I've seen it suggested that this word is related to
-[<i>loisc</i>](https://en.wiktionary.org/wiki/loisc)[^2], meaning to burn[^3],
- referring to the sting from touching the secretions of the frog's skin.
+<a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a><sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup>,
+meaning to burn<sup id=“fnref:3”><a class=“footnote-ref” href=”#fn:3”>3</a></sup>,
+referring to the sting from touching the secretions of the frog's skin.
 
-![loscann proposed etymology](../images/froganna/losgann.png)
+    <img src="../images/froganna/losgann.png" alt="Proposed etymology for
+    loscann. Text reads 'losgann, a toad, Ir. loscain, E. Ir. loscann; from
+    losg above, so named from the acrid secretions of its skin.'">
 
 However...I don't believe touching a common frog causes any stinging sensation,
 does it? Toads do secrete a <i>bufotoxin</i>, which can cause an allergic
 reaction on contact, but is mostly dangerous when ingested.
 
+<br><br>
 I have a perhaps more compelling idea: The Electronic Dictionary of the Irish
-Language entry for [<i>loscann</i>](https://dil.ie/30711) directed me to [O'Clery's
-Irish Glossary](https://deriv.nls.uk/dcn23/8177/81776163.23.pdf) from 1643:
+Language entry for <a href=https://dil.ie/30711><i>loscann</i></a> directed me to
+<a href=https://deriv.nls.uk/dcn23/8177/81776163.23.pdf>O'Clery's
+Irish Glossary</a> from 1643:
 
-![salamander](../images/froganna/salamander.png)
+    <img src="../images/froganna/salamander.png" alt="Text reads: \"LOISGIONN
+    .i. snasán '[a salamander]'. oir loisgthear é, ⁊ cú cnámha ainm
+    eile dó 'because it is burnt [loisgthear] and cú cnámha is another
+    name for it'.\"">
 
 The notes say the salamander is called <i>loisgionn</i> "because it is burnt"
-(due to hiding in firewood). Dinneen's dictionary also
-[lists](https://archive.org/details/foclirgaeilgeagu00dinn/page/443)
+(salmanders are known to nest in firewood). Dinneen's dictionary also
+<a href=https://archive.org/details/foclirgaeilgeagu00dinn/page/443>lists</a>
 "salamander" as a possible translation of <i>loisceann</i>.
 
-The eDIL also cites [Leabhar Méig
-Shamhradháin](https://celt.ucc.ie/published/G402561.html), from the 14th
-century,  as using <i>losguinn</i> when referring to a dragon.
+<br><br>
+The eDIL also cites <a href=https://celt.ucc.ie/published/G402561.html>Leabhar Méig
+Shamhradháin</a>, from the 14th
+century, as using <i>losguinn</i> when referring to a
+dragon<sup id=“fnref:4”><a class=“footnote-ref” href=”#fn:4”>4</a></sup>.
 
-Both salamanders and dragons are associated with fire. Could <i>loscann</i>
-have referred to mythical fire lizards originally, only to eventually be
-applied to the humble frog?
+<br><br>
+Is the humble frog the peat bog's mundane answer to mythical fire beasts of
+old? It would seem plausible that <i>losgann</i> evolved from referring to
+dragons and salamanders to the closest creature Ireland has to offer: the frog
+(though arguably the newt is a more obvious descendant).
 
+<br><br>
 An alternative hypothesis stems from the discovery that the word "salamander"
-has historically been used for crickets and grasshoppers[^4]. Crickets are
-attracted to warmth, and historically have been associated with the hearth[^5].
-I suppose frogs and crickets leap in similar ways &ndash; could there be a
-connection there?
+has historically been used for crickets and
+grasshoppers<sup id=“fnref:5”><a class=“footnote-ref” href=”#fn:5”>5</a></sup>.
+Crickets are attracted to warmth, and historically have been associated with
+the hearth<sup id=“fnref:6”><a class=“footnote-ref” href=”#fn:6”>6</a></sup>.
+Could the evolution instead be (association with fire) -> (crickets jumping) ->
+(frogs jumping)?<sup id=“fnref:7”><a class=“footnote-ref” href=”#fn:7”>7</a></sup>
 
-Looking again at the entry from O'Clery's glossary, <i>cú cnámha</i> is
-also listed as a synonym. This would appear to read as "hound of bones". In
-Forbes, A. R. (1905), <i>Gaelic names of beasts (Mammalia), birds, fishes,
-insects, replies, etc.</i>, Oliver and Boyd, this word is cited as meaning
-"louse", as is the other synonym listed by O'Clery, <i>snasán</i>. I suppose,
-like salamanders, you might expect to find woodlice in your firewood, if you
-kept it outside.
+<br><br>
+An etymology related to the frog's jumping would certainly be less unusual than
+one directly related to salamanders and dragons. In a 1908 article
+<a href=https://archive.org/details/sprogligeoghist00olsegoog/page/n258><i>Über
+irisches loscann und einige andere indogermanische namen der kröte</i></a>,
+Carl Marstander explores possibilities for the etymology of <i>losgann</i> and
+divides Indo-European languages' words for frogs and toads into categories,
+named for their:
+<br><br>
+<ol>
+    <li>croaking (Latin <i>rana</i>, Latvian <i>var̂de)</i></li>
+    <li>skin (shiny for frogs, bumpy for toads) (the words explored seem largely to be for toads)</li>
+    <li>distinctive hands (French <i>crapaud</i> for toad)</li>
+    <li>way of moving (jumping for frogs, crawling for toads)</li>
+</ol>
 
-I can see the exoskeleton of a woodlouse could fit the bone description. So is
-the O'Clery entry for <i>loisgionn</i> in fact referring to woodlice, not to
-salamanders? Could both frogs and woodlice share an etymylogical relation to
-fire lizards?
+Marstander complains that a proposed etymology for <i>losgann</i> to do with
+burning seems unlikely due to its uniqueness among other Indo-European
+language's words for frogs. Perhaps the missing piece he needed was the
+crickets.
 
-[German-language thoughts on etymology of
-loscann](https://archive.org/details/sprogligeoghist00olsegoog/page/n258/mode/2up)
-TODO: incorporate this. Also has thoughts on wilky
+<h4>losgann lathaighe, luascán lathaighe, loscán laithighe, ⁊c</h4>
 
-### luascán lathaighe
+An enjoyable variant of this word, that I found primarily in Counties Mayo and
+Galway, is <i>losgann lathaighe</i>, which I will choose to translate as "mud
+salamander".
 
-mud salamander? on achill
+<h4>On spelling variations</h4>
+I have addressed <i>losgann</i> vs. <i>loscann</i> in my general orthography
+notes. These spellings both reflect a pronounciation of something like
+<span class=ipa>/ˈl̪ˠɔsˠkən̪ˠ/</span>, where the first vowel may vary. The
+spelling <i>loscán</i> reflects a pronunciation found in Connacht where the
+final consonant is lenis and the final vowel is clear: <span
+class=ipa>/ˈl̪ˠosˠkɑːnˠ/</span>.
 
-http://focailfholaithe.fng.ie/content/luasg%C3%A1n-lathaighe
+</details>
 
 ### sonasan
 
@@ -384,7 +418,9 @@ wilky?
 
 ### lispín
 
-![lisbín](../images/froganna/lisbín.svg)
+<details>
+<summary><img src="../images/froganna/lisbín.svg" alt="todo"></summary>
+
 
 https://www.duchas.ie/en/cbes/4613715/4611694/4660320?HighlightText=lispin
 
@@ -399,6 +435,8 @@ https://irishplayography.com/play?playid=32411
 https://maps.app.goo.gl/t1KBnQjdjEhNYCwE6
 
 https://www.daltai.com/discus/messages/12465/11517.html?1048156283
+
+</details>
 
 ### torpán
 
@@ -476,7 +514,11 @@ perhaps not that interesting after all.
 [here](https://www.duchas.ie/en/cbes/4427982/4363624/4467633?HighlightText=loscann&Route=stories&SearchLanguage=ga)
 to mean "burning", as a variant of standard <i>loisceann</i>.
 
-[^4]: See this [entry](https://anglo-norman.net/entry/salemandre) in an
+[^4]: <i>Comhrag losguinn lasrach mear ná sir—is sé do dhaingean—suail a sheadh
+i n-armaibh áigh, marbhaidh fear uaidh dá anáil.</i> The text refers to a
+creature <losguinn> breathing fire.
+
+[^5]: See this [entry](https://anglo-norman.net/entry/salemandre) in an
 Anglo-Norman dictionary, and this blog post ["Not quite
 cricket?"](https://grammarphobia.com/blog/2021/07/cricket-croquet.html) from
 Grammarphobia.
@@ -484,5 +526,19 @@ Grammarphobia.
 Middle English dictionary shows the converse, <i>criket</i>
 being used to refer to the fire lizard.
 
-[^5]: Thank you again to the Grammarphobia blog linked in [^4] for reproducing
+[^6]: Thank you again to the Grammarphobia blog linked in [^5] for reproducing
 references from the OED that attest this.
+
+[^7]: I wondered if perhaps the synonyms listed in O'Clery's glossary can
+provide more clues. <i>Cú cnámha</i> appears to read as "hound of
+bones", though the EDIL <a href=https://dil.ie/13291>tells us</a> that
+<i>cú</i> has also been generically used for creatures, particularly insects.
+In Forbes, A. R. (1905), <i>Gaelic names of beasts (Mammalia), birds, fishes,
+insects, replies, etc.</i>, Oliver and Boyd, this word is cited as meaning
+"louse", as is the other synonym listed by O'Clery, <i>snasán</i>.  I
+suppose, like salamanders, you might expect to find woodlice in your
+firewood, if you kept it outside. But these words could easily be referring to
+crickets also. In the end these synonyms mostly increase my confidence that the
+glossary is referring to crickets, not to salamanders the lizards. Whether the
+usage for frogs evolved from the usage for crickets, or alongside it, will
+remain a mystery.
