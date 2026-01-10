@@ -433,6 +433,25 @@ it is used.
 
 </details>
 
+### leumachán, leumrachán, leumbhrochán, léimeachán
+
+<details>
+<summary>
+<img src="../images/froganna/leumrachan.svg" alt="a frog mid-leap">
+</summary>
+
+TODO dissimilation
+
+https://en.wiktionary.org/wiki/leum
+
+https://dasg.ac.uk/fieldwork/view/TGlvbmVsSnVuaW9yU2Vjb25kYXJ5bWFvcmFjaHxicmVhbWFnfGQwZTYxfHxzaXViaGFsfHIxMHx8fGFsbA==
+</details>
+
+### mag, magán, magag, miag, maigean
+
+https://www.youtube.com/watch?v=JSP03Q0Mc1I
+
+
 ### ceanna-phiullan
 
 Thought this might be ceanna-fiullan, but have found instances of
@@ -452,18 +471,6 @@ and
 
 https://dasg.ac.uk/fieldwork/view/SW52ZXJuZXNzS01hY1JhZXNsaXBzfGdyw6BiYXN8aWRwMTE1NzYyNTUyfHxjcmFifHI1MHx8fA==
 https://dasg.ac.uk/fieldwork/view/RHVybmVzc0dNYWNLZW56aWVzbGlwc3xzZ29pbHRlYW58aWRwMTE4ODkzODA4fHxwb3RhdG98cjE4NXx8fA==
-
-### leumach, leumachan, leumrachan
-
-![leumrachan](../images/froganna/leumrachan.svg)
-
-https://en.wiktionary.org/wiki/leum
-
-https://dasg.ac.uk/fieldwork/view/TGlvbmVsSnVuaW9yU2Vjb25kYXJ5bWFvcmFjaHxicmVhbWFnfGQwZTYxfHxzaXViaGFsfHIxMHx8fGFsbA==
-
-### mag, magán, magag, miag, maigean
-
-https://www.youtube.com/watch?v=JSP03Q0Mc1I
 
 ### muile-mòthag, muile-mhag, muile-mhagan, muileag
 
