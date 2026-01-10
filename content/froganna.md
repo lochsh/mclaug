@@ -240,6 +240,76 @@ class=ipa>/ˈl̪ˠosˠkɑːnˠ/</span>.
 
 </details>
 
+### lisbín, lispín
+
+<details>
+<summary><img src="../images/froganna/lisbín.svg" alt="A frog floating in water
+with his head just above the surface, with a rippled reflection below him."></summary>
+
+TODO: where was word found
+<br><br>
+
+This word, most commonly spelt <i>lispín</i> in the examples I found, isn't in
+Ó Dónaill's ditcionary. A schoolchild in Listowel, County Kerry
+<a href=https://www.duchas.ie/en/cbes/4613715/4611694/4660320>defines</a> it as
+meaning "frog or lizard".
+
+<br><br>
+It is <a href=https://archive.org/details/foclirgaeilgeagu00dinn/page/440/mode/2up>listed</a>
+in Dineen's dictionary as being found in Sligo, and meaning "frog".
+
+<br><br>
+The etymology seemed opaque to me initially. It would appear to be a diminutive
+of <i>lisp</i> or <i>liosp</i> (the suffix <i>-ín</i> slenderises the final
+consonants), but this line of enquiry didn't lead anywhere.
+
+<br><br>
+<a href=https://www.daltai.com/discus/messages/12465/11517.html?1048156283>This
+speaker from Donegal</i></a> uses it for a type of fish, and suggests it might be
+related to <i>losgann</i>. If this is the case, I'd expect to be able to find
+some intermediate forms. In The Schools' Collection I found a
+<a href=https://www.duchas.ie/en/cbes/4428280/4391740/4478383>usage</a><sup id=“fnref:8”><a class=“footnote-ref” href=”#fn:8”>8</a></sup>
+of <i>luspán</i>, referring to some kind of small creature found around some
+turf. Whether it refers to a frog is unclear, but it seems plausible.
+
+<br><br>
+I note that Ó Dónaill's dictionary <i>does</i> list
+<a href=https://www.teanglann.ie/en/fgb/liosp%C3%A1n><i>liospán</i></a> as a 
+variant of <i>loscann</i>. I haven't found this spelling anywhere else, but
+apart from the slender initial consonant, it would likely match the
+pronunciation indicated by <i>luspán</i>.
+
+<br><br>
+If this is indeed some variation on <i>losgann</i>, then the fact it is also used
+for lizards might give credence to the idea that the word comes
+directly from salamanders, rather than indirectly via crickets (see above
+section on <i>losgann</i>).
+
+<h4>lisbín locha</h4>
+A variant I found a single example of, in Mayo, was
+<a href=www.duchas.ie/en/cbes/4427846/4350083/4443127<i>lisbín locha</i></a>,
+which we might translate as "lizard of the loch". The schoolchild actually
+wrote <i>lisbín lacha</i>, which I don't think make grammatical sense
+(<i>lacha</i> is the nominative case of the word meaning "duck", but the
+ genitive would be needed here. An association with ducks (the animals) makes a
+ lot less sense than with bodies of water).
+
+<h4>Other usages</h4>
+
+<ul>
+    <li><a href=http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=1580>An Irish telling of The Princess and the Frog</li>
+    <li><a href=http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=1580>A character in a play</a></li>
+    <li><a
+    href=http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=1580>Possibly in the name of this beach</a></li>
+    <li>In <a
+    href=https://archive.org/details/manwhoinventedsi0000ofao/page/n5/mode/2up><i>The Man Who Invented Sin</i></a> by Seán O'Faoláin</li>
+</ul>
+
+
+
+
+</details>
+
 ### sonasan
 
 ![sonasan](../images/froganna/sonasan.svg)
@@ -416,28 +486,6 @@ from https://en.wiktionary.org/wiki/rana#Latin
 ### uillichd
 wilky?
 
-### lispín
-
-<details>
-<summary><img src="../images/froganna/lisbín.svg" alt="todo"></summary>
-
-
-https://www.duchas.ie/en/cbes/4613715/4611694/4660320?HighlightText=lispin
-
-https://www.duchas.ie/en/cbes/4493647/4407674/4515923?HighlightText=lispin
-
-https://www.duchas.ie/en/cbes/4493647/4407457/4516670?HighlightText=lispin
-
-http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=1580
-
-https://irishplayography.com/play?playid=32411
-
-https://maps.app.goo.gl/t1KBnQjdjEhNYCwE6
-
-https://www.daltai.com/discus/messages/12465/11517.html?1048156283
-
-</details>
-
 ### torpán
 
 teanglann has this as small clump or clod, or a pot-bellied person. would make
@@ -542,3 +590,5 @@ crickets also. In the end these synonyms mostly increase my confidence that the
 glossary is referring to crickets, not to salamanders the lizards. Whether the
 usage for frogs evolved from the usage for crickets, or alongside it, will
 remain a mystery.
+
+[^8]: This was the school my granny went to :)
