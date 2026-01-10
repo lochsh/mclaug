@@ -468,6 +468,20 @@ https://en.wiktionary.org/wiki/leum
 https://dasg.ac.uk/fieldwork/view/TGlvbmVsSnVuaW9yU2Vjb25kYXJ5bWFvcmFjaHxicmVhbWFnfGQwZTYxfHxzaXViaGFsfHIxMHx8fGFsbA==
 </details>
 
+### crónán
+
+<details>
+<summary>
+<img src="../images/froganna/crónan.svg" alt="A frog with an expanded vocal
+    sac, with some musical notes to indicate he is croaking">
+</summary>
+
+purring/croaking
+
+irish of tory island
+
+</details>
+
 ### mag, magán, magag, miag, maigean
 
 https://www.youtube.com/watch?v=JSP03Q0Mc1I
@@ -569,14 +583,6 @@ teanglann has this as small clump or clod, or a pot-bellied person. would make
 sense
 
 torbán is given as tadpole
-
-### crónan
-
-![crónan](../images/froganna/crónan.svg)
-
-purring/croaking
-
-irish of tory island
 
 ### crúbán claidhe
 
