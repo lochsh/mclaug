@@ -112,6 +112,55 @@ learned while doing this research that the distinction between frogs and toads
 is part of a folk taxonomy, rather than a scientific distinction. Speaking for
 myself, I'd mostly use "toad" for particularly knobbly and large or wide frogs.
 
+## A brief note about orthography
+<details>
+<summary>(Actually not as brief as I imagined, so click here if you would like to
+read)</summary>
+<br>
+I have illustrated many of the words for frog below. I wanted there to be some
+consistency in the orthography used in the illustrations. The choices I've made
+are just my own personal preference that I feel free to apply within this
+personal project. They're not advocations for changes in any standards. My
+choices and their reasoning:
+<br><br>
+
+<ul>
+
+<li> When standard Irish orthography would have "sc" or "sp", I have written "sg"
+  and "sb", as I believe is standard in Scotland (where I understand most if not all
+  surviving dialects have lost voicing contrast on plosives entirely). This is
+  because I think the voicing of the second consonant is phonemically
+  irrelevant in this context even in Ireland, as it is in English (compare
+  "speech" with "sbeech"), and the (lack of) aspiration is what is most
+  salient phonetically. Also the letter "g" looks nice in the font I chose, so
+  this way we get to see it in <i>losgann</i>.</li>
+<br><br>
+<li>In standard Irish orthography the suffix <i>-án</i> is used diminutively
+  (among other usages). The cognate suffix in Scotland is generally written
+  <i>-an</i>. I have written words found in Scotland with <i>-án</i> for
+  consistency, and also because phonetically this suffix seems to generally be
+  pronounced with a clear vowel, which to me the fada indicates. I think, for
+  instance, it makes the plural <i>sonasánan</i> a bit easier to parse and its
+  pronunciation <span class=ipa>[sɔ᷉nəsɑnən]</span> more explicit.</li>
+<br><br>
+<li>This mostly applies to the datapoints on the map, but I have followed the old
+  Scottish tradition of using "ó" for <span class=ipa>/oː/</span> (as in
+  <i>mór</i> Eng. "big") and "ò" for <span class=ipa>/ɔː/</span> (as in
+  <i>òran</i> Eng. "song"). This pronunciation is something that varies
+  dialectically and I don't always know e.g. in a placename which one is
+  appropriate. So mostly this just comes up with me writing <i>mór</i> in Scottish
+  placenames instead of the standard <i>mòr</i>.</li>
+
+</ul>
+
+<br>
+When adding datapoints to the map from written sources, I have always used the
+written form from the source.
+<br><br>
+A scarcity of relevant data from the Isle of Man means its quite different
+orthography is not something I've had to incorporate into the notes below.
+</details>
+
 ## Notes and thoughts on the words
 
 ### Frog
