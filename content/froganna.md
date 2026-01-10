@@ -155,7 +155,7 @@ http://focailfholaithe.fng.ie/content/frag tipperary source
 <br><br>
 I've seen it suggested that this word is related to
 <a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a><sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup>,
-meaning to burn<sup id=“fnref:3”><a class=“footnote-ref” href=”#fn:3”>3</a></sup>,
+meaning to burn<sup id=“fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup>,
 referring to the sting from touching the secretions of the frog's skin.
 
     <img src="../images/froganna/losgann.png" alt="Proposed etymology for
@@ -186,7 +186,7 @@ The notes say the salamander is called <i>loisgionn</i> "because it is burnt"
 The eDIL also cites <a href=https://celt.ucc.ie/published/G402561.html>Leabhar Méig
 Shamhradháin</a>, from the 14th
 century, as using <i>losguinn</i> when referring to a
-dragon<sup id=“fnref:4”><a class=“footnote-ref” href=”#fn:4”>4</a></sup>.
+dragon<sup id=“fnref:4"><a class=“footnote-ref" href="#fn:4">4</a></sup>.
 
 <br><br>
 Is the humble frog the peat bog's mundane answer to mythical fire beasts of
@@ -197,11 +197,11 @@ dragons and salamanders to the closest creature Ireland has to offer: the frog
 <br><br>
 An alternative hypothesis stems from the discovery that the word "salamander"
 has historically been used for crickets and
-grasshoppers<sup id=“fnref:5”><a class=“footnote-ref” href=”#fn:5”>5</a></sup>.
+grasshoppers<sup id=“fnref:5"><a class=“footnote-ref" href="#fn:5">5</a></sup>.
 Crickets are attracted to warmth, and historically have been associated with
-the hearth<sup id=“fnref:6”><a class=“footnote-ref” href=”#fn:6”>6</a></sup>.
+the hearth<sup id=“fnref:6"><a class=“footnote-ref" href="#fn:6">6</a></sup>.
 Could the evolution instead be (association with fire) -> (crickets jumping) ->
-(frogs jumping)?<sup id=“fnref:7”><a class=“footnote-ref” href=”#fn:7”>7</a></sup>
+(frogs jumping)?<sup id=“fnref:7"><a class=“footnote-ref" href="#fn:7">7</a></sup>
 
 <br><br>
 An etymology related to the frog's jumping would certainly be less unusual than
@@ -268,7 +268,7 @@ consonants), but this line of enquiry didn't lead anywhere.
 speaker from Donegal</i></a> uses it for a type of fish, and suggests it might be
 related to <i>losgann</i>. If this is the case, I'd expect to be able to find
 some intermediate forms. In The Schools' Collection I found a
-<a href=https://www.duchas.ie/en/cbes/4428280/4391740/4478383>usage</a><sup id=“fnref:8”><a class=“footnote-ref” href=”#fn:8”>8</a></sup>
+<a href=https://www.duchas.ie/en/cbes/4428280/4391740/4478383>usage</a><sup id=“fnref:8"><a class=“footnote-ref" href="#fn:8">8</a></sup>
 of <i>luspán</i>, referring to some kind of small creature found around some
 turf. Whether it refers to a frog is unclear, but it seems plausible.
 
@@ -412,12 +412,18 @@ and <a href=https://www.duchas.ie/en/cbes/4678384/4674363/4683533>this</a> examp
 in the Schools Collection.
 
 <br><br>
+Sources where it used to mean frog:
+
+<br><br>
 <ul>
 <li>Dinneen, P. S. (1904), <i>Foclóir Gaedhilge agus Béarla</i>, Irish Texts Society</li>
 <li>Cormac (pseudonym) (1909), <i>Frog</i>, An Claidheamh Soluis 11:9 (8/5/1909). (Pictured above) <i>i gCondae Dhoire atá 'fliuchán' ag na Gaedhealaibh ar 'frog'</i></li>
 <li>Mac Meanman, S. (1940), <i>Crann an Eolais, An Toradh</i>, Brún agus Ó
 Nualláin Teór., Dublin. <i>Ceann aca sin an frog nó an fliuchán mar deirtear i
 gcorr-áit ins an chúigeadh seo.</i></li>
+<li>Mac Gréagóir, A. (1908), <i>Sean-Ranna Ultacha</i>, An Claidheamh Soluis
+10:15 (20/6/1908).  (under the pen-name <i>Gréagóirína Nic Gréagóir Gréagach</i>, not specifically
+ attributed to Derry)</li>
 </ul>
 
 <br>
@@ -430,6 +436,21 @@ Irish until he was 7 years old. More information is available at
 <br><br>
 Dinneen's dictionary lists this word under 'frog' and gives Derry as the place
 it is used.
+
+<h4>Fliuchán díge</h4>
+
+In 1908
+<a href=https://www3.smo.uhi.ac.uk/oduibhin/daoine/aoidhmin2.htm>Aoidhmín Mac Gréagóir</a>
+published a series of articles in <i>An Claidheamh Soluis</i> titled
+<i>Sean-Ranna Ultacha</i> (Eng. old verse of Ulster). A riddle is included:
+
+<img src="../images/froganna/fliuchan-dige.png" alt="A riddle in Gaelic type
+reading 'Léimeachan léimeachan os na gcloch, Léimeachan léimeachan go dtí an
+loch.  Freagra — Fliuchán díge.'">
+
+The riddle asks what jumps over rocks and jumps into the loch. The answer,
+<i>fliuchán díge</i>, we can translate as "wet thing of the
+dyke"<sup id=“fnref:9"><a class=“footnote-ref" href="#fn:9">9</a></sup>.
 
 </details>
 
@@ -647,4 +668,10 @@ glossary is referring to crickets, not to salamanders the lizards. Whether the
 usage for frogs evolved from the usage for crickets, or alongside it, will
 remain a mystery.
 
-[^8]: This was the school my granny went to :)
+[^8]: This was the school my granny went to :) and my granda's parents etc.
+
+[^9]: I'm using "dyke" to mean dry-stone wall, though I suppose ditch could
+also work well, perhaps better as frogs would enjoy the water collected in the
+ditch. My inclination for dry-stone wall is perhaps from the word found in
+Achill, <i>crúbán claidhe</i>, which I translate as dry-stone wall crawler. So
+I'm predisposed to associating frogs with such walls.
