@@ -385,8 +385,53 @@ https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasa
 
 ### fliuchán
 
-![fliuchán](../images/froganna/fliuchán.png)
-![fliuchán](../images/froganna/fliuchán.svg)
+<details>
+<summary><img src="../images/froganna/fliuchán.svg" alt="A frog seeks shelter
+from rain under a toadstool. Drops of rain are seen splashing off the toadstool
+and the frog's unsheltered back (his head is under the toadstool)."></summary>
+
+<i>This word is reported as once having been found in County Derry</i>
+
+<br><br>
+This is a word I have included, despite finding no primary sources for it,
+because it is from a place where the local language died, and I wish to
+preserve and represent it in this work. I have not found it anywhere else, at
+least not used to mean "frog".
+
+<img src="../images/froganna/fliuchán.png" alt="A newspaper clipping in Gaelic
+    type with title 'FROG' and body 'A chara, I gCondae Dhoire atá \"fliuchán\" ag
+    na Gaedhealaidh ar \"frog\". Ní ceart an beithidheach
+    beag bídeach sin a thabhairt as a ainm. Ní thig linn an Béarla a chur ar
+    leath-toabh ar fad, acht ní mór dúinn an Ghaedhilg a choinneál glan. Mise,
+    Cormac">
+
+The word <i>fliuch</i> means wet, and correspondingly <i>fliuchán</i> means
+"wet thing" or "wetness". In Kerry it is used to refer to rain, see
+<a href=https://fr.wikisource.org/wiki/Phon%C3%A9tique_d%E2%80%99un_parler_irlandais_de_Kerry/2-6#p163> Sjoestedt, M. L. (1931), <i>Phonétique d’un parler irlandais de Kerry [Phonetics of an Irish Dialect of Kerry]</i></a>
+and <a href=https://www.duchas.ie/en/cbes/4678384/4674363/4683533>this</a> example
+in the Schools Collection.
+
+<br><br>
+<ul>
+<li>Dinneen, P. S. (1904), <i>Foclóir Gaedhilge agus Béarla</i>, Irish Texts Society</li>
+<li>Cormac (pseudonym) (1909), <i>Frog</i>, An Claidheamh Soluis 11:9 (8/5/1909). (Pictured above) <i>i gCondae Dhoire atá 'fliuchán' ag na Gaedhealaibh ar 'frog'</i></li>
+<li>Mac Meanman, S. (1940), <i>Crann an Eolais, An Toradh</i>, Brún agus Ó
+Nualláin Teór., Dublin. <i>Ceann aca sin an frog nó an fliuchán mar deirtear i
+gcorr-áit ins an chúigeadh seo.</i></li>
+</ul>
+
+<br>
+Ciarán Ó Duibhín believes the 'Cormac' in <i>An Claidheamh Soluis</i> is Séamus
+Ó Ceallaigh (1879-1954), whose father was from Draperstown and was raised with
+Irish until he was 7 years old. More information is available at
+<a href=https://www.ainm.ie/Bio.aspx?ID=57>ainm.ie</a> and
+<a href=https://www.academia.edu/19143240/My_Grandfather_Dr_S%C3%A9amus_%C3%93_Ceallaigh_1879_1954_in_Graham_Mawhinney_ed_Gleanings_from_Ulster_History_by_S%C3%A9amus_%C3%93_Ceallaigh_1879_1954_2nd_ed_Ballinascreen_Historical_Society_1994_iii_xxx><i>My Grandfather, Dr. Séamus Ó Ceallaigh (1879-1954)</i></a>.
+
+<br><br>
+Dinneen's dictionary lists this word under 'frog' and gives Derry as the place
+it is used.
+
+</details>
 
 ### ceanna-phiullan
 
