@@ -305,64 +305,66 @@ wrote <i>lisbín lacha</i>, which I don't think make grammatical sense
     href=https://archive.org/details/manwhoinventedsi0000ofao/page/n5/mode/2up><i>The Man Who Invented Sin</i></a> by Seán O'Faoláin</li>
 </ul>
 
-
-
-
 </details>
 
-### sonasan
+### sonasán
 
-![sonasan](../images/froganna/sonasan.svg)
+<details>
+<summary><img src="../images/froganna/sonasan.svg" alt="A smiling frog next to
+a daisy">
+</summary>
 
-I found this word in two places in Wester Ross. It is also stated to be used in
-nearby Skye in Forbes' [Gaelic names of beasts [...]](https://archive.org/details/gaelicnamesofbea00forb/page/52/mode/2up?q=frog).
-In [Robertson, C. M. (1901), <i>The Gaelic of the West of Ross-shire</i>, Gaelic
-Society of Inverness](https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasan), <i>sonasan</i> is cited as specifically referring to "the
-young frog when it has passed the tadpole stage".
+<i>I found this word in two places in Wester Ross. It is also stated to be used in
+nearby Skye in Forbes' <a
+href=https://archive.org/details/gaelicnamesofbea00forb/page/52/mode/2up?q=frog>Gaelic names of beasts
+[...]</i>
 
+<br><br>
+In <a href=https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasan>Robertson,
+C. M. (1901), <i>The Gaelic of the West of Ross-shire</i>, Gaelic Society of
+Inverness</a>, <i>sonasan</i> is cited as specifically referring to "the young
+frog when it has passed the tadpole stage".
+
+<br><br>
 At first glance this word appears to mean "joys" (<i>sonas</i> + <i>-an</i>;
 the suffix <i>-an</i> forms the nominative plural for feminine nouns in
 Scotland), and indeed is used this way in a few old sources:
 
-> ’N uair a rainig mi’n gleannan<br>
-B’oirdhearc sealladh nam bruach,<br>
-Bho na chaochail an doinionn<br>
+<blockquote>
+’N uair a rainig mi’n gleannan<br>
+ B’oirdhearc sealladh nam bruach,<br>
+ Bho na chaochail an doinionn<br>
 ’S a thainig sonasan nuadh<br>
+</blockquote>
 
 The above is from a song <i>Cuairt Mhaidne A'Bhuachaille</i>, by Calum MacEath,
-which won a prize at a 1926 Mòd, and was reprinted in [An Gaidheal](https://deriv.nls.uk/dcn23/1252/1713/125217135.23.pdf) by An Comunn Gàidhealach.
+which won a prize at a 1926 Mòd, and was reprinted in
+<a href=https://deriv.nls.uk/dcn23/1252/1713/125217135.23.pdf>An Gaidheal</a>
+by An Comunn Gàidhealach.
 
+<br><br>
 The suffix <i>-an</i> is also used diminutively (c.f. <i>-án</i> in Ireland).
-The plural is recorded as <i>sonasánan</i> [sɔ᷉nəsɑnən], [sɔ᷉nəsɑnː] in
-Wentworth, R. (1993) <i>Faclan is Abairtean à Ros an Iar</i>. So it seems more
-likely that frogs are being referred to as "wee joys".
+The plural is recorded as <i>sonasánan</i> <span class=ipa>[sɔ᷉nəsɑnən]</span>,
+<span class=ipa>[sɔ᷉nəsɑnː]</span> in Wentworth, R. (1993) <i>Faclan is
+Abairtean à Ros an Iar</i>. So it seems more likely that frogs are being
+referred to as "wee joys".
 
-Referring to a frog as a "wee joy" seemed unexpected to me. Could
-<i>sonasan</i> instead be related to the <i>snasán</i> discussed above, listed
-as a synonym for <i>loisgionn</i>?
+<br><br>
+Referring to a frog as a "wee joy", while delightful, seemed unexpected to me.
+Superficially <i>sonasán</i> reminds me of <i>snasán</i>, listed above as a
+synonym for <i>loisgionn</i> (see section on <i>losgann</i>). This word refers
+to polish, stemming from the word <i>snas</i> for cutting or chipping, likely
+because of the process of making shellac involves scraping a resin secreted by
+bugs from tree bark, melting it into a sheet, then breaking that into small
+chips. I have no suggestion for how this might be related to frogs or crickets,
+and no justification for why the vowel might have been inserted to create
+<i>sonasán</i>. The knowledge that <a
+href=https://www.duchas.ie/en/cbe/9000894/7260368/9085160>burnt frog
+innards</a> were once used for polish seems like a red herring.
 
-This word <snasán> also (or perhaps now) seems to be used for
-["polish"](https://www.teanglann.ie/en/fgb/snas%c3%a1n). Instinctively this
-makes me think of shellac, made from a resin secreted by bugs, but whether this
-is related I do not know. Shellac is scraped from tree bark, melted and formed
-into a thin sheet, which is then broken into small chips. The Irish word
-<i>snas</i> means to the act of cutting or chipping &ndash; could this also
-support a connection between <i>snasán</i> for "polish" and "woodlouse"? Not
-that woodlice are made into shellac!
-
-https://www.duchas.ie/en/cbe/9000894/7260368/9085160 frogs used for polish
-(probably not related)
-
-> an t - sonasag , an té ruadh , a ' mhìola - mhàg .
-The toad or frog .
-
-from Carmina Gadelica volume 6. sonasag -- happy girl?
-
-> frog n (Rana temporaria) leumrachán [ʟ’eːmrɔxɑn] m, pl leumrachánan [ʟ’eːmrɔxɑn]
-		yellow-coloured frog n (variety of Rana temporaria ; or acc. to some speakers, any small frog) sonasán [sɔ͂nəsɑn] m, pl sonasánan [sɔ͂nəsɑnən], [sɔ͂nəsɑnː]. (Some people described sònasán to me as leumrachán beag buidhe, “a small yellow frog”, and it is possible that this refers to the albino frog, which is a distinctive yellow or orange colour. If this is the case, it is particularly interesting as a dialect term specifically for this uncommon variety of Rana temporaria)
-
-from FACLAN IS ABAIRTEAN À ROS AN IAR (Gaelic words and phrases from wester
-ross)
+<br><br>
+Perhaps we can take this word at face value: as describing the joyful motion of
+the leaping frog.
 
 <!---
 https://x.com/Gaeilgebheo/status/1762187597361594503
@@ -378,6 +380,8 @@ https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasa
 (has notes about dissimilation leumachan vs leumrachan)
 (has notes about toad "paw")
 --->
+
+</details>
 
 ### fliuchán
 
