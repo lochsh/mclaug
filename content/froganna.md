@@ -444,13 +444,14 @@ proposed etymology for the local word <i>wilky</i>, used for frogs:
 ![quilkin](../images/froganna/quilkin.png)
 
 The meaning of <i>gwelsken</i> is given as "grass-skin", with the Welsh words
-<i>gwellt</i> and <i>cen</i> given as cognates of the Cornish words.
+<i>gwellt</i> and <i>cen</i> given as cognates of the Cornish words. The
+Breton word <i>glesker</i> may be related.
 
-What could a Gaelic cognate look like, and is it attested? Welsh <i>gwellt</i>
-is cognate with Irish <i>innilt</i>, used to mean grazing. The Old Irish word
-<i>cenn</i> does not survive in the language today.
-
-The Breton word <i>glesker</i> may be related.
+What could an imaginary Gaelic cognate look like? Welsh <i>gwellt</i>
+is cognate with Irish <i>geilt</i>, used to mean grazing. The Old Irish word
+<i>cenn</i> does not survive in the language today. Perhaps
+<i>cenn-geilte</i> would be an equivalent? This seemed fun to consider but is
+perhaps not that interesting after all.
 
 ## Miscellaneous curiosities
 
