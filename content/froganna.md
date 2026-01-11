@@ -531,10 +531,31 @@ irish of tory island
 
 </details>
 
+### gille-cnàigein, craigean, cròigean
+
+![craigean](../images/froganna/cráigean.svg)
+
+Either "well-pawed one" or "wee knob" depending on whether from <i>cràg</i> or
+<i>cnag</i>. Perhaps vowel length would tell us which etymology is most likely.
+I expect "well-pawed one" which is what is given in
+https://en.wikisource.org/wiki/An_Etymological_Dictionary_of_the_Gaelic_Language/C.
+
+https://www.tobarandualchais.co.uk/track/88600?l=en
+also has muile-mhathag (I think from the speaker's father)
+
+cróigeán given as "act of footing turf" in irish of tory island
+
+https://x.com/guthan_g/status/637694618478489600
+
+given as knobbly here
+https://dalriada.scot/gd/a-cromadh-sios-an-rathad-the-last-of-the-gaelic-in-the-land-of-the-whisky
+https://en.wiktionary.org/wiki/cnag sense 3 on scottish gaelic
+
+https://dasg.ac.uk/fieldwork/view/Tm9ydGhBcmd5bGxBQ2FtZXJvbm1pc2N8Z2lsbGUgY3LDoGlnZWFufGlkcDE1NjkxMTU4NHx8ZnJvZ3xyN3x8fGFsbA==
+
 ### mag, magán, magag, miag, maigean
 
 https://www.youtube.com/watch?v=JSP03Q0Mc1I
-
 
 ### ceanna-phiullan
 
@@ -573,27 +594,6 @@ https://archives.collections.ed.ac.uk/repositories/2/archival_objects/142709
 snot, see smugachán?
 
 or actually just the same as mag
-
-
-### gille-cnàigein, craigean, cròigean
-
-Either "well-pawed one" or "wee knob" depending on whether from <i>cràg</i> or
-<i>cnag</i>. Perhaps vowel length would tell us which etymology is most likely.
-I expect "well-pawed one" which is what is given in
-https://en.wikisource.org/wiki/An_Etymological_Dictionary_of_the_Gaelic_Language/C.
-
-https://www.tobarandualchais.co.uk/track/88600?l=en
-also has muile-mhathag (I think from the speaker's father)
-
-cróigeán given as "act of footing turf" in irish of tory island
-
-https://x.com/guthan_g/status/637694618478489600
-
-given as knobbly here
-https://dalriada.scot/gd/a-cromadh-sios-an-rathad-the-last-of-the-gaelic-in-the-land-of-the-whisky
-https://en.wiktionary.org/wiki/cnag sense 3 on scottish gaelic
-
-https://dasg.ac.uk/fieldwork/view/Tm9ydGhBcmd5bGxBQ2FtZXJvbm1pc2N8Z2lsbGUgY3LDoGlnZWFufGlkcDE1NjkxMTU4NHx8ZnJvZ3xyN3x8fGFsbA==
 
 ### cnádan
 
