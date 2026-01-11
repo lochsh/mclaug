@@ -337,21 +337,24 @@ consonants), but this line of enquiry didn't lead anywhere.
 <a href=https://www.daltai.com/discus/messages/12465/11517.html?1048156283>This
 speaker from Donegal</i></a> uses it for a type of fish, and suggests it might be
 related to <i>losgann</i>. If this is the case, I'd expect to be able to find
-some intermediate forms. In The Schools' Collection I found a
+some intermediate forms. Gerry Oates' article <i>An phéist a chuir an cluiche
+ar Phádraig</i> in <i>An tUltach</i> states that Fanad's Father Mac Giolla
+Ceara uses <i>liospán</i> for "frog" in <i>Ceachta as Leabhar na Cruinne</i>.
+Ó Dónaill's dictionary <i>does</i> list
+<a href=https://www.teanglann.ie/en/fgb/liosp%C3%A1n>this spelling</a>
+as a variant of <i>loscann</i>!
+
+<br><br>
+Similarly, in The Schools' Collection I found a
 <a href=https://www.duchas.ie/en/cbes/4428280/4391740/4478383>usage</a><sup id=“fnref:9"><a class=“footnote-ref" href="#fn:9">9</a></sup>
 of <i>luspán</i>, referring to some kind of small creature found around some
-turf. Whether it refers to a frog is unclear, but it seems plausible.
+turf. Whether it refers to a frog is unclear, but it seems very plausible.
+Apart from the quality of the initial consonant, this would likely match the
+pronunciation indicated by <i>liospán</i>.
 
 <br><br>
-I note that Ó Dónaill's dictionary <i>does</i> list
-<a href=https://www.teanglann.ie/en/fgb/liosp%C3%A1n><i>liospán</i></a> as a 
-variant of <i>loscann</i>. I haven't found this spelling anywhere else, but
-apart from the slender initial consonant, it would likely match the
-pronunciation indicated by <i>luspán</i>.
-
-<br><br>
-If this is indeed some variation on <i>losgann</i>, then the fact it is also used
-for lizards might give credence to the idea that the word comes
+If this word is indeed some variation on <i>losgann</i>, then the fact it is
+also used for lizards might give credence to the idea that the word comes
 directly from salamanders, rather than indirectly via crickets (see above
 section on <i>losgann</i>).
 
@@ -368,9 +371,11 @@ wrote <i>lisbín lacha</i>, which I don't think makes grammatical sense
 
 <ul>
     <li><a href=http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=1580>An Irish telling of The Princess and the Frog</li>
-    <li><a href=http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=1580>A character in a play</a></li>
-    <li><a
-    href=http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=1580>Possibly in the name of this beach</a></li>
+    <li><https://irishplayography.com/play?playid=32411>A character in a play</a></li>
+    <li><a href=https://maps.app.goo.gl/XHXXoNvcCagYGRGf7>Possibly in the name
+      of this beach</a>, written i nGaedhilg <a
+      href=https://www.rte.ie/news/nuacht/2022/0126/1275968-leanbh-fear-og-maraithe-i-dtimpisti/>in
+                 this news article</a> as <i>Trá Lispín</i></li>
     <li>In <a
     href=https://archive.org/details/manwhoinventedsi0000ofao/page/n5/mode/2up><i>The Man Who Invented Sin</i></a> by Seán O'Faoláin</li>
 </ul>
