@@ -143,6 +143,16 @@ choices and their reasoning:
   instance, it makes the plural <i>sonasánan</i> a bit easier to parse and its
   pronunciation <span class=ipa>[sɔ᷉nəsɑnən]</span> more explicit.</li>
 <br><br>
+<li>When there were a few variants of a word, the choice of which one to
+    represent in the illustrations was a bit arbitrary. For example,
+    <i>cròigean</i> is far less attested than <i>cràigean</i>, but as it seems
+    standard to write <i>cròg</i> rather than <i>cràg</i>, I thought I'd choose
+    the former. Similarly, although I had more attestations of
+    <i>leumrachan</i> than <i>leumachan</i>, the former's etymology requires
+    explaining dissimilation, and it seems more convenient for the headword to
+    be formulated simply from <i>leum</i> + <i>achan</i>, with further
+    explanation of variants later on.</li>
+<br><br>
 <li>This mostly applies to the datapoints on the map, but I have followed the old
   Scottish tradition of using "ó" for <span class=ipa>/oː/</span> (as in
   <i>mór</i> Eng. "big") and "ò" for <span class=ipa>/ɔː/</span> (as in
@@ -159,6 +169,9 @@ written form from the source.
 <br><br>
 A scarcity of relevant data from the Isle of Man means its quite different
 orthography is not something I've had to incorporate into the notes below.
+<br><br>
+If you have any thoughts on my orthographic choices here please feel free to
+<a href="mailto:h@mcla.ug">e-mail me</a>.
 </details>
 
 ## Notes and thoughts on the words
@@ -535,6 +548,8 @@ irish of tory island
 
 ![craigean](../images/froganna/cráigean.svg)
 
+TODO: add note about orthgraphy (had trouble deciding which one to put on
+        illustration)
 Either "well-pawed one" or "wee knob" depending on whether from <i>cràg</i> or
 <i>cnag</i>. Perhaps vowel length would tell us which etymology is most likely.
 I expect "well-pawed one" which is what is given in
