@@ -294,7 +294,7 @@ burning seems unlikely due to its uniqueness among other Indo-European
 language's words for frogs. Perhaps the missing piece he needed was the
 crickets.
 
-<h4>losgann lathaighe, luascán lathaighe, loscán laithighe, ⁊c</h4>
+<h4>losgann lathaighe, luascán lathaighe, loscán laithighe, ⁊c.</h4>
 
 An enjoyable variant of this word, that I found primarily in Mayo and
 Galway, is <i>losgann lathaighe</i>, which I will choose to translate as "mud
