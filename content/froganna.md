@@ -107,10 +107,13 @@ sources are:
 The markers can be filtered by source by clicking the layers icon in the top
 right-hand corner of the map.
 
-Some of the words provided are cited as meaning "toad" by other sources. I
-learned while doing this research that the distinction between frogs and toads
-is part of a folk taxonomy, rather than a scientific distinction. Speaking for
-myself, I'd mostly use "toad" for particularly knobbly and large or wide frogs.
+Some of the words provided are cited as meaning "toad" by other sources. Not
+everyone has a clear linguistic distinction between frog (for me, frogs have
+shiny skin and jump) and toads (for me, toads have dry knobbly skin and
+crawl). If you see a word cited as meaning "frog" that for you means "toad",
+please bear inter-speaker and geographic variation in mind. Although words
+specifically for toads are also of interest, I have limited the scope of this
+project to words used for frogs.
 
 ## A brief note about orthography
 <details>
