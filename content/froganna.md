@@ -205,7 +205,8 @@ change in this way.
 Another thing I learned during this research was that it is a common belief
 that frogs did not exist in Ireland until the Normans invaded in the 12th
 century, or perhaps when students of Trinity College brought some over in the
-17th century, or that they first arrived in County Down in the 18th century[^1].
+17th century, or that they first arrived in County Down in the 18th
+century[^1][^2].
 
 If frogs were indeed brought to Ireland along with colonisation, or came
 post-colonisation, perhaps the word came with them. However, I don't think it's
@@ -223,8 +224,8 @@ clear that the Normans of the 12th Century would have called frogs such.
 <i>I found this across much of Ireland and Scotland, especially in Argyll</i>
 <br><br>
 I've seen it suggested that this word is related to
-<a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a><sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup>,
-meaning to burn<sup id=“fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup>,
+<a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a><sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup>,
+meaning to burn<sup id=“fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup>,
 referring to the sting from touching the secretions of the frog's skin.
 
     <img src="../images/froganna/losgann.png" alt="Proposed etymology for
@@ -255,7 +256,7 @@ The notes say the salamander is called <i>loisgionn</i> "because it is burnt"
 The eDIL also cites <a href=https://celt.ucc.ie/published/G402561.html>Leabhar Méig
 Shamhradháin</a>, from the 14th
 century, as using <i>losguinn</i> when referring to a
-dragon<sup id=“fnref:4"><a class=“footnote-ref" href="#fn:4">4</a></sup>.
+dragon<sup id=“fnref:5"><a class=“footnote-ref" href="#fn:5">5</a></sup>.
 
 <br><br>
 Is the humble frog the peat bog's answer to mythical fire beasts of
@@ -266,11 +267,11 @@ dragons and salamanders to the closest creature Ireland has to offer: the frog
 <br><br>
 An alternative hypothesis stems from the discovery that the word "salamander"
 has historically been used for crickets and
-grasshoppers<sup id=“fnref:5"><a class=“footnote-ref" href="#fn:5">5</a></sup>.
+grasshoppers<sup id=“fnref:6"><a class=“footnote-ref" href="#fn:6">6</a></sup>.
 Crickets are attracted to warmth, and historically have been associated with
-the hearth<sup id=“fnref:6"><a class=“footnote-ref" href="#fn:6">6</a></sup>.
+the hearth<sup id=“fnref:7"><a class=“footnote-ref" href="#fn:7">7</a></sup>.
 Could the evolution instead be (association with fire) -> crickets ->
-(association with jumping) -> frogs?<sup id=“fnref:7"><a class=“footnote-ref" href="#fn:7">7</a></sup>
+(association with jumping) -> frogs?<sup id=“fnref:8"><a class=“footnote-ref" href="#fn:8">8</a></sup>
 
 <br><br>
 An etymology related to the frog's jumping would certainly be less unusual than
@@ -337,7 +338,7 @@ consonants), but this line of enquiry didn't lead anywhere.
 speaker from Donegal</i></a> uses it for a type of fish, and suggests it might be
 related to <i>losgann</i>. If this is the case, I'd expect to be able to find
 some intermediate forms. In The Schools' Collection I found a
-<a href=https://www.duchas.ie/en/cbes/4428280/4391740/4478383>usage</a><sup id=“fnref:8"><a class=“footnote-ref" href="#fn:8">8</a></sup>
+<a href=https://www.duchas.ie/en/cbes/4428280/4391740/4478383>usage</a><sup id=“fnref:9"><a class=“footnote-ref" href="#fn:9">9</a></sup>
 of <i>luspán</i>, referring to some kind of small creature found around some
 turf. Whether it refers to a frog is unclear, but it seems plausible.
 
@@ -519,7 +520,7 @@ loch.  Freagra — Fliuchán díge.'">
 
 The riddle asks what jumps over rocks and jumps into the loch. The answer,
 <i>fliuchán díge</i>, we can translate as "wet thing of the
-dyke"<sup id=“fnref:9"><a class=“footnote-ref" href="#fn:9">9</a></sup>.
+dyke"<sup id=“fnref:10"><a class=“footnote-ref" href="#fn:10">10</a></sup>.
 
 </details>
 
@@ -710,17 +711,22 @@ perhaps not that interesting after all.
 
 [^1]: [Colton, S. (2017), <i>Take on Nature: So just how did frogs come to be in Ireland?</i>, The Irish News](https://web.archive.org/web/20170311175557/https://www.irishnews.com/lifestyle/2017/03/11/news/take-on-nature-so-just-how-did-frogs-come-to-be-in-ireland--955180/)
 
-[^2]: [Macbain, Alexander (1911), <i>An Etymylogical Dictionary of the Gaelic Language</i>, Stirling: Eneas Mackay](https://archive.org/details/etymologicaldict00macbuoft/page/232/mode/2up)
+[^2]: [O'Reilly's Irish-English
+dictionary](https://archive.org/details/anirishenglishd00odogoog/page/259/mode/1up)
+states the frog is "an animal not found in Ireland before the reign of William
+the Third of England, whose Dutch troops first introduced it amongst us".
 
-[^3]: The spelling <i>loscann</i> is used
+[^3]: [Macbain, Alexander (1911), <i>An Etymylogical Dictionary of the Gaelic Language</i>, Stirling: Eneas Mackay](https://archive.org/details/etymologicaldict00macbuoft/page/232/mode/2up)
+
+[^4]: The spelling <i>loscann</i> is used
 [here](https://www.duchas.ie/en/cbes/4427982/4363624/4467633?HighlightText=loscann&Route=stories&SearchLanguage=ga)
 to mean "burning", as a variant of standard <i>loisceann</i>.
 
-[^4]: <i>Comhrag losguinn lasrach mear ná sir—is sé do dhaingean—suail a sheadh
+[^5]: <i>Comhrag losguinn lasrach mear ná sir—is sé do dhaingean—suail a sheadh
 i n-armaibh áigh, marbhaidh fear uaidh dá anáil.</i> The text refers to a
 creature <losguinn> breathing fire.
 
-[^5]: See this [entry](https://anglo-norman.net/entry/salemandre) in an
+[^6]: See this [entry](https://anglo-norman.net/entry/salemandre) in an
 Anglo-Norman dictionary, and this blog post ["Not quite
 cricket?"](https://grammarphobia.com/blog/2021/07/cricket-croquet.html) from
 Grammarphobia.
@@ -728,10 +734,10 @@ Grammarphobia.
 Middle English dictionary shows the converse, <i>criket</i>
 being used to refer to the fire lizard.
 
-[^6]: Thank you again to the Grammarphobia blog linked in [^5] for reproducing
+[^7]: Thank you again to the Grammarphobia blog linked in [^5] for reproducing
 references from the OED that attest this.
 
-[^7]: I wondered if perhaps the synonyms listed in O'Clery's glossary can
+[^8]: I wondered if perhaps the synonyms listed in O'Clery's glossary can
 provide more clues. <i>Cú cnámha</i> appears to read as "hound of
 bones", though the EDIL <a href=https://dil.ie/13291>tells us</a> that
 <i>cú</i> has also been generically used for creatures, particularly insects.
@@ -745,9 +751,9 @@ glossary is referring to crickets, not to salamanders the lizards. Whether the
 usage for frogs evolved from the usage for crickets, or alongside it, will
 remain a mystery.
 
-[^8]: This was the school my granny went to :) and my granda's parents etc.
+[^9]: This was the school my granny went to :) and my granda's parents etc.
 
-[^9]: I'm using "dyke" to mean dry-stone wall, though I suppose ditch could
+[^10]: I'm using "dyke" to mean dry-stone wall, though I suppose ditch could
 also work well, perhaps better as frogs would enjoy the water collected in the
 ditch. My inclination for dry-stone wall is perhaps from the word found in
 Achill, <i>crúbán claidhe</i>, which I translate as dry-stone wall crawler. So
