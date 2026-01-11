@@ -179,7 +179,13 @@ If you have any thoughts on my orthographic choices here please feel free to
 
 ## Notes and thoughts on the words
 
+Click on the illustrations to expand the notes for each word!
+
 ### Frog
+
+<i>Found in places all over Ireland, but not at all in Scotland, where the
+meaning of "hale and hearty" has been retained.</i>
+<br><br>
 
 Could the usage of a foreign loan word, from English, be due to a taboo, where
 it was feared saying the creature's true name would summon them? Christopher
@@ -204,8 +210,6 @@ century, or perhaps when students of Trinity College brought some over in the
 If frogs were indeed brought to Ireland along with colonisation, or came
 post-colonisation, perhaps the word came with them. However, I don't think it's
 clear that the Normans of the 12th Century would have called frogs such.
-
-http://focailfholaithe.fng.ie/content/frag tipperary source
 
 ### loscann, losgann, loscán, losgán
 
@@ -254,7 +258,7 @@ century, as using <i>losguinn</i> when referring to a
 dragon<sup id=“fnref:4"><a class=“footnote-ref" href="#fn:4">4</a></sup>.
 
 <br><br>
-Is the humble frog the peat bog's mundane answer to mythical fire beasts of
+Is the humble frog the peat bog's answer to mythical fire beasts of
 old? It would seem plausible that <i>losgann</i> evolved from referring to
 dragons and salamanders to the closest creature Ireland has to offer: the frog
 (though arguably the newt is a more obvious descendant).
@@ -265,8 +269,8 @@ has historically been used for crickets and
 grasshoppers<sup id=“fnref:5"><a class=“footnote-ref" href="#fn:5">5</a></sup>.
 Crickets are attracted to warmth, and historically have been associated with
 the hearth<sup id=“fnref:6"><a class=“footnote-ref" href="#fn:6">6</a></sup>.
-Could the evolution instead be (association with fire) -> (crickets jumping) ->
-(frogs jumping)?<sup id=“fnref:7"><a class=“footnote-ref" href="#fn:7">7</a></sup>
+Could the evolution instead be (association with fire) -> crickets ->
+(association with jumping) -> frogs?<sup id=“fnref:7"><a class=“footnote-ref" href="#fn:7">7</a></sup>
 
 <br><br>
 An etymology related to the frog's jumping would certainly be less unusual than
@@ -291,7 +295,7 @@ crickets.
 
 <h4>losgann lathaighe, luascán lathaighe, loscán laithighe, ⁊c</h4>
 
-An enjoyable variant of this word, that I found primarily in Counties Mayo and
+An enjoyable variant of this word, that I found primarily in Mayo and
 Galway, is <i>losgann lathaighe</i>, which I will choose to translate as "mud
 salamander".
 
@@ -315,7 +319,7 @@ TODO: where was word found
 <br><br>
 
 This word, most commonly spelt <i>lispín</i> in the examples I found, isn't in
-Ó Dónaill's ditcionary. A schoolchild in Listowel, County Kerry
+Ó Dónaill's dictionary. A schoolchild in Listowel, County Kerry
 <a href=https://www.duchas.ie/en/cbes/4613715/4611694/4660320>defines</a> it as
 meaning "frog or lizard".
 
@@ -354,7 +358,7 @@ section on <i>losgann</i>).
 A variant I found a single example of, in Mayo, was
 <a href=www.duchas.ie/en/cbes/4427846/4350083/4443127<i>lisbín locha</i></a>,
 which we might translate as "lizard of the loch". The schoolchild actually
-wrote <i>lisbín lacha</i>, which I don't think make grammatical sense
+wrote <i>lisbín lacha</i>, which I don't think makes grammatical sense
 (<i>lacha</i> is the nominative case of the word meaning "duck", but the
  genitive would be needed here. An association with ducks (the animals) makes a
  lot less sense than with bodies of water).
