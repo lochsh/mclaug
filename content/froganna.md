@@ -389,8 +389,10 @@ Apart from the quality of the initial consonant, this would likely match the
 pronunciation indicated by <i>liospán</i>.
 
 <br><br>
-If this word is indeed some variation on <i>losgann</i>, then the fact it is
-also used for lizards might give credence to the idea that the word comes
+This idea that <i>lisbín</i> should evolve from <i>losgann</i> would be better
+supported by other examples of velar plosives becoming labialised. However, if
+this word is indeed some phonetic variation on <i>losgann</i>, then the fact it
+is also used for lizards might give credence to the idea that the word comes
 directly from salamanders, rather than indirectly via crickets (see above
 section on <i>losgann</i>).
 
