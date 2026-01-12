@@ -809,7 +809,21 @@ href=https://www.dib.ie/biography/poer-robert-a7399>biography</a> of Robert Poer
 
 [^9]: The spelling <i>loscann</i> is used
 [here](https://www.duchas.ie/en/cbes/4427982/4363624/4467633?HighlightText=loscann&Route=stories&SearchLanguage=ga)
-to mean "burning", as a variant of standard <i>loisceann</i>.
+to mean "burning", as a variant of standard <i>loisceann</i>. I think the only
+other proposed etymology I've seen is in Volume II of <a
+href=https://www.electricscotland.com/books/pdf/carminagadelicah02carm.pdf><i>Carmina
+Gadelica</i></a>, which says "Probably the
+toad is called 'losgan' from 'losg' irruption, leprosy". This seems much less
+likely to me, based on the various sources found via the EDIL, than the
+<i>loiscend</i> derivation. I believe the word given for leprosy mostly
+referred to <a href=https://dil.ie/30704>lameness</a> (which can be a secondary
+effect of leprosy). I'm not sure what toads
+would have to do with leprosy; perhaps their bumpy skin was thought to be
+reminiscent of leprosy nodules. I have seen it suggested that <a
+href=https://en.wikipedia.org/wiki/Taddiport>Taddiport</a>, a leper colony in
+the Middle Ages, was named so because of this. I haven't found much on toads
+being used to refer to people suffering from leprosy at the time, however, but
+I only looked briefly.
 
 [^10]: <i>Comhrag losguinn lasrach mear ná sir—is sé do dhaingean—suail a sheadh
 i n-armaibh áigh, marbhaidh fear uaidh dá anáil.</i> The text refers to a
