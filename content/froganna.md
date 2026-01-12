@@ -226,18 +226,20 @@ the creature is presented at court[^6]:
 
 If frogs were indeed brought to Ireland along with colonisation, perhaps the
 word "frog" came with them. Even if frogs had long been native to Ireland, but
-in isolated populations such that many Irish people did not come into contact with
-them and thus did not have a word for them, it is conceivable that "frog" did
-not replace a native word, but was the first name many people heard applied to
-the creature.
+in isolated populations or select parts such that many Irish people did not
+come into contact with them and thus did not have a word for them, it is
+conceivable that "frog" did not replace a native word, but was the first name
+many people heard applied to the creature.
 
 It is said that Henry II spoke no English, but his son John, who travelled to
 Waterford in 1185 with Gerard of Wales, is <a
 href=https://kingjohnscastle.ie/king-john/>said</a> to have had the language.
 Perhaps it is conceivable that he would called the creatures "frogs", though
 perhaps it's more likely he called them <a
-href=https://anglo-norman.net/entry/raina><i>raine</i></a>. What the invaders
-would generally have called it, I do not know.
+href=https://anglo-norman.net/entry/raina><i>raine</i></a>. However, while the elite
+might largely have spoken French, it is conceivable many of the footsoilders would have
+spoken (Middle) English and called the creatures <a
+href=https://en.wiktionary.org/wiki/frogge#Middle_English><i>frogge</i></a>.
 
 <figure>
     <img src=../images/froganna/drumcliffe-cross.jpg alt="Drumcliffe Cross in
