@@ -794,7 +794,7 @@ href=https://archive.org/details/statisticalsurve00duboiala/page/315/mode/1up><i
 
 [^5]: I have <a
 href=https://www.dib.ie/biography/gerald-wales-giraldus-cambrensis-a3490>read</a>
-           that Gerard first visited in Ireland in 1183, and <i>Topographia
+           that Gerard first visited Ireland in 1183, and <i>Topographia
 Hibernia</i>, containing the account, was circulated in 1188. However, he mentions Robert Poer in the
 account, who I read <a href=https://www.dib.ie/biography/poer-robert-a7399>died</a> in
 1178. The Ossory king in question is said to have died in 1185.
