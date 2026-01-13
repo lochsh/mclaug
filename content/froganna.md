@@ -14,6 +14,12 @@ Status: draft
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.40/jquery.csv.js"></script>
 
+<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster-src.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+
+<script src="https://github.com/ghybs/Leaflet.FeatureGroup.SubGroup/releases/download/v1.0.2/leaflet.featuregroup.subgroup.js"></script>
+
 ## Cuireadh gan iarraidh: an uninvited guest
 
 The other night I was sitting on the sofa cuddling my cat when, out of the
@@ -40,18 +46,20 @@ all the Gaelic words for frog.
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 
-    var LASID = L.layerGroup().addTo(map);
-    var DASG = L.layerGroup().addTo(map);
-    var NFC = L.layerGroup().addTo(map);
-    var tobar = L.layerGroup().addTo(map);
-    var other = L.layerGroup().addTo(map);
+    var clustering = L.markerClusterGroup();
+
+    var LASID = L.featureGroup.subGroup(clustering).addTo(map);
+    var DASG = L.featureGroup.subGroup(clustering).addTo(map);
+    var NFC = L.featureGroup.subGroup(clustering).addTo(map);
+    var tobar = L.featureGroup.subGroup(clustering).addTo(map);
+    var other = L.featureGroup.subGroup(clustering).addTo(map);
 
     $.get(
         "../images/froganna/data.csv",
         function(data) {
             var words = $.csv.toObjects(data);
             for (line of words) {
-                var marker = L.marker([line.latitude, line.longitude]).addTo(map);
+                var marker = L.marker([line.latitude, line.longitude]);
                 marker.bindPopup(
                     `<b>${line.word}</b><br>
                     <i>Source transcription</i>: <span class=ipa>${line.source_transcription}</span><br>
@@ -81,7 +89,11 @@ all the Gaelic words for frog.
                         other.addLayer(marker);
                         break;
                 }
+
+                clustering.addLayer(marker);
             }
+
+            map.addLayer(clustering);
 
             var overlayMaps = {
                 "Linguistic Atlas and Survey of Irish Dialects": LASID,
