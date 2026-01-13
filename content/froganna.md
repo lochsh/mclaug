@@ -466,7 +466,7 @@ referred to as "wee joys".
 Referring to a frog as a "wee joy", while delightful, seemed unexpected to me.
 Superficially <i>sonasán</i> reminds me of <i>snasán</i>, listed above as a
 synonym for <i>loisgionn</i> (see section on <i>losgann</i>). This word refers
-to polish, stemming from the word <i>snas</i> for cutting or chipping, likely
+to polish, stemming from the word <i>snas</i> for cutting or chipping, perhaps
 because of the process of making shellac involves scraping a resin secreted by
 bugs from tree bark, melting it into a sheet, then breaking that into small
 chips. I have no suggestion for how this might be related to frogs or crickets,
