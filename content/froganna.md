@@ -837,8 +837,8 @@ Grammarphobia.
 Middle English dictionary shows the converse, <i>criket</i>
 being used to refer to the fire lizard.
 
-[^12]: Thank you again to the Grammarphobia blog linked in [^5] for reproducing
-references from the OED that attest this.
+[^12]: Thank you again to the Grammarphobia blog linked in the previous
+footnote for reproducing references from the OED that attest this.
 
 [^13]: I wondered if perhaps the synonyms listed in O'Clery's glossary can
 provide more clues. <i>Cú cnámha</i> appears to read as "hound of
