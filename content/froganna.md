@@ -210,7 +210,8 @@ Click on the illustrations to expand the notes for each word!
 
 ### Frog
 
-<i>Found in places all over Ireland, but not at all in Scotland[^1]</i>
+<i>I found this in places all over Ireland, but not at all in Scotland[^1].
+Anecdotally it is the most common word used in Irish today.</i>
 <br><br>
 
 Could the usage of a foreign loan word, from English, be due to a taboo, where
