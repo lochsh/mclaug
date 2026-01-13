@@ -784,6 +784,25 @@ perhaps not that interesting after all.
 
 ## Go rabh maith agaibh
 
+<!---
+* <a href=https://www3.smo.uhi.ac.uk/oduibhin/>Ciarán Ó Duibhín</a>,
+as bheith ábhar misnigh, agus as acmhainní ar líne a chur ar fáil
+
+* Mo mhuinteoir Dubhán Ó Longáin, as an ceisteanna atá agam don froganna a
+shásamh, agus na múinteoireachta
+
+* Màiri MacMillan as 
+
+* Simon Thoumire as thabhairt sonraí teagmhála Mhàiri domh
+
+* Christopher Lewin, for answering my questions about the possible origins of
+  the Manx word <i>rannag</i>, and providing a copy of <i>The Manx Have a Word
+  for it Book 4 Insects, Reptiles etc.</i>
+
+* Chris Gleed-Owen for answering questions about evidence for the frog being
+  native to Ireland
+--->
+
 [^1]: Something I learnt during this project was that the distinction between
 frogs and toads is considered part of a folk taxonomy, not precisely aligned
 with scientific classification. Yet the common frog (<i>rana temporaria</i>)
