@@ -231,16 +231,16 @@ come into contact with them and thus did not have a word for them, it is
 conceivable that "frog" did not replace a native word, but was the first name
 many people heard applied to the creature.
 
-While it's likely the Anglo-Norman elite would called the creatures <a
+While it's likely the Anglo-Norman elite would have called the creatures <a
 href=https://anglo-norman.net/entry/raina><i>raine</i></a>, it is conceivable
 many of the footsoldiers would have spoken Middle English and called the
 creatures <a href=https://en.wiktionary.org/wiki/frogge#Middle_English><i>frogge</i></a>.
 
 <figure>
     <img src=../images/froganna/drumcliffe-cross.jpg alt="Drumcliffe Cross in
-    Sligo, from c. 11th century, clearly showing a frog carved in the stone">
+    Sligo, from c. 11th century, seemingly showing a frog carved in the stone">
     <figcaption>
-        <i>Drumcliffe Cross in Sligo, from c. 11th century, clearly
+        <i>Drumcliffe Cross in Sligo, from c. 11th century, seemingly
         showing a frog carved in the stone. Evidence of their existence in Sligo at
         that time? Image source: <a
         href=https://www.megalithicireland.com/High%20Cross%20Drumcliffe.htm>Megalithic
