@@ -413,14 +413,24 @@ as a variant of <i>loscann</i>!
 <br><br>
 Similarly, in The Schools' Collection I found a
 <a href=https://www.duchas.ie/en/cbes/4428280/4391740/4478383>usage</a><sup id="fnref:16"><a class=“footnote-ref" href="#fn:16">16</a></sup>
-of <i>luspán</i>, referring to some kind of small creature found around some
-turf. Whether it refers to a frog is unclear, but it seems very plausible.
+of <i>luspán</i>, referring to some kind of small creature found by a
+turf bank. Whether it refers to a frog is unclear, but it seems very plausible.
 Apart from the quality of the initial consonant, this would likely match the
 pronunciation indicated by <i>liospán</i>.
 
-<br><br>
+<figure>
+    <img
+        src=../images/froganna/turf-bank.jpg
+        alt="Picture of a turf bank (where
+             turf is harvested from a peat bog) showing a puddle at the foot
+             of the bank"
+        width=70%>
+    <figcaption><i>The foot of a turf bank can be quite wet and muddy, a likely
+    place to find a frog</i></figcaption>
+</figure>
+
 This idea that <i>lisbín</i> should evolve from <i>losgann</i> would be better
-supported by other examples of velar plosives becoming labialised. However, if
+supported by other examples of words varying in this way. However, if
 this word is indeed some phonetic variation on <i>losgann</i>, then the fact it
 is also used for lizards might give credence to the idea that the word comes
 directly from salamanders, rather than indirectly via crickets (see above
