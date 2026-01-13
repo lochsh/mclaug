@@ -223,7 +223,9 @@ My teacher Dubhán Ó Longáin pondered the belief that frogs entering the home
 was an omen of death, which could support the taboo idea. This belief doesn't
 seem to be universal even within Donegal, see this
 [lore](https://www.duchas.ie/en/cbes/4428354/4398830/4487670) from Leitir Mhic an
-Bhaird claiming a frog in the house to be lucky.
+Bhaird claiming a frog in the house to be lucky, though Dubhán suggested this
+may be a sort of counteractive lore: we imagined children upset at the omen of
+a frog in the house, and their parents reassuring them it was in fact lucky.
 
 It's quite possible that an English loan came to replace a native word in the
 usual way, through language contact, but it seems unusual in Irish for names of
