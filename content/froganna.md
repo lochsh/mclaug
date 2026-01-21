@@ -37,7 +37,7 @@ all the Gaelic words for frog.
 
 ## A map of words for frogs across the Gaelic world
 
-<div id="map" style="height: 700px;"></div>
+<div id="map" style="height: 700px; width: 80%;"></div>
 
 <script>
     var map = L.map('map').setView([55.2, -5.3], 6);
@@ -107,7 +107,7 @@ all the Gaelic words for frog.
     );
 
 </script>
-
+<br>
 Above is a map showing attested words used by local people for "frog". Zooming
 out will reveal a datapoint in Nova Scotia. The main
 sources are:
