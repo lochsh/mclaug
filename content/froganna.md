@@ -148,15 +148,18 @@ engage with linguistic heritage.
 ### Toads
 
 Some of the words provided are cited as meaning "toad" by other sources. Not
-everyone has a clear linguistic distinction between frog (for me, frogs have
-shiny skin and jump) and toads (for me, toads have dry knobbly skin and
-crawl)[^1]. If you see a word cited as meaning "frog" that for you means "toad",
-please bear inter-speaker and geographic variation in mind. There is also the
-possibility of fieldworkers or translators writing "frog" when "toad" could
-have been a better choice.
+everyone has a clear linguistic distinction between "frog" (for me, frogs have
+shiny skin and jump) and "toad" (for me, toads have dry knobbly skin and
+crawl)[^1]. Not everyone's distinction will be the same, especially across
+languages. Some of the words found here describe a creature as a crawler, which
+certainly evokes toads for me.
 
-Although words specifically for toads are also of interest, I have limited the
-scope of this project to words used for frogs.
+If you see a word cited as meaning "frog" that for you means "toad",
+please bear inter-speaker and geographic variation in mind, as well as the way
+words can evolve over time.
+
+Although words specifically used for toads are also of interest, I have limited
+the scope of this project to words used for frogs.
 
 ## A brief note about orthography
 <details>
