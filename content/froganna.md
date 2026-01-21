@@ -310,9 +310,13 @@ creatures <a href=https://en.wiktionary.org/wiki/frogge#Middle_English><i>frogge
 
 <details>
 <summary>
-    <img src="../images/froganna/losgann.svg" alt="A line drawing of a
-    frog sitting in front of a fire in an open hearth. The frog has its back to
-    the viewer, and there is a pot hanging above the fire.">
+    <img
+        src="../images/froganna/losgann.svg"
+        alt="A line drawing of a
+            frog sitting in front of a fire in an open hearth. The frog has its
+            back to the viewer, and there is a pot hanging above the fire."
+        style="max-height: 600px;"
+    >
 </summary>
 
 <i>I found this across much of Ireland and Scotland, especially in Argyll</i>
