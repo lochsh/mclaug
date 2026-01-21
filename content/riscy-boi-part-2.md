@@ -87,7 +87,7 @@ might enjoy my
 
 ### Decoding ADDI
 
-![iri](/images/integer-register-immediate.png "Diagram of instruction encoding for ADDI from RISC-V spec"){.callout}
+![iri](/images/integer-register-immediate.png "Diagram of instruction encoding for ADDI from RISC-V spec")
 
 > ADDI adds the sign-extended 12-bit immediate to register _rs1_
 
@@ -156,7 +156,7 @@ instruction address.
 
 Here's the encoding for JAL:
 
-![jal-enc](/images/jal-enc.png "Diagram of instruction encoding for JAL from RISC-V spec"){.callout}
+![jal-enc](/images/jal-enc.png "Diagram of instruction encoding for JAL from RISC-V spec")
 
 Note:
 
@@ -303,13 +303,13 @@ working, and tried to trace it through my block diagram, like we did above. A
 re-enactment:
 
 _Computer, show my original sketch of the block diagram._
-![sketch](/images/block-diagram-sktech.jpg "A screenshot of my first CPU design sketch"){.callout}
+![sketch](/images/block-diagram-sktech.jpg "A screenshot of my first CPU design sketch")
 
 _Computer, enhance:_
-![enhance](/images/enhance.jpg "Zoomed into a note on screenshot saying 'need to multiplex ALU input"){.callout}
+![enhance](/images/enhance.jpg "Zoomed into a note on screenshot saying 'need to multiplex ALU input")
 
 Me:
-![pikachu](/images/shocked-pikachu.png "Shocked pikachu face from Pokemon"){.callout}
+![pikachu](/images/shocked-pikachu.png "Shocked pikachu face from Pokemon")
 
 
 The above is a bit frivolous, but I'd say the lesson here is to think actively
@@ -372,7 +372,7 @@ MSBs).
 </html>
 
 And here is a poor quality gif of the LEDs! Very exciting.
-![leds](/images/cpu.gif "The LEDs flashing on the FPGA dev board"){.callout}
+![leds](/images/cpu.gif "The LEDs flashing on the FPGA dev board")
 
 The next stage will be to implement the rest of the RV32I instructions.
 Probably I will start with the load instructions, as I think they will pose a

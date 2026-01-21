@@ -137,7 +137,7 @@ nMigen provides simulation tooling: I use it in my tests, written using
 `pytest`. I record the signals during these tests and view them in a wave
 viewer to help debug.
 
-![gtkwave](/images/gtkwave.png "A screenshot of GTKWave"){.callout}
+![gtkwave](/images/gtkwave.png "A screenshot of GTKWave")
 
 ### Optional: An FPGA dev board. I am using a myStorm BlackIce II
 You don't need an FPGA dev board to create your own CPU. You could do
@@ -376,7 +376,7 @@ logic required for one instruction, then drew out the logic for another
 instruction, then figured out how to combine them. Here's the first messy
 sketch:
 
-![sketch](/images/block-diagram-sktech.jpg "A screenshot of my first CPU design sketch"){.callout}
+![sketch](/images/block-diagram-sktech.jpg "A screenshot of my first CPU design sketch")
 
 This block diagram step was extremely valuable in figuring out what the
 interfaces of different components needed to be, but I wouldn't have wanted to
@@ -384,7 +384,7 @@ do it before playing around in nMigen first and learning a bit about digital
 logic design in the process. The jazzed up block diagram currently looks like
 this:
 
-![block](/images/riscyboi.png "Block diagram of current CPU design"){.callout}
+![block](/images/riscyboi.png "Block diagram of current CPU design")
 
 Stay tuned for the next installment where I actually delve into RISC-V and CPU
 design. I expect there to be a third installment of me reworking my design and

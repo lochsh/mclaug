@@ -147,7 +147,7 @@ we...corrupt that memory?
 
 ## import ctypes
 
-![ctypes](/images/goosebumpsctypes.jpg "Someone whispering 'import ctypes' and goosebumps appearing on the arm of the listener"){.callout}
+![ctypes](/images/goosebumpsctypes.jpg "Someone whispering 'import ctypes' and goosebumps appearing on the arm of the listener")
 
 Most good CPython shenanigans begins with importing ctypes, which is Python's
 standard C foreign function interface. An FFI allows different languages to
@@ -185,7 +185,7 @@ I don't what to change one integer. I want to change ALL the integers.
 What if we changed what happens when you add integers together? What if we made
 it subtract instead?
 
-![mischief](/images/thearm.gif "The Arm from Twin Peaks rubbing his hands together mischeviously"){.callout}
+![mischief](/images/thearm.gif "The Arm from Twin Peaks rubbing his hands together mischeviously")
 
 The way operator resolution works in Python is that the corresponding "magic
 method" or "dunder method" (for double underscores) is called. For example `x +
@@ -624,7 +624,7 @@ but now...
 </div>
 </html>
 
-![floppy](/images/hackersfloppydraw.gif "Zero Cool in Hackers drawing floppy disks like they are guns...precious"){.callout}
+![floppy](/images/hackersfloppydraw.gif "Zero Cool in Hackers drawing floppy disks like they are guns...precious")
 
 And so our pointless quest is over. I hope you had fun. Sometimes it is good to
 remember that computers can be just for fun. 😊

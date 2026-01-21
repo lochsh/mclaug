@@ -122,7 +122,7 @@ instructions.
 Doing embedded development means really getting to know your target hardware.
 So, what hardware are we using?
 
-![hardware](/images/led-flash/hardware.png "list of hardware and documentation"){.callout}
+![hardware](/images/led-flash/hardware.png "list of hardware and documentation")
 
 We have an ARM development board called a 1bitsy. It has an STM32F4 on it,
 which is our microcontroller unit, or MCU. This microcontroller is basically
@@ -180,7 +180,7 @@ be glad to know that's what we'll be writing today.
 I couldn't resist including a screenshot from Hackers, my favourite movie,
 which is from 1995, a much more hopeful time in software.
 
-![risc](/images/led-flash/risc.png "screengrab from Hackers the movie"){.callout}
+![risc](/images/led-flash/risc.png "screengrab from Hackers the movie")
 
 Here the hacker Acid Burn is saying that RISC architecture is going to change
 everything &ndash; and in many ways she's right! I don't know of any mobile phone,

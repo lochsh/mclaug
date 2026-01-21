@@ -27,7 +27,7 @@ nearby fixture, like the air conditioning intake for the office next door.
 Either way, suppose you report back to your boss that you're done.
 
 ![KWABOOM](/images/rust-talk/explosion.png
-"A cartoon explosion, in red and yellow, with some shrapnel"){.callout}
+"A cartoon explosion, in red and yellow, with some shrapnel")
 
 KWABOOM! When the dust settles from the explosion, you would be guilty of 
 criminal negligence.[^1]
@@ -520,7 +520,7 @@ There's an official package repository to go along with it. I don't have a lot
 more to say about this! It's really nice to use and it makes me sad that C and 
 C++ don't have the same thing.
 
-![cargo](/images/rust-talk/cargo.png "cargo usage screenshot"){.callout}
+![cargo](/images/rust-talk/cargo.png "cargo usage screenshot")
 
 # Should we all use Rust?
 There's no universal answer for this. It depends on your application, as with 
