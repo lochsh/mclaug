@@ -238,11 +238,15 @@ Click on the illustrations to expand the notes for each word!
 
 ### Frog
 
+<details>
+<summary>
 <img src="../images/froganna/frog.svg" alt="a drawing of a frog's silhouette in
 a doorway, casting a long shadow. A St. Bridget's Cross hangs over the
-doorway">
+doorway" style="max-height: 500px;">
+</summary>
 
-<i>I found this in places all over Ireland, but not at all in Scotland[^4].
+<i>I found this in places all over Ireland, but not at all in Scotland<sup
+id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup>.
 Anecdotally it is the most common word used in Irish today.</i>
 <br><br>
 
@@ -251,26 +255,32 @@ it was feared saying the creature's true name would summon them? Christopher
 Lewin, a Manx scholar, kindly corresponded with me about Manx words for frogs,
 and he suggested the possibility of this taboo.
 
+<br><br>
 My teacher Dubhán Ó Longáin pondered the belief that frogs entering the home
 was an omen of death, which could support the taboo idea. This belief doesn't
 seem to be universal even within Donegal, see this
-[lore](https://www.duchas.ie/en/cbes/4428354/4398830/4487670) from Leitir Mhic an
+<a href=https://www.duchas.ie/en/cbes/4428354/4398830/4487670>lore</a> from Leitir Mhic an
 Bhaird claiming a frog in the house to be lucky, though Dubhán suggested this
 may be a sort of counteractive lore: we imagined children upset at the omen of
 a frog in the house, and their parents reassuring them it was in fact lucky.
 
+<br><br>
 It's quite possible that an English loan came to replace a native word in the
 usual way, through language contact, but it seems unusual in Irish for names of
 animals to change in this way.
 
+<br><br>
 Another thing I learned during this research was that it is a common belief
 that frogs did not exist in Ireland until the Anglo-Norman invasion in the 12th
 century, or perhaps when students of Trinity College brought some over in the
-17th century[^5], or that William of Orange is responsible for their
-introduction[^6], or that they first arrived in County Down in the 18th
-century[^7]. An account from Gerard of Wales of a frog being found in Waterford
-sometime in the 1170s or 1180s[^8] speaks of fascination and consternation when
-the creature is presented at court[^9]:
+17th century<sup id="fnref:5"><a class="footnote-ref" href="#fn:5">5</a></sup>, or that William of Orange is responsible for their
+introduction<sup id="fnref:6"><a class="footnote-ref"
+href="#fn:6">6</a></sup>, or that they first arrived in County Down in the 18th
+century<sup id="fnref:7"><a class="footnote-ref" href="#fn:7">7</a></sup>. An account from Gerard of Wales of a frog being found in Waterford
+sometime in the 1170s or 1180s<sup id="fnref:8"><a class="footnote-ref"
+href="#fn:8">8</a></sup> speaks of fascination and consternation when
+the creature is presented at court<sup id="fnref:9"><a class="footnote-ref"
+href="#fn:9">9</a></sup>:
 
 <blockquote>
     [...] a frog was found, within my time, in the grassy meadows near
@@ -293,6 +303,7 @@ come into contact with them and thus did not have a word for them, it is
 conceivable that "frog" did not replace a native word, but was the first name
 many people heard applied to the creature.
 
+<br><br>
 While it's likely the Anglo-Norman elite would have called the creatures <a
 href=https://anglo-norman.net/entry/raina><i>raine</i></a>, it is conceivable
 many of the footsoldiers would have spoken Middle English and called the
@@ -309,6 +320,8 @@ creatures <a href=https://en.wiktionary.org/wiki/frogge#Middle_English><i>frogge
        Ireland</a></i>
    </figcaption>
 </figure>
+
+</details>
 
 ### loscann, losgann, loscán, losgán
 
