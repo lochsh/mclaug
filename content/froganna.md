@@ -30,7 +30,7 @@ Then it hopped again: there was a frog in the house! The wee lad was massive as
 well, or such was my perception, faced with the intrusion as I was.
 
 <img src="../images/froganna/frog.jpeg" alt="A slightly disgruntled Common Frog
-    under a pint glass">
+    under a pint glass" style="max-height: 300px;">
 
 We transferred him safely outside. Before he leapt away into the darkness, our
 eyes met, and I understood the task he had bequeathed me: I knew I must find
