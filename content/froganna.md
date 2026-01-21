@@ -29,7 +29,8 @@ unlikelihood. I turned my head to see the dark shape on the floor, still now.
 Then it hopped again: there was a frog in the house! The wee lad was massive as
 well, or such was my perception, faced with the intrusion as I was.
 
-![frog](../images/froganna/frog.jpeg)
+<img src="../images/froganna/frog.jpeg" alt="A slightly disgruntled Common Frog
+    under a pint glass">
 
 We transferred him safely outside. Before he leapt away into the darkness, our
 eyes met, and I understood the task he had bequeathed me: I knew I must find
