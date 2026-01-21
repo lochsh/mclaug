@@ -149,7 +149,7 @@ as being used for some beach insect or crusteacean, and I've
 seen an old Irish dictionary translate it as "dolphin"). Much of
 the data is from the mid 20th century and as such may not reflect current local
 vocabulary. Indeed, the local language has sadly died in many of the places
-included. I hope that my work here can demonstrate the joy of dialectal
+included. I hope that my work here can celebrate dialectal
 diversity, preserve the existence of lost words, and provide a fun way to
 engage with linguistic heritage.
 
