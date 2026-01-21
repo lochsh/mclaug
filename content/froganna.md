@@ -236,7 +236,7 @@ If you have any thoughts on my orthographic choices here please feel free to
 
 Click on the illustrations to expand the notes for each word!
 
-### Frog
+### <i>Frog</i>: taboo-advoiance?
 
 <details>
 <summary>
@@ -323,7 +323,7 @@ creatures <a href=https://en.wiktionary.org/wiki/frogge#Middle_English><i>frogge
 
 </details>
 
-### loscann, losgann, loscán, losgán
+### <i>Losgann</i>: the peat bog's answer to mythical fire beasts?
 
 <details>
 <summary>
@@ -425,7 +425,7 @@ class=ipa>/ˈl̪ˠosˠkɑːnˠ/</span>.
 
 </details>
 
-### lisbín, lispín
+### <i>Lisbín</i>: taboo deformation of <i>losgann</i>?
 
 <details>
 <summary><img src="../images/froganna/lisbín.svg" alt="A frog floating in water
@@ -509,7 +509,7 @@ wrote <i>lisbín lacha</i>, which I don't think makes grammatical sense
 
 </details>
 
-### sonasán
+### <i>Sonasán</i>: an etymylogical outlier?
 
 <details>
 <summary><img src="../images/froganna/sonasan.svg" alt="A smiling frog next to
@@ -585,7 +585,7 @@ https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasa
 
 </details>
 
-### fliuchán
+### <i>Fliuchán</i>: a lost word from Derry
 
 <details>
 <summary><img src="../images/froganna/fliuchán.svg" alt="A frog seeks shelter
@@ -656,7 +656,7 @@ ditch".
 
 </details>
 
-### leumachán, leumrachán, leumbhrochán, léimeachán
+### <i>Leumachán</i>: leaper
 
 <details>
 <summary>
@@ -670,7 +670,7 @@ https://en.wiktionary.org/wiki/leum
 https://dasg.ac.uk/fieldwork/view/TGlvbmVsSnVuaW9yU2Vjb25kYXJ5bWFvcmFjaHxicmVhbWFnfGQwZTYxfHxzaXViaGFsfHIxMHx8fGFsbA==
 </details>
 
-### crónán
+### <i>Crónán</i> and <i>cnádán</i>: for the frog's sweet song
 
 <details>
 <summary>
