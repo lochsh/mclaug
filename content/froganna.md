@@ -236,7 +236,7 @@ If you have any thoughts on my orthographic choices here please feel free to
 
 Click on the illustrations to expand the notes for each word!
 
-### <i>Frog</i>: taboo-advoiance?
+### <i>Frog</i>: taboo-avoidance?
 
 <details>
 <summary>
