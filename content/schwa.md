@@ -29,13 +29,13 @@ Compare a Southern Standard British English
 [recording](https://www.oed.com/dictionary/face_n?tl=true&tab=pronunciation){:target="_blank"} of "face" <span
 class=ipa>[fɛjs]</span>[^1]:
 
-<video width=100% controls>
+<video width=80% controls>
   <source src="/images/analysing-my-own-speech/face-ssbe.mp4" type="video/mp4">
 </video>
 
 to me saying "face" <span class=ipa>[fes]</span>:
 
-<video width=100% controls>
+<video width=80% controls>
   <source src="/images/analysing-my-own-speech/face.mp4" type="video/mp4">
 </video>
 
@@ -254,7 +254,7 @@ as <span class=ipa>/ə/</span>?
 Anyway, here is me attempting a perfectly mid-central unrounded vowel, followed by my
 KIT vowel:
 
-<video width=100% controls>
+<video width=80% controls>
   <source src="/images/analysing-my-own-speech/schwa-vs-I.mp4" type="video/mp4">
 </video>
 
