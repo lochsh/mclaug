@@ -686,7 +686,10 @@ irish of tory island
 
 ### gille-cnàigein, craigean, cròigean
 
-![craigean](../images/froganna/cráigean.svg)
+<details>
+<summary>
+<img src="../images/froganna/cráigean.svg">
+</summary>
 
 TODO: add note about orthgraphy (had trouble deciding which one to put on
         illustration)
@@ -707,6 +710,9 @@ https://dalriada.scot/gd/a-cromadh-sios-an-rathad-the-last-of-the-gaelic-in-the-
 https://en.wiktionary.org/wiki/cnag sense 3 on scottish gaelic
 
 https://dasg.ac.uk/fieldwork/view/Tm9ydGhBcmd5bGxBQ2FtZXJvbm1pc2N8Z2lsbGUgY3LDoGlnZWFufGlkcDE1NjkxMTU4NHx8ZnJvZ3xyN3x8fGFsbA==
+</details>
+
+<!---
 
 ### mag, magán, magag, miag, maigean
 
@@ -812,6 +818,8 @@ Mach Uí Stíopháin
 why...
 
 Seid (cos of the expanding when croaking) https://archive.org/details/witchcraftsecon01campgoog
+
+--->
 
 ## Other Celtic words of interest
 
