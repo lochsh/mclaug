@@ -160,12 +160,11 @@ everyone has a clear linguistic distinction between "frog" (for me, frogs have
 shiny skin and jump) and "toad" (for me, toads have dry knobbly skin and
 crawl)<sup id=fnref:2><a class="footnote-ref" href="#fn:2">2</a></sup>. Not everyone's distinction will be the same, especially across
 languages. Some of the words found here describe a creature as a crawler, which
-certainly evokes toads for me.
-
-If you see a word cited as meaning "frog" that for you means "toad",
+certainly evokes toads for me. If you see a word cited as meaning "frog" that for you means "toad",
 please bear inter-speaker and geographic variation in mind, as well as the way
 words can evolve over time.
 
+<br><br>
 Although words specifically used for toads are also of interest, I have limited
 the scope of this project to words used for frogs.
 
