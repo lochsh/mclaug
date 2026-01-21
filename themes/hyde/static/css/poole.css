@@ -233,6 +233,11 @@ img {
   border-radius: 5px;
 }
 
+video {
+  display: block;
+  margin: auto;
+}
+
 figure {
   width: 100%;
 }
