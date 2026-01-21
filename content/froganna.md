@@ -238,6 +238,10 @@ Click on the illustrations to expand the notes for each word!
 
 ### Frog
 
+<img src="../images/froganna/frog.svg" alt="a drawing of a frog's silhouette in
+a doorway, casting a long shadow. A St. Bridget's Cross hangs over the
+doorway">
+
 <i>I found this in places all over Ireland, but not at all in Scotland[^4].
 Anecdotally it is the most common word used in Irish today.</i>
 <br><br>
