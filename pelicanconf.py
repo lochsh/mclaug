@@ -28,7 +28,7 @@ INDEX_SAVE_AS="blog.html"
 
 THEME = "themes/hyde"
 PROFILE_IMAGE = "headshot.jpg"
-BIO = ("I'm an engineer with an amateur interest in linguistics. I live in Oxford, UK, "
+BIO = ("I'm an engineer with an interest in linguistics. I live in Oxford, UK, "
        "and I love learning about phonetics and phonology. I'm particularly interested "
        "in Japanese and Gaelic.<br><br>"
        "I have previously worked as a software engineer, writing Rust and Python for "
@@ -37,9 +37,11 @@ BIO = ("I'm an engineer with an amateur interest in linguistics. I live in Oxfor
 )
 LONG_BIO = (
        "I'm Hannah McLaughlin <span class=ipa>/mɪˈglɔxlɪn/</span>.<br><br>"
-       "I'm an engineer with an amateur interest in linguistics. I live in Oxford, UK, "
+       "I'm an engineer with an interest in linguistics. I live in Oxford, UK, "
        "and I love learning about phonetics and phonology. I'm particularly interested "
-       "in Japanese and Gaelic, especially the Gaelic of Donegal.<br><br>"
+       "in Japanese and Gaelic. I love exploring "
+       "connection and variation of language across the Gaelic world, particularly "
+       "between Ulster and Scotland.<br><br>"
 
        "So much of the richness of spoken language is in the specific sounds and "
        "phrases that tie it to a particular place, and to the people who have lived "
