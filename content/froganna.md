@@ -150,12 +150,12 @@ included. I hope that my work here can demonstrate the joy of dialectal
 diversity, preserve the existence of lost words, and provide a fun way to
 engage with linguistic heritage.
 
-### Toads
+<h3>Toads</h3>
 
 Some of the words provided are cited as meaning "toad" by other sources. Not
 everyone has a clear linguistic distinction between "frog" (for me, frogs have
 shiny skin and jump) and "toad" (for me, toads have dry knobbly skin and
-crawl)[^2]. Not everyone's distinction will be the same, especially across
+crawl)<sup id=fnref:2><a class="footnote-ref" href="#fn:2">2</a></sup>. Not everyone's distinction will be the same, especially across
 languages. Some of the words found here describe a creature as a crawler, which
 certainly evokes toads for me.
 
@@ -184,7 +184,8 @@ choices and their reasoning:
 
 <li> When standard Irish orthography would have "sc" or "sp", I have written "sg"
   and "sb", as I believe is standard in Scotland (where I understand most
-  surviving dialects have lost voicing contrast on plosives entirely[^2]). This is
+  surviving dialects have lost voicing contrast on plosives entirely<sup
+  id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup>). This is
   because I think the voicing of the second consonant is phonemically
   irrelevant in this context even in Ireland, as it is in English (compare
   "speech" with "sbeech"), and the (lack of) aspiration is what is most
@@ -236,7 +237,7 @@ Click on the illustrations to expand the notes for each word!
 
 ### Frog
 
-<i>I found this in places all over Ireland, but not at all in Scotland[^1].
+<i>I found this in places all over Ireland, but not at all in Scotland[^4].
 Anecdotally it is the most common word used in Irish today.</i>
 <br><br>
 
@@ -260,19 +261,19 @@ animals to change in this way.
 Another thing I learned during this research was that it is a common belief
 that frogs did not exist in Ireland until the Anglo-Norman invasion in the 12th
 century, or perhaps when students of Trinity College brought some over in the
-17th century[^4], or that William of Orange is responsible for their
-introduction[^5], or that they first arrived in County Down in the 18th
-century[^6]. An account from Gerard of Wales of a frog being found in Waterford
-sometime in the 1170s or 1180s[^7] speaks of fascination and consternation when
-the creature is presented at court[^8]:
+17th century[^5], or that William of Orange is responsible for their
+introduction[^6], or that they first arrived in County Down in the 18th
+century[^7]. An account from Gerard of Wales of a frog being found in Waterford
+sometime in the 1170s or 1180s[^8] speaks of fascination and consternation when
+the creature is presented at court[^9]:
 
 <blockquote>
     [...] a frog was found, within my time, in the grassy meadows near
     Waterford, and brought to court alive before Robert Poer, who was at that
     time warden there, and many others, both English and Irish. And when
     numbers of both nations, and particularly the Irish, had beheld it with
-    great astonishment, at last Duvenold<sup id="fnref:9"><a
-    class="footnote-ref" href="#fn:9">9</a></sup>, 58th King of Ossory, a man of sense
+    great astonishment, at last Duvenold<sup id="fnref:10"><a
+    class="footnote-ref" href="#fn:10">10</a></sup>, 58th King of Ossory, a man of sense
     among his people, and faithful, who happened to be present, beating his
     head, and having deep grief at heart, spoke thus:—<br><br><b>“That reptile is the
     bearer of doleful news to Ireland.”</b><br><br> And uttering a sort of prognostic,
@@ -316,8 +317,8 @@ creatures <a href=https://en.wiktionary.org/wiki/frogge#Middle_English><i>frogge
 <i>I found this across much of Ireland and Scotland, especially in Argyll</i>
 <br><br>
 I've seen it suggested that this word is related to
-<a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a><sup id="fnref:10"><a class="footnote-ref" href="#fn:10">10</a></sup>,
-meaning to burn<sup id="fnref:11"><a class="footnote-ref" href="#fn:11">11</a></sup>,
+<a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a><sup id="fnref:11"><a class="footnote-ref" href="#fn:11">11</a></sup>,
+meaning to burn<sup id="fnref:12"><a class="footnote-ref" href="#fn:12">12</a></sup>,
 referring to the sting from touching the secretions of the frog's skin.
 
     <img src="../images/froganna/losgann.png" alt="Proposed etymology for
@@ -348,7 +349,7 @@ The notes say the salamander is called <i>loisgionn</i> "because it is burnt"
 The eDIL also cites <a href=https://celt.ucc.ie/published/G402561.html>Leabhar Méig
 Shamhradháin</a>, from the 14th
 century, as using <i>losguinn</i> when referring to a
-dragon<sup id="fnref:12"><a class=“footnote-ref" href="#fn:12">12</a></sup>.
+dragon<sup id="fnref:13"><a class=“footnote-ref" href="#fn:13">13</a></sup>.
 
 <br><br>
 Is the humble frog the peat bog's answer to mythical fire beasts of
@@ -359,11 +360,11 @@ dragons and salamanders to the closest creature Ireland has to offer: the frog
 <br><br>
 An alternative hypothesis stems from the discovery that the word "salamander"
 has historically been used for crickets and
-grasshoppers<sup id="fnref:13"><a class=“footnote-ref" href="#fn:13">13</a></sup>.
+grasshoppers<sup id="fnref:14"><a class=“footnote-ref" href="#fn:14">14</a></sup>.
 Crickets are attracted to warmth, and historically have been associated with
-the hearth<sup id="fnref:14"><a class=“footnote-ref" href="#fn:14">14</a></sup>.
+the hearth<sup id="fnref:15"><a class=“footnote-ref" href="#fn:15">15</a></sup>.
 Could the evolution instead be (association with fire) -> crickets ->
-(association with jumping) -> frogs?<sup id="fnref:15"><a class="footnote-ref" href="#fn:15">15</a></sup>
+(association with jumping) -> frogs?<sup id="fnref:16"><a class="footnote-ref" href="#fn:16">16</a></sup>
 
 <br><br>
 An etymology related to the frog's jumping would certainly be less unusual than
@@ -438,7 +439,7 @@ as a variant of <i>loscann</i>!
 
 <br><br>
 Similarly, in The Schools' Collection I found a
-<a href=https://www.duchas.ie/en/cbes/4428280/4391740/4478383>usage</a><sup id="fnref:16"><a class=“footnote-ref" href="#fn:16">16</a></sup>
+<a href=https://www.duchas.ie/en/cbes/4428280/4391740/4478383>usage</a><sup id="fnref:17"><a class=“footnote-ref" href="#fn:17">17</a></sup>
 of <i>luspán</i>, referring to some kind of small creature found by a
 turf bank. Whether it refers to a frog is unclear, but it seems very plausible.
 Apart from the quality of the initial consonant, this would likely match the
