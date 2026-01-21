@@ -36,7 +36,7 @@ BIO = ("I'm an engineer with an interest in linguistics. I live in Oxford, UK, "
        "embedded C for surgical robots."
 )
 LONG_BIO = (
-       "I'm Hannah McLaughlin <span class=ipa>/mɪˈglɔxlɪn/</span>.<br><br>"
+       "I'm Hannah McLaughlin <span class=ipa>/mɪˈ.glɔx.lən/ [mɪ̞ˈ.gɫɔx.ɫn̩]</span>.<br><br>"
        "I'm an engineer with an interest in linguistics. I live in Oxford, UK, "
        "and I love learning about phonetics and phonology. I'm particularly interested "
        "in Japanese and Gaelic. I love exploring "
