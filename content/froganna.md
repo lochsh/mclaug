@@ -498,10 +498,8 @@ obvious geographical centre. Usages were found in Kerry (1), Galway (1), Mayo
 This word, most commonly spelt <i>lispín</i> in the examples I found, isn't in
 Ó Dónaill's dictionary. A schoolchild in Listowel, County Kerry
 <a href=https://www.duchas.ie/en/cbes/4613715/4611694/4660320>defines</a> it as
-meaning "frog or lizard".
-
-<br><br>
-It is <a href=https://archive.org/details/foclirgaeilgeagu00dinn/page/440/mode/2up>listed</a>
+meaning "frog or lizard". It is <a
+href=https://archive.org/details/foclirgaeilgeagu00dinn/page/440/mode/2up>listed</a>
 in Dineen's dictionary as being found in Sligo, and meaning "frog".
 
 <br><br>
