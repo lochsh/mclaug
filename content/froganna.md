@@ -665,8 +665,9 @@ and the frog's unsheltered back (his head is under the toadstool)."></summary>
 <br><br>
 This is a word I have included, despite finding no primary sources for it,
 because it is from a place where the local language died, and I wish to
-preserve and represent it in this work. I have not found it anywhere else, at
-least not used to mean "frog".
+preserve and represent it in this work. I have not found it in any other place,
+at least not used to mean "frog".
+<br><br>
 
 <img src="../images/froganna/fliuchán.png" alt="A newspaper clipping in Gaelic
     type with title 'FROG' and body 'A chara, I gCondae Dhoire atá \"fliuchán\" ag
@@ -675,6 +676,7 @@ least not used to mean "frog".
     leath-toabh ar fad, acht ní mór dúinn an Ghaedhilg a choinneál glan. Mise,
     Cormac">
 
+<br>
 The word <i>fliuch</i> means wet, and correspondingly <i>fliuchán</i> means
 "wet thing" or "wetness". In Kerry it is used to refer to rain, see
 <a href=https://fr.wikisource.org/wiki/Phon%C3%A9tique_d%E2%80%99un_parler_irlandais_de_Kerry/2-6#p163> Sjoestedt, M. L. (1931), <i>Phonétique d’un parler irlandais de Kerry [Phonetics of an Irish Dialect of Kerry]</i></a>
@@ -696,7 +698,6 @@ gcorr-áit ins an chúigeadh seo.</i></li>
  attributed to Derry)</li>
 </ul>
 
-<br>
 Ciarán Ó Duibhín believes the 'Cormac' in <i>An Claidheamh Soluis</i> is Séamus
 Ó Ceallaigh (1879-1954), whose father was from Draperstown and was raised with
 Irish until he was 7 years old. More information is available at
@@ -713,11 +714,13 @@ In 1908
 <a href=https://www3.smo.uhi.ac.uk/oduibhin/daoine/aoidhmin2.htm>Aoidhmín Mac Gréagóir</a>
 published a series of articles in <i>An Claidheamh Soluis</i> titled
 <i>Sean-Ranna Ultacha</i> (Eng. old verse of Ulster). A riddle is included:
+<br><br>
 
 <img src="../images/froganna/fliuchan-dige.png" alt="A riddle in Gaelic type
 reading 'Léimeachan léimeachan os na gcloch, Léimeachan léimeachan go dtí an
 loch.  Freagra — Fliuchán díge.'">
 
+<br>
 The riddle asks what jumps over rocks and jumps into the loch. The answer,
 <i>fliuchán díge</i>, we can translate as "wet thing of the
 ditch".
