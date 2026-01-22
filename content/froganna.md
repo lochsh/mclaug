@@ -736,16 +736,63 @@ ditch".
 <img src="../images/froganna/leumrachan.svg" alt="drawing of a frog mid-leap">
 </summary>
 
-<i>I found this in various parts of Scotland, including Lewis, Southwest
-Sutherland, and near Ullapool.</i>
+<i>I found this in various parts of Scotland, including Lewis,
+West Sutherland, near Ullapool, and one instance on the Kintyre Peninsula in Argyll.</i>
 
-<img src="../images/froganna/leum.svg">
+<br><br>
+The etymology of this word is transparent: <i>leum</i> + <i>ach</i> + <i>án</i>
+= wee jumping thing. Other Celtic languages have a similar word for jump:
+<br><br>
 
-TODO dissimilation
+<figure>
+    <img src="../images/froganna/leum.svg">
+    <figcaption><i>A possible etymylogical tree for </i>leum<i>. Transcriptions
+    taken from Wiktionary, except in the case of Manx where it is taken from
+    the LASID.</i></figcaption>
+</figure>
 
-https://en.wiktionary.org/wiki/leum
+In Welsh, a similar word <i>llamhidydd</i> is used with the same descriptive
+meaning of "jumper", but seems to be used for porpoises, presumably seen
+leaping out of the sea. Similarly, <i>leumadair</i> is used in Scotland for
+dolphins, which is arguably more literally "jumper" rather than "jumping thing".
 
-https://dasg.ac.uk/fieldwork/view/TGlvbmVsSnVuaW9yU2Vjb25kYXJ5bWFvcmFjaHxicmVhbWFnfGQwZTYxfHxzaXViaGFsfHIxMHx8fGFsbA==
+<br><br>
+A few phonetic variations of this word came up, for example:
+
+<ul>
+<li><i>leumrachan</i>, Carloway on Lewis</li>
+<li><i>leumbrochan</i>, Clashnessie, also on Lewis</li>
+<li><i>leumbhrochan</i>, Achiltibuie near Ullapool</li>
+</ul>
+
+In <a href=https://archive.org/details/transactionsvol00invegoog/page/346/mode/2up>Robertson,
+C. M. (1901), <i>The Gaelic of the West of Ross-shire</i>, Gaelic Society of
+Inverness</a>, <i>leumrachan</i> is explained as coming about through
+<i>dissimilation</i>, a phonetic process where sounds change to make them more
+distinct from surrounding sounds (perhaps to make a word easier to say), or to make a word more distinct from another.
+It's not clear to me what the motivation for dissimilation here would be. The
+Carloway example inserts a trilled /r/ sound, and although there might be some
+amount of subjectivity to such claims, I don't see how it would make the word
+easier to say.
+
+<br><br>
+Perhaps there was some
+influence from the phrase
+<i>leum-a-chrann</i>, used for honeysuckle? It does seem like <i>leumrachan</i> would
+be easier to distinguish from <i>leumachrann</i> than <i>leumachan</i>, though
+this is perhaps subjective. The use of the fortis /R/ sound in Carloway could
+indicate some emphasis on the sound. This word for honeysuckle is one I haven't found
+any fieldwork recording of, but is listed in Cameron's 1883
+<a href=https://archive.org/details/gaelicnamesofpla00cameuoft/page/34/mode/2up?q=leum><i>Gaelic Names of Plants</i></a>
+as being used in Strathardle in Perthshire, admittedly not close to any of our
+locations above.
+
+<br><br>
+The other examples given for dissimilation in Wester Ross mostly
+show consonant substitution, but the examples of <i>foidhi<b>l</b>dean</i> for
+<i>foidhidinn</i>, <i>cóin<b>t</b>each</i> for <i>cóinneach</i> stand out as
+somewhat similar in nature, but are not otherwise illuminating...
+
 </details>
 
 ### <i>Crónán</i> and <i>cnádán</i>: for the frog's sweet song
