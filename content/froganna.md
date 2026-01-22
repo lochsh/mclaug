@@ -489,7 +489,10 @@ class=ipa>/ˈl̪ˠosˠkɑːnˠ/</span>.
 <summary><img src="../images/froganna/lisbín.svg" alt="A frog floating in water
 with his head just above the surface, with a rippled reflection below him."></summary>
 
-TODO: where was word found
+<i>This word and its variants had only a handful of attestations, all in
+Ireland, with no
+obvious geographical centre. Usages were found in Kerry (1), Galway (1), Mayo
+(1) and Donegal (3).</i>
 <br><br>
 
 This word, most commonly spelt <i>lispín</i> in the examples I found, isn't in
@@ -510,16 +513,15 @@ consonants), but this line of enquiry didn't lead anywhere.
 <a href=https://www.daltai.com/discus/messages/12465/11517.html?1048156283>This
 speaker from Donegal</i></a> uses it for a type of fish, and suggests it might be
 related to <i>losgann</i>. If this is the case, I'd expect to be able to find
-some intermediate forms. Gerry Oates' article <i>An phéist a chuir an cluiche
-ar Phádraig</i> in <i>An tUltach</i> states that Fanad's Father Mac Giolla
-Ceara uses <i>liospán</i> for "frog" in <i>Ceachta as Leabhar na Cruinne</i>.
-Ó Dónaill's dictionary <i>does</i> list
-<a href=https://www.teanglann.ie/en/fgb/liosp%C3%A1n>this spelling</a>
-as a variant of <i>loscann</i>!
+some intermediate forms. Fanad's Father Mac Giolla Ceara uses <i>liospán</i>
+for "frog" in <i>Ceachta as Leabhar na Cruinne</i><sup id=fnref:17><a
+class="footnote-ref" href="#fn:17">17</a></sup>.  Ó Dónaill's dictionary
+<i>does</i> list <a href=https://www.teanglann.ie/en/fgb/liosp%C3%A1n>this
+spelling</a> as a variant of <i>loscann</i>!
 
 <br><br>
 Similarly, in The Schools' Collection I found a
-<a href=https://www.duchas.ie/en/cbes/4428280/4391740/4478383>usage</a><sup id="fnref:17"><a class=“footnote-ref" href="#fn:17">17</a></sup>
+<a href=https://www.duchas.ie/en/cbes/4428280/4391740/4478383>usage</a><sup id="fnref:18"><a class=“footnote-ref" href="#fn:18">18</a></sup>
 of <i>luspán</i>, referring to some kind of small creature found by a
 turf bank. Whether it refers to a frog is unclear, but it seems very plausible.
 Apart from the quality of the initial consonant, this would likely match the
@@ -533,13 +535,21 @@ pronunciation indicated by <i>liospán</i>.
              of the bank"
         width=70%>
     <figcaption><i>The foot of a turf bank can be quite wet and muddy, a likely
-    place to find a frog</i></figcaption>
+    place to find a frog. Image source: <a
+    href=https://www.geograph.org.uk/photo/1001844>geograph.org.uk</a></i></figcaption>
 </figure>
 
-This idea that <i>lisbín</i> should evolve from <i>losgann</i> would be better
-supported by other examples of words varying in this way. However, if
-this word is indeed some phonetic variation on <i>losgann</i>, then the fact it
-is also used for lizards might give credence to the idea that the word comes
+I don't know of any other words where comparable phonetic variants exist,
+though of course they could. In the above section on the word "frog", I
+explored the idea of "frog" being used to substitute for a taboo "true" name for
+the creature. If <i>losgann</i> was such a taboo name, then the evolutions to
+<i>luspán</i>, <i>liospán</i>, <i>lispín</i> could be explained by taboo
+deformation &mdash; that is, deliberately phonetically altering a word to avoid
+actually saying it (as with "jeepers" for "Jesus").
+
+<br><br>
+If this word is indeed a phonetic variation on <i>losgann</i>, then the fact
+it is also used for lizards might give credence to the idea that the word comes
 directly from salamanders, rather than indirectly via crickets (see above
 section on <i>losgann</i>).
 
@@ -1079,4 +1089,8 @@ glossary is referring to crickets, not to salamanders the lizards. Whether the
 usage for frogs evolved from the usage for crickets, or alongside it, will
 remain a mystery.
 
-[^17]: This was the school my granny went to :) and my granda's parents etc.
+[^17]: Thank you to Gerry Oates' article <i>An phéist a chuir an cluiche
+ar Phádraig</i> in <i>An tUltach</i> which directed me to this, via the
+National Corpus of Irish.
+
+[^18]: This was the school my granny went to :) and my granda's parents etc.
