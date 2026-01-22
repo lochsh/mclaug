@@ -198,9 +198,10 @@ choices and their reasoning:
   (among other usages). The cognate suffix in Scotland is generally written
   <i>-an</i>. I have written words found in Scotland with <i>-án</i> for
   consistency, and also because phonetically this suffix seems to generally be
-  pronounced with a clear vowel, which to me the fada indicates. I think, for
+  pronounced with a clear vowel, which the fada can indicate. I think, for
   instance, it makes the plural <i>sonasánan</i> a bit easier to parse and its
-  pronunciation <span class=ipa>[sɔ᷉nəsɑnən]</span> more explicit.</li>
+  pronunciation <span class=ipa>[sɔ᷉nəsɑnən]</span> more explicit. Largely I
+  have just done this for consistency, however.</li>
 <br><br>
 <li>When there were a few variants of a word, the choice of which one to
     represent in the illustrations was a bit arbitrary. For example,
@@ -225,12 +226,32 @@ choices and their reasoning:
 <br>
 When adding datapoints to the map from written sources, I have always used the
 written form from the source.
+
+<br><br>
+When working from sources like the LASID that
+provide phonetic transcriptions only, I have used a very loose phonetic
+rendering in the orthography that is most familiar to me, which preserves
+fortis-lenis contrast on L and N. Hence for LASID responses for the many areas
+where this contrast is lost and only the lenis consonant remains, I have
+written a single consonant character even if the standard spelling has a double
+consonant, e.g. standard "froganna" has been rendered "froganaí" to represent
+<span class=ipa>[frɑgəniː]</span>. These spellings are really just here to make
+the map easier to read, so please don't read too deeply into any of the choices
+made in rendering the phonetic transcriptions as words.
 <br><br>
 A scarcity of relevant data from the Isle of Man means its quite different
 orthography is not something I've had to incorporate into the notes below.
 <br><br>
 If you have any thoughts on my orthographic choices here please feel free to
-<a href="mailto:h@mcla.ug">e-mail me</a>.
+<a href="mailto:h@mcla.ug">e-mail me</a>, bearing in mind I haven't taken any
+of the choices here too seriously. I am, however, interested in the trade-offs to
+be made between the wider legibility of etymylogical preservation (e.g. between
+        Ireland and Scotland) and the benefits of simplification, between
+simplification and specificity (how phonetically conditioned is the distinction
+        between ò and ó?), and between specificity and again broad
+applicability across pronunciations. As a learner of Donegal Irish I am
+also interested in the effects of spelling standardisation that
+fails to represent some dialects.
 </details>
 
 ## Notes and thoughts on the words
