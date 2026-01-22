@@ -38,7 +38,7 @@ all the Gaelic words for frog.
 
 ## A map of words for frogs across the Gaelic world
 
-<div id="map" style="height: 700px; width: 80%;"></div>
+<div id="map" style="height: 700px; width: 95%; margin: auto"></div>
 
 <script>
     var map = L.map('map').setView([55.2, -5.3], 6);
