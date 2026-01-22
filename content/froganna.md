@@ -269,7 +269,9 @@ doorway" style="max-height: 500px;">
 
 <i>I found this in places all over Ireland, but not at all in Scotland<sup
 id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup>.
-Anecdotally it is the most common word used in Irish today.</i>
+ Of the 49 LASID locations in Ireland that gave a response for "frog", 34 gave
+ a variation on this word. Anecdotally it is the most common word used in Irish
+ today.</i>
 <br><br>
 
 Could the usage of a foreign loan word, from English, be due to a taboo, where
@@ -390,7 +392,9 @@ TODO: wrap up more nicely
     >
 </summary>
 
-<i>I found this across much of Ireland and Scotland, especially in Argyll</i>
+<i>I found this across some of Ireland and Scotland, especially in Argyll. Only
+three LASID returns gave this word, two of which were in Argyll, and one in
+Mayo. Three of the four instances in the Schools' Collection are in Donegal.</i>
 <br><br>
 I've seen it suggested that this word is related to
 <a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a><sup id="fnref:11"><a class="footnote-ref" href="#fn:11">11</a></sup>,
@@ -729,8 +733,13 @@ ditch".
 
 <details>
 <summary>
-<img src="../images/froganna/leumrachan.svg" alt="a frog mid-leap">
+<img src="../images/froganna/leumrachan.svg" alt="drawing of a frog mid-leap">
 </summary>
+
+<i>I found this in various parts of Scotland, including Lewis, Southwest
+Sutherland, and near Ullapool.</i>
+
+<img src="../images/froganna/leum.svg">
 
 TODO dissimilation
 
@@ -929,6 +938,8 @@ as bheith ábhar misnigh, agus as acmhainní ar líne a chur ar fáil
 
 * Mo mhuinteoir Dubhán Ó Longáin, as an ceisteanna atá agam don froganna a
 shásamh, agus na múinteoireachta
+
+* Ciarán Dunbar as
 
 * Màiri MacMillan as 
 
