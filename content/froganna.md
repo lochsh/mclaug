@@ -1024,11 +1024,6 @@ href=https://archive.org/details/statisticalsurve00duboiala/page/315/mode/1up><i
            appearance near Moira, in the western parts of this county, can be
            proved beyond contradiction" but declines to do so himself. He
            offers an anecdote from a local man about when he first seen a frog.
-           The author's thoughts on the creature: "there are many stories still
-           current of the terror and surprise excited by the view of this
-           disgusting though innocent animal, which seems formed to be the prey
-           of every voracious creature, either by land or water, within whose
-           reach it comes."
 
 [^8]: I have <a
 href=https://www.dib.ie/biography/gerald-wales-giraldus-cambrensis-a3490>read</a>
