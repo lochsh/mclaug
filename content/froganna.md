@@ -273,26 +273,26 @@ Anecdotally it is the most common word used in Irish today.</i>
 <br><br>
 
 Could the usage of a foreign loan word, from English, be due to a taboo, where
-it was feared saying the creature's true name would summon them? Christopher
+it was feared saying the creatures' true name would summon them? Christopher
 Lewin, a Manx scholar, kindly corresponded with me about Manx words for frogs,
 and he suggested the possibility of this taboo.
 
 <br><br>
-My teacher Dubhán Ó Longáin pondered the belief that frogs entering the home
-was an omen of death, which could support the taboo idea. This belief doesn't
-seem to be universal even within Donegal, see this
+My teacher Dubhán Ó Longáin pointed out the belief that frogs entering the home
+was an omen of death, which would support the taboo idea. At first glance, this
+belief would appear to not be universal even within Donegal, see this
 <a href=https://www.duchas.ie/en/cbes/4428354/4398830/4487670>lore</a> from Leitir Mhic an
-Bhaird claiming a frog in the house to be lucky, though Dubhán suggested this
+Bhaird claiming a frog in the house to be lucky. Dubhán suggested this
 may be a sort of counteractive lore: we imagined children upset at the omen of
 a frog in the house, and their parents reassuring them it was in fact lucky.
+It's of course quite possible that an English loan came to replace a native
+word through language contact, without any word-specific pressure, but I don't
+know of any other name for an animal that has changed in this way. Some force
+must have caused a shift &mdash; that is, unless "frog" was actually the first
+word many Gaels heard used for the creatures.
 
 <br><br>
-It's quite possible that an English loan came to replace a native word in the
-usual way, through language contact, but it seems unusual in Irish for names of
-animals to change in this way.
-
-<br><br>
-Another thing I learned during this research was that it is a common belief
+I learned during this research was that it is a common belief
 that frogs did not exist in Ireland until the Anglo-Norman invasion in the 12th
 century, or perhaps when students of Trinity College brought some over in the
 17th century<sup id="fnref:5"><a class="footnote-ref" href="#fn:5">5</a></sup>, or that William of Orange is responsible for their
@@ -343,6 +343,38 @@ creatures <a href=https://en.wiktionary.org/wiki/frogge#Middle_English><i>frogge
    </figcaption>
 </figure>
 
+The idea of much of Ireland having no word for frog that predates Middle
+English is not especially attractive to me. Returning our first
+idea, of taboo: Gerard of Wales' account above certainly
+gives an early example of frogs being treated as a bad omen. The 1802
+<i>Statistical Survey of the County of Down</i> conveys similarly fearful local
+attitudes:
+
+       <blockquote>
+           [...] there are many stories still
+           current of the terror and surprise excited by the view of this
+           disgusting though innocent animal, which seems formed to be the prey
+           of every voracious creature, either by land or water, within whose
+           reach it comes.
+       </blockquote>
+
+Perhaps further adding to the taboo hypothesis is the complete lack of the use
+of "frog" in Scotland, where frogs seem largely to be a good omen:
+
+<br><br>
+TODO: some citations for frogs being a good omen in scotland (acknowledge not
+        necessarily universal
+
+<br><br>
+Personally, I find the idea of "frog" being used euphemistically quite
+compelling. One of the words explored below, <i>lisbín</i>, could be explained by
+taboo deformation from <i>losgann</i> &ndash; various phonetically
+intermediate forms are attested, supporting the idea of it being akin to a
+"minced oath".
+
+<br><br>
+TODO: wrap up more nicely
+
 </details>
 
 ### <i>Losgann</i>: the peat bog's answer to mythical fire beasts?
@@ -364,11 +396,13 @@ I've seen it suggested that this word is related to
 <a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a><sup id="fnref:11"><a class="footnote-ref" href="#fn:11">11</a></sup>,
 meaning to burn<sup id="fnref:12"><a class="footnote-ref" href="#fn:12">12</a></sup>,
 referring to the sting from touching the secretions of the frog's skin.
+<br><br>
 
     <img src="../images/froganna/losgann.png" alt="Proposed etymology for
     loscann. Text reads 'losgann, a toad, Ir. loscain, E. Ir. loscann; from
     losg above, so named from the acrid secretions of its skin.'">
 
+<br>
 However...I don't believe touching a common frog causes any stinging sensation,
 does it? Toads do secrete a <i>bufotoxin</i>, which can cause an allergic
 reaction on contact, but is mostly dangerous when ingested.
@@ -378,12 +412,14 @@ I have a perhaps more compelling idea: The Electronic Dictionary of the Irish
 Language entry for <a href=https://dil.ie/30711><i>loscann</i></a> directed me to
 <a href=https://deriv.nls.uk/dcn23/8177/81776163.23.pdf>O'Clery's
 Irish Glossary</a> from 1643:
+<br><br>
 
     <img src="../images/froganna/salamander.png" alt="Text reads: \"LOISGIONN
     .i. snasán '[a salamander]'. oir loisgthear é, ⁊ cú cnámha ainm
     eile dó 'because it is burnt [loisgthear] and cú cnámha is another
     name for it'.\"">
 
+<br>
 The notes say the salamander is called <i>loisgionn</i> "because it is burnt"
 (salmanders are known to nest in firewood). Dinneen's dictionary also
 <a href=https://archive.org/details/foclirgaeilgeagu00dinn/page/443>lists</a>
