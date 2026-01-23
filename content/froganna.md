@@ -809,12 +809,14 @@ somewhat similar in nature, but are not otherwise illuminating...
 </i>Cnádán<i> was found once each in Waterford and Cork, and is also listed in
 some old dictionaries and referred to in articles from the late 1800s. Modern
 sources often cite </i>cnádán<i> as referring to the Natterjack Toad.</i>
-<br><br>
-
+<br>
 
 <h4>Crónán: hummer</h4>
 Both of these words refer to the frog's croaking. The first, <i>crónán</i> is
-also used for other low pitched relatively white sounds:
+translated in <a
+href=https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/The%20Irish%20of%20Tory%20Island%20-%20Hamilton.pdf>Hamilton's
+<i>The Irish of Tory Island</i></a> as
+"purring", "humming", and beyond the frog's croak is also used for other low pitched relatively white sounds:
 
 <br><br>
 <ul>
@@ -837,7 +839,6 @@ cladach còmhnard</i>, from a song collected from Iain Caimbeul, Bàrd na
 Leidige.</li>
 </ul>
 
-<br>
 Slightly less congruous is its use for <a
 href=https://archive.org/details/gaelicsongstertr00sinc/page/291/mode/1up>birdsong</a>, though I suppose this too can be a pleasant background noise.
 
@@ -854,13 +855,36 @@ derive from Middle Dutch <a
 href=https://en.wiktionary.org/wiki/cronen#Middle_Dutch>crônen</a>, which
 certainly matches phonetically and loosely in terms of meaning. Perhaps the
 word was borrowed directly from there, or from Middle English, or from the
-modern form "croon". Regardless, perhaps we can revise our earlier translation of <i>crónán
-díge</i> to "ditch crooner" for a more romantic vision.
+modern form "croon". Regardless, perhaps we can revise our earlier translation of <i>crónán díge</i> to "ditch crooner" for a more romantic vision.
 
 <h4>Cnádán: croaker</h4>
+This word seems to most commonly have been used for the plant burdock, see various
+<a href=https://www.duchas.ie/en/cbes/4427936/4358938/4454815>sources</a> in
+The Schools' Collection, and again <i>The Irish of Tory Island</i></a>.
+<br><br>
+Its usage for frogs seems to be onomatopoeic. The Scottish <i>cnàg</i> <span
+class=ipa>/kʰɾ̃ãːk/</span> and <i>gnàg</i> <span class=ipa>/kɾ̃ãːk/</span> for
+the frog's cry are notably similar. It is recorded
+<a href=https://www.duchas.ie/en/cbes/5008809/4958019/5055398?HighlightText=cnadan>several</a>
+<a href=https://www.duchas.ie/en/cbes/5009102/4986861/5121908>times</a> in the The
+Schools' Collection as a pejorative for someone who moans or is cranky, and <a
+href=https://www.duchas.ie/en/cbes/5009102/4986864/5121908>translated</a> in this sense as "a croaker".
+<br><br>
+When I did first understand this word to be likely onomatopoeic, I wondered if
+this would only be the case in places where it is pronounced to begin with
+<span class=ipa>/kɾˠ/</span> (further north in Ireland) rather than <span class=ipa>/kn̪ˠ/</span> (further south in Ireland).
+To me, this was all that would make sense in terms of onomatopoeia.  However,
+the only places I found it recorded were firmly in the south of the island: the
+LASID records <span class=ipa>[knɑũˈdɑːn]</span> in Waterford. I think this
+just serves to illustrate how arbitrary onomatopoeia can be, easily
+demonstrated by comparing animal sounds across languages.
 
+<h4>Our two singers in unison</h4>
+<a href=https://www.duchas.ie/en/cbes/4428116/4379731/4468703>Signs of
+rain</a>:
 
-
+<blockquote><i>Nuair aireóchtha na froganna ag crónán agus ag cnádán.</i><br>"When
+ you hear the frogs crooning and croaking."</blockquote>
 
 </details>
 
