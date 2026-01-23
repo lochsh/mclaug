@@ -799,13 +799,68 @@ somewhat similar in nature, but are not otherwise illuminating...
 
 <details>
 <summary>
-<img src="../images/froganna/crónan.svg" alt="A frog with an expanded vocal
+<img src="../images/froganna/crónan.svg" alt="A drawing of frog with an expanded vocal
     sac, with some musical notes to indicate he is croaking">
 </summary>
 
-purring/croaking
+<br>
+<i>Both of these words seem rare, at least for referring to frogs.
+</i>Crónán<i> came up twice in West Donegal, and once in the Fews in Armagh.
+</i>Cnádán<i> was found once each in Waterford and Cork, and is also listed in
+some old dictionaries and referred to in articles from the late 1800s. Modern
+sources often cite </i>cnádán<i> as referring to the Natterjack Toad.</i>
+<br><br>
 
-irish of tory island
+
+<h4>Crónán: hummer</h4>
+Both of these words refer to the frog's croaking. The first, <i>crónán</i> is
+also used for other low pitched relatively white sounds:
+
+<br><br>
+<ul>
+<li>for a cat's purring, see the <i>sean-cainnt</i>
+<a href=https://www.duchas.ie/en/cbes/4427991/4365534/4468264>collected</a>
+several times in the Schools' Collection: <i>Is ar mhaithe leis fhéin a
+dheineann an cat crónán</i> "the cat purrs for himself", the significance of
+which I have seen explained in several diverging ways</li>
+<br>
+
+<li>for the sound of a babbling brook, <i>Aig an allt' tha crònan fann/Air a'
+ghaoith tha fàile cùbhraidh</i>, from a song
+<a href=https://archive.org/details/gaelicsongstertr00sinc/page/320/mode/1up>
+collected</a> from Argyll-born bard Eanraig MacIlleBhàin
+</li>
+<br>
+
+<li>for the sound of waves crashing onto the shore, <i>An tonn ri crònan air
+cladach còmhnard</i>, from a song collected from Iain Caimbeul, Bàrd na
+Leidige.</li>
+</ul>
+
+<br>
+Slightly less congruous is its use for <a
+href=https://archive.org/details/gaelicsongstertr00sinc/page/291/mode/1up>birdsong</a>, though I suppose this too can be a pleasant background noise.
+
+<br><br>
+A variant <a href=https://www.duchas.ie/en/cbes/4428321/4394634>recorded</a> in
+Donegal and in <a href=https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/CNUASACH%20FOCAL%20AS%20ORIALLA%20leagan%201.1%201025.pdf>The Fews</a>
+is <i>crónán díge</i>, which we might translate as "ditch hummer" (ditches
+often collecting water, creating a lovely froggy habitat).
+
+<br><br>
+What of the etymology of this word? The English word "croon" is <a
+href=https://en.wiktionary.org/wiki/croon>thought</a> to
+derive from Middle Dutch <a
+href=https://en.wiktionary.org/wiki/cronen#Middle_Dutch>crônen</a>, which
+certainly matches phonetically and loosely in terms of meaning. Perhaps the
+word was borrowed directly from there, or from Middle English, or from the
+modern form "croon". Regardless, perhaps we can revise our earlier translation of <i>crónán
+díge</i> to "ditch crooner" for a more romantic vision.
+
+<h4>Cnádán: croaker</h4>
+
+
+
 
 </details>
 
