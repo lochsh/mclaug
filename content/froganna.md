@@ -959,9 +959,51 @@ also for crawling
 <details>
 <summary><img src="../images/froganna/crubán-claidhe.svg"></summary>
 
-beast of the dyke? https://en.wiktionary.org/wiki/cr%C3%B9b#Scottish_Gaelic
-related to crawling? maybe more for toads. crawling makes sense as also used
-for crabs. but dubhán thinks more about the frog's wee hands.
+<i>This word was found twice, both times on the Curraun Peninsula, east of
+Achill Island in Mayo.</i>
+<br><br>
+
+This seemingly very local term might be translated as "beast of the dyke", with
+dyke meaning dry-stone wall ("beast of the dry stone wall" doesn't have the
+same ring to it, and it is common to call them dykes in Scotland, where
+I am from).
+<br><br>
+
+<figure>
+    <img src="../images/froganna/claidhe.png" alt="Excerpt from The Irish of
+    Achill showing meaning of claidhe as stone fence">
+    <img src="../images/froganna/crúbán-claidhe.png" alt"Excerpt from The Irish
+    of Achill showing meaning of crúbán claidhe as frog">
+    <figcaption><i>Excerpts from Stockman, G. (1974). </i>The Irish of Achill, Co.
+    Mayo</figcaption>
+</figure>
+
+The word <i>crúbán</i> would appear to refer to an animal with some kind of
+notable hands; <i>crúb</i> is listed in Dinneen's dictionary as meaning "a
+claw, a hoof, or paw". The descriptive bounds of these words will of course
+vary between individuals, but I would personally not use any of these words to
+refer to a frog's..."hands". Perhaps <i>crúb</i> can be used for any non-human limb
+appendage. The diminutive <i>crúibín</i> has been borrowed into English to
+refer to pig trotters as food (to me, a distinctively large food, but
+nevertheless...).
+
+<br><br>
+<i>Crúbán</i> has variously been used to refer to crabs (very notable claws),
+lobsters (I assume this is the "crabfish" referred to in Dinneen), and <a
+href=https://www.duchas.ie/en/cbes/4428052/4372722>here</a> in
+the name for a plant shaped like a hare's paw. It is also listed in Ó Dónaill's
+dictionary as referring to a "short potato-ridge at angle to main ridge".
+
+<br><br>
+I do wonder if the strikingly similar Scottish word <i>crùb</i> might be
+related, which Macbain <a
+href=https://en.wikisource.org/wiki/Page:Alexander_Macbain_-_An_Etymological_Dictionary_of_the_Gaelic_Language.djvu/178>gives</a>
+as being derived from Norse <i>krjúpa</i> and cognate with English "creep",
+meaning "to squat, crouch". That certainly fits a frog's resting pose extremely
+well. However, my teacher Dubhán Ó Longáin felt like <i>crúbán</i> referred to
+the frog's hands, and perhaps his speaker's intuition is worth more than my
+unqualified etymylogical speculation.
+
 </details>
 
 ### breallach lathaí
