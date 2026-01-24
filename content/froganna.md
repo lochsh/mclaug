@@ -164,6 +164,31 @@ certainly evokes toads for me. If you see a word cited as meaning "frog" that fo
 please bear inter-speaker and geographic variation in mind, as well as the way
 words can evolve over time.
 
+<h3>Phonetic transcription</h3>
+The LASID transcriptions are shown with narrow phonetic transcription brackets
+e.g. <span class=ipa>[Lɪːsḳɑːn´]</span>. The narrowness of the transcriptions
+varies a little; all fieldworkers seem to aim to be very narrow in terms of
+vowel notation, with a detailed vowel chart with many labelled points
+provided. A spectrum of consonant palatalisation is allowed for in the notation,
+and various non-phonemic fortis/lenis consonant contrasts, alongside the
+phonemic ones.  However, some details seem to be inconsistently recorded, like
+lack of aspiration on plosives (always shown on Scottish transcriptions, but
+only sometimes shown on e.g. <span class=ipa>/sk/</span> sequences,
+where I'd consistently expect an unaspirated <span
+class=ipa>/k/</span>), and velar and palatal off-glides (seemingly only
+sometimes shown, but often missing from places I would expect to hear
+them, e.g. in Conamara speaker's pronunciation of the language's endonym). Devoicing of consonants seems rarely recorded. It's not clear that
+there's any provision for recording of <span class=ipa>[ɹ]</span>, making it
+hard to know if it was encountered (e.g. word-finally) but recorded
+phonemically, or not encountered.
+
+<br><br>
+I have added my own IPA transcriptions to "translate" the LASID symbols. I am
+not providing these because I think they're an improvement; on the contrary,
+they're much more annoying to read. I hope that they can be useful to people
+with knowledge of the IPA but without knowledge of common Gaelic transcription
+conventions.
+
 <br><br>
 Although words specifically used for toads are also of interest, I have limited
 the scope of this project to words used for frogs.
