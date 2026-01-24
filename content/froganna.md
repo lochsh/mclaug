@@ -193,7 +193,7 @@ choices and their reasoning:
   "speech" with "sbeech"), and the (lack of) aspiration is what is most
   salient phonetically. Also the letter "g" looks nice in the font I chose, so
   this way we get to see it in <i>losgann</i>.</li>
-<br><br>
+<br>
 <li>In standard Irish orthography the suffix <i>-án</i> is used diminutively
   (among other usages). The cognate suffix in Scotland is generally written
   <i>-an</i>. I have written words found in Scotland with <i>-án</i> for
@@ -202,7 +202,7 @@ choices and their reasoning:
   instance, it makes the plural <i>sonasánan</i> a bit easier to parse and its
   pronunciation <span class=ipa>[sɔ᷉nəsɑnən]</span> more explicit. Largely I
   have just done this for consistency, however.</li>
-<br><br>
+<br>
 <li>When there were a few variants of a word, the choice of which one to
     represent in the illustrations was a bit arbitrary. For example,
     <i>cròigean</i> is far less attested than <i>cràigean</i>, but as it seems
@@ -212,7 +212,7 @@ choices and their reasoning:
     explaining dissimilation, and it seems more convenient for the headword to
     be formulated simply from <i>leum</i> + <i>achan</i>, with further
     explanation of variants later on.</li>
-<br><br>
+<br>
 <li>This mostly applies to the datapoints on the map, but I have followed the old
   Scottish tradition of using "ó" for <span class=ipa>/oː/</span> (as in
   <i>mór</i> Eng. "big") and "ò" for <span class=ipa>/ɔː/</span> (as in
@@ -223,7 +223,6 @@ choices and their reasoning:
 
 </ul>
 
-<br>
 When adding datapoints to the map from written sources, I have always used the
 written form from the source.
 
