@@ -1045,27 +1045,32 @@ II](https://imuseum.im/search/collections/objects/mnh-museum-35823.html)
 "grass-skin"](https://archive.org/details/annualreport04royauoft/page/29/mode/1up)
 
 
-## Go rabh maith agaibh
+## Go rabh maith agad
 
 <!---
-* <a href=https://www3.smo.uhi.ac.uk/oduibhin/>Ciarán Ó Duibhín</a>,
-as bheith ábhar misnigh, agus as acmhainní ar líne a chur ar fáil
+* a Chiaráin Úi Dhuibhín, as bheith ábhar misnigh, agus as acmhainní ar líne a chur ar fáil
 
-* Mo mhuinteoir Dubhán Ó Longáin, as an ceisteanna atá agam don froganna a
-shásamh, agus na múinteoireachta
+* a Dhubháin Úi Longáin, as mo cheisteanna fá froganna a shásamh, agus as na múinteoireachta
 
-* Ciarán Dunbar as
-
-* Màiri MacMillan as 
-
-* Simon Thoumire as thabhairt sonraí teagmhála Mhàiri domh
+* Àdhaimh Úi Bhroin, as do shaothar allamuigh a roinnt, agus as uirt fá froganna liom
 
 * Christopher Lewin, for answering my questions about the possible origins of
   the Manx word <i>rannag</i>, and providing a copy of <i>The Manx Have a Word
   for it Book 4 Insects, Reptiles etc.</i>
 
+* a Chiaráin Dunbar, as uirt fá focail as Oirialla liom
+
+* a Mhàiri MacMillan, as uirt fá froganna Uibhist liom
+
+* a Simon Thoumire, as sonraí teagmhála Mhàiri a thabairt domh
+
 * <herpetologist> for answering questions about evidence for the frog being
   native to Ireland
+
+* Thank you to all the fieldworkers, the 1930s Irish schoolchildren, the
+  informants, and everyone who has ever gone to the effort to make knowledge
+  available online for others to access freely.
+
 --->
 
 [^1]: In Nancy Dorian's <i>Language Death: The Life Cycle of a Scottish Gaelic
