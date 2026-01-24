@@ -941,13 +941,32 @@ https://en.wiktionary.org/wiki/cnag sense 3 on scottish gaelic
 https://dasg.ac.uk/fieldwork/view/Tm9ydGhBcmd5bGxBQ2FtZXJvbm1pc2N8Z2lsbGUgY3LDoGlnZWFufGlkcDE1NjkxMTU4NHx8ZnJvZ3xyN3x8fGFsbA==
 </details>
 
-<!---
-
 ### mag, magán, magag, miag, maigean
+<details>
 
 https://www.youtube.com/watch?v=JSP03Q0Mc1I
 
 Quiggin 196 lámhacán "moving on all fours". doesn't seem to be cognate though
+</details>
+
+### lapadán
+
+### laprachán
+also for crawling
+
+### crúbán claidhe
+
+beast of the dyke? https://en.wiktionary.org/wiki/cr%C3%B9b#Scottish_Gaelic
+related to crawling? maybe more for toads. crawling makes sense as also used
+for crabs. but dubhán thinks more about the frog's wee hands.
+
+### breallach lathaí
+
+is it rude...
+
+
+<!---
+
 
 ### ceanna-phiullan
 
@@ -1028,12 +1047,6 @@ sense
 
 torbán is given as tadpole
 
-### crúbán claidhe
-
-beast of the dyke? https://en.wiktionary.org/wiki/cr%C3%B9b#Scottish_Gaelic
-related to crawling? maybe more for toads. crawling makes sense as also used
-for crabs.
-
 ## Given names for the frog in stories and riddles
 
 Gille Criosda Mhic Dhughail
@@ -1043,8 +1056,6 @@ Séan Ó Lupáin
 Mac I Shliopán
 
 Mach Uí Stíopháin
-
-why...
 
 Seid (cos of the expanding when croaking) https://archive.org/details/witchcraftsecon01campgoog
 
