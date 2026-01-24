@@ -956,9 +956,13 @@ also for crawling
 
 ### crúbán claidhe
 
+<details>
+<summary><img src="../images/froganna/crubán-claidhe.svg"></summary>
+
 beast of the dyke? https://en.wiktionary.org/wiki/cr%C3%B9b#Scottish_Gaelic
 related to crawling? maybe more for toads. crawling makes sense as also used
 for crabs. but dubhán thinks more about the frog's wee hands.
+</details>
 
 ### breallach lathaí
 
