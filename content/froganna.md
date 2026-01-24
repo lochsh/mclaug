@@ -1026,26 +1026,6 @@ Seid (cos of the expanding when croaking) https://archive.org/details/witchcraft
 
 --->
 
-## Other Celtic words of interest
-
-### Cornish: gwelsken
-
-The Royal Cornwall Polytechnic Society published R. Morton Nance's <i>Celtic
-Words in Cornish Dialect</i> in 1921, and it includes a very transparent
-proposed etymology for the local word <i>wilky</i>, used for frogs:
-
-![quilkin](../images/froganna/quilkin.png)
-
-The meaning of <i>gwelsken</i> is given as "grass-skin", with the Welsh words
-<i>gwellt</i> and <i>cen</i> given as cognates of the Cornish words. The
-Breton word <i>glesker</i> may be related.
-
-What could an imaginary Gaelic cognate look like? Welsh <i>gwellt</i>
-is cognate with Irish <i>geilt</i>, used to mean grazing. The Old Irish word
-<i>cenn</i> does not survive in the language today. Perhaps
-<i>cenn-geilte</i> would be an equivalent? This seemed fun to consider but is
-perhaps not that interesting after all.
-
 ## Miscellaneous curiosities
 
 ["Anybody that lived in rural Ireland remember the frog man?"](https://www.reddit.com/r/CasualIreland/comments/184j053/anybody_that_lived_in_rural_ireland_remember_the/)
@@ -1056,6 +1036,14 @@ perhaps not that interesting after all.
 
 [The Etymology of English toad: Effects of the Celtic substrate?](http://centre-for-english-traditional-heritage.org/TraditionToday7/7Sayers_Toad.pdf)
 (strongly disagreed with by the previous item)
+
+[A frog burned by a German bomb on the Isle of Man during World War
+II](https://imuseum.im/search/collections/objects/mnh-museum-35823.html)
+
+[Celtic etymology for the word "wilky" or "quilkin", used for frogs, from Cornish
+<i>gwelsken</i> meaning
+"grass-skin"](https://archive.org/details/annualreport04royauoft/page/29/mode/1up)
+
 
 ## Go rabh maith agaibh
 
