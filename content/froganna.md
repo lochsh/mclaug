@@ -1249,7 +1249,7 @@ a frog would bring you bad luck, but this doesn't really signal anything of the
 nature of a chance encounter with a frog. Similarly lore that described the
 frog as blessed in some way was not included; indeed, one of the pieces of lore
 that stated frogs in the house is an omen of death said this is because frogs
-are considered "blessed". Being blessed does not mean not being looked upon
+are considered "blessed". Being blessed does not mean being looked upon
 without fear.
 
 [^6]: Scharff, R. F. (1893). <a
@@ -1352,8 +1352,10 @@ telling of Cinderella, recorded by Aoidhmín Mac Gréagóir and published in 191
 This is translated in the Belfast Telegraph 18/04/1939
 by Sam Henry and titled "The Cinderella of Rathlin Island", where <i>crúbán</i>
 seems to be translated as "pig's feet". There's not a huge amount of context;
-the Cinderella character cries <i>Saltann móra lobhtha/Is ladhra gearrtha
-crúbán/Is an té beag buidheach </i>[Cinderella]<i>/Síos faoi an tubhán</i> while being forced to
+the Cinderella character cries: <blockquote><i>Saltann móra lobhtha<br>
+Is ladhra gearrtha crúbán<br>
+Is an té beag buidheach </i>[Cinderella]<i><br>
+Síos faoi an tubhán</i></blockquote> while being forced to
 hide under a tub while the prince visits, before which her sisters all were cutting at
 their feet to make them fit the glass slipper. <a
 href=https://en.wiktionary.org/wiki/ladhar><i>Ladhar</i></a> (Scottish genitive
