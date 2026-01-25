@@ -975,7 +975,7 @@ I am from).
     <img src="../images/froganna/crúbán-claidhe.png" alt"Excerpt from The Irish
     of Achill showing meaning of crúbán claidhe as frog">
     <figcaption><i>Excerpts from Stockman, G. (1974). </i>The Irish of Achill, Co.
-    Mayo</figcaption>
+    Mayo. In other places <i>claidhe</i> is used to mean "ditch".</figcaption>
 </figure>
 
 The word <i>crúbán</i> would appear to refer to an animal with some kind of
@@ -988,21 +988,50 @@ refer to pig trotters as food (to me, a distinctively large food, but
 nevertheless...).
 
 <br><br>
-<i>Crúbán</i> has variously been used to refer to crabs (very notable claws),
-lobsters (I assume this is the "crabfish" referred to in Dinneen), and <a
-href=https://www.duchas.ie/en/cbes/4428052/4372722>here</a> in
-the name for a plant shaped like a hare's paw. It is also listed in Ó Dónaill's
-dictionary as referring to a "short potato-ridge at angle to main ridge".
+<i>Crúbán</i> is hard to find written Irish attestations of.
+<a href=https://www.duchas.ie/en/cbes/4428052/4372722>Here</a> it is used in
+the name for a plant shaped like a hare's paw. It is also listed in Ó
+Dónaill's dictionary as referring to a "short potato-ridge at angle to main
+ridge", probably describing its shape as similar to some kind of foot. In Dinneen's dictionary it is
+defined as <a href=https://en.wiktionary.org/wiki/crabfish>"crabfish"</a>, an
+archaic term for crab<sup id="fnref:20"><a class="footnote-ref" href="#fn:20">20</a></sup>.
+In the
+LASID, the only places giving <i>crúbán</i> for crab are Rathlin Island and
+Inishowen in Ireland, and Arran and Kintyre in Scotland. The DASG records this
+usage in other parts of Argyll. Some places (mostly in Ulster, also in
+Scotland, one place in Clare, two in Mayo) are however recorded as
+using the similar <i>crúbòg</i>, sometimes only to refer to big crabs.
 
-<br><br>
-I do wonder if the strikingly similar Scottish word <i>crùb</i> might be
+<figure>
+<img src="../images/froganna/crúbán-distribution.svg">
+<figcaption><i>Distribution of </i>crúb-<i> words for "crab". Additional
+datapoint from Inishowen from <a
+href=https://www.duchas.ie/en/cbes/4493801/4422210/4539693>The Schools'
+Collection</a></i></figcaption>
+</figure>
+
+Given the geographical distribution of <i>crúb-</i> words for crabs, I do wonder if the strikingly similar Scottish word <i>crùb</i> might be
 related, which Macbain <a
 href=https://en.wikisource.org/wiki/Page:Alexander_Macbain_-_An_Etymological_Dictionary_of_the_Gaelic_Language.djvu/178>gives</a>
 as being derived from Norse <i>krjúpa</i> and cognate with English "creep",
 meaning "to squat, crouch". That certainly fits a frog's resting pose extremely
-well. However, my teacher Dubhán Ó Longáin felt like <i>crúbán</i> referred to
-the frog's hands, and perhaps his speaker's intuition is worth more than my
-unqualified etymylogical speculation.
+well, and arguably a crab's. If <i>crúbán</i> does refer to the crab's claws,
+would we expect to hear the crab's claw referred to as <i>crúb</i> in the
+places that use this term for crabs? On Islay a crab's claw is recorded as
+<a
+href=https://dasg.ac.uk/fieldwork/view/UG9ydFdlbXlzc0pNYWNBcnRodXJzbGlwc3xsYWRoYXJ8aWRwMTE1NzYyNTEyfHxjcmFifHI1Mnx8fGFsbA==><i>ladhar</i></a>,
+   on Lewis as <a
+   href=https://dasg.ac.uk/fieldwork/view/Q3Jvd2xpc3RhQ2FuZFBNYWNEb25hbGRtaXNjMXxpb25nbmF8aWRtMzU0NjMzMDR8fGNyYWJ8cjUxfHx8YWxs><i>iongna</i></a>.
+
+<br><br>
+Perhaps there's been some sort of merging in Ireland of Celtic-origin
+<i>crobh</i>
+(Scottish <i>crubh</i>, meaning: hoof, clawed foot, etc.) with Norse-origin
+<i>crúb</i>, perhaps explaining how on Rathlin <i>crúbán</i> is recorded as
+meaning "crab", but is also used in a local telling of Cinderella to mean
+something entirely different that is translated as "pig foot" by Sam Henry
+<sup id="fnref:21"><a
+class="footnote-ref" href="#fn:21">21</a></sup>.
 
 </details>
 
@@ -1313,3 +1342,24 @@ ar Phádraig</i> in <i>An tUltach</i> which directed me to this, via the
 National Corpus of Irish.
 
 [^19]: This was the school my granny went to :) and my granda's parents etc.
+
+[^20]: "Crabfish" also meant lobster, but the LASID universally gives
+<i>gliomach</i> (<i>giomach</i> in Scotland) for that.
+
+[^21]: The word <i>crúbán</i> is used in <a
+href=https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/Sg%C3%A9altan%20Rachreann.pdf>this</a>
+telling of Cinderella, recorded by Aoidhmín Mac Gréagóir and published in 1910.
+This is translated in the Belfast Telegraph 18/04/1939
+by Sam Henry and titled "The Cinderella of Rathlin Island", where <i>crúbán</i>
+seems to be translated as "pig's feet". There's not a huge amount of context;
+the Cinderella character cries <i>Saltann móra lobhtha/Is ladhra gearrtha
+crúbán/Is an té beag buidheach </i>[Cinderella]<i>/Síos faoi an tubhán</i> while being forced to
+hide under a tub while the prince visits, before which her sisters all were cutting at
+their feet to make them fit the glass slipper. <a
+href=https://en.wiktionary.org/wiki/ladhar><i>Ladhar</i></a> (Scottish genitive
+<a href=https://en.wiktionary.org/wiki/ladhra#Scottish_Gaelic><i>ladhra</i></a>
+presumably also used on Rathlin) is "space between toes or
+fingers", "toe", "claw". So <i>is ladhra gearrtha crúbán</i> is perhaps
+shouting that the <i>crúbán</i> under the tub with her are in fact her sister's
+toes. However, I don't quite grasp the grammar so I will update this after
+talking to someone with more Irish.
