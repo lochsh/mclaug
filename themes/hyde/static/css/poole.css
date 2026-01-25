@@ -244,6 +244,10 @@ img {
     }
 }
 
+figcaption {
+    align: center;
+}
+
 video {
   display: block;
   margin: auto;
