@@ -963,8 +963,8 @@ also for crawling
 Achill Island in Mayo.</i>
 <br><br>
 
-This seemingly very local term might be translated as "beast of the dyke", with
-dyke meaning dry-stone wall ("beast of the dry stone wall" doesn't have the
+This seemingly very local term might be translated as "dyke beastie", with
+dyke meaning dry-stone wall ("dry stone wall beastie" doesn't have the
 same ring to it, and it is common to call them dykes in Scotland, where
 I am from).
 <br><br>
