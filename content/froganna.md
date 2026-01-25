@@ -164,6 +164,10 @@ certainly evokes toads for me. If you see a word cited as meaning "frog" that fo
 please bear inter-speaker and geographic variation in mind, as well as the way
 words can evolve over time.
 
+<br><br>
+Although words specifically used for toads are also of interest, I have limited
+the scope of this project to words used for frogs.
+
 <h3>Phonetic transcription</h3>
 The LASID transcriptions are shown with narrow phonetic transcription brackets
 e.g. <span class=ipa>[Lɪːsḳɑːn´]</span>. The narrowness of the transcriptions
@@ -188,10 +192,6 @@ not providing these because I think they're an improvement; on the contrary,
 they're much more annoying to read. I hope that they can be useful to people
 with knowledge of the IPA but without knowledge of common Gaelic transcription
 conventions.
-
-<br><br>
-Although words specifically used for toads are also of interest, I have limited
-the scope of this project to words used for frogs.
 
 </details>
 
@@ -273,7 +273,7 @@ be made between the wider legibility of etymylogical preservation (e.g. between
         Ireland and Scotland) and the benefits of simplification, between
 simplification and specificity (how phonetically conditioned is the distinction
         between ò and ó?), and between specificity and again broad
-applicability across pronunciations. As a learner of Donegal Irish I am
+applicability across pronunciations. As a learner of Donegal Gaelic I am
 also interested in the effects of spelling standardisation that
 fails to represent some dialects.
 </details>
