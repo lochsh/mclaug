@@ -1203,8 +1203,11 @@ notes this as <i>elegant Gaelic but otherwise foreign to the lips of any East
 Sutherlander of my acquaintance</i>. This correlation of formality and
 loan-word occurrence may be less prevelant in areas with healthier Gaelic. The
 subjects in the above were of the last couple generations of speakers of a
-dialect particularly far removed from what was considered standard, and
-were subject to mockery from English monolinguals for their loanword usage.
+dialect particularly far removed from what was considered standard (which
+negatively affected some, though not all, of the speaker's perception of the legitimacy of their
+Gaelic), and were subject to mockery from English monolinguals for
+their loanword usage. In a healthier community of speakers I imagine loanword
+usage would be done with more confidence and less self-consciousness.
 
 [^2]: Something I learnt during this project was that the distinction between
 frogs and toads is considered part of a folk taxonomy, not precisely aligned
@@ -1369,4 +1372,4 @@ presumably also used on Rathlin) is "space between toes or
 fingers", "toe", "claw". So <i>is ladhra gearrtha crúbán</i> is perhaps
 shouting that the <i>crúbán</i> under the tub with her are in fact her sister's
 toes. However, I don't quite grasp the grammar so I will update this after
-talking to someone with more Irish.
+talking to someone with more Gaelic.
