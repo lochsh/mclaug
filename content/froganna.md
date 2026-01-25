@@ -1183,8 +1183,11 @@ II](https://imuseum.im/search/collections/objects/mnh-museum-35823.html)
   native to Ireland
 
 * Thank you to all the fieldworkers, the 1930s Irish schoolchildren, the
-  informants, and everyone who has ever gone to the effort to make knowledge
-  available online for others to access freely.
+informants who took the time to be interviewed, and everyone who has ever gone
+to the effort to make knowledge available online for others to access freely.
+
+* Last of all thank you to the frog that hopped into my house 7 weeks ago.
+  Without you, frogject would not exist. <i>Sonas ort, a chara</i>.
 
 --->
 
