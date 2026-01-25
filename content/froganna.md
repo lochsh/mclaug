@@ -1005,9 +1005,11 @@ using the similar <i>crúbòg</i>, sometimes only to refer to big crabs.
 <figure>
 <img src="../images/froganna/crúbán-distribution.svg">
 <figcaption><i>Distribution of </i>crúb-<i> words for "crab". Additional
-datapoint from Inishowen from <a
+datapoint in Inishowen from <a
 href=https://www.duchas.ie/en/cbes/4493801/4422210/4539693>The Schools'
-Collection</a></i></figcaption>
+Collection</a>. Jura and Colonsay taken from <a
+href=https://era.ed.ac.uk/server/api/core/bitstreams/c5b70130-aec4-4f11-b6f6-60f3fd8263cf/content></i>The
+Gaelic Dialect of Colonsay<i></a>, PhD thesis by Alastair MacNeill Scouller</i></figcaption>
 </figure>
 
 Given the geographical distribution of <i>crúb-</i> words for crabs, I do wonder if the strikingly similar Scottish word <i>crùb</i> might be
@@ -1032,6 +1034,9 @@ meaning "crab", but is also used in a local telling of Cinderella to mean
 something entirely different that is translated as "pig foot" by Sam Henry
 <sup id="fnref:21"><a
 class="footnote-ref" href="#fn:21">21</a></sup>.
+
+<br><br>
+I will elect to officially update my translation to "dyke squatter".
 
 </details>
 
