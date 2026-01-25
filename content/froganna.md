@@ -996,8 +996,8 @@ ridge", probably describing its shape as similar to some kind of foot. In Dinnee
 defined as <a href=https://en.wiktionary.org/wiki/crabfish>"crabfish"</a>, an
 archaic term for crab<sup id="fnref:20"><a class="footnote-ref" href="#fn:20">20</a></sup>.
 In the
-LASID, the only places giving <i>crúbán</i> for crab are Rathlin Island and
-Inishowen in Ireland, and Arran and Kintyre in Scotland. The DASG records this
+LASID, the only places giving <i>crúbán</i> for crab are Rathlin Island,
+Inishowen, Arran and Kintyre. The DASG also records this
 usage in other parts of Argyll. Some places (mostly in Ulster, also in
 Scotland, one place in Clare, two in Mayo) are however recorded as
 using the similar <i>crúbòg</i>, sometimes only to refer to big crabs.
