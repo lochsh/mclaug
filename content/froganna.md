@@ -1249,7 +1249,7 @@ a frog would bring you bad luck, but this doesn't really signal anything of the
 nature of a chance encounter with a frog. Similarly lore that described the
 frog as blessed in some way was not included; indeed, one of the pieces of lore
 that stated frogs in the house is an omen of death said this is because frogs
-are considered "blessed". Being blessed does not mean being looked upon
+are considered "blessed". Being blessed does not equal being looked upon
 without fear.
 
 [^6]: Scharff, R. F. (1893). <a
