@@ -1273,7 +1273,7 @@ without fear.
 href=https://archive.org/details/irishnaturalist02roya/page/n17/mode/2up><i>Is
            The Frog a Native of Ireland?</i></a> The Irish Naturalist, 2(1),
            1–6. This article explores various historical accounts of frogs
-           being found in Ireland, including Gerard of Wales'.  The idea that
+           being found in Ireland, including Gerard of Wales's.  The idea that
            Trinity students introduced frogs is dismissed by the author for
            being ecologically unlikely, noting that there are far more frogs on
            the west coast and the city doesn't seem like an ideal place for
