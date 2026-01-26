@@ -1011,6 +1011,8 @@ using the similar <i>crúbòg</i>, sometimes only to refer to big crabs.
 <figcaption><i>Distribution of </i>crúb-<i> words for "crab". Additional
 datapoint in Inishowen from <a
 href=https://www.duchas.ie/en/cbes/4493801/4422210/4539693>The Schools'
+Collection</a>. Mayo outlier also from <a
+href=https://www.duchas.ie/en/cbes/5235172/5225583/5261072>The Schools'
 Collection</a>. Jura and Colonsay taken from <a
 href=https://era.ed.ac.uk/server/api/core/bitstreams/c5b70130-aec4-4f11-b6f6-60f3fd8263cf/content></i>The
 Gaelic Dialect of Colonsay<i></a>, PhD thesis by Alastair MacNeill Scouller</i></figcaption>
