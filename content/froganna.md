@@ -500,6 +500,12 @@ An enjoyable variant of this word, that I found primarily in Mayo and
 Galway, is <i>losgann lathaighe</i>, which I will choose to translate as "mud
 salamander".
 
+<h4>East Sutherland's <i>losgaid</i></h4>
+An interesting variant found in Embo in East Sutherland is <i>losgaid</i> <span
+class=ipa>[ɫosɡidʹ]</span>. Noticeably similar is the usage of <i>iosgaid</i>
+in place of <i>easgann</i> for eel, recorded in Nancy Dorian's <i>East Sutherland
+Gaelic</i>.
+
 <h4>On spelling variations</h4>
 I have addressed <i>losgann</i> vs. <i>loscann</i> in my general orthography
 notes. These spellings both reflect a pronounciation of something like
