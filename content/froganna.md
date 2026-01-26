@@ -278,9 +278,7 @@ also interested in the effects of spelling standardisation that
 fails to represent some dialects.
 </details>
 
-## Notes and thoughts on the words
-
-Click on the illustrations to expand the notes for each word!
+## Click on the illustrations to expand the notes for each word!
 
 ### <i>Frog</i>: taboo-avoidance?
 
