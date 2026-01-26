@@ -1267,7 +1267,7 @@ nature of a chance encounter with a frog. Similarly lore that described the
 frog as blessed in some way was not included; indeed, one of the pieces of lore
 that stated frogs in the house is an omen of death said this is because frogs
 are considered "blessed". Being blessed does not equal being looked upon
-without fear.<br><br>My favourite piece of lore collected during this search
+without fear.<br><br>My favourite piece of lore found during this search
 was <a
 href=https://www.duchas.ie/en/cbes/4921682/4889594/4951820>this</a>
 one:<blockquote>The frog was looked upon as something sacred as it was the frog
