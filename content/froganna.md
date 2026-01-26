@@ -1213,7 +1213,7 @@ Sutherlander of my acquaintance</i>. This correlation of formality and
 loan-word occurrence may be less prevelant in areas with healthier Gaelic. The
 subjects in the above were of the last couple generations of speakers of a
 dialect particularly far removed from what was considered standard (which
-negatively affected some, though not all, of the speaker's perception of the legitimacy of their
+negatively affected some, though not all, of the speakers' perception of the legitimacy of their
 Gaelic), and were subject to mockery from English monolinguals for
 their loanword usage. In a healthier community of speakers I imagine loanword
 usage would be done with more confidence and less self-consciousness.
