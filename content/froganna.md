@@ -800,7 +800,7 @@ Inverness</a>, <i>leumrachan</i> is explained as coming about through
 <i>dissimilation</i>, a phonetic process where sounds change to make them more
 distinct from surrounding sounds (perhaps to make a word easier to say), or to make a word more distinct from another.
 It's not clear to me what the motivation for dissimilation here would be. The
-Carloway example inserts a trilled /r/ sound, and although there might be some
+Carloway example inserts a trilled [r] sound, and although there might be some
 amount of subjectivity to such claims, I don't see how it would make the word
 easier to say.
 
@@ -901,7 +901,8 @@ href=https://www.duchas.ie/en/cbes/5009102/4986864/5121908>translated</a> in thi
 <br><br>
 When I did first understand this word to be likely onomatopoeic, I wondered if
 this would only be the case in places where it is pronounced to begin with
-<span class=ipa>/kɾˠ/</span> (further north in Ireland) rather than <span class=ipa>/kn̪ˠ/</span> (further south in Ireland).
+<span class=ipa>/kɾˠ/</span> (further north in Ireland) rather than <span
+class=ipa>/knˠ/</span> (further south in Ireland).
 To me, this was all that would make sense in terms of onomatopoeia.  However,
 the only places I found it recorded were firmly in the south of the island: the
 LASID records <span class=ipa>[knɑũˈdɑːn]</span> in Waterford. I think this
