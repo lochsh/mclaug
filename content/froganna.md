@@ -385,22 +385,22 @@ attitudes:
            reach it comes.
        </blockquote>
 
-Perhaps further adding to the taboo hypothesis is the complete lack of the use
-of "frog" in Scotland, where frogs seem largely to be a good omen:
+It is tempting to make the conjecture that frogs are a good omen in Scotland,
+which I have heard anecdotally, and that the complete lack of usage of
+<i>frog</i> in Scotland supports the idea of it being a taboo substitute in
+Ireland. This is not something I am able to substantiate; the Scottish matieral
+collected for the Irish Folklore Commission is not accessible to me, and I have
+been unable to find suitably accessible Scottish folklore resources.
+Additionally, Scotland has plenty of descriptive words for frogs that could
+easily be taboo substitutes themselves.
 
 <br><br>
-TODO: some citations for frogs being a good omen in scotland (acknowledge not
-        necessarily universal
-
-<br><br>
-Personally, I find the idea of "frog" being used euphemistically quite
+The truth will remain ambiguous, but personally, I find the idea of "frog" being used euphemistically quite
 compelling. One of the words explored below, <i>lisbín</i>, could be explained by
 taboo deformation from <i>losgann</i> &mdash; various phonetically
 intermediate forms are attested, supporting the idea of it being akin to a
-"minced oath".
-
-<br><br>
-TODO: wrap up more nicely
+"minced oath". Perhaps <i>losgann</i> was the taboo word everyone was trying to
+avoid.
 
 </details>
 
