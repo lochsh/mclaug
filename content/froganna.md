@@ -1379,9 +1379,9 @@ Is an té beag buidheach </i>[Cinderella]<i><br>
 Síos faoi an tubhán</i></blockquote> while being forced to
 hide under a tub while the prince visits, before which her sisters all were cutting at
 their feet to make them fit the glass slipper. <a
-href=https://en.wiktionary.org/wiki/ladhar><i>Ladhar</i></a> (Scottish genitive
+href=https://en.wiktionary.org/wiki/ladhar><i>Ladhar</i></a> (genitive
 <a href=https://en.wiktionary.org/wiki/ladhra#Scottish_Gaelic><i>ladhra</i></a>
-presumably also used on Rathlin) is "space between toes or
+presumably also used on Rathlin as in Scotland) is "space between toes or
 fingers", "toe", "claw". So <i>is ladhra gearrtha crúbán</i> is perhaps
 shouting that the <i>crúbán</i> under the tub with her are in fact her sister's
 toes. However, I don't quite grasp the grammar so I will update this after
