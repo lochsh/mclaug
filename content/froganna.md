@@ -293,7 +293,7 @@ doorway" style="max-height: 500px;">
 id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup>.
  Of the 49 LASID locations in Ireland that gave a response for "frog", 34 gave
  a variation on this word. Anecdotally it is the most common word used in Irish
- today.</i>
+ today. It is the word used in the Manx bibles published in 1775 and 1819.</i>
 <br><br>
 
 Could the usage of a foreign loan word, from English, be due to a taboo, where
@@ -417,7 +417,11 @@ avoid.
 
 <i>I found this across some of Ireland and Scotland, especially in Argyll. Only
 three LASID returns gave this word, two of which were in Argyll, and one in
-Mayo. Three of the four instances in the Schools' Collection are in Donegal.</i>
+Mayo. Three of the four instances in the Schools' Collection are in Donegal.
+This is the word used in <a
+href=https://archive.org/details/leabhuirtseantio00bede/page/68/mode/1up>William
+Bedell's translation of the bible</a> (translated
+in the 1630s), where the plural is rendered </i>lúisgionna<i>.</i>
 <br><br>
 I've seen it suggested that this word is related to
 <a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a><sup id="fnref:12"><a class="footnote-ref" href="#fn:12">12</a></sup>,
@@ -837,7 +841,11 @@ somewhat similar in nature, but are not otherwise illuminating...
 </i>Crónán<i> came up twice in West Donegal, and once in the Fews in Armagh.
 </i>Cnádán<i> was found once each in Waterford and Cork, and is also listed in
 some old dictionaries and referred to in articles from the late 1800s. Modern
-sources often cite </i>cnádán<i> as referring to the Natterjack Toad.</i>
+sources often cite </i>cnádán<i> as referring to the Natterjack Toad. Cnádán is
+one of the words used in an <a
+href=https://archive.org/details/bioblanaomhthaan00bede/page/58/mode/2up>1817</a>
+translation of the bible<sup id="fnref:20"><a class="footnote-ref"
+href="#fn:20">20</a></sup>.</i>
 <br>
 
 <h4>Crónán: hummer</h4>
@@ -999,7 +1007,7 @@ the name for a plant shaped like a hare's paw. It is also listed in Ó
 Dónaill's dictionary as referring to a "short potato-ridge at angle to main
 ridge", probably describing its shape as similar to some kind of foot. In Dinneen's dictionary it is
 defined as <a href=https://en.wiktionary.org/wiki/crabfish>"crabfish"</a>, an
-archaic term for crab<sup id="fnref:20"><a class="footnote-ref" href="#fn:20">20</a></sup>.
+archaic term for crab<sup id="fnref:21"><a class="footnote-ref" href="#fn:21">21</a></sup>.
 In the
 LASID, the only places giving <i>crúbán</i> for crab are Rathlin Island,
 Inishowen, Arran and Kintyre. The DASG also records this
@@ -1039,8 +1047,8 @@ Perhaps there's been some sort of merging in Ireland of Celtic-origin
 <i>crúb</i>, perhaps explaining how on Rathlin <i>crúbán</i> is recorded as
 meaning "crab", but is also used in a local telling of Cinderella to mean
 something entirely different that is translated as "pig foot" by Sam Henry
-<sup id="fnref:21"><a
-class="footnote-ref" href="#fn:21">21</a></sup>.
+<sup id="fnref:22"><a
+class="footnote-ref" href="#fn:22">22</a></sup>.
 
 <br><br>
 I will elect to officially update my translation to "dyke squatter".
@@ -1357,10 +1365,16 @@ National Corpus of Irish.
 
 [^19]: This was the school my granny went to :) and my granda's parents etc.
 
-[^20]: "Crabfish" also meant lobster, but the LASID universally gives
+[^20]: The introduction of this bible says that the Old Testament
+is translated by William Bedell and "some changes made from the edition of
+1690". I assume one of the changes was changing <i>lúisgionna</i> to
+<i>cnadáin</i> in Exodus 8:3, though curiously in Exodus 8:4 it is left
+unchanged.
+
+[^21]: "Crabfish" also meant lobster, but the LASID universally gives
 <i>gliomach</i> (<i>giomach</i> in Scotland) for that.
 
-[^21]: The word <i>crúbán</i> is used in <a
+[^22]: The word <i>crúbán</i> is used in <a
 href=https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/Sg%C3%A9altan%20Rachreann.pdf>this</a>
 telling of Cinderella, recorded by Aoidhmín Mac Gréagóir and published in 1910.
 This is translated in the Belfast Telegraph 18/04/1939
