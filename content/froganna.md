@@ -115,7 +115,7 @@ all the Gaelic words for frog.
 </script>
 <br>
 Above is a map showing attested words used by local people for "frog". Zooming
-out will reveal a datapoint in Nova Scotia. The main
+out will reveal datapoints in Nova Scotia. The main
 sources are:
 
 * Wagner, H. (1958-1969), <i>Linguistic Atlas and Survey of Irish Dialects (LASID)</i>, Dublin Institute of Advanced Studies
