@@ -119,9 +119,12 @@ out will reveal datapoints in Nova Scotia. The main
 sources are:
 
 * Wagner, H. (1958-1969), <i>Linguistic Atlas and Survey of Irish Dialects (LASID)</i>, Dublin Institute of Advanced Studies
-* Digital Archive of Scottish Gaelic (DASG). University of Glasgow <a href='https://dasg.ac.uk'>&lt;https://dasg.ac.uk&gt;</a>
-* National Folklore Collection, University College Dublin
-* Tobar an Dualchais <a href='https://www.tobarandualchais.co.uk'>tobarandualchais.co.uk</a>, Sabhal Mòr Ostaig
+* Digital Archive of Scottish Gaelic (DASG). University of Glasgow <a href='https://dasg.ac.uk'>&lt;dasg.ac.uk&gt;</a>
+* National Folklore Collection, University College Dublin <a
+  href=https://www.duchas.ie>&lt;duchas.ie&gt;</a>
+* Tobar an Dualchais <a href='https://www.tobarandualchais.co.uk'>&lt;tobarandualchais.co.uk&gt;</a>, Sabhal Mòr Ostaig
+* Dòrlach's fieldwork, kindly shared by Àdhamh Ó Broin <a
+  href="https://www.dorlach.scot">&lt;dorlach.scot&gt;</a>
 
 The markers can be filtered by source by clicking the layers icon in the top
 right-hand corner of the map.
