@@ -1167,36 +1167,28 @@ II](https://imuseum.im/search/collections/objects/mnh-museum-35823.html)
 "grass-skin"](https://archive.org/details/annualreport04royauoft/page/29/mode/1up)
 
 
-## Go rabh maith agad
+## Go rabh maith agaibh
 
-<!---
-* a Chiaráin Úi Dhuibhín, as bheith ábhar misnigh, agus as acmhainní ar líne a chur ar fáil
+* Ciarán Ó Duibhín, ar ábhar misnigh é, agus as acmhainní ar líne a chur ar fáil
 
-* a Dhubháin Úi Longáin, as mo cheisteanna fá froganna a shásamh, agus as na múinteoireachta
+* Dubhán Ó Longáin, as mo cheisteanna fá fhroganna a fhreagairt, agus as an
+mhúinteoireacht
 
-* Àdhaimh Úi Bhroin, as do shaothar allamuigh a roinnt, agus as uirt fá froganna liom
+* Àdhamh Ó Broin, as d'obair ghoirt a roinnt, agus as labhairt fá fhroganna liom
 
 * Christopher Lewin, for answering my questions about the possible origins of
-  the Manx word <i>rannag</i>, and providing a copy of <i>The Manx Have a Word
-  for it Book 4 Insects, Reptiles etc.</i>
+the Manx word <i>rannag</i>, and providing a copy of <i>The Manx Have a Word
+for it, Book 4: Insects, Reptiles etc.</i>
 
-* a Chiaráin Dunbar, as uirt fá focail as Oirialla liom
+* Ciarán Dunbar, as labhairt fá fhoclaí as Oirialla liom
 
-* a Mhàiri MacMillan, as uirt fá froganna Uibhist liom
+* Màiri MacMillan, as labhairt fá fhroganna Uibhist liom
 
-* a Simon Thoumire, as sonraí teagmhála Mhàiri a thabairt domh
-
-* <herpetologist> for answering questions about evidence for the frog being
-  native to Ireland
+* Simon Thoumire, as sonraí teagmhála Mhàiri a thabairt domh
 
 * Thank you to all the fieldworkers, the 1930s Irish schoolchildren, the
 informants who took the time to be interviewed, and everyone who has ever gone
 to the effort to make knowledge available online for others to access freely.
-
-* Last of all thank you to the frog that hopped into my house 7 weeks ago.
-  Without you, frogject would not exist. <i>Sonas ort, a chara</i>.
-
---->
 
 [^1]: In Nancy Dorian's <i>Language Death: The Life Cycle of a Scottish Gaelic
 Dialect</i> (p. 101), she notes this: <blockquote>Precisely because everyone
@@ -1382,7 +1374,7 @@ hide under a tub while the prince visits, before which her sisters all were cutt
 their feet to make them fit the glass slipper. <a
 href=https://en.wiktionary.org/wiki/ladhar><i>Ladhar</i></a> (genitive
 <a href=https://en.wiktionary.org/wiki/ladhra#Scottish_Gaelic><i>ladhra</i></a>
-presumably also used on Rathlin as in Scotland) is "space between toes or
+presumably used on Rathlin as in Scotland) is "space between toes or
 fingers", "toe", "claw". So <i>is ladhra gearrtha crúbán</i> is perhaps
 shouting that the <i>crúbán</i> under the tub with her are in fact her sister's
 toes. However, I don't quite grasp the grammar so I will update this after
