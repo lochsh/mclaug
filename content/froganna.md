@@ -53,6 +53,7 @@ all the Gaelic words for frog.
     var DASG = L.featureGroup.subGroup(clustering).addTo(map);
     var NFC = L.featureGroup.subGroup(clustering).addTo(map);
     var tobar = L.featureGroup.subGroup(clustering).addTo(map);
+    var dorlach = L.featureGroup.subGroup(clustering).addTo(map);
     var other = L.featureGroup.subGroup(clustering).addTo(map);
 
     $.get(
@@ -86,6 +87,9 @@ all the Gaelic words for frog.
                     case "tobar":
                         tobar.addLayer(marker);
                         break;
+                    case "dòrlach":
+                        dorlach.addLayer(marker);
+                        break;
                     default:
                         other.addLayer(marker);
                         break;
@@ -101,6 +105,7 @@ all the Gaelic words for frog.
                 "Digital Archive of Scottish Gaelic": DASG,
                 "National Folklore Collection": NFC,
                 "Tobar an Dualchais": tobar,
+                "Dòrlach fieldwork": dorlach,
                 "other": other,
             }
             var layerControl = L.control.layers({"OSM": osm}, overlayMaps).addTo(map);
