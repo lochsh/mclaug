@@ -1057,7 +1057,8 @@ Perhaps there's been some sort of merging in Ireland of Celtic-origin
 meaning "crab", but is also used in a local telling of Cinderella to mean
 something entirely different that is translated as "pig foot" by Sam Henry
 <sup id="fnref:22"><a
-class="footnote-ref" href="#fn:22">22</a></sup>.
+class="footnote-ref" href="#fn:22">22</a></sup>. Unfortunately the Rathlin
+informants gave no word for pig's feet in the LASID to compare against.
 
 <br><br>
 I will elect to officially update my translation to "dyke squatter".
@@ -1401,4 +1402,5 @@ presumably used on Rathlin as in Scotland) is "space between toes or
 fingers", "toe", "claw". So <i>is ladhra gearrtha crúbán</i> is perhaps
 shouting that the <i>crúbán</i> under the tub with her are in fact her sister's
 toes. However, I don't quite grasp the grammar so I will update this after
-talking to someone with more Gaelic.
+talking to someone with more Gaelic. The Rathlin LASID returns give
+<i>salann</i> for salt, not <i>saltann</i>.
