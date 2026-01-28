@@ -775,40 +775,36 @@ ditch".
 
 </details>
 
-### <i>Leumachán</i>: leaper
+### <i>Leumachán</i> and <i>leumadair</i>: leaper
 
 <details>
 <summary>
 <img src="../images/froganna/leumrachan.svg" alt="drawing of a frog mid-leap">
 </summary>
 
-<i>I found this in various parts of Scotland, including Lewis,
-West Sutherland, near Ullapool, and one instance on the Kintyre Peninsula in Argyll.</i>
+<i>I found variants of </i>leumachán<i> in various parts of Scotland, including
+Lewis, West Sutherland, near Ullapool, and one instance on the Kintyre
+Peninsula in Argyll. Only one informant, from Dòrlach's fieldwork in the North
+of Lewis, gave </i>leumadair<i>.</i>
 
 <br><br>
 The etymology of this word is transparent: <i>leum</i> + <i>ach</i> + <i>án</i>
-= wee jumping thing. Other Celtic languages have a similar word for jump:
-<br><br>
+= wee jumping thing. Other Celtic languages have a similar word for jump: in
+Welsh, <i>llam</i> gives us <i>llamhidydd</i>, used with the same descriptive
+meaning of "jumper" but for porpoises, presumably seen
+leaping out of the sea. Similarly, <i>leumadair</i> is used by some in Scotland
+for dolphins or grasshoppers, but was used by one informant for frogs.
+<i>Leumadair-feòir</i> (grass jumper) or <i>leumadair-mara</i> (sea jumper) are
+sometimes used to distinguish.
 
-<figure>
-    <img src="../images/froganna/leum.svg">
-    <figcaption><i>A possible etymylogical tree for </i>leum<i>. Transcriptions
-    taken from Wiktionary, except in the case of Manx where it is taken from
-    the LASID.</i></figcaption>
-</figure>
-
-In Welsh, a similar word <i>llamhidydd</i> is used with the same descriptive
-meaning of "jumper", but seems to be used for porpoises, presumably seen
-leaping out of the sea. Similarly, <i>leumadair</i> is used in Scotland for
-dolphins, which is arguably more literally "jumper" rather than "jumping thing".
-
-<br><br>
-A few phonetic variations of this word came up, for example:
+<h4>Variations</h4>
+A few phonetic variations of <i>leumachán</i> came up, for example:
 
 <ul>
 <li><i>leumrachan</i>, Carloway on Lewis</li>
 <li><i>leumbrochan</i>, Clashnessie, also on Lewis</li>
 <li><i>leumbhrochan</i>, Achiltibuie near Ullapool</li>
+<li><i>leumnachan</i>, Drumbuie, Lochalsh</li>
 </ul>
 
 In <a href=https://archive.org/details/transactionsvol00invegoog/page/346/mode/2up>Robertson,
