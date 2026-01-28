@@ -67,8 +67,9 @@ all the Gaelic words for frog.
                     <i>Source transcription</i>: <span class=ipa>${line.source_transcription}</span><br>
                     <i>IPA transcription</i>: <span class=ipa>${line.ipa_transcription}</span><br><br>
                     <i>Year</i>: ${line.year}<br>
-                    <i>Informant</i>: ${line.informant}<br>
-                    <i>Place</i>: ${line.logainm}/${line.placename}<br><br>
+                    <i>Informant</i>: ${line.informant}<br><br>
+                    <i>Place</i>: ${line.logainm} / ${line.placename}<br>
+                    <i>Area</i>: ${line.ceantar} / ${line.area}<br><br>
                     <i>Source</i>: ${line.source}<br><br>
                     <i>Notes</i>: ${line.note}<br>`,
                     {maxHeight: 500},
