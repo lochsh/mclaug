@@ -500,8 +500,10 @@ divides Indo-European languages' words for frogs and toads into categories,
 named for their:
 <br><br>
 <ol>
-    <li>croaking (Latin <i>rana</i>, Latvian <i>var̂de)</i></li>
-    <li>skin (shiny for frogs, bumpy for toads) (the words explored seem largely to be for toads)</li>
+    <li>croaking (Latin <i>rana</i>, Latvian <i>var̂de</i>)</li>
+    <li>skin (shiny for frogs, bumpy for toads) (Sanskrit <i>maṇḍū́ka</i> is
+            given as being from root <i>maṇḍá</i> meaning scum or cream. Not
+            the most convincing...)</li>
     <li>distinctive hands (French <i>crapaud</i> for toad)</li>
     <li>way of moving (jumping for frogs, crawling for toads)</li>
 </ol>
@@ -1081,9 +1083,89 @@ I will elect to officially update my translation to "dyke squatter".
 
 </details>
 
-### breallach lathaí
+### <i>Breallach lathaí</i>: a crude comparison? Rated PG
+<details>
 
-is it rude...
+<i>This term was recorded three times in the LASID, all in Galway.</i>
+<br><br>
+
+When I first looked up <i>breall</i> in the dictionary, I was met with a
+surprise:
+<br><br>
+
+<img src="../images/froganna/breall-dict.png" alt="A screenshot of teanglann.ie
+showing that <i>breall</i> means glans penis or clitoris">
+<br>
+
+<i>Breallach</i> is commonly used for clams. What do frogs, glandes, and clams
+have in common? Well, they are all "fleshy" and share a certain shiny sliminess
+to their opaque surface. I will note that open clams and mussels look like a vulva.
+
+<br><br>
+ The other meanings
+listed for <i>breall</i> in Ó Dónaill's dictionary are:
+
+<blockquote>
+<ol>
+<li>(Ugly) protuberance [<i>but is this just referencing the above meaning?</i>]</li>
+<br>
+<li>Blubber lip [<i>again, this could be comparing someone's lips in an
+insulting way</i>]</li>
+<br>
+<li>Blemish, defect</li>
+<br>
+<li>Rag, clout [<i>presumably meaning patch</i>]</li>
+<br>
+<li>Blunderer, fool [<i>genitals as epithets is common in English at least</i>]</li>
+<br>
+<li>(In phrases) <b>Tá ~ ort</b>, you are making a silly mistake, making a fool
+of yourself [<i>in English you might say you are making an arse of something,
+perhaps here they are saying you're making a glans of something</i>]. <b>Fágadh
+~ air</b>, he was made to look very foolish. <b>Tá ~ orm le mo chuid oibre</b>,
+    my work is sadly neglected, very much in arrears.</li>
+<br>
+<li><b>~ a gorma</b>, knapweed.
+</ol>
+</blockquote>
+
+As per my annotations, I do feel that many of these could be explained via the
+anatomical meaning. The <a href=https://dil.ie/6713>eDIL</a> lists these
+meanings: <b>blur, spot, stain, etc.; slur, blemish, etc.; tumour, a hump,
+knob or botch; the glans penis, etc. a may game, a mocking stock</b> and <b>
+the round knob at the end of the buailteán or striking part of a flail</b>. The
+last meaning perhaps explains <i>breall a gorma</i> for knapweed.
+
+<figure>
+<img src="../images/froganna/flail-knapweed.png" alt="photo of knapweed with spiky
+ball below flower, and medieval flail weapon with spiky ball on a chain">
+<figcaption>
+<i>The spiky ball on the end of a flail resembles the involucre of the
+knapweed. Flail image from <a
+href=https://medievalbritain.com/type/medieval-life/weapons/medieval-flail/>medievalbritain.com</a>,
+   knapweed image from <a
+   href=https://www.ulsterwildlife.org/wildlife-explorer/wildflowers/common-knapweed>ulster-wildlife.org</a></i> 
+</figcaption>
+</figure>
+
+The meanings of "knob" &c. do suggest the frog here could be named for his
+shape: I suppose a frog sort of looks like a little lump of mud when resting,
+see also the use of <i>tortán</i> (small clod) for frog at LASID point 35, also
+in Galway.
+<br><br>
+
+So, does <i>breallach</i> really refer to the frog's mucusy skin? Or is it an
+insult to the frog, calling him blubbery? I don't think frogs are flabby or
+have bulbous lips. Perhaps the "protuberance" meaning could refer to the frog's
+vocal sac, a suggestion from my teacher Dubhán Ó Longáin. Or perhaps it is just
+calling the frog a wee knob. For now, the origin of this term will remain
+mysterious.
+</ul>
+
+</details>
+
+### <i>Lúbóg lathaí</i> and <i>lúbar lathaí</i>: for the frog's bendy legs?
+
+<i>Collectively I found three usages of these terms, all in Galway.</i>
 
 
 <!---
@@ -1345,7 +1427,7 @@ other proposed etymology I've seen is in Volume II of <a
 href=https://www.electricscotland.com/books/pdf/carminagadelicah02carm.pdf><i>Carmina
 Gadelica</i></a>, which says "Probably the
 toad is called 'losgan' from 'losg' irruption, leprosy". This seems much less
-likely to me, based on the various sources found via the EDIL, than the
+likely to me, based on the various sources found via the eDIL, than the
 <i>loiscend</i> derivation. I believe the word given for leprosy mostly
 referred to <a href=https://dil.ie/30704>lameness</a> (which can be a secondary
 effect of leprosy). I'm not sure what toads
@@ -1373,7 +1455,7 @@ footnote for reproducing references from the OED that attest this.
 
 [^17]: I wondered if perhaps the synonyms listed in O'Clery's glossary can
 provide more clues. <i>Cú cnámha</i> appears to read as "hound of
-bones", though the EDIL <a href=https://dil.ie/13291>tells us</a> that
+bones", though the eDIL <a href=https://dil.ie/13291>tells us</a> that
 <i>cú</i> has also been generically used for creatures, particularly insects.
 In Forbes, A. R. (1905), <i>Gaelic names of beasts (Mammalia), birds, fishes,
 insects, replies, etc.</i>, Oliver and Boyd, this word is cited as meaning
