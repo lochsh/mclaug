@@ -1198,7 +1198,7 @@ mhúinteoireacht
 the Manx word <i>rannag</i>, and providing a copy of <i>The Manx Have a Word
 for it, Book 4: Insects, Reptiles etc.</i>
 
-* Ciarán Dunbar, as labhairt fá fhoclaí as Oirialla liom
+* Ciarán Dunbar, as labhairt fá fhocla as Oirialla liom
 
 * Màiri MacMillan, as labhairt fá fhroganna Uibhist liom
 
