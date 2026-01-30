@@ -1085,6 +1085,10 @@ I will elect to officially update my translation to "dyke squatter".
 
 ### <i>Breallach lathaí</i>: a crude comparison? Rated PG
 <details>
+<summary><img src="../images/froganna/breallach.svg" alt="a frog drawn to
+recall Boticelli's The Birth of Venus. The frog is standing on a clam shell
+with one hand on his breast and the other reaching down">
+</summary>
 
 <i>This term was recorded three times in the LASID, all in Galway.</i>
 <br><br>
