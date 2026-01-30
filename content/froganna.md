@@ -994,7 +994,7 @@ Quiggin 196 lámhacán "moving on all fours". doesn't seem to be cognate though
 ### laprachán
 also for crawling
 
-### crúbán claidhe
+### <i>Crúbán claidhe</i>: what do frogs have to do with crabs?
 
 <details>
 <summary><img src="../images/froganna/crubán-claidhe.svg"></summary>
