@@ -1158,8 +1158,8 @@ in Galway.
 <br><br>
 
 So, does <i>breallach</i> really refer to the frog's mucusy skin? Or is it an
-insult to the frog, calling him blubbery? I don't think frogs are flabby or
-have bulbous lips. Perhaps the "protuberance" meaning could refer to the frog's
+insult to the frog, calling him a blemish on the bog? 
+Perhaps the "protuberance" meaning could refer to the frog's
 vocal sac, a suggestion from my teacher Dubhán Ó Longáin. Or perhaps it is just
 calling the frog a wee knob. For now, the origin of this term will remain
 mysterious.
