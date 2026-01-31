@@ -841,22 +841,6 @@ somewhat similar in nature, but are not otherwise illuminating...
 
 </details>
 
-### <i>Preabaire na lathaighe</i>: mud hopper
-
-<details>
-<i>I found only one <a
-href=https://www.duchas.ie/en/cbes/4498088/4351276/4502478>attestation</a> of this, in Mayo.</i>
-
-Another jumping term is <i>preabaire na lathaighe</i>: "mud hopper", or "mud
-bouncer". Other uses I found of <i>preabaire</i> in The Schools' Collection
-appeared to refer to magpies: <a
-href=https://www.duchas.ie/en/cbes/4922245/4863816/5020836>see this familiar
-superstition</a> from Tipperary, and this <a
-href=https://www.duchas.ie/en/cbes/4922329/4870637/5055991>riddle</a> from
-Clare. Ó Dónaill's dictionary gives as <i>prebaire na mbánta</i>
-as a possibility for magpie.
-</details>
-
 ### <i>Crónán</i> and <i>cnádán</i>: for the frog's sweet song
 
 <details>
@@ -1244,6 +1228,26 @@ for frogs.
 A mysterious word. I would love to hear from any Conamara speakers whether they
 have heard this or use it.
 </details>
+
+### <i>Preabaire na lathaighe</i>: mud hopper
+
+<details>
+<summary>
+<i>I found only one <a
+href=https://www.duchas.ie/en/cbes/4498088/4351276/4502478>attestation</a> of this, in Mayo.</i>
+</summary>
+
+<br>
+Another jumping term is <i>preabaire na lathaighe</i>: "mud hopper", or "mud
+bouncer". Other uses I found of <i>preabaire</i> in The Schools' Collection
+appeared to refer to magpies: <a
+href=https://www.duchas.ie/en/cbes/4922245/4863816/5020836>see this familiar
+superstition</a> from Tipperary, and this <a
+href=https://www.duchas.ie/en/cbes/4922329/4870637/5055991>riddle</a> from
+Clare. Ó Dónaill's dictionary gives as <i>prebaire na mbánta</i>
+as a possibility for magpie.
+</details>
+
 
 ### <i>Ceanna-phiullan</i>: usually used for tadpoles
 
