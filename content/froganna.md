@@ -1248,6 +1248,8 @@ Clare. Ó Dónaill's dictionary gives as <i>prebaire na mbánta</i>
 as a possibility for magpie.
 </details>
 
+### <i>Tortán</i>: clod?
+
 
 ### <i>Ceanna-phiullan</i>: usually used for tadpoles
 
