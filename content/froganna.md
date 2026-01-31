@@ -981,18 +981,24 @@ https://en.wiktionary.org/wiki/cnag sense 3 on scottish gaelic
 https://dasg.ac.uk/fieldwork/view/Tm9ydGhBcmd5bGxBQ2FtZXJvbm1pc2N8Z2lsbGUgY3LDoGlnZWFufGlkcDE1NjkxMTU4NHx8ZnJvZ3xyN3x8fGFsbA==
 </details>
 
-### mag, magán, magag, miag, maigean
+### <i>Màgan</i>, <i>mial-mhàgain</i> and <i>laprachán</i>; <i>lapadán</i> and <i>lapadóir</i>: crawlers and paddlers
 <details>
+<summary>
+<img src="../images/froganna/magan.svg", alt="drawing of frog crawling"
+style="max-height: 600px;">
+</summary>
 
-https://www.youtube.com/watch?v=JSP03Q0Mc1I
+<i>All three Nova Scotia datapoints record </i>màgan<i> for frog. In Scotland
+it is more common for this to mean toad. However, its
+variant</i>mial-mhàgain<i> is popular in Scotland for frog, particularly on
+Skye and Raasay.<br><br>
 
-Quiggin 196 lámhacán "moving on all fours". doesn't seem to be cognate though
+In Ireland, </i>laprachán<i> or </i>laprachán na lathái<i> was found once in
+Waterford, and a few times in Galway. </i>Lapadán<i> had one example in
+Galway, and </i>lapadóir<i> one in Mayo.</i>
+<br><br>
+
 </details>
-
-### lapadán
-
-### laprachán
-also for crawling
 
 ### <i>Crúbán claidhe</i>: what do frogs have to do with crabs?
 
@@ -1169,7 +1175,75 @@ mysterious.
 
 ### <i>Lúbóg lathaí</i> and <i>lúbar lathaí</i>: for the frog's bendy legs?
 
+<details>
+<summary>
 <i>Collectively I found three usages of these terms, all in Galway.</i>
+</summary>
+</details>
+
+### <i>Athadán</i>: a lost word from Conamara?
+
+<details>
+<summary>
+<i>I found only one written attestation of this word, and one phonetic in the
+LASID, both in Conamara.</i>
+</summary>
+
+<img src="../images/froganna/athadán.png" alt="Screenshot of book in Gaelic
+type, the text of which is given below">
+
+<blockquote>
+Chonnaic mé chugam thríd an locán,<br>
+Tadhg O Lupán agus a chos tinn,<br>
+Bárr a bhróige air poll a thóna,<br>
+Agus a dhá shúil mhóra a' dul as a cheann?<br>
+<br>
+Athadán no frog air snamh.
+</blockquote>
+
+I have seen this riddle repeated across Galway and Mayo in The Schools'
+Collection and the LASID. The version above is from an 1892 collection of
+Conamara folklore, <i>Siamsa an Gheimhridh - Nó Cois an Teallaigh in
+Iar-Chonnachta</i>. It is a longer version than the later ones I have seen in
+the previously mentioned sources.
+
+I have yet to come across an Irish riddle that I didn't
+think was a bit rubbish. Perhaps I will appreciate them when I have more
+of the language. I might inexpertly translate this riddle as:
+
+<blockquote>
+I seen through to the puddle/pond [assuming <i>locán</i> is <i>lochán</i>]<br>
+Timmy McHands and his sore leg [because his legs are bent funny]<br>
+The top of his shoe in his arsehole [because of how frogs sit]<br>
+And his two big eyes going out his head<br>
+</blockquote>
+
+I can see how it describes a frog...but what is riddley about it? Regardless of
+my feelings about the quality of this riddle, the answer in all six other
+examples of this riddle is always a word meaning "frog". In the fuller example
+here, the answer is "<i>athadán</i> or <i>frog</i>". I do not see how the former
+could be an alternative answer &mdash; I think it is an alternative name for
+the same meaning.
+<br><br>
+The only other usage of this word I've been able to find is in the LASID. Point
+35, South of Tuam, for some reason lists alternative words for "frog" from
+different areas than the one at hand. A word from Conamara is given as <span
+class=ipa>[ɑːdɑːn]</span>. I have read that intervocalic <span
+class=ipa>/h/</span> is deleted in parts of Conamara, so this would appear to
+be our word.
+<br><br>
+But what does it mean? Is it from <i>áth</i>,
+ eaning a shallow fordable part of a river? But frogs prefer
+still water. Is it from <i>athadh</i> for elopement (getting tenuous, but frogs
+are always escaping off if you try to catch them)? "Oast" is given as a meaning
+of <i>áth</i> in <i>The Irish of Cois Fhairrge</i>, which makes no sense at all
+for frogs.
+<br><br>
+A mysterious word. I would love to hear from any Conamara speakers whether they
+have heard this or use it.
+</details>
+
+### <i>Ceanna-phiullan</i>: usually used for tadpoles
 
 
 <!---
@@ -1215,28 +1289,6 @@ on skye
 snot, see smugachán?
 
 or actually just the same as mag
-
-### cnádan
-
-https://www.duchas.ie/en/cbes/5008809/4958019/5055398?HighlightText=cnadan
-(different meaning)
-https://www.duchas.ie/en/cbes/5009102/4986861/5121908?HighlightText=cnadan
-same as above
-https://www.duchas.ie/en/cbes/5009102/4986864/5121908?HighlightText=cnadan
-"a croaker"!
-
-https://www.duchas.ie/en/cbes/4427936/4358938/4454815?HighlightText=cnadan used
-for burdock
-
-lots of examples of it being used for burdock
-
-https://www.duchas.ie/en/cbes/4428116/4379731/4468703?HighlightText=cnadan
-mention of frogs...is cnadan onomatopoeia? title is "signs of rain". I guess it
-means croak! Fun idea: is this only used in places where <cn> is <cr>?
-
-In Stockman (1974), The Irish of Achill, Co Mayo, cnádán is "burr"
-
-In Hamilton's irish of tory island it is burr or burdock
 
 ### cranag
 
