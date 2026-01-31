@@ -220,6 +220,8 @@ personal project. They're not advocations for changes in any standards. My
 choices and their reasoning:
 <br><br>
 
+TODO: i have changed my mine about my half-arsed attempt to use a unified orthography, i will update this soon
+
 <ul>
 
 <li> When standard Irish orthography would have "sc" or "sp", I have written "sg"
