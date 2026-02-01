@@ -1224,14 +1224,11 @@ Athadán no frog air snamh.
 </blockquote>
 
 I have seen this riddle repeated across Galway and Mayo in The Schools'
-Collection and the LASID. The version above is from an 1892 collection of
+Collection and the LASID<sup id="fnref:23"><a class="footnote.ref"
+href="#fn:23">23</a></sup>. The version above is from an 1892 collection of
 Conamara folklore, <i>Siamsa an Gheimhridh - Nó Cois an Teallaigh in
 Iar-Chonnachta</i>. It is a longer version than the later ones I have seen in
 the previously mentioned sources.
-
-I have yet to come across an Irish riddle that I didn't
-think was a bit rubbish. Perhaps I will appreciate them when I have more
-of the language. I might inexpertly translate this riddle as:
 
 <blockquote>
 I seen through to the puddle/pond [assuming <i>locán</i> is <i>lochán</i>]<br>
@@ -1240,10 +1237,11 @@ The top of his shoe in his arsehole [because of how frogs sit]<br>
 And his two big eyes going out his head<br>
 </blockquote>
 
-I can see how it describes a frog...but what is riddley about it? Regardless of
-my feelings about the quality of this riddle, the answer in all six other
+I can see how it describes a frog, but if there is any of the wordplay that I
+usually associate with riddles, it is not apparent to me. Regardless of
+my suspicions about the quality of this riddle, the answer in all six other
 examples of this riddle is always a word meaning "frog". In the fuller example
-here, the answer is "<i>athadán</i> or <i>frog</i>". I do not see how the former
+here, the answer is "<i>athadán</i> or <i>frog</i> swimming". I do not see how the former
 could be an alternative answer &mdash; I think it is an alternative name for
 the same meaning.
 <br><br>
@@ -1255,10 +1253,10 @@ class=ipa>/h/</span> is deleted in parts of Conamara, so this would appear to
 be our word.
 <br><br>
 But what does it mean? Is it from <i>áth</i>,
- eaning a shallow fordable part of a river? But frogs prefer
-still water. Is it from <i>athadh</i> for elopement (getting tenuous, but frogs
+meaning a shallow fordable part of a river? But frogs prefer
+still water, so they and their spawn are not washed away. Is it from <i>athadh</i> for elopement (getting tenuous, but frogs
 are always escaping off if you try to catch them)? "Oast" is given as a meaning
-of <i>áth</i> in <i>The Irish of Cois Fhairrge</i>, which makes no sense at all
+of <i>áth</i> in <i>The Irish of Cois Fhairrge</i>, which makes no sense to me at all
 for frogs.
 <br><br>
 A mysterious word. I would love to hear from any Conamara speakers whether they
@@ -1583,3 +1581,34 @@ shouting that the <i>crúbán</i> under the tub with her are in fact her sister'
 toes. However, I don't quite grasp the grammar so I will update this after
 talking to someone with more Gaelic. The Rathlin LASID returns give
 <i>salann</i> for salt, not <i>saltann</i>.
+
+[^23]: It is interesting comparing this 1892 recording of the riddle with
+versions from the The Schools' Collection (1930s) and the LASID (1950s). Most of
+the later versions are significantly truncated, with all except one missing the first line
+and some missing enough that it evokes a child making a barely passable
+attempt at repeating something they've learnt. All of the examples in The
+Schools' Collection subsitute <i>i gcúl</i> for <i>a' dul</i>, changing the
+meaning from "eyes coming out of his head" to "eyes on the back of his head",
+which makes a lot less sense to me. The version from point 40 of the LASID: <blockquote>
+Brian O Slupáin agus a chois tinn,<br>barr a bhróige i bpoll a thóna,<br>agus a dhá shúil mhóra amuigh ós a chionn
+</blockquote>
+The versions I found in The Schools' Collection: <ul> <li><a href=https://www.duchas.ie/en/cbes/4622967/4618072/4628513>An Trá Bháin,
+Contae na Gaillimhe</a>. This is the fullest version in The Schools'
+Collection. The frog is named <i>Seán Ó Lupáin</i>, "Johnny McHands" perhaps.</li> <li>
+<a href=https://www.duchas.ie/en/cbes/4613689/4608972/4659073>An Spidéal, Contae
+na Gaillimhe</a>. This is very truncated. The frog is named <i>Mach Uí
+Stíopháin</i>. It is a little hard to make out of the "t" in <i>Stíopháin</i>
+is indeed a "t".</li><li>
+<a href=https://www.duchas.ie/en/cbes/4572372/4565414/4572388>Gaillimh</a>.
+  This one varies the most from the others.</li><li>
+  <a href=https://www.duchas.ie/en/cbes/4427990/4364623/4468321>An tInbhear,
+Contae Mhaigh Eo</a>. Also very truncated. The frog is called <i>Mach Uí
+Stiopháin</i>.</li><li>
+<a href=https://www.duchas.ie/en/cbes/5235172/5224715/5243655>Béal Feirste,
+Contae Mhaigh Eo</a>. Also very truncated. The frog is called <i>Mac Ui
+Shliop</i>.</li><li>
+<a href=https://www.duchas.ie/en/cbes/5235172/5225191/5260368>Béal Feirste,
+Contae Mhaigh Eo</a>. The frog
+is called <i>Mac I Shliopán</i>.</li>
+</ul> Vaguely similar riddles elsewhere: <ul> <li><a href=https://www.duchas.ie/en/cbes/4687698/4684993/4689936>Baile Uí
+  Dhuinn, Contae Chiarraí</a></li></ul>
