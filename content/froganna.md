@@ -609,7 +609,9 @@ actually saying it (as with "jeepers" for "Jesus").
     <figcaption><i>Example phonemic transcriptons of the attested words I propose
     are evolutions of "loscann" to "lispín". A </i>síneadh fada<i> on an
     unstressed syllable taken to mean a clear short vowel, as in my experience
-    in Donegal.</i></figcaption>
+    in Donegal. Some further phonetically intermediate stages would be
+    grammatically restricted, e.g. "liospáin" would be a declension of
+    "liospán".  </i></figcaption>
 </figure>
 
 If this word is indeed a phonetic variation on <i>losgann</i>, then the fact
@@ -620,11 +622,12 @@ section on <i>losgann</i>).
 <h4>lisbín locha</h4>
 A variant I found a single example of, in Mayo, was
 <a href=www.duchas.ie/en/cbes/4427846/4350083/4443127<i>lisbín locha</i></a>,
-which we might translate as "lizard of the loch". The schoolchild actually
+which we might translate as "loch salamander". The schoolchild actually
 wrote <i>lisbín lacha</i>, which I don't think makes grammatical sense
 (<i>lacha</i> is the nominative case of the word meaning "duck", but the
  genitive would be needed here. An association with ducks (the animals) makes a
- lot less sense than with bodies of water).
+ lot less sense than with bodies of water). So I assume this was a spelling
+error on the child's part.
 
 <h4>Other usages</h4>
 
