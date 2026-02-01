@@ -599,7 +599,19 @@ the creature. If <i>losgann</i> was such a taboo name, then the evolutions to
 deformation &mdash; that is, deliberately phonetically altering a word to avoid
 actually saying it (as with "jeepers" for "Jesus").
 
-<br><br>
+<figure>
+    <img
+        src="../images/froganna/lisbín-evolution.svg"
+        alt="diagram showing phonetic evolution of /LɞsgəN/ ⟨loscann⟩ to
+        /Lɞsban/ ⟨luspán⟩, to /L'ɪsban/ ⟨liospán⟩ to /L'ɪʃb'in'/ ⟨lispín⟩"
+        style="max-height: 250px;"
+    >
+    <figcaption><i>Example phonemic transcriptons of the attested words I propose
+    are evolutions of "loscann" to "lispín". A </i>síneadh fada<i> on an
+    unstressed syllable taken to mean a clear short vowel, as in my experience
+    in Donegal.</i></figcaption>
+</figure>
+
 If this word is indeed a phonetic variation on <i>losgann</i>, then the fact
 it is also used for lizards might give credence to the idea that the word comes
 directly from salamanders, rather than indirectly via crickets (see above
