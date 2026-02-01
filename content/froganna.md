@@ -1608,7 +1608,8 @@ Stiopháin</i>.</li><li>
 Contae Mhaigh Eo</a>. Also very truncated. The frog is called <i>Mac Ui
 Shliop</i>.</li><li>
 <a href=https://www.duchas.ie/en/cbes/5235172/5225191/5260368>Béal Feirste,
-Contae Mhaigh Eo</a>. The frog
+Contae Mhaigh Eo</a>. The riddle is (presumably accidentally) repeated twice.
+The frog
 is called <i>Mac I Shliopán</i>.</li>
 </ul> Vaguely similar riddles elsewhere: <ul> <li><a href=https://www.duchas.ie/en/cbes/4687698/4684993/4689936>Baile Uí
   Dhuinn, Contae Chiarraí</a></li></ul>
