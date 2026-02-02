@@ -271,6 +271,12 @@ consonant, e.g. standard "froganna" has been rendered "froganaí" to represent
 the map easier to read, so please don't read too deeply into any of the choices
 made in rendering the phonetic transcriptions as words.
 
+<h3>Cognate suffices<h3>
+
+* Irish <i>-án</i>, Scottish <i>-an</i> (when not used for plurals), Manx <i>-ane</i>
+* Irish <i>-adóir</i>, Scottish <i>-adair</i>, Manx <i>-der</i>
+* Irish <i>-ach</i>, Scottish <i>-ach</i>, Manx <i>-agh</i>
+
 <h3>On endonyms</h3>
 
 There are many ways to write Gaelic endonymically. When speaking it I say
@@ -288,7 +294,7 @@ Caighdeán</i> rule of removing phonetically redundant "dh" occurrences, you
 could write my pronunciation as <i>Gaeilg</i>. Some Ulster speakers choose to
 write <i>Gaeilic</i> though I don't think it has a historical basis. I am still
 deciding what I would like to write day-to-day. For the purposes of this blog
-post I have used a more traditional spelling <i>Gaedhilg</i>, as it seemed appropriate to choose a spelling that was closer to the standard <i>Gàidhlig</i> in Scotland.
+post I have used a more traditional spelling <i>Gaedhilg</i>, as it seemed appropriate to choose a spelling that was closer to the standard <i>Gàidhlig</i> in Scotland. Sadly this is further from the Manx <i>Gaelg</i>.
 
 </details>
 
@@ -647,7 +653,7 @@ error on the child's part.
 
 </details>
 
-### <i>Sonasán</i>: an etymylogical outlier?
+### <i>Sonasan</i>: an etymylogical outlier?
 
 <details>
 <summary><img src="../images/froganna/sonasan.svg" alt="A smiling frog next to
@@ -691,14 +697,14 @@ referred to as "wee joys".
 
 <br><br>
 Referring to a frog as a "wee joy", while delightful, seemed unexpected to me.
-Superficially <i>sonasán</i> reminds me of <i>snasán</i>, listed above as a
+Superficially <i>sonasan</i> reminds me of <i>snasán</i>, listed above as a
 synonym for <i>loisgionn</i> (see section on <i>losgann</i>). This word refers
 to polish, stemming from the word <i>snas</i> for cutting or chipping, perhaps
 because of the process of making shellac involves scraping a resin secreted by
 bugs from tree bark, melting it into a sheet, then breaking that into small
 chips. I have no suggestion for how this might be related to frogs or crickets,
 and no justification for why the vowel might have been inserted to create
-<i>sonasán</i>. The knowledge that <a
+<i>sonasan</i>. The knowledge that <a
 href=https://www.duchas.ie/en/cbe/9000894/7260368/9085160>burnt frog
 innards</a> were once used for polish seems like a red herring.
 
@@ -797,14 +803,14 @@ ditch".
 
 </details>
 
-### <i>Leumachán</i> and <i>leumadair</i>: leaper
+### <i>Leumachan</i> and <i>leumadair</i>: leaper
 
 <details>
 <summary>
 <img src="../images/froganna/leumrachan.svg" alt="drawing of a frog mid-leap">
 </summary>
 
-<i>I found variants of </i>leumachán<i> in various parts of Scotland, including
+<i>I found variants of </i>leumachan<i> in various parts of Scotland, including
 Lewis, West Sutherland, near Ullapool, and one instance on the Kintyre
 Peninsula in Argyll. Only one informant, from Dòrlach's fieldwork in the North
 of Lewis, gave </i>leumadair<i>.</i>
