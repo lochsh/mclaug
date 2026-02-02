@@ -400,19 +400,25 @@ attitudes:
            reach it comes.
        </blockquote>
 
-It is tempting to make the conjecture that frogs are a good omen in Scotland,
-which I have heard anecdotally, and that the complete lack of usage of
-<i>frog</i> in Scotland supports the idea of it being a taboo substitute in
-Ireland. This is not something I am able to substantiate; the Scottish matieral
-collected for the Irish Folklore Commission is not accessible to me, and I have
-been unable to find suitably accessible Scottish folklore resources.
-Additionally, Scotland has plenty of descriptive words for frogs that could
-easily be taboo substitutes themselves.
+It is tempting to make the conjecture that the complete lack of usage of
+<i>frog</i> in Scotland is because they are not a bad omen there, thereby
+supporting the idea that the word is used as a taboo substitute in Ireland,
+where there is evidence of negative superstition.  This is not something I am
+able to substantiate. The <a
+href=https://www.calum-maclean-project.celtscot.ed.ac.uk/home/>Calum Maclean
+Project</a> provides digital access to over 13 000 manuscript pages of Gaelic
+folklore collected across Scotland's Highlands and Islands &mdash; no
+particular lore about frogs is available, only an amusing story about a Uist
+man seeing one for the first time and thinking it was a fairy. Could the lack
+of discussion of frogs implicitly suggest that there was not much lore to
+record about them, and hence no negative associations? Perhaps; but Scotland
+has plenty of descriptive words for frogs that could easily be taboo
+substitutes themselves.
 
 <br><br>
 The truth will remain ambiguous, but personally, I find the idea of "frog" being used euphemistically quite
 compelling. One of the words explored below, <i>lisbín</i>, could be explained by
-taboo deformation from <i>losgann</i> &mdash; various phonetically
+taboo deformation from <i>losgann</i>. Various phonetically
 intermediate forms are attested, supporting the idea of it being akin to a
 "minced oath". Perhaps <i>losgann</i> was the taboo word everyone was trying to
 avoid.
