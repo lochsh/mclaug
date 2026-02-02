@@ -1339,6 +1339,26 @@ Mach Uí Stíopháin
 
 Seid (cos of the expanding when croaking) https://archive.org/details/witchcraftsecon01campgoog
 
+http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=2344
+
+> Adeir an sgrioptúir naomhtha gur chuir Dia pláighe iomdha
+ar Pharaon ar son a pheacadh, agus idir gach pláigh do líon a
+thalamh do fhroguibh (beathadhuigh allta róghránda nach fuil
+'nar ttírne tré ghrásuibh Phádruig ar bpátrúin), iondus go
+mbíodh a seomradh, a mbúird, agus a leabtha, lomlán dhíobh agus
+nach bíodh an biadh nó an deoch do ibhdís saor uatha. Do
+gheall Pharaon do Mhaoisi go léigfeadh pobal Dé uadha, .i.
+clann Israel, do bhí fá dhaoirsi aige, dá saoradh é ó na froguibh
+sin. Do ghlac Maoisi sin uadha agus do fhiafruigh dhé gá huair
+búdh mian leis a ndíbeirt uadha.
+
+> The Holy Scripture says that God sent many plagues upon Pharaoh for his sins,
+> and between each plague his land was filled with frogs (a very rare animal
+> that does not exist in our country through the graces of our
+> patron Saint Patrick)
+
+1618
+
 --->
 
 ## Frogs in Gaelic bibles
