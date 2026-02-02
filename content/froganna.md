@@ -1386,6 +1386,24 @@ have heard this or use it.
 
 ### <i>Tortán</i>: clod?
 
+<details>
+<summary><i>I only found this in Ballyglooneen, LASID point 35, in Galway. The
+similar </i>torpán<i> is listed in Dinneen's dictionary with "frog" as a
+possible meaning.</i>
+</summary>
+<br>
+
+<i>Tortán</i> is listed in Ó Dónaill's dictionary as meaning "clump, tussock",
+or "dumpy person". Similarly, <i>torpán</i> is listed as "(small) clump or
+clod" or "roundish thing; lumpish person, pot-bellied person". Perhaps it is
+used for frogs to compare them to clods of turf, or refer generically to small
+lumps of creatures.
+<br><br>
+
+Interestingly, in the context of the <i>crúbán claidhe</i> term,
+Dinneen's dictionary lists both "crab" and "frog" as possible translations of
+<i>torpán</i>.
+</details>
 
 ### <i>Ceanna-phiullan</i>: usually used for tadpoles
 
