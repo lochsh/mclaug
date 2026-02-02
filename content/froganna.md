@@ -308,7 +308,9 @@ doorway" style="max-height: 500px;">
 id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup>.
  Of the 49 LASID locations in Ireland that gave a response for "frog", 34 gave
  a variation on this word. Anecdotally it is the most common word used in Irish
- today. It is the word used in the Manx bibles published in 1775 and 1819.</i>
+ today. It is the word used in the Manx bibles published in 1775 and 1819, and
+ in the 1602 Irish translation of the New Testament. Old Testament translations
+ also use this word, but also use others.</i>
 <br><br>
 
 Could the usage of a foreign loan word, from English, be due to a taboo, where
@@ -433,10 +435,6 @@ avoid.
 <i>I found this across some of Ireland and Scotland, especially in Argyll. Only
 three LASID returns gave this word, two of which were in Argyll, and one in
 Mayo. Three of the four instances in the Schools' Collection are in Donegal.
-This is the word used in <a
-href=https://archive.org/details/leabhuirtseantio00bede/page/68/mode/1up>William
-Bedell's translation of the bible</a> (translated
-in the 1630s), where the plural is rendered </i>lúisgionna<i>.</i>
 <br><br>
 I've seen it suggested that this word is related to
 <a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a><sup id="fnref:12"><a class="footnote-ref" href="#fn:12">12</a></sup>,
@@ -1342,6 +1340,98 @@ Mach Uí Stíopháin
 Seid (cos of the expanding when croaking) https://archive.org/details/witchcraftsecon01campgoog
 
 --->
+
+## Frogs in Gaelic bibles
+
+
+| Year of edition | Bible | Exodus 8:2 | Exodus 8:3 | Exodus 8:{4,5,6,8} | Exodus 8:7 | Psalms 78:45 | Psalms105:30 | Revelation 16:13 |
+| -------- | ------- |
+| 1602 | [New Testament translation by various Irish-born Church of Ireland
+priests](https://archive.org/details/bim_early-english-books-1475-1640_tiomna-nuadh-ar-d-tighea_bible-nt-irish_1602/mode/2up) |  |  |  |  |  | |<i>froguibh</i> |
+| 1685 | [Old Testament translation by English bishop William Bedell](http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=2405) | <i>froguibh</i> | <i>froguidhe</i> | <i>froguidhe</i> | <i>froguidhe</i> | <i>luisgionn</i> | <i>luisghionna</i> | |
+| 1690 | [(as
+        above)](https://archive.org/details/bim_early-english-books-1641-1700_an-biobla-naomhtha-iona_bible-gaelic_1690/page/n59/mode/2up) | <i>froguibh</i> | <i>froguidhe</i> | <i>froguidhe</i> | <i>froguide</i> | <i>luisgionn</i> | <i>luisghionna</i> | |
+| 1817 | [(as above)](https://archive.org/details/GLEBED_DBS_HS/page/59/mode/2up)  |
+| 1827 | [(as above)](https://archive.org/details/leabhuirtseantio00bede/page/68/mode/2up) |
+| ---- | ---- |
+| 1767 | [New Testament translation by James Stewart and Dugald Buchanan](https://digital.nls.uk/rare-items-in-gaelic/archive/97180274) |
+| 1801 | [Old Testament translation by John Stewart of Luss](https://digital.nls.uk/rare-items-in-gaelic/archive/102328331) |
+| ---  | --- |
+| 1610 | [Manx translation of Psalms by John Phillips, born in Wales and educated at Oxford] |
+| 1775 | [Manx bible, led by English bishop Mark  Hildesley, with assistance from Manx scholar John Kelly](https://manx.global.bible/bible/3a7d2caa4b5b4bec-01/PSA.105) |
+
+
+<i>All English translations below are from the King James bible.</i>
+
+The 1602 New Testament, translated over a few decades by quite a few people,
+uses <i>frog</i>, rendered <i>froguibh</i> (I'm not sure what grammatical
+case, but perhaps the nominative plural). Revelations 16:13:
+
+<blockquote>
+Agus dochonnairc mé trí spiorada nemhghlana bá cosmhuil ré <b>froguibh</b>,
+eadhón gné phíasd, ag teachd amach as béul an dragúin, agus as béul
+anainmhidhe, agus as béul an fháidh fhallsa.
+<br>
+And I saw three unclean spirits like <b>frogs</b> [come] out of the mouth of
+the dragon, and out of the mouth of the beast, and out of the mouth of the
+false prophet.
+</blockquote>
+
+Bedell's translation of the Old Testament in the 1630s, first published in 1685
+in Ireland, has various words in different editions. <a href=https://archive.org/details/bim_early-english-books-1641-1700_an-biobla-naomhtha-iona_bible-gaelic_1690/page/n59/mode/2up>
+This 1690 Roman type edition</a> uses <i>frog</i> in Exodus and <i>losgann</i>
+in Psalms. The 1685 edition, which was printed in Gaelic type, is in the RIA's Historical Irish Corpus and is the same in this respect.
+
+Psalms 105:30:
+
+<blockquote>
+Thug a ttalamh amach <b>luisghionna</b> go líonmhar: a seomradhuibh codalta a
+Ríghthe.
+<br>
+Their land brought forth <b>frogs</b> in abundance, in the chambers of their kings.
+</blockquote>
+
+Exodus 8:2:
+
+<blockquote>
+Agus má dhíultann tú léigean dóibh imtheachd: féuch buailfe misi do theoranna
+uile le <b>froguibh</b>.
+<br>
+And if thou refuse to let [them] go, behold, I will smite all thy borders with
+<b>frogs</b>.
+</blockquote>
+
+However, <a href=https://archive.org/details/GLEBED_DBS_HS/page/59/mode/2up>This 1817 Roman type edition</a>
+by the British and Foreign Bible Society uses <i>cnádán</i> in Exodus 8:3 but
+<i>losgann</i> in Exodus 8:{2, 4, 8}.
+
+Exodus 8:2:
+
+<blockquote>
+Agus ma dhiultann tú léigean dóibh imtheachd, féuch, buáilfe misi do theóranna
+uile le <b>lúisgionn</b>.
+</blockquote>
+
+Exodus 8:3 begins:
+
+<blockquote>
+Agus geintidh a nabhann <b>cnadáin</b> go líonmhur [...]
+<br>
+And the river shall bring forth <b>frogs</b> abundantly [...]
+</blockquote>
+
+The use of two different terms within the same chapter is curious. The original
+Hebrew uses the same word in all of Exodus 8 and in Psalms. Revelations was
+written in Greek so cannot be directly compared.
+
+The first Scottish translation (1783-1801) <a
+href=https://digital.nls.uk/rare-items-in-gaelic/archive/102328331#?c=0&m=0&s=0&cv=110&xywh=750%2C-608%2C8599%2C4953><i>Leabhraiche an t-Seann Tiomnaidh,
+air an tarruing o'n cheud chanain chum Gaelic Albannaich</i></a> uses
+<i>losgann</i>.
+
+The 1775 and 1819 editions of the <a
+href=https://manx.global.bible/bible/3a7d2caa4b5b4bec-01/PSA.105>Manx bible</a> use <i>frog</i>, exclusively with
+plural <i>froggyn</i>.
 
 ## Miscellaneous curiosities
 
