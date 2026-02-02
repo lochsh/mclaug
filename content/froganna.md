@@ -1107,7 +1107,11 @@ translation of "squat beast" certainly suits frogs well, see also the section
 on <i>crúbán claidhe</i>. It's possible these terms take their meaning from the
 squatting, rather than movement in that position.
 
+TODO: smàg
+
 <h4><i>Laprachán</i>, <i>lapadán</i> and <i>lapadóir</i></h4>
+
+
 
 </details>
 
