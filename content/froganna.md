@@ -508,7 +508,8 @@ avoid.
 
 <i>I found this across some of Ireland and Scotland, especially in Argyll. Only
 three LASID returns gave this word, two of which were in Argyll, and one in
-Mayo. Three of the four instances in the Schools' Collection are in Donegal.
+Mayo. Three of the four instances in the Schools' Collection are in
+Donegal.</i>
 <br><br>
 I've seen it suggested that this word is related to
 <a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a><sup id="fnref:13"><a class="footnote-ref" href="#fn:13">13</a></sup>,
@@ -612,8 +613,10 @@ class=ipa>/ˈl̪ˠosˠkɑːnˠ/</span>.
 ### <i>Lisbín</i>: taboo deformation of <i>losgann</i>?
 
 <details>
-<summary><img src="../images/froganna/lisbín.svg" alt="A frog floating in water
-with his head just above the surface, with a rippled reflection below him."></summary>
+<summary>
+<img src="../images/froganna/lisbín.svg" alt="A frog floating in water
+with his head just above the surface, with a rippled reflection below him.">
+</summary>
 
 <i>This word and its variants had only a handful of attestations, all in
 Ireland, with no
