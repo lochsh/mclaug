@@ -1074,6 +1074,41 @@ Waterford, and a few times in Galway. </i>Lapadán<i> had one example in
 Galway, </i>lapadóir<i> one in Mayo, and <i>lapadóir lathaí</i> one in Galway.</i>
 <br><br>
 
+I have grouped these words together partly to reduce my illustration burden,
+but also because they all seem to reference some frog's "hands" in some way,
+and perhaps specifically movement via these "hands".
+<br><br>
+
+<h4><i>Màgan</i> and <i>mial-mhàgain</i></h4>
+
+Dwelly's dictionary defines <i>màg</i> as "paw; claw; ludicrous term for
+the hand", and "seal's paw (Argyll), notable as a seal's flippers are similar
+to a frog's feet. Similarly <i>màigean</i> is given as ".
+Fat little man; child beginning to walk; toad; frog; ludicrous term for
+a man with a creeping or sprawling gait, or moving on all fours." MacBain
+suggests this term for toads should properly be <i>mial-mhàgain</i>, meaning
+"squat beast".
+<br><br>
+Certainly there seems to be a strong association with crawling here, hence to
+me this word would evoke toads more than frogs. Nevertheless, variants of
+<i>mial-mhàgain</i> appear popular for frogs. On Skye and Raasay this is
+often rendered <i>mula-mhàgag</i>. In an article on Skye Gaelic by Charles
+Robertson, published by the Gaelic Society of Inverness, this is analysed as a
+form of epenthesis, noting other examples of vowel insertion like
+<i>seana-mhathair</i> instead of <i>sean-mhathair</i> for grandmother.
+Epenthesis between liquid consonants (l, n, r) followed by certain other
+consonants is widespread, but the rules that govern it do vary.
+Compare the various Irish pronounciations of <i>seanmháthair</i> <a
+href=https://www.teanglann.ie/en/fuaim/seanmh%c3%a1thair>here</a>.
+<br><br>
+Is the usage of a term associated with crawling because frogs and toads were
+undistinguished in some places, or the words got confused? MacBain's
+translation of "squat beast" certainly suits frogs well, see also the section
+on <i>crúbán claidhe</i>. It's possible these terms take their meaning from the
+squatting, rather than movement in that position.
+
+<h4><i>Laprachán</i>, <i>lapadán</i> and <i>lapadóir</i></h4>
+
 </details>
 
 ### <i>Crúbán claidhe</i>: what do frogs have to do with crabs?
