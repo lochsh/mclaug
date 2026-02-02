@@ -1090,12 +1090,11 @@ and perhaps specifically movement via these "hands".
 <h4><i>Màgan</i> and <i>mial-mhàgain</i></h4>
 
 Dwelly's dictionary defines <i>màg</i> as "paw; claw; ludicrous term for
-the hand", and "seal's paw (Argyll), notable as a seal's flippers are similar
-to a frog's feet. Similarly <i>màigean</i> is given as ".
-Fat little man; child beginning to walk; toad; frog; ludicrous term for
-a man with a creeping or sprawling gait, or moving on all fours." MacBain
-suggests this term for toads should properly be <i>mial-mhàgain</i>, meaning
-"squat beast".
+the hand", and "seal's paw (Argyll)", notable as a seal's flippers are similar
+to a frog's feet. Similarly <i>màigean</i> is given as "Fat little man; child
+beginning to walk; toad; frog; ludicrous term for a man with a creeping or
+sprawling gait, or moving on all fours." MacBain suggests this term for toads
+should properly be <i>mial-mhàgain</i>, meaning "squat beast".
 <br><br>
 Certainly there seems to be a strong association with crawling here, hence to
 me this word would evoke toads more than frogs. Nevertheless, variants of
