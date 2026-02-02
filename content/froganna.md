@@ -271,11 +271,72 @@ consonant, e.g. standard "froganna" has been rendered "froganaí" to represent
 the map easier to read, so please don't read too deeply into any of the choices
 made in rendering the phonetic transcriptions as words.
 
-<h3>Cognate suffices<h3>
+<h3>Cognate suffices</h3>
 
-* Irish <i>-án</i>, Scottish <i>-an</i> (when not used for plurals), Manx <i>-ane</i>
-* Irish <i>-adóir</i>, Scottish <i>-adair</i>, Manx <i>-der</i>
-* Irish <i>-ach</i>, Scottish <i>-ach</i>, Manx <i>-agh</i>
+Descriptions largely taken from Wiktionary.
+
+<ul>
+    <li><span style="color: #fc04a2;"> Irish <i>-án</i>, Scottish <i>-an</i>,
+    Manx <i>-an</i> or <i>-ane</i></span>
+        <ul><li>
+            <i>lochán</i>,
+            <i>lochan</i>,
+            <i>loghan</i>.
+            "pond, pool, small lake" (diminutive of <i>loch</i>)
+        </li>
+        <li>
+            <i>grianán</i>, <i>grianan</i>, <i>grianane</i>. "sunny spot" (from
+                    the word meaning "sun" + suffix)
+        </li>
+        <li>A suffix used to derive instruments, diminutives, and other nouns
+        from primary nouns.</li>
+        </ul>
+    </li>
+    <li><span style="color: #fc04a2;">Irish <i>-adóir</i>, Scottish
+    <i>-adair</i>, Manx <i>-der</i></span>
+        <ul><li>
+            <i>bréagadóir</i>,
+            <i>breugadair</i>,
+            <i>breageyder</i>.
+            "liar"
+        </li>
+        <li>Suffix appended to words to create an agent noun, indicating a
+        person who does (or a thing that does) something</li>
+        </ul>
+    </li>
+    <li><span style="color: #fc04a2;">Irish <i>-ach</i>, Scottish <i>-ach</i>,
+    Manx <i>-agh</i></span>
+        <ul><li>
+            <i>Éireannach</i>,
+            <i>Èireannach</i>,
+            <i>Erinagh</i>.
+            "Irish person" (noun)
+        </li>
+        <li>Forms nouns from other nouns and adjectives with the sense of
+        ‘person or thing connected or involved with, belonging to, having’.</i>
+        </ul>
+    </li>
+    <li> <span style="color: #fc04a2;"> Irish <i>-aire</i>, Scottish
+    <i>-aire</i>, Manx <i>-eyr</i></span>
+        <ul><li>
+            <i>iascaire</i>, <i>iasgair</i>, <i>eeasteyr</i>. "Fisherman" (from
+                    the word meaning "fish" plus suffix)
+        </li>
+        <li>Forming nouns from nouns and adjectives with the sense of ‘person
+        or thing connected or involved with, belonging to, having’</li>
+        </ul>
+    <li><span style="color: #fc04a2;"> Irish <i>-anna</i>, Scottish <i>-an</i>,
+    Manx <i>-yn</i></span>
+        <ul><li>
+            <i>bláthanna</i>,
+            <i>blàthan</i>,
+            <i>blaaghyn</i>.
+            "flowers"
+        </li>
+        <li>Pluralises some nouns</li>
+        </ul>
+    </li>
+</ul>
 
 <h3>On endonyms</h3>
 
