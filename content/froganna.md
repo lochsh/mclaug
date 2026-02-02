@@ -154,12 +154,20 @@ either a native speaker of the local language, or was reporting on the local
 language.
 
 <br><br>
+For sources like The Schools' Collection in Ireland's National Folklore
+Collection, the linguistic background of the informants is not made explicit as
+in sources like the LASID. If I ever have reason to believe the informant might
+not be a native speaker or be a native speaker from somewhere else, I have
+included a note. I have not included all examples of <i>frog</i> from The
+Schools' Collection as there are so many!
+
+<br><br>
 I do not intend for the datapoints to indicate that frogs were exclusively
 called a particular word in a place, or that a word was exclusively used for
 frogs (e.g. <i>leumachan</i> is <a
         href=https://dasg.ac.uk/fieldwork/view/TGlvbmVsSnVuaW9yU2Vjb25kYXJ5bWFvcmFjaHxsZXVtYWNoYW58ZDBlNjA5fHxsZXVtYWNoYW58cjF8fHxhbGw=>here</a> recorded
-as being used for some beach insect or crusteacean, and I've
-seen an old Irish dictionary translate it as "dolphin"). Much of
+as being used for some beach insect or crusteacean). Many of the words
+recorded might have been supplementary to others. Additionally, much of
 the data is from the mid 20th century and as such may not reflect current local
 vocabulary. Indeed, the local language has sadly died in many of the places
 included. I hope that my work here can celebrate dialectal
