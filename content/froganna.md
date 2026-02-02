@@ -418,7 +418,9 @@ man seeing one for the first time and thinking it was a fairy. Could the lack
 of discussion of frogs implicitly suggest that there was not much lore to
 record about them, and hence no negative associations? Perhaps; but Scotland
 has plenty of descriptive words for frogs that could easily be taboo
-substitutes themselves.
+substitutes themselves. Similarly the only lore I've been able to find about
+frogs on The Isle of Man, where <i>frog</i> was used, is the seeming pan-Gaelic
+belief that licking a frog might cure you of many ailments<sup id="fnref:12"><a class="footnote-ref" href="#fn:12">12</a></sup>.
 
 <br><br>
 The truth will remain ambiguous, but personally, I find the idea of "frog" being used euphemistically quite
@@ -448,8 +450,8 @@ three LASID returns gave this word, two of which were in Argyll, and one in
 Mayo. Three of the four instances in the Schools' Collection are in Donegal.
 <br><br>
 I've seen it suggested that this word is related to
-<a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a><sup id="fnref:12"><a class="footnote-ref" href="#fn:12">12</a></sup>,
-meaning to burn<sup id="fnref:13"><a class="footnote-ref" href="#fn:13">13</a></sup>,
+<a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a><sup id="fnref:13"><a class="footnote-ref" href="#fn:13">13</a></sup>,
+meaning to burn<sup id="fnref:14"><a class="footnote-ref" href="#fn:14">14</a></sup>,
 referring to the sting from touching the secretions of the frog's skin.
 <br><br>
 
@@ -484,7 +486,7 @@ The notes say the salamander is called <i>loisgionn</i> "because it is burnt"
 The eDIL also cites <a href=https://celt.ucc.ie/published/G402561.html>Leabhar Méig
 Shamhradháin</a>, from the 14th
 century, as using <i>losguinn</i> when referring to a
-dragon<sup id="fnref:14"><a class=“footnote-ref" href="#fn:14">14</a></sup>.
+dragon<sup id="fnref:15"><a class=“footnote-ref" href="#fn:15">15</a></sup>.
 
 <br><br>
 Is the humble frog the peat bog's answer to mythical fire beasts of
@@ -495,11 +497,11 @@ dragons and salamanders to the closest creature Ireland has to offer: the frog
 <br><br>
 An alternative hypothesis stems from the discovery that the word "salamander"
 has historically been used for crickets and
-grasshoppers<sup id="fnref:15"><a class=“footnote-ref" href="#fn:15">15</a></sup>.
+grasshoppers<sup id="fnref:16"><a class=“footnote-ref" href="#fn:16">16</a></sup>.
 Crickets are attracted to warmth, and historically have been associated with
-the hearth<sup id="fnref:16"><a class=“footnote-ref" href="#fn:16">16</a></sup>.
+the hearth<sup id="fnref:17"><a class=“footnote-ref" href="#fn:17">17</a></sup>.
 Could the evolution instead be (association with fire) -> crickets ->
-(association with jumping) -> frogs?<sup id="fnref:17"><a class="footnote-ref" href="#fn:17">17</a></sup>
+(association with jumping) -> frogs?<sup id="fnref:18"><a class="footnote-ref" href="#fn:18">18</a></sup>
 
 <br><br>
 An etymology related to the frog's jumping would certainly be less unusual than
@@ -575,14 +577,14 @@ consonants), but this line of enquiry didn't lead anywhere.
 speaker from Donegal</i></a> uses it for a type of fish, and suggests it might be
 related to <i>losgann</i>. If this is the case, I'd expect to be able to find
 some intermediate forms. Fanad's Father Mac Giolla Ceara uses <i>liospán</i>
-for "frog" in <i>Ceachta as Leabhar na Cruinne</i><sup id=fnref:18><a
-class="footnote-ref" href="#fn:18">18</a></sup>.  Ó Dónaill's dictionary
+for "frog" in <i>Ceachta as Leabhar na Cruinne</i><sup id=fnref:19><a
+class="footnote-ref" href="#fn:19">19</a></sup>.  Ó Dónaill's dictionary
 <i>does</i> list <a href=https://www.teanglann.ie/en/fgb/liosp%C3%A1n>this
 spelling</a> as a variant of <i>loscann</i>!
 
 <br><br>
 Similarly, in The Schools' Collection I found a
-<a href=https://www.duchas.ie/en/cbes/4428280/4391740/4478383>usage</a><sup id="fnref:19"><a class=“footnote-ref" href="#fn:19">19</a></sup>
+<a href=https://www.duchas.ie/en/cbes/4428280/4391740/4478383>usage</a><sup id="fnref:20"><a class=“footnote-ref" href="#fn:20">20</a></sup>
 of <i>luspán</i>, referring to some kind of small creature found by a
 turf bank. Whether it refers to a frog is unclear, but it seems very plausible.
 Apart from the quality of the initial consonant, this would likely match the
@@ -881,8 +883,8 @@ some old dictionaries and referred to in articles from the late 1800s. Modern
 sources often cite </i>cnádán<i> as referring to the Natterjack Toad. Cnádán is
 one of the words used in an <a
 href=https://archive.org/details/bioblanaomhthaan00bede/page/58/mode/2up>1817</a>
-translation of the bible<sup id="fnref:20"><a class="footnote-ref"
-href="#fn:20">20</a></sup>.</i>
+translation of the bible<sup id="fnref:21"><a class="footnote-ref"
+href="#fn:21">21</a></sup>.</i>
 <br>
 
 <h4>Crónán: hummer</h4>
@@ -1050,7 +1052,7 @@ the name for a plant shaped like a hare's paw. It is also listed in Ó
 Dónaill's dictionary as referring to a "short potato-ridge at angle to main
 ridge", probably describing its shape as similar to some kind of foot. In Dinneen's dictionary it is
 defined as <a href=https://en.wiktionary.org/wiki/crabfish>"crabfish"</a>, an
-archaic term for crab<sup id="fnref:21"><a class="footnote-ref" href="#fn:21">21</a></sup>.
+archaic term for crab<sup id="fnref:22"><a class="footnote-ref" href="#fn:22">22</a></sup>.
 In the
 LASID, the only places giving <i>crúbán</i> for crab are Rathlin Island,
 Inishowen, Arran and Kintyre. The DASG also records this
@@ -1090,8 +1092,8 @@ Perhaps there's been some sort of merging in Ireland of Celtic-origin
 <i>crúb</i>, perhaps explaining how on Rathlin <i>crúbán</i> is recorded as
 meaning "crab", but is also used in a local telling of Cinderella to mean
 something entirely different that is translated as "pig foot" by Sam Henry
-<sup id="fnref:22"><a
-class="footnote-ref" href="#fn:22">22</a></sup>. Unfortunately the Rathlin
+<sup id="fnref:23"><a
+class="footnote-ref" href="#fn:23">23</a></sup>. Unfortunately the Rathlin
 informants gave no word for pig's feet in the LASID to compare against.
 
 <br><br>
@@ -1233,8 +1235,8 @@ Athadán no frog air snamh.
 </blockquote>
 
 I have seen this riddle repeated across Galway and Mayo in The Schools'
-Collection and the LASID<sup id="fnref:23"><a class="footnote.ref"
-href="#fn:23">23</a></sup>. The version above is from an 1892 collection of
+Collection and the LASID<sup id="fnref:24"><a class="footnote.ref"
+href="#fn:24">24</a></sup>. The version above is from an 1892 collection of
 Conamara folklore, <i>Siamsa an Gheimhridh - Nó Cois an Teallaigh in
 Iar-Chonnachta</i>. It is a longer version than the later ones I have seen in
 the previously mentioned sources.
@@ -1712,9 +1714,20 @@ account, who I read <a href=https://www.dib.ie/biography/poer-robert-a7399>died<
 [^11]: Domnall Mac Gilla Pátraic, see this <a
 href=https://www.dib.ie/biography/poer-robert-a7399>biography</a> of Robert Poer
 
-[^12]: [Macbain, Alexander (1911), <i>An Etymylogical Dictionary of the Gaelic Language</i>, Stirling: Eneas Mackay](https://archive.org/details/etymologicaldict00macbuoft/page/232/mode/2up)
+[^12]: I think people thought frogs to be very absorbent, hence their ability
+to remove aches and pains through touch. The Manx sources consulted were the
+Manx Corpus, which contains John Clague's 1911 <a
+href=https://corpus.gaelg.im/docs/Cooinaghtyn-Manninagh?q=frog><i>Cooinaghtyn
+Manninagh</i></a>, containing the frog cure lore; Sophia Morrison's 1911 <a
+href=https://archive.org/details/manxfairytales00morr/page/n15/mode/2up><i>Manx
+Fairy Tales</i></a> where I found no mention of frogs; <i>Skeealyn
+Cheeil-Chiollee</i>, edited by Stephen Miller and published in 1993, containing
+folklore collected by Charles Roeder in the last quarter of the 19th century,
+and where I found no mention of frogs.
 
-[^13]: The spelling <i>loscann</i> is used
+[^13]: [Macbain, Alexander (1911), <i>An Etymylogical Dictionary of the Gaelic Language</i>, Stirling: Eneas Mackay](https://archive.org/details/etymologicaldict00macbuoft/page/232/mode/2up)
+
+[^14]: The spelling <i>loscann</i> is used
 [here](https://www.duchas.ie/en/cbes/4427982/4363624/4467633?HighlightText=loscann&Route=stories&SearchLanguage=ga)
 to mean "burning", as a variant of standard <i>loisceann</i>. I think the only
 other proposed etymology I've seen is in Volume II of <a
@@ -1732,11 +1745,11 @@ the Middle Ages, was named so because of this. I haven't found much on toads
 being used to refer to people suffering from leprosy at the time, however, but
 I only looked briefly.
 
-[^14]: <i>Comhrag losguinn lasrach mear ná sir—is sé do dhaingean—suail a sheadh
+[^15]: <i>Comhrag losguinn lasrach mear ná sir—is sé do dhaingean—suail a sheadh
 i n-armaibh áigh, marbhaidh fear uaidh dá anáil.</i> The text refers to a
 creature <losguinn> breathing fire.
 
-[^15]: See this [entry](https://anglo-norman.net/entry/salemandre) in an
+[^16]: See this [entry](https://anglo-norman.net/entry/salemandre) in an
 Anglo-Norman dictionary, and this blog post ["Not quite
 cricket?"](https://grammarphobia.com/blog/2021/07/cricket-croquet.html) from
 Grammarphobia.
@@ -1744,10 +1757,10 @@ Grammarphobia.
 Middle English dictionary shows the converse, <i>criket</i>
 being used to refer to the fire lizard.
 
-[^16]: Thank you again to the Grammarphobia blog linked in the previous
+[^17]: Thank you again to the Grammarphobia blog linked in the previous
 footnote for reproducing references from the OED that attest this.
 
-[^17]: I wondered if perhaps the synonyms listed in O'Clery's glossary can
+[^18]: I wondered if perhaps the synonyms listed in O'Clery's glossary can
 provide more clues. <i>Cú cnámha</i> appears to read as "hound of
 bones", though the eDIL <a href=https://dil.ie/13291>tells us</a> that
 <i>cú</i> has also been generically used for creatures, particularly insects.
@@ -1761,22 +1774,22 @@ glossary is referring to crickets, not to salamanders the lizards. Whether the
 usage for frogs evolved from the usage for crickets, or alongside it, will
 remain a mystery.
 
-[^18]: Thank you to Gerry Oates' article <i>An phéist a chuir an cluiche
+[^19]: Thank you to Gerry Oates' article <i>An phéist a chuir an cluiche
 ar Phádraig</i> in <i>An tUltach</i> which directed me to this, via the
 National Corpus of Irish.
 
-[^19]: This was the school my granny went to :) and my granda's parents etc.
+[^20]: This was the school my granny went to :) and my granda's parents etc.
 
-[^20]: The introduction of this bible says that the Old Testament
+[^21]: The introduction of this bible says that the Old Testament
 is translated by William Bedell and "some changes made from the edition of
 1690". I assume one of the changes was changing <i>lúisgionna</i> to
 <i>cnadáin</i> in Exodus 8:3, though curiously in Exodus 8:4 it is left
 unchanged.
 
-[^21]: "Crabfish" also meant lobster, but the LASID universally gives
+[^22]: "Crabfish" also meant lobster, but the LASID universally gives
 <i>gliomach</i> (<i>giomach</i> in Scotland) for that.
 
-[^22]: The word <i>crúbán</i> is used in <a
+[^23]: The word <i>crúbán</i> is used in <a
 href=https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/Sg%C3%A9altan%20Rachreann.pdf>this</a>
 telling of Cinderella, recorded by Aoidhmín Mac Gréagóir and published in 1910.
 This is translated in the Belfast Telegraph 18/04/1939
@@ -1797,7 +1810,7 @@ toes. However, I don't quite grasp the grammar so I will update this after
 talking to someone with more Gaelic. The Rathlin LASID returns give
 <i>salann</i> for salt, not <i>saltann</i>.
 
-[^23]: It is interesting comparing this 1892 recording of the riddle with
+[^24]: It is interesting comparing this 1892 recording of the riddle with
 versions from the The Schools' Collection (1930s) and the LASID (1950s). Most of
 the later versions are significantly truncated, with all except one missing the first line
 and some missing enough that it evokes a child making a barely passable
