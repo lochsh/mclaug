@@ -212,15 +212,20 @@ conventions.
 <details>
 <summary>(Actually not as brief as I imagined, so click here if you would like to
 read)</summary>
-<br>
-I have illustrated many of the words for frog below. I wanted there to be some
-consistency in the orthography used in the illustrations. The choices I've made
-are just my own personal preference that I feel free to apply within this
-personal project. They're not advocations for changes in any standards. My
-choices and their reasoning:
+
+<h3>On frog words</h3>
+
+I have illustrated many of the words for frog below, and wondered whether I
+should try to use a consistent orthography across the illustrations. The
+writing systems used in Scotland and Ireland differ somewhat, having once been
+consistent and now diverged. (The Isle of Man's writing system was developed
+independently and is very different, but the only word I've illustrated from
+there is "frog", so the difference in orthography was not a concern.)
 <br><br>
 
-TODO: i have changed my mine about my half-arsed attempt to use a unified orthography, i will update this soon
+In the end, I have largely written the words in the illustrations as I would
+expect to see them in the places they were recorded. I did, however, make some choices:
+<br><br>
 
 <ul>
 
@@ -234,32 +239,20 @@ TODO: i have changed my mine about my half-arsed attempt to use a unified orthog
   salient phonetically. Also the letter "g" looks nice in the font I chose, so
   this way we get to see it in <i>losgann</i>.</li>
 <br>
-<li>In standard Irish orthography the suffix <i>-án</i> is used diminutively
-  (among other usages). The cognate suffix in Scotland is generally written
-  <i>-an</i>. I have written words found in Scotland with <i>-án</i> for
-  consistency, and also because phonetically this suffix seems to generally be
-  pronounced with a clear vowel, which the fada can indicate. I think, for
-  instance, it makes the plural <i>sonasánan</i> a bit easier to parse and its
-  pronunciation <span class=ipa>[sɔ᷉nəsɑnən]</span> more explicit. Largely I
-  have just done this for consistency, however.</li>
-<br>
+
 <li>When there were a few variants of a word, the choice of which one to
-    represent in the illustrations was a bit arbitrary. For example,
-    <i>cròigean</i> is far less attested than <i>cràigean</i>, but as it seems
-    standard to write <i>cròg</i> rather than <i>cràg</i>, I thought I'd choose
-    the former. Similarly, although I had more attestations of
-    <i>leumrachan</i> than <i>leumachan</i>, the former's etymology requires
-    explaining dissimilation, and it seems more convenient for the headword to
-    be formulated simply from <i>leum</i> + <i>achan</i>, with further
-    explanation of variants later on.</li>
+    represent in the illustrations was a bit arbitrary.
+    For example, although I had more attestations of <i>leumrachan</i> than
+    <i>leumachan</i>,it seemed more convenient for the headword to be formulated simply from
+    <i>leum</i> + <i>achan</i>, with further explanation of variants later
+    on.</li>
 <br>
+
 <li>This mostly applies to the datapoints on the map, but I have followed the old
   Scottish tradition of using "ó" for <span class=ipa>/oː/</span> (as in
   <i>mór</i> Eng. "big") and "ò" for <span class=ipa>/ɔː/</span> (as in
-  <i>òran</i> Eng. "song"). This pronunciation is something that varies
-  dialectically and I don't always know e.g. in a placename which one is
-  appropriate. So mostly this just comes up with me writing <i>mór</i> in Scottish
-  placenames instead of the standard <i>mòr</i>.</li>
+  <i>òran</i> Eng. "song").
+</li>
 
 </ul>
 
@@ -277,20 +270,26 @@ consonant, e.g. standard "froganna" has been rendered "froganaí" to represent
 <span class=ipa>[frɑgəniː]</span>. These spellings are really just here to make
 the map easier to read, so please don't read too deeply into any of the choices
 made in rendering the phonetic transcriptions as words.
+
+<h3>On endonyms</h3>
+
+There are many ways to write Gaelic endonymically. When speaking it I say
+something like <span class=ipa>[geːlɪk]</span> or <span
+class=ipa>[keːlɪk]</span>, like the Ulster speaker recorded <a
+href=https://www.teanglann.ie/en/fuaim/gaeilge>here</a>. This would also
+reflect the pronunciation of some traditional speakers from Argyll.
+
 <br><br>
-A scarcity of relevant data from the Isle of Man means its quite different
-orthography is not something I've had to incorporate into the notes below.
-<br><br>
-If you have any thoughts on my orthographic choices here please feel free to
-<a href="mailto:h@mcla.ug">e-mail me</a>, bearing in mind I haven't taken any
-of the choices here too seriously. I am, however, interested in the trade-offs to
-be made between the wider legibility of etymylogical preservation (e.g. between
-        Ireland and Scotland) and the benefits of simplification, between
-simplification and specificity (how phonetically conditioned is the distinction
-        between ò and ó?), and between specificity and again broad
-applicability across pronunciations. As a learner of Donegal Gaelic I am
-also interested in the effects of spelling standardisation that
-fails to represent some dialects.
+Historically in Ireland I have seen this written <i>Gaedhilg</i> or
+<i>Gaedhilc</i> (epenthesis is triggered between the l and g/c). <i>An
+Caighdeán Oifigiúil</i> would have me write this as <i>Gaeilge</i>, even though
+this would represent the genitive case for me. Following the <i>An
+Caighdeán</i> rule of removing phonetically redundant "dh" occurrences, you
+could write my pronunciation as <i>Gaeilg</i>. Some Ulster speakers choose to
+write <i>Gaeilic</i> though I don't think it has a historical basis. I am still
+deciding what I would like to write day-to-day. For the purposes of this blog
+post I have used a more traditional spelling <i>Gaedhilg</i>, as it seemed appropriate to choose a spelling that was closer to the standard <i>Gàidhlig</i> in Scotland.
+
 </details>
 
 ## Click on the illustrations to expand the notes for each word!
