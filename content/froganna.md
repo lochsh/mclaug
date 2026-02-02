@@ -1343,21 +1343,184 @@ Seid (cos of the expanding when croaking) https://archive.org/details/witchcraft
 
 ## Frogs in Gaelic bibles
 
+<details>
+<summary>Table of translations for "frog" in various Gaelic bibles 1602-1827</summary>
 
-| Year of edition | Bible | Exodus 8:2 | Exodus 8:3 | Exodus 8:4 | Exodus 8:5 | Exodus 8:6 | Exodus 8:7 | Exodus 8:8 | Psalms 78:45 | Psalms 105:30 | Revelation 16:13 |
-| ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1602 | [New Testament translation by various Irish-born Church of Ireland priests](https://archive.org/details/bim_early-english-books-1475-1640_tiomna-nuadh-ar-d-tighea_bible-nt-irish_1602/mode/2up) |  |  |  |  |  |  |  |  |  | <i>froguibh</i> |
-| 1685 | [Old Testament translation by English bishop William Bedell](http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=2405) | <i>froguibh</i> | <i>froguidhe</i> | <i>froguidhe</i> | <i>froguidhe</i> | <i>froguidhe</i> | <i>froguidhe</i> | <i>froguidhe</i> | <i>luisgionn</i> | <i>luisghionna</i> | |
-| 1690 | [(as above)](https://archive.org/details/bim_early-english-books-1641-1700_an-biobla-naomhtha-iona_bible-gaelic_1690/page/n59/mode/2up) | <i>froguibh</i> | <i>froguidhe</i> | <i>froguidhe</i> | <i>froguidhe</i> | <i>froguidhe</i> | <i>froguide</i> | <i>froguidhe</i> | <i>luisgionn</i> | <i>luisghionna</i> | |
-| 1817 | [(as above)](https://archive.org/details/GLEBED_DBS_HS/page/59/mode/2up)  | <i>lúisgionn</i> | <i>cnadáin</i> | <i>luisgionn</i> | <i>luisgionn</i> | <i>cnadáin</i> | <i>cnadáin</i> | <i>luisgionn</i> | <i>luisgionn</i> | <i>luisgionna</i> |  |
-| 1827 | [(as above)](https://archive.org/details/leabhuirtseantio00bede/page/68/mode/2up) | <i>lúisgionn</i> | <i>lúisgionna</i> | <i>luisgionna</i> | <i>lúisgionna</i> | <i>lúisgionna</i> | <i>lúisgionna</i> | <i>lúisgionna</i> | <i>luisgion</i> | <i>lúisgionna</i> | |
-| ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1767 | [New Testament translation by James Stewart and Dugald Buchanan, both Scottish](https://digital.nls.uk/rare-items-in-gaelic/archive/97180274) | | | | | | | | | | <i>losguinn</i> |
-| 1801 | [Old Testament translation by John Stewart of Luss, son of James Stewart above](https://digital.nls.uk/rare-items-in-gaelic/archive/102328331) | <i>losgannaibh</i> | <i>losgainn</i> | <i>losgainn</i> | <i>losgannaibh</i> | <i>losgainn</i> | <i>losgainn</i> | <i>losgain</i> | | | |
-| ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1610 | [Manx translation of Psalms by John Phillips, born in Wales and educated at Oxford](https://www.academia.edu/41457167/Phillips_Manx_translation_of_the_Psalms_MNH_MS_00003_Corrected) | | | | | | | | <i>ffroggyn</i> | <i>ffroggyn</i> | |
-| 1775 | [Manx bible, led by English bishop Mark  Hildesley, with assistance from Manx scholar John Kelly](https://manx.global.bible/bible/3a7d2caa4b5b4bec-01/PSA.105) | <i>froggyn</i> |<i>froggyn</i> |<i>froggyn</i> |<i>froggyn</i> |<i>froggyn</i> |<i>froggyn</i> |<i>froggyn</i> |<i>froggyn</i> |<i>froggyn</i> |<i>froggyn</i> |
-
+<table>
+<thead>
+<tr>
+<th>Year of edition</th>
+<th>Bible</th>
+<th>Exodus 8:2</th>
+<th>Exodus 8:3</th>
+<th>Exodus 8:4</th>
+<th>Exodus 8:5</th>
+<th>Exodus 8:6</th>
+<th>Exodus 8:7</th>
+<th>Exodus 8:8</th>
+<th>Psalms 78:45</th>
+<th>Psalms 105:30</th>
+<th>Revelation 16:13</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1602</td>
+<td><a href="https://archive.org/details/bim_early-english-books-1475-1640_tiomna-nuadh-ar-d-tighea_bible-nt-irish_1602/mode/2up">New Testament translation by various Irish-born Church of Ireland priests</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><i>froguibh</i></td>
+</tr>
+<tr>
+<td>1685</td>
+<td><a href="http://corpas.ria.ie/index.php?fsg_function=3&amp;fsg_id=2405">Old Testament translation by English bishop William Bedell</a></td>
+<td><i>froguibh</i></td>
+<td><i>froguidhe</i></td>
+<td><i>froguidhe</i></td>
+<td><i>froguidhe</i></td>
+<td><i>froguidhe</i></td>
+<td><i>froguidhe</i></td>
+<td><i>froguidhe</i></td>
+<td><i>luisgionn</i></td>
+<td><i>luisghionna</i></td>
+<td></td>
+</tr>
+<tr>
+<td>1690</td>
+<td><a href="https://archive.org/details/bim_early-english-books-1641-1700_an-biobla-naomhtha-iona_bible-gaelic_1690/page/n59/mode/2up">(as above)</a></td>
+<td><i>froguibh</i></td>
+<td><i>froguidhe</i></td>
+<td><i>froguidhe</i></td>
+<td><i>froguidhe</i></td>
+<td><i>froguidhe</i></td>
+<td><i>froguide</i></td>
+<td><i>froguidhe</i></td>
+<td><i>luisgionn</i></td>
+<td><i>luisghionna</i></td>
+<td></td>
+</tr>
+<tr>
+<td>1817</td>
+<td><a href="https://archive.org/details/GLEBED_DBS_HS/page/59/mode/2up">(as above)</a></td>
+<td><i>lúisgionn</i></td>
+<td><i>cnadáin</i></td>
+<td><i>luisgionn</i></td>
+<td><i>luisgionn</i></td>
+<td><i>cnadáin</i></td>
+<td><i>cnadáin</i></td>
+<td><i>luisgionn</i></td>
+<td><i>luisgionn</i></td>
+<td><i>luisgionna</i></td>
+<td></td>
+</tr>
+<tr>
+<td>1827</td>
+<td><a href="https://archive.org/details/leabhuirtseantio00bede/page/68/mode/2up">(as above)</a></td>
+<td><i>lúisgionn</i></td>
+<td><i>lúisgionna</i></td>
+<td><i>luisgionna</i></td>
+<td><i>lúisgionna</i></td>
+<td><i>lúisgionna</i></td>
+<td><i>lúisgionna</i></td>
+<td><i>lúisgionna</i></td>
+<td><i>luisgion</i></td>
+<td><i>lúisgionna</i></td>
+<td></td>
+</tr>
+<tr>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>1767</td>
+<td><a href="https://digital.nls.uk/rare-items-in-gaelic/archive/97180274">New Testament translation by James Stewart and Dugald Buchanan, both Scottish</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><i>losguinn</i></td>
+</tr>
+<tr>
+<td>1801</td>
+<td><a href="https://digital.nls.uk/rare-items-in-gaelic/archive/102328331">Old Testament translation by John Stewart of Luss, son of James Stewart above</a></td>
+<td><i>losgannaibh</i></td>
+<td><i>losgainn</i></td>
+<td><i>losgainn</i></td>
+<td><i>losgannaibh</i></td>
+<td><i>losgainn</i></td>
+<td><i>losgainn</i></td>
+<td><i>losgain</i></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>1610</td>
+<td><a href="https://www.academia.edu/41457167/Phillips_Manx_translation_of_the_Psalms_MNH_MS_00003_Corrected">Manx translation of Psalms by John Phillips, born in Wales and educated at Oxford</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><i>ffroggyn</i></td>
+<td><i>ffroggyn</i></td>
+<td></td>
+</tr>
+<tr>
+<td>1775</td>
+<td><a href="https://manx.global.bible/bible/3a7d2caa4b5b4bec-01/PSA.105">Manx bible, led by English bishop Mark  Hildesley, with assistance from Manx scholar John Kelly</a></td>
+<td><i>froggyn</i></td>
+<td><i>froggyn</i></td>
+<td><i>froggyn</i></td>
+<td><i>froggyn</i></td>
+<td><i>froggyn</i></td>
+<td><i>froggyn</i></td>
+<td><i>froggyn</i></td>
+<td><i>froggyn</i></td>
+<td><i>froggyn</i></td>
+<td><i>froggyn</i></td>
+</tr>
+</tbody>
+</table>
+</details>
 
 ## Miscellaneous curiosities
 
