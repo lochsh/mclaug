@@ -382,9 +382,8 @@ doorway" style="max-height: 500px;">
 id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup>.
  Of the 49 LASID locations in Ireland that gave a response for "frog", 34 gave
  a variation on this word. Anecdotally it is the most common word used in Irish
- today. It is the word used in the Manx bibles published in 1775 and 1819, and
- in the 1602 Irish translation of the New Testament. Old Testament translations
- also use this word, but also use others.</i>
+ today.<br><br>It is the word used in the Manx bibles published in 1775 and 1819, and
+ in the 1602 Irish translation of the New Testament.</i>
 <br><br>
 
 Could the usage of a foreign loan word, from English, be due to a taboo, where
@@ -488,8 +487,9 @@ of discussion of frogs implicitly suggest that there was not much lore to
 record about them, and hence no negative associations? Perhaps; but Scotland
 has plenty of descriptive words for frogs that could easily be taboo
 substitutes themselves. Similarly the only lore I've been able to find about
-frogs on The Isle of Man, where <i>frog</i> was used, is the seeming pan-Gaelic
-belief that licking a frog might cure you of many ailments<sup id="fnref:12"><a class="footnote-ref" href="#fn:12">12</a></sup>.
+frogs on The Isle of Man, where <i>frog</i> was used, is the seemingly
+pan-Gaelic belief that licking a frog might cure you of many ailments<sup
+id="fnref:12"><a class="footnote-ref" href="#fn:12">12</a></sup>.
 
 <br><br>
 The truth will remain ambiguous, but personally, I find the idea of "frog" being used euphemistically quite
