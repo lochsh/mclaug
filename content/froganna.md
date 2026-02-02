@@ -1346,6 +1346,11 @@ Seid (cos of the expanding when croaking) https://archive.org/details/witchcraft
 <details>
 <summary>Table of translations for "frog" in various Gaelic bibles 1602-1827</summary>
 
+<br>
+The words vary in grammatical case and plurality. The original Hebrew of Exodus
+and Psalms uses the same word <a href=https://biblehub.com/hebrew/6854.htm>throughout</a> for "frog".
+<br><br>
+
 <table>
 <thead>
 <tr>
