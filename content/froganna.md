@@ -954,8 +954,8 @@ somewhat similar in nature, but are not otherwise illuminating...
 some old dictionaries and referred to in articles from the late 1800s. Modern
 sources often cite </i>cnádán<i> as referring to the Natterjack Toad. Cnádán is
 one of the words used in an <a
-href=https://archive.org/details/bioblanaomhthaan00bede/page/58/mode/2up>1817</a>
-translation of the bible<sup id="fnref:21"><a class="footnote-ref"
+href=https://archive.org/details/bioblanaomhthaan00bede/page/58/mode/2up>1817
+edition</a> of the bible<sup id="fnref:21"><a class="footnote-ref"
 href="#fn:21">21</a></sup>.</i>
 <br>
 
@@ -1892,9 +1892,9 @@ National Corpus of Irish.
 
 [^21]: The introduction of this bible says that the Old Testament
 is translated by William Bedell and "some changes made from the edition of
-1690". I assume one of the changes was changing <i>lúisgionna</i> to
-<i>cnadáin</i> in Exodus 8:3, though curiously in Exodus 8:4 it is left
-unchanged.
+1690". I assume one of the changes was changing to use <i>cnadáin</i>, though
+only in some places. See the appendix on Gaelic bibles for a full table of frog
+words used in bible editions.
 
 [^22]: "Crabfish" also meant lobster, but the LASID universally gives
 <i>gliomach</i> (<i>giomach</i> in Scotland) for that.
