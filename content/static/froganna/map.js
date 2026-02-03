@@ -63,6 +63,21 @@ $.get(
     }
 );
 
+function onEachFeature(feature, marker) {
+    marker.bindPopup(
+        `<b>${feature.properties.word}</b><br>
+        <i>Source transcription</i>: <span class=ipa>${feature.properties.source_transcription}</span><br>
+        <i>IPA transcription</i>: <span class=ipa>${feature.properties.ipa_transcription}</span><br><br>
+        <i>Year</i>: ${feature.properties.year}<br>
+        <i>Informant</i>: ${feature.properties.informant}<br><br>
+        <i>Place</i>: ${feature.properties.logainm} / ${feature.properties.placename}<br>
+        <i>Area</i>: ${feature.properties.ceantar} / ${feature.properties.area}<br><br>
+        <i>Source</i>: ${feature.properties.source}<br><br>
+        <i>Notes</i>: ${feature.properties.note}<br>`,
+        {maxHeight: 500},
+    ).openPopup();
+}
+
 $.getJSON(
     "../static/froganna/data/frogs.json",
     function(frogData) {
@@ -83,7 +98,8 @@ $.getJSON(
                         feature.properties.category
                     );
                     return isSourceChecked && isWordChecked;
-                }
+                },
+                onEachFeature: onEachFeature,
             }
         ).addTo(map)
 
@@ -114,30 +130,3 @@ $.getJSON(
         geojsonLayer.addData(frogData)
     }
 );
-
-<!--$.get(-->
-    <!--"../images/froganna/data/frogs.csv",-->
-    <!--function(data) {-->
-        <!--var words = $.csv.toObjects(data);-->
-        <!--for (line of words) {-->
-            <!--var marker = L.marker([line.latitude, line.longitude]);-->
-            <!--marker.bindPopup(-->
-                <!--`<b>${line.word}</b><br>-->
-                <!--<i>Source transcription</i>: <span class=ipa>${line.source_transcription}</span><br>-->
-                <!--<i>IPA transcription</i>: <span class=ipa>${line.ipa_transcription}</span><br><br>-->
-                <!--<i>Year</i>: ${line.year}<br>-->
-                <!--<i>Informant</i>: ${line.informant}<br><br>-->
-                <!--<i>Place</i>: ${line.logainm} / ${line.placename}<br>-->
-                <!--<i>Area</i>: ${line.ceantar} / ${line.area}<br><br>-->
-                <!--<i>Source</i>: ${line.source}<br><br>-->
-                <!--<i>Notes</i>: ${line.note}<br>`,-->
-                <!--{maxHeight: 500},-->
-            <!--).openPopup();-->
-
-            <!--clustering.addLayer(marker);-->
-        <!--}-->
-
-        <!--map.addLayer(clustering);-->
-
-    <!--}-->
-<!--);-->

@@ -18,8 +18,6 @@ Status: draft
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
 
-<script src="https://github.com/ghybs/Leaflet.FeatureGroup.SubGroup/releases/download/v1.0.2/leaflet.featuregroup.subgroup.js"></script>
-
 ## Cuireadh gan iarraidh: an uninvited guest
 
 The other night I was sitting on the sofa cuddling my cat when, out of the
