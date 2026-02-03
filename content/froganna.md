@@ -38,7 +38,9 @@ all the Gaelic words for frog.
 
 ## A map of words for frogs across the Gaelic world
 
+<div id="map-container">
 <div id="map" style="height: 700px; width: 95%; margin: auto"></div>
+</div>
 
 <script>
     var map = L.map('map').setView([55.2, -5.3], 6);
@@ -48,30 +50,32 @@ all the Gaelic words for frog.
     }).addTo(map);
 
     var clustering = L.markerClusterGroup();
+    var container = document.getElementById("map-container");
 
     $.get(
         "../images/froganna/data/sources.csv",
         function(data) {
             var div = document.createElement("div");
+            div.id = "sources";
             div.className = "inputs";
-
 
             var sources = $.csv.toObjects(data);
             for (source of sources) {
                 var input = document.createElement("input");
                 input.className = "source";
-                input.value = source;
-                input.checked = "true";
+                input.type = "checkbox";
+                input.value = source.source;
+                input.setAttribute("checked", "true");
 
                 var label = document.createElement("label");
-                label.for = source;
-                label.innerHTML = source;
+                label.setAttribute("for", source.source);
+                label.innerHTML = source.source;
 
                 input.appendChild(label);
                 div.appendChild(input);
             }
 
-            document.body.appendChild(div);
+            container.appendChild(div);
         }
     );
 
@@ -79,24 +83,26 @@ all the Gaelic words for frog.
         "../images/froganna/data/words.csv",
         function(data) {
             var div = document.createElement("div");
+            div.id = "words";
             div.className = "inputs";
 
             var words = $.csv.toObjects(data);
             for (word of words) {
                 var input = document.createElement("input");
                 input.className = "word";
-                input.value = word;
-                input.checked = "true";
+                input.type = "checkbox";
+                input.value = word.word;
+                input.setAttribute("checked", "true");
 
                 var label = document.createElement("label");
-                label.for = word;
-                label.innerHTML = word;
+                label.setAttribute("for", word.word);
+                label.innerHTML = word.word;
 
                 input.appendChild(label);
                 div.appendChild(input);
             }
 
-            document.body.appendChild(div);
+            container.appendChild(div);
         }
     );
 
