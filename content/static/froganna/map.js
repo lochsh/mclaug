@@ -56,8 +56,8 @@ $(document).ready(function () {
         );
     }
 
-    makeCheckboxes("words", "word", "checkbox columns", "Words", true);
-    makeCheckboxes("sources", "source", "checkbox", "Sources", false);
+    makeCheckboxes("words", "word", "checkboxes columns", "Words", true);
+    makeCheckboxes("sources", "source", "checkboxes", "Sources", false);
 
     function onEachFeature(feature, marker) {
         marker.bindPopup(
