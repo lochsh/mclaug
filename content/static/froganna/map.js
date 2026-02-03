@@ -4,8 +4,9 @@ var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
-<!--var clustering = L.markerClusterGroup();-->
 var container = document.getElementById("map-container");
+var clustering = L.markerClusterGroup();
+map.addLayer(clustering);
 
 $.get(
     "../static/froganna/data/sources.txt",
@@ -101,7 +102,7 @@ $.getJSON(
                 },
                 onEachFeature: onEachFeature,
             }
-        ).addTo(map)
+        ).addTo(clustering)
 
         function updateCheckboxStates() {
             checkboxStates = {
@@ -120,13 +121,14 @@ $.getJSON(
 
         for (let input of document.querySelectorAll("input")) {
             input.onchange = (e) => {
-                geojsonLayer.clearLayers()
-                updateCheckboxStates()
-                geojsonLayer.addData(frogData)
+                clustering.clearLayers();
+                geojsonLayer.clearLayers();
+                updateCheckboxStates();
+                geojsonLayer.addData(frogData).addTo(clustering);
             }
         }
 
-        updateCheckboxStates()
-        geojsonLayer.addData(frogData)
+        updateCheckboxStates();
+        geojsonLayer.addData(frogData).addTo(clustering);
     }
 );
