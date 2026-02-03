@@ -1006,7 +1006,7 @@ style="max-height: 600px;">
 
 <i>All three Nova Scotia datapoints record </i>màgan<i> for frog. In Scotland
 it is more common for this to mean toad. However, its
-variant</i>mial-mhàgain<i> is popular in Scotland for frog, particularly on
+variant </i>mial-mhàgain<i> is popular in Scotland for frog, particularly on
 Skye and Raasay.<br><br>
 
 In Ireland, </i>laprachán<i> or </i>laprachán na lathái<i> was found once in
