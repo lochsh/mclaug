@@ -38,6 +38,15 @@ all the Gaelic words for frog.
 
 ## A map of words for frogs across the Gaelic world
 
+<div class="inputs" id="years">
+  <input type="checkbox" class="year" name="1890" value="1890" checked="true">
+  <label for="1890">1890</label>
+  <input type="checkbox" class="year" value="1892" checked="true">
+  <label for="1892">1892</label>
+  <input type="checkbox" class="year" value="1893" checked="true">
+  <label for="1893">1893</label>
+</div>
+
 <div id="map" style="height: 700px; width: 95%; margin: auto"></div>
 
 <script>
@@ -49,15 +58,59 @@ all the Gaelic words for frog.
 
     var clustering = L.markerClusterGroup();
 
-    var LASID = L.featureGroup.subGroup(clustering).addTo(map);
-    var DASG = L.featureGroup.subGroup(clustering).addTo(map);
-    var NFC = L.featureGroup.subGroup(clustering).addTo(map);
-    var tobar = L.featureGroup.subGroup(clustering).addTo(map);
-    var dorlach = L.featureGroup.subGroup(clustering).addTo(map);
-    var other = L.featureGroup.subGroup(clustering).addTo(map);
+    $.get(
+        "../images/froganna/data/sources.csv",
+        function(data) {
+            var div = document.createElement("div");
+            div.className = "inputs";
+
+
+            var sources = $.csv.toObjects(data);
+            for (source of sources) {
+                var input = document.createElement("input");
+                input.className = "source";
+                input.value = source;
+                input.checked = "true";
+
+                var label = document.createElement("label");
+                label.for = source;
+                label.appendChild(source);
+
+                input.appendChild(label);
+                div.appendChild(input);
+            }
+
+            document.body.appendChild(div);
+        }
+    );
 
     $.get(
-        "../images/froganna/data.csv",
+        "../images/froganna/data/words.csv",
+        function(data) {
+            var div = document.createElement("div");
+            div.className = "inputs";
+
+            var words = $.csv.toObjects(data);
+            for (word of words) {
+                var input = document.createElement("input");
+                input.className = "word";
+                input.value = word;
+                input.checked = "true";
+
+                var label = document.createElement("label");
+                label.for = word;
+                label.appendChild(word);
+
+                input.appendChild(label);
+                div.appendChild(input);
+            }
+
+            document.body.appendChild(div);
+        }
+    );
+
+    $.get(
+        "../images/froganna/data/frogs.csv",
         function(data) {
             var words = $.csv.toObjects(data);
             for (line of words) {
@@ -75,41 +128,11 @@ all the Gaelic words for frog.
                     {maxHeight: 500},
                 ).openPopup();
 
-                switch(line.source_category) {
-                    case "LASID":
-                        LASID.addLayer(marker);
-                        break;
-                    case "DASG":
-                        DASG.addLayer(marker);
-                        break;
-                    case "NFC":
-                        NFC.addLayer(marker);
-                        break;
-                    case "tobar":
-                        tobar.addLayer(marker);
-                        break;
-                    case "dòrlach":
-                        dorlach.addLayer(marker);
-                        break;
-                    default:
-                        other.addLayer(marker);
-                        break;
-                }
-
                 clustering.addLayer(marker);
             }
 
             map.addLayer(clustering);
 
-            var overlayMaps = {
-                "Linguistic Atlas and Survey of Irish Dialects": LASID,
-                "Digital Archive of Scottish Gaelic": DASG,
-                "National Folklore Collection": NFC,
-                "Tobar an Dualchais": tobar,
-                "Dòrlach fieldwork": dorlach,
-                "other": other,
-            }
-            var layerControl = L.control.layers({"OSM": osm}, overlayMaps).addTo(map);
         }
     );
 
