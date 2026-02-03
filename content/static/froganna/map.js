@@ -9,44 +9,6 @@ var clustering = L.markerClusterGroup();
 map.addLayer(clustering);
 
 $.get(
-    "../static/froganna/data/sources.csv",
-    function(data) {
-        var div = document.createElement("fieldset");
-        div.id = "sources";
-        div.className = "inputs";
-
-        var legend = document.createElement("legend");
-        legend.innerHTML = "Sources";
-        div.appendChild(legend);
-
-        var list = document.createElement("ul");
-        list.className = "checkboxes";
-        div.appendChild(list);
-
-        var sources = $.csv.toObjects(data);
-        for (source of sources) {
-            var input = document.createElement("input");
-            input.className = "source";
-            input.type = "checkbox";
-            input.value = source.key;
-            input.setAttribute("checked", "true");
-
-            var label = document.createElement("label");
-            label.setAttribute("for", source.key);
-            label.innerHTML = source.display;
-
-            var item = document.createElement("li");
-            item.appendChild(input);
-            item.appendChild(label);
-
-            list.appendChild(item);
-        }
-
-        container.appendChild(div);
-    }
-);
-
-$.get(
     "../static/froganna/data/words.csv",
     function(data) {
         var div = document.createElement("fieldset");
@@ -84,6 +46,44 @@ $.get(
         toggleAll.id = "toggle-all-words";
         toggleAll.innerHTML = "Toggle all";
         div.appendChild(toggleAll);
+
+        container.appendChild(div);
+    }
+);
+
+$.get(
+    "../static/froganna/data/sources.csv",
+    function(data) {
+        var div = document.createElement("fieldset");
+        div.id = "sources";
+        div.className = "inputs";
+
+        var legend = document.createElement("legend");
+        legend.innerHTML = "Sources";
+        div.appendChild(legend);
+
+        var list = document.createElement("ul");
+        list.className = "checkboxes";
+        div.appendChild(list);
+
+        var sources = $.csv.toObjects(data);
+        for (source of sources) {
+            var input = document.createElement("input");
+            input.className = "source";
+            input.type = "checkbox";
+            input.value = source.key;
+            input.setAttribute("checked", "true");
+
+            var label = document.createElement("label");
+            label.setAttribute("for", source.key);
+            label.innerHTML = source.display;
+
+            var item = document.createElement("li");
+            item.appendChild(input);
+            item.appendChild(label);
+
+            list.appendChild(item);
+        }
 
         container.appendChild(div);
     }
