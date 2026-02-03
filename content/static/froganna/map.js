@@ -9,7 +9,7 @@ var clustering = L.markerClusterGroup();
 map.addLayer(clustering);
 
 $.get(
-    "../static/froganna/data/sources.txt",
+    "../static/froganna/data/sources.csv",
     function(data) {
         var div = document.createElement("fieldset");
         div.id = "sources";
@@ -23,18 +23,17 @@ $.get(
         list.className = "checkbox";
         div.appendChild(list);
 
-        var sources = data.split("\n");
-        sources.pop();
+        var sources = $.csv.toObjects(data);
         for (source of sources) {
             var input = document.createElement("input");
             input.className = "source";
             input.type = "checkbox";
-            input.value = source;
+            input.value = source.key;
             input.setAttribute("checked", "true");
 
             var label = document.createElement("label");
-            label.setAttribute("for", source);
-            label.innerHTML = source;
+            label.setAttribute("for", source.key);
+            label.innerHTML = source.display;
 
             var item = document.createElement("li");
             item.appendChild(label);
@@ -48,7 +47,7 @@ $.get(
 );
 
 $.get(
-    "../static/froganna/data/words.txt",
+    "../static/froganna/data/words.csv",
     function(data) {
         var div = document.createElement("fieldset");
         div.id = "words";
@@ -62,18 +61,17 @@ $.get(
         list.className = "checkbox";
         div.appendChild(list);
 
-        var words = data.split("\n");
-        words.pop();
+        var words = $.csv.toObjects(data);
         for (word of words) {
             var input = document.createElement("input");
             input.className = "word";
             input.type = "checkbox";
-            input.value = word;
+            input.value = word.key;
             input.setAttribute("checked", "true");
 
             var label = document.createElement("label");
-            label.setAttribute("for", word);
-            label.innerHTML = word;
+            label.setAttribute("for", word.key);
+            label.innerHTML = word.display;
 
             var item = document.createElement("li");
             item.appendChild(label);
