@@ -112,8 +112,12 @@ $.getJSON(
             for (let input of document.querySelectorAll("input")) {
                 if(input.checked) {
                     switch (input.className) {
-                        case "source": checkboxStates.sources.push(input.value); break
-                        case "word": checkboxStates.words.push(input.value); break
+                        case "source":
+                            checkboxStates.sources.push(input.value);
+                            break;
+                        case "word":
+                            checkboxStates.words.push(input.value);
+                            break;
                     }
                 }
             }
