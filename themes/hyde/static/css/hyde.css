@@ -314,7 +314,28 @@ html {
   color: #8f5536;
 }
 
-ul.columns {
-    column-count: 3;
-    column-gap: 20px;
+ul.checkboxes {
+    list-style-type: none;
+    margin: 0px;
+}
+
+@media (min-width: 48em) {
+    ul.columns {
+        column-count: 3;
+    }
+}
+
+@media (max-width: 48em) {
+    ul.columns {
+        column-count: 2;
+    }
+}
+
+[type=checkbox] {
+    accent-color: #009639;
+}
+
+legend {
+    color: #fc04a2;
+    font-weight: bold;
 }

@@ -20,6 +20,7 @@ $.get(
         div.appendChild(legend);
 
         var list = document.createElement("ul");
+        list.className = "checkboxes";
         div.appendChild(list);
 
         var sources = $.csv.toObjects(data);
@@ -35,8 +36,8 @@ $.get(
             label.innerHTML = source.display;
 
             var item = document.createElement("li");
-            item.appendChild(label);
             item.appendChild(input);
+            item.appendChild(label);
 
             list.appendChild(item);
         }
@@ -57,7 +58,7 @@ $.get(
         div.appendChild(legend);
 
         var list = document.createElement("ul");
-        list.className = "columns";
+        list.className = "checkboxes columns";
         div.appendChild(list);
 
         var words = $.csv.toObjects(data);
@@ -73,8 +74,8 @@ $.get(
             label.innerHTML = word.display;
 
             var item = document.createElement("li");
-            item.appendChild(label);
             item.appendChild(input);
+            item.appendChild(label);
 
             list.appendChild(item);
         }
