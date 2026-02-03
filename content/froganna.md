@@ -759,7 +759,10 @@ The word <i>fliuch</i> means wet, and correspondingly <i>fliuchán</i> means
 "wet thing" or "wetness". In Kerry it is used to refer to rain, see
 <a href=https://fr.wikisource.org/wiki/Phon%C3%A9tique_d%E2%80%99un_parler_irlandais_de_Kerry/2-6#p163> Sjoestedt, M. L. (1931), <i>Phonétique d’un parler irlandais de Kerry [Phonetics of an Irish Dialect of Kerry]</i></a>
 and <a href=https://www.duchas.ie/en/cbes/4678384/4674363/4683533>this</a> example
-in the Schools Collection.
+in the Schools Collection. It is also used in <a
+href=https://www.duchas.ie/en/cbes/4622961/4617138/4627097>this entry</a> from Conamara to
+describe some kind of seafood that people long ago would have eaten, listed
+alongside crabs, clams, and seaweed.
 
 <br><br>
 Sources where it used to mean frog:
