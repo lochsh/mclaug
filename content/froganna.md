@@ -310,8 +310,10 @@ doorway" style="max-height: 500px;">
 id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup>.
  Of the 49 LASID locations in Ireland that gave a response for "frog", 34 gave
  a variation on this word. Anecdotally it is the most common word used in Irish
- today.<br><br>It is the word used in the Manx bibles published in 1775 and 1819, and
- in the 1602 Irish translation of the New Testament.</i>
+ today.<br><br>It is the word used in the Manx dictionary compiled by John
+ Kelly (1750-1809), and the Manx bibles published in 1775 and 1819. It is also
+ used in the 1602 Irish translation of the New Testament. See bible appendix
+ for more details.</i>
 <br><br>
 
 Could the usage of a foreign loan word, from English, be due to a taboo, where
