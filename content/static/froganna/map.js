@@ -80,6 +80,11 @@ $.get(
             list.appendChild(item);
         }
 
+        var toggleAll = document.createElement("button");
+        toggleAll.id = "toggle-all-words";
+        toggleAll.innerHTML = "Toggle all";
+        div.appendChild(toggleAll);
+
         container.appendChild(div);
     }
 );
@@ -99,60 +104,82 @@ function onEachFeature(feature, marker) {
     ).openPopup();
 }
 
+// thanks to https://jsfiddle.net/newluck77/rk9v0uyo/
+var checkboxStates = {
+    sources: [],
+    words: []
+};
+
+const geojsonLayer = L.geoJSON(
+    null,
+    {
+        filter: (feature) => {
+            const isSourceChecked = checkboxStates.sources.includes(
+                feature.properties.source_category
+            );
+            const isWordChecked = checkboxStates.words.includes(
+                feature.properties.category
+            );
+            return isSourceChecked && isWordChecked;
+        },
+        onEachFeature: onEachFeature,
+    }
+).addTo(clustering)
+
+function updateCheckboxStates() {
+    checkboxStates = {
+        sources: [],
+        words: []
+    };
+    for (let input of document.querySelectorAll("input")) {
+        if(input.checked) {
+            switch (input.className) {
+                case "source":
+                    checkboxStates.sources.push(input.value);
+                    break;
+                case "word":
+                    checkboxStates.words.push(input.value);
+                    break;
+            }
+        }
+    }
+}
+
+function updateMap(data) {
+    clustering.clearLayers();
+    geojsonLayer.clearLayers();
+    updateCheckboxStates();
+    geojsonLayer.addData(data).addTo(clustering);
+}
+
 $.getJSON(
     "../static/froganna/data/frogs.json",
     function(frogData) {
-        // thanks to https://jsfiddle.net/newluck77/rk9v0uyo/
-        var checkboxStates = {
-            sources: [],
-            words: []
-        };
-
-        const geojsonLayer = L.geoJSON(
-            null,
-            {
-                filter: (feature) => {
-                    const isSourceChecked = checkboxStates.sources.includes(
-                        feature.properties.source_category
-                    );
-                    const isWordChecked = checkboxStates.words.includes(
-                        feature.properties.category
-                    );
-                    return isSourceChecked && isWordChecked;
-                },
-                onEachFeature: onEachFeature,
-            }
-        ).addTo(clustering)
-
-        function updateCheckboxStates() {
-            checkboxStates = {
-                sources: [],
-                words: []
-            };
-            for (let input of document.querySelectorAll("input")) {
-                if(input.checked) {
-                    switch (input.className) {
-                        case "source":
-                            checkboxStates.sources.push(input.value);
-                            break;
-                        case "word":
-                            checkboxStates.words.push(input.value);
-                            break;
-                    }
-                }
-            }
-        }
 
         for (let input of document.querySelectorAll("input")) {
             input.onchange = (e) => {
-                clustering.clearLayers();
-                geojsonLayer.clearLayers();
-                updateCheckboxStates();
-                geojsonLayer.addData(frogData).addTo(clustering);
+                updateMap(frogData);
             }
         }
 
-        updateCheckboxStates();
-        geojsonLayer.addData(frogData).addTo(clustering);
+        // Initialise map
+        updateMap(frogData);
+
+        $(document).ready(
+            function() {
+                $("#map-container").on(
+                    "click",
+                    "#toggle-all-words",
+                    function() {
+                        if ($(".word:checked").length == $(".word").length) {
+                            $(".word").prop("checked", false);
+                        } else {
+                            $(".word").prop("checked", true);
+                        }
+                        updateMap(frogData);
+                     }
+                );
+            }
+        );
     }
 );
