@@ -3,6 +3,9 @@ Slug: froganna
 Date: 11th Dec 2025
 Status: draft
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.40/jquery.csv.js"></script>
+
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -11,12 +14,11 @@ Status: draft
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.40/jquery.csv.js"></script>
-
 <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster-src.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+
+<script src="../static/froganna/map.js"></script>
 
 ## Cuireadh gan iarraidh: an uninvited guest
 
@@ -39,8 +41,6 @@ all the Gaelic words for frog.
 <div id="map-container">
 <div id="map" style="height: 700px; width: 95%; margin: auto"></div>
 </div>
-
-<script src="../static/froganna/map.js"></script>
 
 <br>
 Above is a map showing attested words used by local people for "frog". Zooming
