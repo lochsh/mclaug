@@ -314,8 +314,7 @@ html {
   color: #8f5536;
 }
 
-ul.columns-checkbox li {
-    border: 1px transparent solid;
-    float: left;
-    min-width: 200px;
+ul.columns {
+    column-count: 3;
+    column-gap: 20px;
 }

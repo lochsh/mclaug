@@ -57,7 +57,7 @@ $.get(
         div.appendChild(legend);
 
         var list = document.createElement("ul");
-        list.className = "columns-checkbox";
+        list.className = "columns";
         div.appendChild(list);
 
         var words = $.csv.toObjects(data);
