@@ -1,4 +1,3 @@
-word
 frog
 losgann
 luascan lathaí

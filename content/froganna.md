@@ -53,23 +53,24 @@ all the Gaelic words for frog.
     var container = document.getElementById("map-container");
 
     $.get(
-        "../images/froganna/data/sources.csv",
+        "../images/froganna/data/sources.txt",
         function(data) {
             var div = document.createElement("div");
             div.id = "sources";
             div.className = "inputs";
 
-            var sources = $.csv.toObjects(data);
+            var sources = data.split("\n");
+            sources.pop();
             for (source of sources) {
                 var input = document.createElement("input");
                 input.className = "source";
                 input.type = "checkbox";
-                input.value = source.source;
+                input.value = source;
                 input.setAttribute("checked", "true");
 
                 var label = document.createElement("label");
-                label.setAttribute("for", source.source);
-                label.innerHTML = source.source;
+                label.setAttribute("for", source);
+                label.innerHTML = source;
 
                 div.appendChild(label);
                 div.appendChild(input);
@@ -80,23 +81,24 @@ all the Gaelic words for frog.
     );
 
     $.get(
-        "../images/froganna/data/words.csv",
+        "../images/froganna/data/words.txt",
         function(data) {
             var div = document.createElement("div");
             div.id = "words";
             div.className = "inputs";
 
-            var words = $.csv.toObjects(data);
+            var words = data.split("\n");
+            words.pop();
             for (word of words) {
                 var input = document.createElement("input");
                 input.className = "word";
                 input.type = "checkbox";
-                input.value = word.word;
+                input.value = word;
                 input.setAttribute("checked", "true");
 
                 var label = document.createElement("label");
-                label.setAttribute("for", word.word);
-                label.innerHTML = word.word;
+                label.setAttribute("for", word);
+                label.innerHTML = word;
 
                 div.appendChild(label);
                 div.appendChild(input);
