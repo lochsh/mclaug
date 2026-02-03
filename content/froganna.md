@@ -59,8 +59,8 @@ sources are:
 * Dòrlach's fieldwork, kindly shared by Àdhamh Ó Broin <a
   href="https://www.dorlach.scot">&lt;dorlach.scot&gt;</a>
 
-The markers can be filtered by source by clicking the layers icon in the top
-right-hand corner of the map.
+The markers can be filtered by source and by word category using the checkboxes
+below the map
 
 <details>
 <summary>Click for more information about the sources and data</summary>
