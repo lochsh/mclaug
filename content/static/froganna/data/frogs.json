@@ -4201,6 +4201,31 @@
                     "53.2828"
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "word": "léimeadóir",
+                "source_transcription": "",
+                "ipa_transcription": "",
+                "logainm": "Coill an Bhaile Thoir",
+                "placename": "Killavally East",
+                "ceantar": "Contae Mhaigh Eo",
+                "area": "County Mayo",
+                "informant": "Pádhraig Ó Conmhaigh",
+                "year": "1930s",
+                "source": "The Schools’ Collection, Volume 0090, <a href=https://www.duchas.ie/en/cbes/4427813/4346355>Page 292</a>, National Folklore Collection, UCD",
+                "note": "Weather lore",
+                "category": "leumadair",
+                "source_category": "NFC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.35671",
+                    "53.7635"
+                ]
+            }
         }
     ]
 }

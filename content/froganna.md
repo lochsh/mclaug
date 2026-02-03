@@ -814,8 +814,9 @@ ditch".
 
 <i>I found variants of </i>leumachan<i> in various parts of Scotland, including
 Lewis, West Sutherland, near Ullapool, and one instance on the Kintyre
-Peninsula in Argyll. Only one informant, from Dòrlach's fieldwork in the North
-of Lewis, gave </i>leumadair<i>.</i>
+Peninsula in Argyll. Dòrlach's fieldwork found </i>leumadair<i> once in the
+North of Lewis, and The Schools' Collection records it once in Mayo (as
+</i>léimeadóir<i>)</i>.
 
 <br><br>
 The etymology of this word is transparent: <i>leum</i> + <i>ach</i> + <i>án</i>
