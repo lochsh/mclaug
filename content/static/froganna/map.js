@@ -20,7 +20,6 @@ $.get(
         div.appendChild(legend);
 
         var list = document.createElement("ul");
-        list.className = "checkbox";
         div.appendChild(list);
 
         var sources = $.csv.toObjects(data);
@@ -58,7 +57,7 @@ $.get(
         div.appendChild(legend);
 
         var list = document.createElement("ul");
-        list.className = "checkbox";
+        list.className = "columns-checkbox";
         div.appendChild(list);
 
         var words = $.csv.toObjects(data);

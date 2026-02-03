@@ -313,3 +313,9 @@ html {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+ul.columns-checkbox li {
+    border: 1px transparent solid;
+    float: left;
+    min-width: 200px;
+}
