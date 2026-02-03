@@ -19,6 +19,10 @@ $.get(
         legend.innerHTML = "Sources";
         div.appendChild(legend);
 
+        var list = document.createElement("ul");
+        list.className = "checkbox";
+        div.appendChild(list);
+
         var sources = data.split("\n");
         sources.pop();
         for (source of sources) {
@@ -32,8 +36,11 @@ $.get(
             label.setAttribute("for", source);
             label.innerHTML = source;
 
-            div.appendChild(label);
-            div.appendChild(input);
+            var item = document.createElement("li");
+            item.appendChild(label);
+            item.appendChild(input);
+
+            list.appendChild(item);
         }
 
         container.appendChild(div);
@@ -51,6 +58,10 @@ $.get(
         legend.innerHTML = "Words";
         div.appendChild(legend);
 
+        var list = document.createElement("ul");
+        list.className = "checkbox";
+        div.appendChild(list);
+
         var words = data.split("\n");
         words.pop();
         for (word of words) {
@@ -64,8 +75,11 @@ $.get(
             label.setAttribute("for", word);
             label.innerHTML = word;
 
-            div.appendChild(label);
-            div.appendChild(input);
+            var item = document.createElement("li");
+            item.appendChild(label);
+            item.appendChild(input);
+
+            list.appendChild(item);
         }
 
         container.appendChild(div);
