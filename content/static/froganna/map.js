@@ -11,9 +11,13 @@ map.addLayer(clustering);
 $.get(
     "../static/froganna/data/sources.txt",
     function(data) {
-        var div = document.createElement("div");
+        var div = document.createElement("fieldset");
         div.id = "sources";
         div.className = "inputs";
+
+        var legend = document.createElement("legend");
+        legend.innerHTML = "Sources";
+        div.appendChild(legend);
 
         var sources = data.split("\n");
         sources.pop();
@@ -39,9 +43,13 @@ $.get(
 $.get(
     "../static/froganna/data/words.txt",
     function(data) {
-        var div = document.createElement("div");
+        var div = document.createElement("fieldset");
         div.id = "words";
         div.className = "inputs";
+
+        var legend = document.createElement("legend");
+        legend.innerHTML = "Words";
+        div.appendChild(legend);
 
         var words = data.split("\n");
         words.pop();
