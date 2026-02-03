@@ -49,7 +49,7 @@ all the Gaelic words for frog.
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 
-    var clustering = L.markerClusterGroup();
+    <!--var clustering = L.markerClusterGroup();-->
     var container = document.getElementById("map-container");
 
     $.get(
@@ -71,7 +71,7 @@ all the Gaelic words for frog.
                 label.setAttribute("for", source.source);
                 label.innerHTML = source.source;
 
-                input.appendChild(label);
+                div.appendChild(label);
                 div.appendChild(input);
             }
 
@@ -98,7 +98,7 @@ all the Gaelic words for frog.
                 label.setAttribute("for", word.word);
                 label.innerHTML = word.word;
 
-                input.appendChild(label);
+                div.appendChild(label);
                 div.appendChild(input);
             }
 
@@ -106,48 +106,57 @@ all the Gaelic words for frog.
         }
     );
 
-    // thanks to https://jsfiddle.net/newluck77/rk9v0uyo/
-    const geojsonLayer = L.geoJSON(null, {
-        filter: (feature) => {
-            const isSourceChecked = checkboxStates.sources.includes(
-                feature.properties.source_category
-            );
-            const isWordChecked = checkboxStates.words.includes(
-                feature.properties.category
-            );
+    $.getJSON(
+        "../images/froganna/data/frogs.json",
+        function(frogData) {
+            // thanks to https://jsfiddle.net/newluck77/rk9v0uyo/
+            var checkboxStates = {
+                sources: [],
+                words: []
+            };
 
-            return isSourceChecked && isWordChecked;
+            const geojsonLayer = L.geoJSON(
+                null,
+                {
+                    filter: (feature) => {
+                        const isSourceChecked = checkboxStates.sources.includes(
+                            feature.properties.source_category
+                        );
+                        const isWordChecked = checkboxStates.words.includes(
+                            feature.properties.category
+                        );
+                        return isSourceChecked && isWordChecked;
+                    }
+                }
+            ).addTo(map)
+
+            function updateCheckboxStates() {
+                checkboxStates = {
+                    sources: [],
+                    words: []
+                };
+                for (let input of document.querySelectorAll("input")) {
+                    if(input.checked) {
+                        switch (input.className) {
+                            case "source": checkboxStates.sources.push(input.value); break
+                            case "word": checkboxStates.words.push(input.value); break
+                        }
+                    }
+                }
+            }
+
+            for (let input of document.querySelectorAll("input")) {
+                input.onchange = (e) => {
+                    geojsonLayer.clearLayers()
+                    updateCheckboxStates()
+                    geojsonLayer.addData(frogData)
+                }
+            }
+
+            updateCheckboxStates()
+            geojsonLayer.addData(frogData)
         }
-    }).addTo(map)
-
-    function updateCheckboxStates() {
-        checkboxStates = {
-            sources: [],
-            words: []
-        };
-
-        for (let input of document.querySelectorAll("input")) {
-          if(input.checked) {
-            switch (input.className) {
-                case "source": checkboxStates.sources.push(input.value); break
-                case "word": checkboxStates.words.push(input.value); break
-          }
-        }
-      }
-    }
-
-    $.getJSON("../images/froganna/data/frogs.json", function(frogData) {
-        for (let input of document.querySelectorAll("input")) {
-          input.onchange = (e) => {
-            geojsonLayer.clearLayers()
-              updateCheckboxStates()
-            geojsonLayer.addData(frogData);
-          }
-        }
-
-        updateCheckboxStates();
-        geojsonLayer.addData(frogData);
-    });
+    );
 
     <!--$.get(-->
         <!--"../images/froganna/data/frogs.csv",-->
