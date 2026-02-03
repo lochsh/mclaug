@@ -1010,8 +1010,9 @@ variant</i>mial-mhàgain<i> is popular in Scotland for frog, particularly on
 Skye and Raasay.<br><br>
 
 In Ireland, </i>laprachán<i> or </i>laprachán na lathái<i> was found once in
-Waterford, and a few times in Galway. </i>Lapadán<i> had one example in
-Galway, </i>lapadóir<i> one in Mayo, and <i>lapadóir lathaí</i> one in Galway.</i>
+Waterford, and a few times in Galway. </i>Lapadán<i> had one example each in
+Galway and Monaghan, </i>lapadóir<i> one in Mayo, and <i>lapadóir lathaí</i>
+one in Galway.</i>
 <br><br>
 
 I have grouped these words together partly to reduce my illustration burden,

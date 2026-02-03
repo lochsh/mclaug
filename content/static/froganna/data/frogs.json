@@ -4226,6 +4226,31 @@
                     "53.7635"
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "word": "lapadáin (pl.)",
+                "source_transcription": "",
+                "ipa_transcription": "",
+                "logainm": "Cluain Eois",
+                "placename": "Clones",
+                "ceantar": "Contae Mhuineacháin",
+                "area": "County Monaghan",
+                "informant": "",
+                "year": "1937-1938",
+                "source": "The Schools’ Collection, Volume 0946, <a href=https://www.duchas.ie/en/cbes/4723857/4719518>Page 309</a>, National Folklore Collection, UCD",
+                "note": "Weather lore",
+                "category": "lapadán",
+                "source_category": "NFC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.23698,
+                    54.1809
+                ]
+            }
         }
     ]
 }
