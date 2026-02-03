@@ -53,7 +53,7 @@ all the Gaelic words for frog.
     var container = document.getElementById("map-container");
 
     $.get(
-        "../images/froganna/data/sources.txt",
+        "../static/froganna/data/sources.txt",
         function(data) {
             var div = document.createElement("div");
             div.id = "sources";
@@ -81,7 +81,7 @@ all the Gaelic words for frog.
     );
 
     $.get(
-        "../images/froganna/data/words.txt",
+        "../static/froganna/data/words.txt",
         function(data) {
             var div = document.createElement("div");
             div.id = "words";
@@ -109,7 +109,7 @@ all the Gaelic words for frog.
     );
 
     $.getJSON(
-        "../images/froganna/data/frogs.json",
+        "../static/froganna/data/frogs.json",
         function(frogData) {
             // thanks to https://jsfiddle.net/newluck77/rk9v0uyo/
             var checkboxStates = {
