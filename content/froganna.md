@@ -38,15 +38,6 @@ all the Gaelic words for frog.
 
 ## A map of words for frogs across the Gaelic world
 
-<div class="inputs" id="years">
-  <input type="checkbox" class="year" name="1890" value="1890" checked="true">
-  <label for="1890">1890</label>
-  <input type="checkbox" class="year" value="1892" checked="true">
-  <label for="1892">1892</label>
-  <input type="checkbox" class="year" value="1893" checked="true">
-  <label for="1893">1893</label>
-</div>
-
 <div id="map" style="height: 700px; width: 95%; margin: auto"></div>
 
 <script>
@@ -74,7 +65,7 @@ all the Gaelic words for frog.
 
                 var label = document.createElement("label");
                 label.for = source;
-                label.appendChild(source);
+                label.innerHTML = source;
 
                 input.appendChild(label);
                 div.appendChild(input);
@@ -99,7 +90,7 @@ all the Gaelic words for frog.
 
                 var label = document.createElement("label");
                 label.for = word;
-                label.appendChild(word);
+                label.innerHTML = word;
 
                 input.appendChild(label);
                 div.appendChild(input);
@@ -109,32 +100,75 @@ all the Gaelic words for frog.
         }
     );
 
-    $.get(
-        "../images/froganna/data/frogs.csv",
-        function(data) {
-            var words = $.csv.toObjects(data);
-            for (line of words) {
-                var marker = L.marker([line.latitude, line.longitude]);
-                marker.bindPopup(
-                    `<b>${line.word}</b><br>
-                    <i>Source transcription</i>: <span class=ipa>${line.source_transcription}</span><br>
-                    <i>IPA transcription</i>: <span class=ipa>${line.ipa_transcription}</span><br><br>
-                    <i>Year</i>: ${line.year}<br>
-                    <i>Informant</i>: ${line.informant}<br><br>
-                    <i>Place</i>: ${line.logainm} / ${line.placename}<br>
-                    <i>Area</i>: ${line.ceantar} / ${line.area}<br><br>
-                    <i>Source</i>: ${line.source}<br><br>
-                    <i>Notes</i>: ${line.note}<br>`,
-                    {maxHeight: 500},
-                ).openPopup();
+    // thanks to https://jsfiddle.net/newluck77/rk9v0uyo/
+    const geojsonLayer = L.geoJSON(null, {
+        filter: (feature) => {
+            const isSourceChecked = checkboxStates.sources.includes(
+                feature.properties.source_category
+            );
+            const isWordChecked = checkboxStates.words.includes(
+                feature.properties.category
+            );
 
-                clustering.addLayer(marker);
-            }
-
-            map.addLayer(clustering);
-
+            return isSourceChecked && isWordChecked;
         }
-    );
+    }).addTo(map)
+
+    function updateCheckboxStates() {
+        checkboxStates = {
+            sources: [],
+            words: []
+        };
+
+        for (let input of document.querySelectorAll("input")) {
+          if(input.checked) {
+            switch (input.className) {
+                case "source": checkboxStates.sources.push(input.value); break
+                case "word": checkboxStates.words.push(input.value); break
+          }
+        }
+      }
+    }
+
+    $.getJSON("../images/froganna/data/frogs.json", function(frogData) {
+        for (let input of document.querySelectorAll("input")) {
+          input.onchange = (e) => {
+            geojsonLayer.clearLayers()
+              updateCheckboxStates()
+            geojsonLayer.addData(frogData);
+          }
+        }
+
+        updateCheckboxStates();
+        geojsonLayer.addData(frogData);
+    });
+
+    <!--$.get(-->
+        <!--"../images/froganna/data/frogs.csv",-->
+        <!--function(data) {-->
+            <!--var words = $.csv.toObjects(data);-->
+            <!--for (line of words) {-->
+                <!--var marker = L.marker([line.latitude, line.longitude]);-->
+                <!--marker.bindPopup(-->
+                    <!--`<b>${line.word}</b><br>-->
+                    <!--<i>Source transcription</i>: <span class=ipa>${line.source_transcription}</span><br>-->
+                    <!--<i>IPA transcription</i>: <span class=ipa>${line.ipa_transcription}</span><br><br>-->
+                    <!--<i>Year</i>: ${line.year}<br>-->
+                    <!--<i>Informant</i>: ${line.informant}<br><br>-->
+                    <!--<i>Place</i>: ${line.logainm} / ${line.placename}<br>-->
+                    <!--<i>Area</i>: ${line.ceantar} / ${line.area}<br><br>-->
+                    <!--<i>Source</i>: ${line.source}<br><br>-->
+                    <!--<i>Notes</i>: ${line.note}<br>`,-->
+                    <!--{maxHeight: 500},-->
+                <!--).openPopup();-->
+
+                <!--clustering.addLayer(marker);-->
+            <!--}-->
+
+            <!--map.addLayer(clustering);-->
+
+        <!--}-->
+    <!--);-->
 
 </script>
 <br>
