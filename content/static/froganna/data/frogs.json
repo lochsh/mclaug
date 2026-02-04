@@ -1008,22 +1008,22 @@
                 "word": "froig (pl.)",
                 "source_transcription": "[frɪG'] (pl.)",
                 "ipa_transcription": "",
-                "logainm": "Alt na Camcoise",
-                "placename": "Altacamcosy",
+                "logainm": "Corrach an Aillt",
+                "placename": "Curraghanalt",
                 "ceantar": "Contae Thír Eoghain",
                 "area": "County Tyrone",
                 "informant": "Pádraig Mac Culadh",
                 "year": "1950",
                 "source": "Stockman, G. & Wagner, H. (1965), <i>Contributions to a Study of Tyrone Irish</i>, Lochlann III",
-                "note": "I wasn't sure what the upper case [G'] signified phonetically, but probably [ɟː]. I haven't added an IPA transcription due to the uncertainty.<br><br>The source is an appendix to the LASID.<br><br>Gaelic name taken from M'Aleer, P. (1987), <i>Townland names of County Tyrone with their meanings</i>, Ashardan & Moyola Books. See also <a href='https://experience.arcgis.com/experience/9b31e0501b744154b4584b1dce1f859b/page/Place-Name-Info#data_s=id%3AdataSource_1-PlaceNames_Gazeteer_No_Global_IDs_3734%3A29182'>PlacenamesNI.org</a>.",
+                "note": "I wasn't sure what the upper case [G'] signified phonetically, but probably [ɟː]. I haven't added an IPA transcription due to the uncertainty.<br><br>The source is an appendix to the LASID.<br><br>Gaelic name taken from <a href='https://experience.arcgis.com/experience/9b31e0501b744154b4584b1dce1f859b/page/Place-Name-Info#data_s=id%3AdataSource_1-PlaceNames_Gazeteer_No_Global_IDs_3734%3A29175'>PlacenamesNI.org</a>.<br><br>Although Stockman & Wagner list Altacamcosy as the informant's townland, Ciarán Ó Duibhín has identified him as the Patrick McCullow whose birth is registered <a href=https://www.irishgenealogy.ie/files/civil/cert_amends/cert_1883/2009968a.pdf>here</a>, in the next townland to the west. Thank you to Ciarán for this correction.",
                 "category": "frog",
                 "source_category": "LASID"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.086228",
-                    "54.721233"
+                    "-7.10492",
+                    "54.7194"
                 ]
             }
         },
