@@ -18,6 +18,12 @@ Status: draft
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
 
+<script
+    src="https://unpkg.com/leaflet.markercluster.freezable@1.0.0/dist/leaflet.markercluster.freezable.js"
+    integrity="sha384-QXTyM8sAAM5XAUeRoyzNadlfH7KuYt0C6i9O/T2vFb4wGIKwL9Ak++3y3JBqfGyg"
+    crossorigin="anonymous"
+></script>
+
 <script src="../static/froganna/map.js"></script>
 
 ## Cuireadh gan iarraidh: an uninvited guest
@@ -40,6 +46,8 @@ all the Gaelic words for frog.
 
 <div id="map-container">
 <div id="map" style="height: 700px; width: 95%; margin: auto"></div>
+<button id="disable-clustering">Disable clustering</button>
+<button id="enable-clustering">Enable clustering</button>
 </div>
 
 <br>
@@ -60,7 +68,9 @@ sources are:
   href="https://www.dorlach.scot">&lt;dorlach.scot&gt;</a>
 
 The markers can be filtered by source and by word category using the checkboxes
-below the map
+below the map. Clustering can also be enabled or disabled. When disabled, the
+remaining clusters are co-ordinates for which there is more than one data
+point.
 
 <details>
 <summary>Click for more information about the sources and data</summary>

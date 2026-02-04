@@ -6,8 +6,8 @@ $(document).ready(function () {
     }).addTo(map);
 
     var container = document.getElementById("map-container");
-    var clustering = L.markerClusterGroup();
-    map.addLayer(clustering);
+    var clusterGroup = L.markerClusterGroup();
+    map.addLayer(clusterGroup);
 
     function makeCheckboxes(basename, classname, listClass, legendTitle, addToggle) {
         $.get(
@@ -94,7 +94,7 @@ $(document).ready(function () {
             },
             onEachFeature: onEachFeature,
         }
-    ).addTo(clustering)
+    ).addTo(clusterGroup)
 
     function updateCheckboxStates() {
         checkboxStates = {
@@ -116,11 +116,35 @@ $(document).ready(function () {
     }
 
     function updateMap(data) {
-        clustering.clearLayers();
+        clusterGroup.clearLayers();
         geojsonLayer.clearLayers();
         updateCheckboxStates();
-        geojsonLayer.addData(data).addTo(clustering);
+        geojsonLayer.addData(data).addTo(clusterGroup);
     }
+
+    $(document).ready(
+        function() {
+            $("#map-container").on(
+                "click",
+                "#disable-clustering",
+                function () {
+                    clusterGroup.disableClusteringKeepSpiderfy();
+                }
+            );
+        }
+    );
+
+    $(document).ready(
+        function() {
+            $("#map-container").on(
+                "click",
+                "#enable-clustering",
+                function () {
+                    clusterGroup.enableClustering();
+                }
+            );
+        }
+    );
 
     $.getJSON(
         "../static/froganna/data/frogs.json",
