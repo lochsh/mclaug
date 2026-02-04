@@ -72,6 +72,15 @@ below the map. Clustering can also be enabled or disabled. When disabled, the
 remaining clusters are co-ordinates for which there is more than one data
 point.
 
+<figure>
+<img src="../images/froganna/word-map.png" alt="map with words on
+locations to show distribution" style="max-height: 600px;">
+<figcaption>A word map, with categories of words grouped together (e.g.
+        <i>mula-mhàgag</i> displayed as <i>mial-mhàgain</i>, <i>liospán</i>
+        displayed as <i>lisbín</i>). Nova Scotia
+exclusively had <i>màgan</i> for frog.</figcaption>
+</figure>
+
 <details>
 <summary>Click for more information about the sources and data</summary>
 <br>
