@@ -74,7 +74,7 @@ point.
 
 <figure>
 <img src="../images/froganna/word-map.png" alt="map with words on
-locations to show distribution" style="max-height: 600px;">
+locations to show distribution">
 <figcaption>A word map, with categories of words grouped together (e.g.
         <i>mula-mhàgag</i> displayed as <i>mial-mhàgain</i>, <i>liospán</i>
         displayed as <i>lisbín</i>). Nova Scotia
