@@ -655,8 +655,8 @@
         {
             "type": "Feature",
             "properties": {
-                "word": "cràigean; gille cràigean",
-                "source_transcription": "[kɾɑ̟̃:ɡʹɛ̣ṉ]; [ɡʹiʎə kɾɑ̟̃:ɡʹɛ̣ṉ]",
+                "word": "cràigean",
+                "source_transcription": "[kɾɑ̟̃:ɡʹɛ̣ṉ]",
                 "ipa_transcription": "",
                 "logainm": "Sròn an t-Sìthein",
                 "placename": "Strontian",
@@ -665,8 +665,33 @@
                 "informant": "A. Cameron",
                 "year": "1967",
                 "source": "Digital Archive of Scottish Gaelic (DASG). University of Glasgow <a href='https://dasg.ac.uk'>&lt;https://dasg.ac.uk&gt;</a> [accessed 14th December 2025]",
-                "note": "I do not have access to any notes, if they exist, explaining the transcription conventions, so have not added a standard IPA transcription. The [g'] could indicate palatalisation.<br><br>The exact location is not given, simply 'North Argyll', but I expect this might be the Alasdair Cameron <a href='https://www.tobarandualchais.co.uk/person/4165?l=en'>here</a>. This village was once part of Argyll.",
+                "note": "I do not have access to any notes, if they exist, explaining the transcription conventions, so have not added a standard IPA transcription. The [g'] probably indicates palatalisation.<br><br>The exact location is not given, simply 'North Argyll', but I expect this might be the Alasdair Cameron <a href='https://www.tobarandualchais.co.uk/person/4165?l=en'>here</a>. This village was once part of Argyll.",
                 "category": "cràigean",
+                "source_category": "DASG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-5.569",
+                    "56.696"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "word": "gille cràigean",
+                "source_transcription": "[ɡʹiʎə kɾɑ̟̃:ɡʹɛ̣ṉ]",
+                "ipa_transcription": "",
+                "logainm": "Sròn an t-Sìthein",
+                "placename": "Strontian",
+                "ceantar": "Suaineart, Loch Abar",
+                "area": "Sunart, Lochaber",
+                "informant": "A. Cameron",
+                "year": "1967",
+                "source": "Digital Archive of Scottish Gaelic (DASG). University of Glasgow <a href='https://dasg.ac.uk'>&lt;https://dasg.ac.uk&gt;</a> [accessed 14th December 2025]",
+                "note": "I do not have access to any notes, if they exist, explaining the transcription conventions, so have not added a standard IPA transcription. The [g'] probably indicates palatalisation.<br><br>The exact location is not given, simply 'North Argyll', but I expect this might be the Alasdair Cameron <a href='https://www.tobarandualchais.co.uk/person/4165?l=en'>here</a>. This village was once part of Argyll.",
+                "category": "gille-cràigean",
                 "source_category": "DASG"
             },
             "geometry": {
@@ -2755,9 +2780,9 @@
         {
             "type": "Feature",
             "properties": {
-                "word": "frog; lapadán",
-                "source_transcription": "[frɑ̣g]; [lɑpədɑːn]",
-                "ipa_transcription": "[fɾˠäg]; [lˠɑpˠəd̪ˠɑːnˠ]",
+                "word": "lapadán",
+                "source_transcription": "[lɑpədɑːn]",
+                "ipa_transcription": "[lˠɑpˠəd̪ˠɑːnˠ]",
                 "logainm": "An Pháirc Gharbh",
                 "placename": "Parkgarve",
                 "ceantar": "Contae na Gaillimhe",
@@ -2767,6 +2792,31 @@
                 "source": "LASID point 37",
                 "note": "",
                 "category": "lapadán",
+                "source_category": "LASID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.8051",
+                    "53.4062"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "word": "frog",
+                "source_transcription": "[frɑ̣g]",
+                "ipa_transcription": "[fɾˠäg]",
+                "logainm": "An Pháirc Gharbh",
+                "placename": "Parkgarve",
+                "ceantar": "Contae na Gaillimhe",
+                "area": "County Galway",
+                "informant": "<ul><li>William Flaherty</li><li>Páraic and Micheál Ó Síoda, brothers</li></ul>",
+                "year": "1953",
+                "source": "LASID point 37",
+                "note": "",
+                "category": "frog",
                 "source_category": "LASID"
             },
             "geometry": {
@@ -2855,9 +2905,9 @@
         {
             "type": "Feature",
             "properties": {
-                "word": "frog; labar lathaí",
-                "source_transcription": "[frɑ̣g]; [ˈlɑbər ˈlɑhiː]",
-                "ipa_transcription": "[fɾˠäg]; [ˈlˠɑbˠər ˈlˠɑhiː]",
+                "word": "labar lathaí",
+                "source_transcription": "[ˈlɑbər ˈlɑhiː]",
+                "ipa_transcription": "[ˈlˠɑbˠər ˈlˠɑhiː]",
                 "logainm": "An Lochán Beag",
                 "placename": "Loughaun Beg",
                 "ceantar": "Contae na Gaillimhe",
@@ -2867,6 +2917,31 @@
                 "source": "LASID point 40",
                 "note": "<i>About 10 miles west of Galway City, immediately behind the village of Spiddal, we enter an almost one-hundred per cent Irish-speaking district, stretching out along the coast between points 40 and 46. A large amount of monoglots may be found in this area.</i><br><br>A riddle where a frog is called <i>Brian Ó Slupáin</i> is also shared, which I have seen in other parts of Connacht in the Schools' Collection.",
                 "category": "lúbar lathaí",
+                "source_category": "LASID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.40699",
+                    "53.252"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "word": "frog",
+                "source_transcription": "[frɑ̣g]",
+                "ipa_transcription": "[fɾˠäg]",
+                "logainm": "An Lochán Beag",
+                "placename": "Loughaun Beg",
+                "ceantar": "Contae na Gaillimhe",
+                "area": "County Galway",
+                "informant": "<ul><li>Seán Ó Tuairisc</li><li>Mícheál Ging of An Teach Mór. He could not converse freely in English. Primary informant for <i>The Irish of Cois Fhairrge</i></li></ul>",
+                "year": "1953",
+                "source": "LASID point 40",
+                "note": "<i>About 10 miles west of Galway City, immediately behind the village of Spiddal, we enter an almost one-hundred per cent Irish-speaking district, stretching out along the coast between points 40 and 46. A large amount of monoglots may be found in this area.</i><br><br>A riddle where a frog is called <i>Brian Ó Slupáin</i> is also shared, which I have seen in other parts of Connacht in the Schools' Collection.",
+                "category": "frog",
                 "source_category": "LASID"
             },
             "geometry": {
@@ -2930,9 +3005,9 @@
         {
             "type": "Feature",
             "properties": {
-                "word": "frog; lúbar lathaí",
-                "source_transcription": "[frɔg]; [Lu̢.bər ˈLɑhiː]",
-                "ipa_transcription": "[fɾˠɔg]; [l̪ˠu̙̞.bˠəɾˠ ˈl̪ˠɑhiː]",
+                "word": "lúbar lathaí",
+                "source_transcription": "[Lu̢.bər ˈLɑhiː]",
+                "ipa_transcription": "[l̪ˠu̙̞.bˠəɾˠ ˈl̪ˠɑhiː]",
                 "logainm": "Coillín",
                 "placename": "Cuilleen",
                 "ceantar": "Conamara, Contae na Gaillimhe",
@@ -2942,6 +3017,31 @@
                 "source": "LASID point 46",
                 "note": "",
                 "category": "lúbar lathaí",
+                "source_category": "LASID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.85602",
+                    "53.3352"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "word": "frog",
+                "source_transcription": "[frɔg]",
+                "ipa_transcription": "[fɾˠɔg]",
+                "logainm": "Coillín",
+                "placename": "Cuilleen",
+                "ceantar": "Conamara, Contae na Gaillimhe",
+                "area": "Connemara, County Galway",
+                "informant": "Páraic Mac an Iomaire and his son Ciarán",
+                "year": "1953",
+                "source": "LASID point 46",
+                "note": "",
+                "category": "frog",
                 "source_category": "LASID"
             },
             "geometry": {
