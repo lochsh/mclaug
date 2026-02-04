@@ -1063,6 +1063,15 @@ TODO: smàg
 
 <h4><i>Laprachán</i>, <i>lapadán</i> and <i>lapadóir</i></h4>
 
+<!---
+https://www.duchas.ie/en/cbes/4921874/4897822/5184841 lapa as severed human
+hand
+
+
+https://www.duchas.ie/en/cbes/4921952/4912854/4947435 for goose's webbed feet
+https://www.duchas.ie/en/cbes/4706359/4706073/4725828
+--->
+
 
 
 </details>
