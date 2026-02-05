@@ -74,7 +74,21 @@ point.
 
 <figure>
 <img src="../images/froganna/word-map.png" alt="map with words on
-locations to show distribution of usage" style="max-height: 900px;">
+locations to show distribution of usage. Leinster and East Ulster do not have
+many data points. There are two 'frog' usages in Leinster, and East Ulster has
+one each of 'fliuchán', 'lapadán', 'crónán', and 'frog'. Clear patterns include
+the use of 'cràigean' and 'gille-cràigean' in a band running northeast across
+Scotland from Ardnamurchan to Strathspey. A cluster of 'mial-mhàgain' is clear
+around Skye and Raasay. 'Leumachan' is clustered around Assynt and MacKay's
+Country in Sutherland, though East Sutherland has 'losgaid' and 'mial-mhàgain'.
+Connacht has a very dense variety of words but a spread of usage of 'luascan
+lathaí' is visible across Galway and Mayo. In Munster there are two usages of
+'cnádán' close to each other in Cork and Waterford, one usage of
+'laprachán' in Ring, and one usage of 'lisbín' in Kerry. The rest of
+the points in Munster are 'frog'. Donegal has a roughly even spread of 'frog',
+    'losgann' and  'lisbín', with a couple usages of 'crónán' and one of
+    'luascan lathaí'."
+style="max-height: 900px;">
 <figcaption><i>A map showing recorded usages of words for frog, with categories
 of words grouped together (e.g.  </i>mula-mhàgag<i> displayed as
 </i>mial-mhàgain<i>, </i>liospán<i> displayed as </i>lisbín<i>). Nova
