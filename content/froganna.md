@@ -74,11 +74,11 @@ point.
 
 <figure>
 <img src="../images/froganna/word-map.png" alt="map with words on
-locations to show distribution" style="max-height: 900px;">
-<figcaption>A word map, with categories of words grouped together (e.g.
-        <i>mula-mhàgag</i> displayed as <i>mial-mhàgain</i>, <i>liospán</i>
-        displayed as <i>lisbín</i>). Nova Scotia
-exclusively had <i>màgan</i> for frog.</figcaption>
+locations to show distribution of usage" style="max-height: 900px;">
+<figcaption><i>A map showing recorded usages of words for frog, with categories
+of words grouped together (e.g.  </i>mula-mhàgag<i> displayed as
+</i>mial-mhàgain<i>, </i>liospán<i> displayed as </i>lisbín<i>). Nova
+Scotia exclusively had </i>màgan<i> for frog.</figcaption>
 </figure>
 
 <details>
