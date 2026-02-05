@@ -4376,6 +4376,31 @@
                     51.9457
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "word": "frag",
+                "source_transcription": "",
+                "ipa_transcription": "",
+                "logainm": "Droim Ghaill",
+                "placename": "Drumgill",
+                "ceantar": "Contae na Mí",
+                "area": "County Meath",
+                "informant": "Aodh Mac Domhnaill",
+                "year": "1853",
+                "source": "",
+                "note": "The text does use words that the 1967 editor wrote as <i>loscán</i>, but it is used to mean any amphibian, see its usage in reference to <i>dobhar-chú</i>. Thank you to Ciarán Ó Duibhín for this note from the editor's glossary.",
+                "category": "frog",
+                "source_category": "other"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.69572,
+                    53.8542
+                ]
+            }
         }
     ]
 }
