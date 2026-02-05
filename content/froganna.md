@@ -92,7 +92,7 @@ style="max-height: 900px;">
 <figcaption><i>A map showing recorded usages of words for frog, with categories
 of words grouped together (e.g.  </i>mula-mhàgag<i> displayed as
 </i>mial-mhàgain<i>, </i>liospán<i> displayed as </i>lisbín<i>). Nova
-Scotia exclusively had </i>màgan<i> for frog.</figcaption>
+Scotia exclusively had </i>màgan<i> for frog.</i></figcaption>
 </figure>
 
 <details>
@@ -178,6 +178,7 @@ conventions.
 </details>
 
 ## A brief note about orthography
+
 <details>
 <summary>(Actually not as brief as I imagined, so click here if you would like to
 read)</summary>
@@ -310,8 +311,8 @@ Descriptions largely taken from Wiktionary.
 <h3>On endonyms</h3>
 
 There are many ways to write Gaelic endonymically. When speaking it I say
-something like <span class=ipa>[geːlɪk]</span> or <span
-class=ipa>[keːlɪk]</span>, like the Ulster speaker recorded <a
+something like <span class=ipa>[geːlɪc]</span> or <span
+class=ipa>[keːlɪc]</span>, like the Ulster speaker recorded <a
 href=https://www.teanglann.ie/en/fuaim/gaeilge>here</a>. This would also
 reflect the pronunciation of some traditional speakers from Argyll.
 
@@ -1725,8 +1726,8 @@ subjects in the above were of the last couple generations of speakers of a
 dialect particularly far removed from what was considered standard (which
 negatively affected some, though not all, of the speakers' perception of the legitimacy of their
 Gaelic), and were subject to mockery from English monolinguals for
-their loanword usage. In a healthier community of speakers I imagine loanword
-usage would be done with more confidence and less self-consciousness.
+their loanword usage. In a healthier community of speakers I imagine loanwords
+might be used more confidently and less self-consciously.
 
 [^2]: Something I learnt during this project was that the distinction between
 frogs and toads is considered part of a folk taxonomy, not precisely aligned
@@ -1749,8 +1750,7 @@ is on that. The phonemic weight of voicing on stops in Donegal seems quite
 marginal to me, see this <a href=https://www.teanglann.ie/en/fuaim/gaeilge>Ulster
 recording</a> of the language's name (<i>Gaedhilg</i> or <i>Gaeilic</i>
 depending on writing preferences), which I would transcribe as <span
-class=ipa>[keːlɪʰk]</span>. (maybe there is palatalisation on the /l/, maybe
-the final consonant is [c], I just don't hear it, perhaps due to
+class=ipa>[keːlɪʰk]</span>. (maybe there is palatalisation on the /l/, I just don't hear it, perhaps due to
 personal deficiency). I hadn't actually noticed the pre-aspiration until
 now (a spectrogram revealed it, it's not something I have an ear for). I
 haven't seen anyone talk about pre-aspiration in Irish, but perhaps it's been
@@ -1769,7 +1769,7 @@ somewhat pre-aspirated.
     <i>frog</i>, a meaning I haven't seen in any Irish texts.
 
 [^5]: You can download a CSV of my collected list
-[here](../images/froganna/omens.csv). The list is not exhaustive and was
+[here](../static/froganna/omens.csv). The list is not exhaustive and was
 collected by searching the NFC for "frog luck", "frog omen", "frog house",
 "frog death", "frog bás", "frog good". A common belief stated was that killing
 a frog would bring you bad luck, but this doesn't really signal anything of the
