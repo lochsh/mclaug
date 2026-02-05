@@ -1750,7 +1750,7 @@ is on that. The phonemic weight of voicing on stops in Donegal seems quite
 marginal to me, see this <a href=https://www.teanglann.ie/en/fuaim/gaeilge>Ulster
 recording</a> of the language's name (<i>Gaedhilg</i> or <i>Gaeilic</i>
 depending on writing preferences), which I would transcribe as <span
-class=ipa>[keːlɪʰk]</span>. (maybe there is palatalisation on the /l/, I just don't hear it, perhaps due to
+class=ipa>[keːlɪʰc]</span>. (maybe there is palatalisation on the /l/, I just don't hear it, perhaps due to
 personal deficiency). I hadn't actually noticed the pre-aspiration until
 now (a spectrogram revealed it, it's not something I have an ear for). I
 haven't seen anyone talk about pre-aspiration in Irish, but perhaps it's been
