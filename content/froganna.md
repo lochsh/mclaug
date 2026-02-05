@@ -26,7 +26,7 @@ Status: draft
 
 <script src="../static/froganna/map.js"></script>
 
-## Cuireadh gan iarraidh: an uninvited guest
+## Cuairteoir gan iarraidh: an uninvited guest
 
 The other night I was sitting on the sofa cuddling my cat when, out of the
 corner of my eye, I seen something small and dark hop into the room through the
