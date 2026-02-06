@@ -858,17 +858,26 @@ North of Lewis, and The Schools' Collection records it once in Mayo (as
 </i>léimeadóir<i>)</i>.
 
 <br><br>
-The etymology of this word is transparent: <i>leum</i> + <i>ach</i> + <i>án</i>
-= wee jumping thing. Other Celtic languages have a similar word for jump: in
-Welsh, <i>llam</i> gives us <i>llamhidydd</i>, used with the same descriptive
-meaning of "jumper" but for porpoises, presumably seen
-leaping out of the sea. Similarly, <i>leumadair</i> is used by some in Scotland
-for dolphins or grasshoppers, but was used by one informant for frogs.
-<i>Leumadair-feòir</i> (grass jumper) or <i>leumadair-mara</i> (sea jumper) are
-sometimes used to distinguish.
+The etymology of <i>leumachan</i> seems transparent: <i>leum</i> + <i>ach</i> + <i>an</i>
+= (wee) jumping thing. Similarly for <i>leumadair</i>, though without any
+possible diminutive reading. <i>Leumadair</i> is also used for other leaping
+animals, sometimes with qualifiers: Dòrlach's fieldwork in Scotland found
+<i>leumadair-fèoir</i> ("grass jumper") for grasshopper, which is also found
+in the 1819 Manx bible as <i>lheimydyr-faiyr</i>.  <i>Leumadair-mara</i> (sea
+jumper) is often cited as a word for dolphins (TODO I
+did find non-dictionary usages of this but did nto note it down and now
+DASG is down. add example usage). In Welsh, the cognate <i>llam</i> gives us
+<i>llamhidydd</i>, similarly meaning "jumper" and used for porpoises.
+<br><br>
+It is possible that <i>leumachan</i> was also used
+by native Manx speakers, as it is given in Douglas Fargher's 1969 <i>The Manx
+have a word for it, Book 4: Insects, Reptiles, etc.</i>, rendered
+<i>lheimaghan</i>. I do not consider this to be a trustworthy source of native
+speech, and sadly couldn't find any corroboration.
 
 <h4>Variations</h4>
-A few phonetic variations of <i>leumachán</i> came up, for example:
+Several variations of <i>leumachan</i> came up, in fact far more commonly than
+plain <i>leumachan</i>:
 
 <ul>
 <li><i>leumrachan</i>, Carloway on Lewis</li>
@@ -877,33 +886,43 @@ A few phonetic variations of <i>leumachán</i> came up, for example:
 <li><i>leumnachan</i>, Drumbuie, Lochalsh</li>
 </ul>
 
+Indeed, the word <i>léimneach</i> seems more common in Ireland than
+<i>léimeach</i>. How come?
+
 In <a href=https://archive.org/details/transactionsvol00invegoog/page/346/mode/2up>Robertson,
 C. M. (1901), <i>The Gaelic of the West of Ross-shire</i>, Gaelic Society of
 Inverness</a>, <i>leumrachan</i> is explained as coming about through
-<i>dissimilation</i>, a phonetic process where sounds change to make them more
-distinct from surrounding sounds (perhaps to make a word easier to say), or to make a word more distinct from another.
-It's not clear to me what the motivation for dissimilation here would be. The
-Carloway example inserts a trilled [r] sound, and although there might be some
-amount of subjectivity to such claims, I don't see how it would make the word
-easier to say.
+<i>dissimilation</i> from <i>leumachan</i>. This explanation does not make
+sense to me. Dissimilation is a phonetic process where sounds change to make
+them more distinct from surrounding sounds, or where sounds that are too
+similar to others within a word are removed. There are various proposed reasons
+for this, but generally it seems to be done to make a word easier to say, or
+more pleasing to the ear. Gaelic examples of this given by others:
+<i>dealagán</i> for <i>gealagán</i> ("egg white", Quiggin 1906),
+<i>caoláire</i> for <i>caol sháile</i>
+(<a href=https://www.logainm.ie/en/1165628>logainm.ie</a>). In English
+a common example is rhotic speakers pronouncing "berserk" as "beserk".
+
+<br><br> Perhaps it is lack of knowledge on my part, but I don't see how
+the insertion of /n/ or /r/ here can be explained by dissimilation.
+Certainly the substitution of /r/ for /n/, as in pronunciations of
+<i>mná</i> found in most places except Munster, seems well-described by
+dissimilation. But the insertion of such a consonanant between /m/ and a
+vowel does not seem well-described by this.
 
 <br><br>
-Perhaps there was some
-influence from the phrase
-<i>leum-a-chrann</i>, used for honeysuckle? It does seem like <i>leumrachan</i> would
-be easier to distinguish from <i>leumachrann</i> than <i>leumachan</i>, though
-this is perhaps subjective. The use of the fortis /R/ sound in Carloway could
-indicate some emphasis on the sound. This word for honeysuckle is one I haven't found
-any fieldwork recording of, but is listed in Cameron's 1883
-<a href=https://archive.org/details/gaelicnamesofpla00cameuoft/page/34/mode/2up?q=leum><i>Gaelic Names of Plants</i></a>
-as being used in Strathardle in Perthshire, admittedly not close to any of our
-locations above.
-
-<br><br>
-The other examples given for dissimilation in Wester Ross mostly
-show consonant substitution, but the examples of <i>foidhi<b>l</b>dean</i> for
-<i>foidhidinn</i>, <i>cóin<b>t</b>each</i> for <i>cóinneach</i> stand out as
-somewhat similar in nature, but are not otherwise illuminating...
+What if <i>leumnachan</i> (and thereby <i>leumrachan</i> &c. by dissimilation)
+could be explained <i>leumnach</i> being formed from the plural? The eDIL
+records the old spellings of <i>lēmennach</i> and <i>leminnach</i>. Could these
+reflect the suffixation of <i>léimmen</i>, the old <a
+href=https://en.wiktionary.org/wiki/l%C3%A9imm>plural form</a> of <i>léim</i>?
+Beyond the example old spellings, I don't have much to support this &mdash;
+except that there are other examples of <i>-ach</i> suffixation that are made
+from the plural: <i>aidhmeannach</i> ("designing; ambitious", from "aims,
+purposes"), <i>greamannach</i> ("biting, inclined to bite; sticky" from
+"grips (n.); bites (n.)"). Perhaps the plural here conveyed repeated jumping?
+Certainly I find this a more satisfying explanation than the dissimilation
+above.
 
 </details>
 
