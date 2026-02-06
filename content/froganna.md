@@ -1180,8 +1180,8 @@ Gaelic Dialect of Colonsay<i></a>, PhD thesis by Alastair MacNeill Scouller</i><
 </figure>
 
 Given the geographical distribution of <i>crúb-</i> words for crabs, I do wonder if the strikingly similar Scottish word <i>crùb</i> might be
-related, which Macbain <a
-href=https://en.wikisource.org/wiki/Page:Alexander_Macbain_-_An_Etymological_Dictionary_of_the_Gaelic_Language.djvu/178>gives</a>
+related, which Macbain <
+a href=https://en.wikisource.org/wiki/An_Etymological_Dictionary_of_the_Gaelic_Language/C>gives</a>
 as being derived from Norse <i>krjúpa</i> and cognate with English "creep",
 meaning "to squat, crouch". That certainly fits a frog's resting pose extremely
 well, and arguably a crab's. If <i>crúbán</i> does refer to the crab's claws,
@@ -1728,6 +1728,64 @@ for it, Book 4: Insects, Reptiles etc.</i>
 * Thank you to all the fieldworkers, the 1930s Irish schoolchildren, the
 informants who took the time to be interviewed, and everyone who has ever gone
 to the effort to make knowledge available online for others to access freely.
+
+## Bibliography
+
+* Dorian, N. C. (1981). <i>Language Death: Life Cycle of a Scottish Gaelic
+  Dialect</i>. University of Pennsylvania Press Anniversary Collection.
+
+* Scharff, R. F. (1893).
+  [<i>Is The Frog a Native of Ireland?</i>](https://archive.org/details/irishnaturalist02roya/page/n17/mode/2up).
+  The Irish Naturalist, 2(1), 1–6.
+
+* Macbain, Alexander (1911). [<i>An Etymylogical Dictionary of the Gaelic
+  Language</i>](https://archive.org/details/etymologicaldict00macbuoft/page/232/mode/2up). Stirling : Eneas Mackay.
+
+* Dubourdieu, J. (1802).
+  [<i>Statistical survey of the County of
+  Down</i>](https://archive.org/details/statisticalsurve00duboiala/page/315/mode/1up).
+  Dublin : Graisberry and Campbell.
+
+* Forbes, A. R. (1905). [<i>Gaelic names of beasts (Mammalia), birds, fishes,
+  insects, reptiles, etc.</i>](https://archive.org/details/gaelicnamesofbea00forb/page/406/mode/2up).
+  Edinburgh : Oliver and Boyd : Norman Macleod.
+
+* Robertson, C. M. (1900). [<i>The Gaelic of the West of
+  Ross-shire</i>](https://archive.org/details/transactionsvol00invegoog/page/320/mode/2up>).
+  In: Transactions of The Gaelic Society of Inverness, 24 (1899-1901). 321-69
+
+* Wentworth, R. (1993). [<i>Faclan is Abairtean à Ros an
+  Iar</i>](https://www3.smo.uhi.ac.uk/gaidhlig/wentworth/faclair/dualchainnt/). Clar.
+
+* Sjoestedt, M. L. (1930). [<i>Phonétique d’un parler irlandais de
+  Kerry</i>](https://fr.wikisource.org/wiki/Phon%C3%A9tique_d%E2%80%99un_parler_irlandais_de_Kerry/2-6#p163).
+  In: Annales de Bretagne. Book 40, number 3, 1932. 570-571
+
+* Dinneen, P. S. (1904). [<i>Foclóir Gaedhilge agus Béarla</i>](https://archive.org/details/foclirgaeilgeagu00dinn). Irish  Texts Society
+
+* Mac Gréagóir, A. (1908). <i>Sean-Ranna Ultacha</i>. An Claidheamh Soluis
+10:15 (20/6/1908). [under the pen-name <i>Gréagóirína Nic Gréagóir Gréagach</i>]
+
+* Stockman, G. (1974). [<i>The Irish of Achill, Co.
+  Mayo</i>](https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/Stockman%20(1974),%20The%20Irish%20of%20Achill,%20Co%20Mayo.pdf). Belfast : Institute of Irish Studies, Queen's University of Belfast.
+
+* Dwelly, E. (1918). [<i>The illustrated Gaelic
+  dictionary</i>](https://archive.org/details/illustratedgaeli01dweluoft/page/n7/mode/2up).
+  Fleet, Hampshire : The author.
+
+* Cambrensis, G. (1863). [<i>The Topography of Ireland</i> (T. Forester, Trans.)
+](https://www.yorku.ca/inpar/topography_ireland.pdf). London : H.G. Bohn
+(Original work published c. 1188)
+
+* Kelly, J. (1866). [<i>The Manx
+  Dictionary</i>](https://archive.org/details/cu31924027086945). Douglas : The
+  Manx Society
+
+* O'Clery, M., & Miller, A. W. K. (1883). [<i>O'Clery's Irish glossary: Printed
+  at Louvrain in 1643.
+  s.n.</i>](https://deriv.nls.uk/dcn23/8177/81776163.23.pdf). Revue Celtique,
+  5 (1881-1883). 16. (Original work published 1643 as <i>Foclóir nó Sanasán
+          Nua</i>)
 
 [^1]: In Nancy Dorian's <i>Language Death: The Life Cycle of a Scottish Gaelic
 Dialect</i> (p. 101), she notes this: <blockquote>Precisely because everyone
