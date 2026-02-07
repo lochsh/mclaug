@@ -851,11 +851,10 @@ ditch".
 <img src="../images/froganna/leumrachan.svg" alt="drawing of a frog mid-leap">
 </summary>
 
-<i>I found variants of </i>leumachan<i> in various parts of Scotland, including
-Lewis, West Sutherland, near Ullapool, and one instance on the Kintyre
-Peninsula in Argyll. Dòrlach's fieldwork found </i>leumadair<i> once in the
-North of Lewis, and The Schools' Collection records it once in Mayo (as
-</i>léimeadóir<i>)</i>.
+<i>I found variants of </i>leumachan<i> in various parts of Scotland,
+especially in West and North Sutherland. Dòrlach's fieldwork found
+</i>leumadair<i> once in the North of Lewis, and The Schools' Collection
+records it once in Mayo (as </i>léimeadóir<i>)</i>.
 
 <br><br>
 The etymology of <i>leumachan</i> seems transparent: <i>leum</i> + <i>ach</i> + <i>an</i>
