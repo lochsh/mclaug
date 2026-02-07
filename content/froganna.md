@@ -1730,67 +1730,58 @@ to the effort to make knowledge available online for others to access freely.
 
 ## Bibliography
 
+* Cambrensis, G. (1863). [<i>The Topography of Ireland</i> (T. Forester, Trans.)
+](https://www.yorku.ca/inpar/topography_ireland.pdf). London : H.G. Bohn
+(Original work published c. 1188)
+
+* Clague, J. (1911). [<i>Cooinaghtyn
+  Manninagh</i>](https://corpus.gaelg.im/docs/Cooinaghtyn-Manninagh?q=frog).
+  Castletown : M. J. Blackwell.
+
+* Cormac (pseudonym) (1909). <i>Frog</i>. An Claidheamh Soluis 11:9 (8/5/1909).
+
+* Dinneen, P. S. (1904). [<i>Foclóir Gaedhilge agus Béarla</i>](https://archive.org/details/foclirgaeilgeagu00dinn). Irish  Texts Society
+
+* Dorian, N. C. (1978). <i>East Sutherland Gaelic: the dialect of the Brora,
+  Golspie, and Embo fishing communities</i>. Dublin : Dublin Institute of
+  Advanced Studies.
+
 * Dorian, N. C. (1981). <i>Language Death: Life Cycle of a Scottish Gaelic
   Dialect</i>. University of Pennsylvania Press Anniversary Collection.
-
-* Scharff, R. F. (1893).
-  [<i>Is The Frog a Native of Ireland?</i>](https://archive.org/details/irishnaturalist02roya/page/n17/mode/2up).
-  The Irish Naturalist, 2(1), 1–6.
-
-* Macbain, Alexander (1911). [<i>An Etymylogical Dictionary of the Gaelic
-  Language</i>](https://archive.org/details/etymologicaldict00macbuoft/page/232/mode/2up). Stirling : Eneas Mackay.
 
 * Dubourdieu, J. (1802).
   [<i>Statistical survey of the County of
   Down</i>](https://archive.org/details/statisticalsurve00duboiala/page/315/mode/1up).
   Dublin : Graisberry and Campbell.
 
-* Forbes, A. R. (1905). [<i>Gaelic names of beasts (Mammalia), birds, fishes,
-  insects, reptiles, etc.</i>](https://archive.org/details/gaelicnamesofbea00forb/page/406/mode/2up).
-  Edinburgh : Oliver and Boyd : Norman Macleod.
-
-* Robertson, C. M. (1900). [<i>The Gaelic of the West of
-  Ross-shire</i>](https://archive.org/details/transactionsvol00invegoog/page/320/mode/2up>).
-  In: Transactions of The Gaelic Society of Inverness, 24 (1899-1901). 321-69
-
-* Wentworth, R. (1993). [<i>Faclan is Abairtean à Ros an
-  Iar</i>](https://www3.smo.uhi.ac.uk/gaidhlig/wentworth/faclair/dualchainnt/). Clar.
-
-* Sjoestedt, M. L. (1930). [<i>Phonétique d’un parler irlandais de
-  Kerry</i>](https://fr.wikisource.org/wiki/Phon%C3%A9tique_d%E2%80%99un_parler_irlandais_de_Kerry/2-6#p163).
-  In: Annales de Bretagne. Book 40, number 3, 1932. 570-571
-
-* Dinneen, P. S. (1904). [<i>Foclóir Gaedhilge agus Béarla</i>](https://archive.org/details/foclirgaeilgeagu00dinn). Irish  Texts Society
-
-* Mac Gréagóir, A. (1908). <i>Sean-Ranna Ultacha</i>. An Claidheamh Soluis
-10:15 (20/6/1908). [under the pen-name <i>Gréagóirína Nic Gréagóir Gréagach</i>]
-
-* Stockman, G. (1974). [<i>The Irish of Achill, Co.
-  Mayo</i>](https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/Stockman%20(1974),%20The%20Irish%20of%20Achill,%20Co%20Mayo.pdf). Belfast : Institute of Irish Studies, Queen's University of Belfast.
+* Dunbar, C. (2025). [<i>Cnuasach Focal as
+  Oirialla</i>](https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/CNUASACH%20FOCAL%20AS%20ORIALLA%20leagan%201.1%201025.pdf).
+  [Online edition]
 
 * Dwelly, E. (1918). [<i>The illustrated Gaelic
   dictionary</i>](https://archive.org/details/illustratedgaeli01dweluoft/page/n7/mode/2up).
   Fleet, Hampshire : The author.
 
-* Cambrensis, G. (1863). [<i>The Topography of Ireland</i> (T. Forester, Trans.)
-](https://www.yorku.ca/inpar/topography_ireland.pdf). London : H.G. Bohn
-(Original work published c. 1188)
+* Fargher, D. C. (1969). <i>The Manx have a word for it, Book 4: Insects,
+  Reptiles, etc.</i>. Reayrt Ny Marrey : The author.
+
+* Forbes, A. R. (1905). [<i>Gaelic names of beasts (Mammalia), birds, fishes,
+  insects, reptiles, etc.</i>](https://archive.org/details/gaelicnamesofbea00forb/page/406/mode/2up).
+  Edinburgh : Oliver and Boyd : Norman Macleod.
+
+* Hamilton, J. N. (1974). [<i>A phonetic study of the Irish of Tory Island, Co.
+  Donegal</i>](https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/The%20Irish%20of%20Tory%20Island%20-%20Hamilton.pdf).
+  Belfast : Institute of Irish Studies, Queen's University Belfast
+
+* Henry, S. (1939). <i>The Cinderella of Rathlin Island</i>. The Belfast
+  Telegraph (18/04/1939)
 
 * Kelly, J. (1866). [<i>The Manx
   Dictionary</i>](https://archive.org/details/cu31924027086945). Douglas : The
   Manx Society
 
-* O'Clery, M., & Miller, A. W. K. (1883). [<i>O'Clery's Irish glossary: Printed
-  at Louvrain in 1643.
-  s.n.</i>](https://deriv.nls.uk/dcn23/8177/81776163.23.pdf). Revue Celtique,
-  5 (1881-1883). 16. (Original work published 1643 as <i>Foclóir nó Sanasán
-          Nua</i>)
-
-* McKenna, L. (1947). <i>Book of Magauran: Leabhar Méig Shamhradháin</i>.
-  Dublin : Dublin Institute for Advanced Studies. [HTML version]. Retrieved
-  from
-  [https://celt.ucc.ie/published/G402561/header.html](https://celt.ucc.ie/published/G402561/header.html).
-  (Original manuscript 1330s)
+* Macbain, Alexander (1911). [<i>An Etymylogical Dictionary of the Gaelic
+  Language</i>](https://archive.org/details/etymologicaldict00macbuoft/page/232/mode/2up). Stirling : Eneas Mackay.
 
 * Marstrander, C. (1908). [<i>Über irisches loscann und einige andere
   indogermanische Namen der
@@ -1798,39 +1789,72 @@ to the effort to make knowledge available online for others to access freely.
   In Magnus Bernhard Olsen (ed.), <i>Sproglige og historiske afhandlinger viede
   Sophus Bugges minde</i>, 240-246. Oslo : H. Aschehoug & Co.
 
-* Quiggin, E. C. (1906). [<i>A Dialect of Donegal</i>](https://en.wikisource.org/wiki/A_Dialect_of_Donegal). Cambridge : University Press.
+* Mac Giolla Chearna, P. (1940). <i>Ceachta as Leabhar na Cruinne</i>. Baile
+  Átha Cliath : Oifig an tSoláthair.
 
-* Scouller, A. M. (2018). [<i>The Gaelic Dialect of
-  Colonsay</i>](https://era.ed.ac.uk/server/api/core/bitstreams/c5b70130-aec4-4f11-b6f6-60f3fd8263cf/content).
-  The University of Edinburgh
+* Mac Gréagóir, A. (1908). <i>Sean-Ranna Ultacha</i>. An Claidheamh Soluis
+10:15 (20/6/1908). [under the pen-name <i>Gréagóirína Nic Gréagóir Gréagach</i>]
 
-* Fargher, D. C. (1969). <i>The Manx have a word for it, Book 4: Insects,
-  Reptiles, etc.</i>. Reayrt Ny Marrey : The author.
+* Mac Gréagóir, A. (1910). [<i>Sgéaltan X
+  Rachreann</i>](https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/Sg%C3%A9altan%20Rachreann.pdf). Gill, M. H. & a Mhac Teor.
+
+* Mac Meanman, S. (1940). <i>Crann an Eolais, An Toradh</i>. Dublin : Brún agus Ó
+Nualláin Teór.
+
+* McKenna, L. (1947). <i>Book of Magauran: Leabhar Méig Shamhradháin</i>.
+  Dublin : Dublin Institute for Advanced Studies. [HTML version]. Retrieved
+  from
+  [https://celt.ucc.ie/published/G402561/header.html](https://celt.ucc.ie/published/G402561/header.html).
+  (Original manuscript 1330s)
+
+* O'Clery, M., & Miller, A. W. K. (1883). [<i>O'Clery's Irish glossary: Printed
+  at Louvrain in 1643.
+  s.n.</i>](https://deriv.nls.uk/dcn23/8177/81776163.23.pdf). Revue Celtique,
+  5 (1881-1883). 16. (Original work published 1643 as <i>Foclóir nó Sanasán
+          Nua</i>)
+
+* Ó Dónaill, N. (1977). <i>Foclóir Gaeilge–Béarla</i>. Dublin: An Gúm
 
 * O'Fothartha, D. (1892). [<i>Siamsa an gheimhridh: no Cois an teallaigh in Iar
   gConnachta</i>](https://babel.hathitrust.org/cgi/pt?id=uc1.c070984047&seq=139).
   Baile Átha Cliath : O'Brien Patrick
 
-* Ó Dónaill, N. (1977). <i>Foclóir Gaeilge–Béarla</i>. Dublin: An Gúm
 
 * O'Neill-Lane, T. (1917). [<i>Larger English-Irish
   Dictionary</i>](https://archive.org/details/largerenglishiri00onei/page/n3/mode/2up).
   New York : Funk & Wagnalls Co.
 
-* Mac Gréagóir, A. (1910). [<i>Sgéaltan X
-  Rachreann</i>](https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/Sg%C3%A9altan%20Rachreann.pdf). Gill, M. H. & a Mhac Teor.
+* Quiggin, E. C. (1906). [<i>A Dialect of Donegal</i>](https://en.wikisource.org/wiki/A_Dialect_of_Donegal). Cambridge : University Press.
 
-* Dorian, N. C. (1978). <i>East Sutherland Gaelic: the dialect of the Brora,
-  Golspie, and Embo fishing communities</i>. Dublin : Dublin Institute of
-  Advanced Studies.
+* Robertson, C. M. (1898). [<i>Skye
+  Gaelic</i>](https://archive.org/details/transactionsgae06unkngoog/page/n76/mode/2up).
+  In: Transactions of The Gaelic Society of Inverness, 23 (1898-1899). 54-89
+
+* Robertson, C. M. (1900). [<i>The Gaelic of the West of
+  Ross-shire</i>](https://archive.org/details/transactionsvol00invegoog/page/320/mode/2up>).
+  In: Transactions of The Gaelic Society of Inverness, 24 (1899-1901). 321-69
+
+* Scharff, R. F. (1893).
+  [<i>Is The Frog a Native of Ireland?</i>](https://archive.org/details/irishnaturalist02roya/page/n17/mode/2up).
+  The Irish Naturalist, 2(1), 1–6.
+
+* Scouller, A. M. (2018). [<i>The Gaelic Dialect of
+  Colonsay</i>](https://era.ed.ac.uk/server/api/core/bitstreams/c5b70130-aec4-4f11-b6f6-60f3fd8263cf/content).
+  The University of Edinburgh
 
 * Sinclair, A. (1879). [<i>The Gaelic
   songster</i>](https://archive.org/details/gaelicsongstertr00sinc/page/n4/mode/1up).
   Glasgow : The author.
 
-* Hamilton, J. N. (1974). [<i>A phonetic study of the Irish of Tory Island, Co.
-  Donegal</i>](https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/The%20Irish%20of%20Tory%20Island%20-%20Hamilton.pdf).
-  Belfast : Institute of Irish Studies, Queen's University Belfast
+* Sjoestedt, M. L. (1930). [<i>Phonétique d’un parler irlandais de
+  Kerry</i>](https://fr.wikisource.org/wiki/Phon%C3%A9tique_d%E2%80%99un_parler_irlandais_de_Kerry/2-6#p163).
+  In: Annales de Bretagne. Book 40, number 3, 1932. 570-571
+
+* Stockman, G. (1974). [<i>The Irish of Achill, Co.
+  Mayo</i>](https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/Stockman%20(1974),%20The%20Irish%20of%20Achill,%20Co%20Mayo.pdf). Belfast : Institute of Irish Studies, Queen's University of Belfast.
+
+* Wentworth, R. (1993). [<i>Faclan is Abairtean à Ros an
+  Iar</i>](https://www3.smo.uhi.ac.uk/gaidhlig/wentworth/faclair/dualchainnt/). Clar.
 
 * Whitfield, N. (1994). [<i>My Grandfather , Dr. Séamus Ó Ceallaigh
   (1879-1954)</i>](https://www.academia.edu/19143240/My_Grandfather_Dr_S%C3%A9amus_%C3%93_Ceallaigh_1879_1954_in_Graham_Mawhinney_ed_Gleanings_from_Ulster_History_by_S%C3%A9amus_%C3%93_Ceallaigh_1879_1954_2nd_ed_Ballinascreen_Historical_Society_1994_iii_xxx).
@@ -1838,24 +1862,6 @@ to the effort to make knowledge available online for others to access freely.
   Ballinascreen Historical Society. (Reprint of 1951 publication with new
   introductory material)
 
-* Mac Giolla Chearna, P. (1940). <i>Ceachta as Leabhar na Cruinne</i>. Baile
-  Átha Cliath : Oifig an tSoláthair.
-
-* Mac Meanman, S. (1940). <i>Crann an Eolais, An Toradh</i>. Dublin : Brún agus Ó
-Nualláin Teór.
-
-* Cormac (pseudonym) (1909). <i>Frog</i>. An Claidheamh Soluis 11:9 (8/5/1909).
-
-* Henry, S. (1939). <i>The Cinderella of Rathlin Island</i>. The Belfast
-  Telegraph (18/04/1939)
-
-* Dunbar, C. (2025). [<i>Cnuasach Focal as
-  Oirialla</i>](https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/CNUASACH%20FOCAL%20AS%20ORIALLA%20leagan%201.1%201025.pdf).
-  [Online edition]
-
-* Robertson, C. M. (1898). [<i>Skye
-  Gaelic</i>](https://archive.org/details/transactionsgae06unkngoog/page/n76/mode/2up).
-  In: Transactions of The Gaelic Society of Inverness, 23 (1898-1899). 54-89
 
 [^1]: In Nancy Dorian's <i>Language Death: The Life Cycle of a Scottish Gaelic
 Dialect</i> (p. 101), she notes this: <blockquote>Precisely because everyone
