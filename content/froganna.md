@@ -1372,7 +1372,9 @@ Athadán no frog air snamh.
 I have seen this riddle repeated across Galway and Mayo in The Schools'
 Collection and the LASID<sup id="fnref:23"><a class="footnote.ref"
 href="#fn:23">23</a></sup>. The version above is from a collection of
-Conamara folklore (O'Fothartha, 1892). It is a longer version than the later ones I have seen in the previously mentioned sources.
+Conamara folklore (O'Fothartha, 1892). It is a longer version than the later
+ones I have seen in the previously mentioned sources. I might inexpertly
+translate it as:
 
 <blockquote>
 I seen through to the puddle/pond [assuming <i>locán</i> is <i>lochán</i>]<br>
