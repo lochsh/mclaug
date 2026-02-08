@@ -1417,6 +1417,31 @@ Dinneen's dictionary lists both "crab" and "frog" as possible translations of
 
 ### <i>Ceanna-phiullan</i>: usually used for tadpoles
 
+<details>
+<summary>
+<i>There was only one example of this being used for frogs, in Romasdal on
+Skye. All other usages found were for tadpoles.</i>
+</summary>
+<br>
+I wonder if this might be better written <i>ceann a' phiullan</i>, or perhaps
+more typically <i>ceann a' phollain</i>. To me it would seem to clearly
+mean "head of the small pool", and indeed Dwelly, 1918 refers <i>pollan</i> to
+<i>pollag</i> , defined it primarily as <i>little pool, hole, pit,
+or pond</i> (see also Macbain, 1911 who writes <i>ceann-phollag</i> or
+<i>ceann-phollag</i> as words for tadpole).
+<br><br>
+A fun comparison is a dialectal American English word for tadpole:
+<a href=https://en.wiktionary.org/wiki/polliwog#English>"polliwog"</a>.
+Amusingly, the "poll" here means "head"! All together the word means "head
+wiggle". In our Gaelic example we have "poll" to mean pool/pond, and another
+word for head. Both would seem to refer to the tadpole as a little swimming
+head, sans limbs.
+<br><br>
+It's harder to make sense of this term applying to frogs. I can't help but
+wonder if the fieldworker who recorded this made an error!
+
+</details>
+
 
 <!---
 
