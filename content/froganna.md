@@ -100,7 +100,12 @@ of local native speakers using each word. I am keen to not allow
 this goal to unnecessarily exclude areas where the local language died. Where
 a dictionary is the only source of a word, I have not included it, but will
 often mention it in the text below. For some words, there are enough secondary
-sources that it feels right to include it on the map.
+sources that it feels right to include it on the map. These secondary sources
+are often from non-native speakers who were experts in a particular area's
+language, but which don't name a specific speaker and only refer to a broad
+area. There is some judgement involved in what to include and what to exclude,
+and I hope my reasoning is made clear both in the details of each
+datapoint, and in the writing below.
 
 <details>
 <summary>Click for more information about the sources and data</summary>

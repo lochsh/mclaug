@@ -308,31 +308,6 @@
                 "word": "frog (sg.); froggyn (pl.)",
                 "source_transcription": "",
                 "ipa_transcription": "",
-                "logainm": "Braddan",
-                "placename": "Braddan",
-                "ceantar": "Ellan Vannin",
-                "area": "Isle of Man",
-                "informant": "",
-                "year": "1819",
-                "source": "Kelly, J. (1866). <i>The Manx Dictionary</i>. Douglas : The Manx Society",
-                "note": "Specific place chosen because it's where John Kelly (1750-1809) was born. Year 1819 given as the 1819 edition of Manx bible has plural examples, and I have read that this dictionary was used for bible translations from the late 1700s onwards, even though it was published later.<br><br>The word <i>rannag</i> seems to be the most popular word for 'frog' among revivalists, but I was unable to find any attestations from native speakers. The earliest extant occurrence seems to be in Douglas Fargher's 1969 <i> The Manx Have a Word for it Book 4 Insects, Reptiles etc.</i> Fargher was known for rejecting foreign loans and calques, and creating his own phrases and words to replace them. In this text, he says <i>The common frog [...] is <u>rannag</u>, but this word became lost during the course of time</i>, suggesting that he had not heard any native speakers use it. He claims that the word <i>was preserved in the place-name 'Poyll Ny Rannagyn' (pool of the frogs)</i>, but no other mention of this placename seems to be available in other texts.<br><br>It may well be that this seemingly Latin-derived name was used on the island long ago, but in the absence of any native attestation I have not included it as an entry on this map.",
-                "category": "frog",
-                "source_category": "other"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-4.489",
-                    "54.181"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "word": "frog (sg.); froggyn (pl.)",
-                "source_transcription": "",
-                "ipa_transcription": "",
                 "logainm": "Creneash",
                 "placename": "Cregneash",
                 "ceantar": "Ellan Vannin",
@@ -340,7 +315,7 @@
                 "informant": "Edward Faragher / Neddy Beg Hom Ruy (1831-1908)",
                 "year": "1901",
                 "source": "Faragher, E. (1901). <i>Skeealyn Aesop</i>. Douglas : S. K. Broadbent",
-                "note": ""
+                "note": "The same word is used in John Kelly's Manx dictionary (published 1866) and translations of the Manx Bibles published in 1775 and 1819 (John Kelly also worked on these)",
                 "category": "frog",
                 "source_category": "other"
             },
