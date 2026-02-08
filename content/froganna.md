@@ -879,8 +879,9 @@ DASG is down. add example usage). In Welsh, the cognate <i>llam</i> gives us
 <br><br>
 It is possible that <i>leumachan</i> was also used
 by native Manx speakers, as it is given in Fargher, 1969,
-rendered <i>lheimaghan</i>. I do not consider this to be a trustworthy source
-of native speech, and sadly couldn't find any corroboration.
+rendered <i>lheimaghan</i>. It is likely this was a neologism introduced by
+Fargher, however. I couldn't find any native corroboration. Fargher's work is
+discussed further in the section on words not included in the map.
 
 <h4>Variations</h4>
 Several variations of <i>leumachan</i> came up, in fact far more commonly than
@@ -1497,66 +1498,71 @@ wonder if the fieldworker who recorded this made an error!
 
 </details>
 
+## Words not included in the map
+
+<h3><i>Rannag</i></h3>
+The word <i>rannag</i> seems to be the most popular word for
+"frog" among Manx revivalists, but I was unable to find any attestations from
+native speakers. The earliest extant occurrence seems to be in Fargher, 1969:
+
+<blockquote>
+The common frog [...] is
+<u>rannag</u>, but this word became lost during the course of time
+yet it was preserved in the place-name 'Poyll Ny Rannagyn' (pool
+of the frogs). It is strange that this word is obviously connected with the
+Latin name [<i>rana</i>].
+</blockquote>
+
+No other mention of the placename "Poyll Ny Rannagyn" seems to be found in
+other texts. The admission that <i>rannag</i> had "become lost" suggests he had
+never heard a native speaker use it. Doug Fargher, who was not a native
+speaker, felt that the revitalisation of Manx required a revision of its
+vocabulary (and grammar). This took the form of suggesting neologisms
+"to meet modern needs" (Broderick, 2013)<sup id=fnref:24><a
+class="footnote-ref" href="#fn:24">24</a></sup>, and replacing "perceived
+impurities or corruptions" used by native speakers with his own preferred words
+(Lewin, 2017). The preface to Fargher's English-Manx dictonary states his
+approach clearly (Fargher, 1979):
+
+<blockquote>
+The aim of this dictionary is purely practical. It is largely a prescriptive
+work and not a descriptive one, that is to say, it does not aim to be a record
+pure and simple of the language as it was spoken at any time during its
+history, but tries to provide some sort of basic standard upon which to build
+the modern Manx language of today and tomorrow, in order that those who feel
+the need to express themselves in Manx may here find the necessary means to do
+so.
+</blockquote>
+
+Although I take a more preservationist approach to my own Gaelic
+learning, it is clear Fargher's work has played a significant part in the
+revival of the language, which he dedicated much of his life to. See Lewin,
+2016 and Lewin, 2017 for more exploration of Fargher's work's impact, context
+and ideology.
+<br>
+
+Back to <i>rannag</i>. I admit my first instict was that Fargher might have
+fabricated this word, but in the preface to his dictionary he openly admits he
+"borrowed unashamedly from our Gaelic cousins" and makes no apology for not
+producing a descriptive work of native speech. Coyly commenting on the
+strangeness of <i>rannag</i>'s Latin root for a word he fabricated would be at
+odds with that.
+<br>
+
+In Lewin's work he uses the term "‘Traditional Manx’ to refer to the now
+extinct native variety deriving directly by intergenerational transmission from
+earlier forms of Gaelic, and ‘Revived Manx’ for the variety spoken today,
+predominantly as an L2 [second language]" (Lewin, 2017). The existence of the
+latter is a joyous thing to me, but my work here on frogs is concerned with the
+former, and in the absence of any evidence that the word "rannag" was ever used
+in Traditional Manx, I have not included it in the map.
 
 <!---
 
 
-### ceanna-phiullan
-
-Thought this might be ceanna-fiullan, but have found instances of
-<i>ceanna-pholla(i)n</i> so perhaps not.
-
-https://archives.collections.ed.ac.uk/repositories/2/archival_objects/141898
-
-means tadpole there
-
-a couple instances on corpas na gàidhlig:
-
-> Is e Marc a bha ' n seo is e cho coltach ri ceanna-phollain ann an cumadh na bodhaige is gun robh Artar air snodha gàire a dhèanamh nan rachadh aige air leathad nan gualainnean fèitheach a dhìochuimheachadh is an nàdur dùr , neo - mhathach a bha ' n nabachd a ' cur as an leth .
-
-and
-
-> An e fàs suas ann a measg nan ceanna - phollan ann an Loch Odha a rinn e mar a dh ' fhas Topsy aig Uncle Tom ' s Cabin , ann am boglaichean Savannah ; theagamh gu ' r e bhi de ' n bheachd sin a thug air Diùc Iain a tha air mhaireann ann an Dun Ara fathast , creidsinn cho laidir ' s an Darwin theory.
-
-https://dasg.ac.uk/fieldwork/view/SW52ZXJuZXNzS01hY1JhZXNsaXBzfGdyw6BiYXN8aWRwMTE1NzYyNTUyfHxjcmFifHI1MHx8fA==
-https://dasg.ac.uk/fieldwork/view/RHVybmVzc0dNYWNLZW56aWVzbGlwc3xzZ29pbHRlYW58aWRwMTE4ODkzODA4fHxwb3RhdG98cjE4NXx8fA==
-
-### muile-mòthag, muile-mhag, muile-mhagan, muileag
-
-> miola - mhàg , mola - mhàg , mola - mhàgan , muile - mhàg , murra - mhàg , murra - mhàgag .
-Frog [ or toad ] .
-The last is the form in Loch Carron .
-
-from Carmina Gadelica vol 6
-
-muile-màig in lismore https://archive.org/details/collectionofgael00maci/page/150/mode/2up?q=lismore
-
-https://archives.collections.ed.ac.uk/repositories/2/archival_objects/142709
-
-https://archive.org/details/transactions23gaeluoft/page/82 about mula vs mial
-on skye
-
-### smag, smagach, smaigean
-
-snot, see smugachán?
-
-or actually just the same as mag
-
-### cranag
-
-### rannag
-
-from https://en.wiktionary.org/wiki/rana#Latin
-
 ### uillichd
 wilky?
 
-### torpán
-
-teanglann has this as small clump or clod, or a pot-bellied person. would make
-sense
-
-torbán is given as tadpole
 
 ## Given names for the frog in stories and riddles
 
@@ -1827,6 +1833,9 @@ to the effort to make knowledge available online for others to access freely.
 Sources only cited in the datapoints are either directly cited there, or are
 listed in the introduction (e.g. the LASID). They are not listed here.
 
+* Broderick, G. (2013). [<i>Neologisms in Revived Manx
+  Gaelic</i>](https://journal.fi/scf/article/download/7663/14658/40703). Studia Celtica Fennica: 7–29.
+
 * Cambrensis, G. (1863). [<i>The Topography of Ireland</i> (T. Forester, Trans.)
 ](https://www.yorku.ca/inpar/topography_ireland.pdf). London : H.G. Bohn
 (Original work published c. 1188)
@@ -1871,6 +1880,8 @@ listed in the introduction (e.g. the LASID). They are not listed here.
 * Fargher, D. C. (1969). <i>The Manx have a word for it, Book 4: Insects,
   Reptiles, etc.</i>. Reayrt Ny Marrey : The author.
 
+* Fargher, D. C. (1979). <i>Fargher's English-Manx Dictionary</i>. Douglas : Shearwater Press
+
 * Forbes, A. R. (1905). [<i>Gaelic names of beasts (Mammalia), birds, fishes,
   insects, reptiles, etc.</i>](https://archive.org/details/gaelicnamesofbea00forb/page/406/mode/2up).
   Edinburgh : Oliver and Boyd : Norman Macleod.
@@ -1885,6 +1896,14 @@ listed in the introduction (e.g. the LASID). They are not listed here.
 * Kelly, J. (1866). [<i>The Manx
   Dictionary</i>](https://archive.org/details/cu31924027086945). Douglas : The
   Manx Society
+
+* Lewin, C. (2016). [<i>The revivability of Manx Gaelic: a linguistic
+  description and discussion of Revived
+  Manx</i>](https://www.academia.edu/39715888/The_revivability_of_Manx_Gaelic_a_linguistic_description_and_discussion_of_Revived_Manx). Aberystwyth University.
+
+* Lewin, C. (2017). [<i>Scholarship and language revival:
+  language ideologies in corpus development for Revived
+  Manx</i>](https://reference-global.com/article/10.1515/scp-2017-0006). Studia Celtica Posnaniensia, 2(1), 97–118.
 
 * Macbain, Alexander (1911). [<i>An Etymylogical Dictionary of the Gaelic
   Language</i>](https://archive.org/details/etymologicaldict00macbuoft/page/232/mode/2up). Stirling : Eneas Mackay.
@@ -2193,3 +2212,23 @@ The frog
 is called <i>Mac I Shliopán</i>.</li>
 </ul> Vaguely similar riddles elsewhere: <ul> <li><a href=https://www.duchas.ie/en/cbes/4687698/4684993/4689936>Baile Uí
   Dhuinn, Contae Chiarraí</a></li></ul>
+
+[^24]: Dorian, 1981, pp. 111-112: <blockquote>There are at least five aspects of
+linguistic behaviour [...] in which the dominance of English over Gaelic is
+less complete than might be anticipated. First, despite the association of
+English with modernity and technology and the public spheres of life, no topic
+connected with these aspects of life forces a choice of English. If the setting
+and the interlocutor permit, any topic, no matter how sophisticated or remote
+from local life, can be discussed in Gaelic. Closely related to this aspect of
+resistance to English dominance is the thorough-going integration of English
+lexical borrowings into Gaelic; <b>this integration makes possible the use of
+Gaelic for all topics</b>."</blockquote> Emphasis my own. The idea that an expanded
+"native" lexicon is required for a language to expand its spheres of usage is
+also rejected in Lewin, 2016: <blockquote>"[on a quote declaring Fargher's dictionary as
+making it possible for Manx speakers to discuss topics like atomic physics]
+This passage implies that it was impossible to discuss subjects like atomic
+physics etc. before the appearance of the dictionary, ignoring the fact that
+many neologisms had been developed and were in use within the small community
+of speakers in earlier decades, not to mention the fact that Manx speakers are
+at liberty to borrow from English specific lexis where no pre-existing Manx
+word exists or is remembered."</blockquote>
