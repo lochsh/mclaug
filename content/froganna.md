@@ -1066,22 +1066,22 @@ it is more common for this to mean toad. However, its
 variant </i>mial-mhàgain<i> is popular in Scotland for frog, particularly on
 Skye and Raasay.<br><br>
 
-In Ireland, </i>laprachán<i> or </i>laprachán na lathái<i> was found once in
+In Ireland, </i>laprachán<i> or </i>laprachán lathái<i> was found once in
 Waterford, and a few times in Galway. </i>Lapadán<i> had one example each in
 Galway and Monaghan, </i>lapadóir<i> one in Mayo, and </i>lapadóir lathaí<i>
 one in Galway.</i>
 <br><br>
 
 I have grouped these words together partly to reduce my illustration burden,
-but also because they all seem to reference some frog's "hands" in some way,
+but also because they all seem to reference the frog's "hands" in some way,
 and perhaps specifically movement via these "hands".
 <br><br>
 
 <h4><i>Màgan</i> and <i>mial-mhàgain</i></h4>
 
 Dwelly's dictionary <i>màg</i> as "paw; claw; ludicrous term for
-the hand", and "seal's paw (Argyll)", notable as a seal's flippers are similar
-to a frog's feet. Similarly <i>màigean</i> is given as "Fat little man; child
+the hand", and "seal's paw (Argyll)".
+<i>Màigean</i> is given as "Fat little man; child
 beginning to walk; toad; frog; ludicrous term for a man with a creeping or
 sprawling gait, or moving on all fours." MacBain, 1911 suggests this term for
 toads should properly be <i>mial-mhàgain</i>, meaning "squat beast".
@@ -1089,8 +1089,8 @@ toads should properly be <i>mial-mhàgain</i>, meaning "squat beast".
 Certainly there seems to be a strong association with crawling here, hence to
 me this word would evoke toads more than frogs. Nevertheless, variants of
 <i>mial-mhàgain</i> appear popular for frogs. On Skye and Raasay this is
-often rendered <i>mula-mhàgag</i>. In Robertson, 1898, this is analysed as a
-form of epenthesis, noting other examples of vowel insertion like
+often rendered <i>mula-mhàgag</i>. In Robertson, 1898, this is analysed as
+epenthesis, noting other examples of vowel insertion like
 <i>seana-mhathair</i> instead of <i>sean-mhathair</i> for grandmother.
 Epenthesis between liquid consonants (l, n, r) followed by certain other
 consonants is widespread, but the rules that govern it do vary.  Compare the
@@ -1104,20 +1104,40 @@ translation of "squat beast" certainly suits frogs well, see also the section
 on <i>crúbán claidhe</i>. It's possible these terms take their meaning from the
 squatting, rather than movement in that position.
 
-TODO: smàg
-
 <h4><i>Laprachán</i>, <i>lapadán</i> and <i>lapadóir</i></h4>
 
-<!---
-https://www.duchas.ie/en/cbes/4921874/4897822/5184841 lapa as severed human
-hand
+While <i>màgan</i> and its variants stem from the word <i>màg</i>, these
+words stem from the word <i>lapa</i>. Relevant extracts from Dinneen's
+dictionary, pp. 419-210:
 
+<ul>
+<li><i>lapa</i>: a paw, the fist</li>
+<li><i>lapach</i>: a swamp, a marsh</li>
+<li><i>lapadán</i>: a kind of sea-fish; also a bird called "diver"; a small
+inactive person (Donegal); a clumsy person</li>
+<li><i>lapáil</i>: act of using the paws, pawing; of a frog swimming
+(Connacht)</li>
+<li>lapaire</i>: one that paws or pads with the hand</li>
+<li>laparnach</i>: a wading through water etc.; pawing or handling soft mud
+etc.</li>
+</ul>
 
-https://www.duchas.ie/en/cbes/4921952/4912854/4947435 for goose's webbed feet
-https://www.duchas.ie/en/cbes/4706359/4706073/4725828
---->
-
-
+Ó Dónaill's dictionary lists <i>laparnach</i> as a variant of
+<i>slaparnach</i>, meaning the act or sound of splashing water. This would seem
+to be imitative. The varying use of initial "s" reminds me of variant
+"plash" for "splash" in English. This would explain the seemingly incongruous
+use of <i>lapach</i> to mean "marsh": as a description of the sound made while
+walking through it. Ó Dónaill lists <i>slaprach</i> as "wet, soggy land".
+<br><br>
+In The Schools' Collection, <i>lapa</i> is used to refer to a goose's <a
+href=https://www.duchas.ie/en/cbes/4921952/4912854/4947435>webbed</a> <a
+href=https://www.duchas.ie/en/cbes/4706359/4706073/4725828>feet</a>, and also
+seemingly a <a
+href=https://www.duchas.ie/en/cbes/4921874/4897822/5184841>severed human
+hand</a>.  I haven't been able to find any suggested etymologies for it. I
+wonder if there are two etymologies at play here, one associated with splashing
+and another with hands. I expect they are one and the same, with the hand being
+the splashing implement.
 
 </details>
 
