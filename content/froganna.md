@@ -59,7 +59,7 @@ sources are:
 
 * Digital Archive of Scottish Gaelic (DASG). University of Glasgow <a href='https://dasg.ac.uk'>&lt;dasg.ac.uk&gt;</a>
 
-* National Folklore Collection, University College Dublin <a
+* The Schools' Collection, National Folklore Collection, University College Dublin <a
   href=https://www.duchas.ie>&lt;duchas.ie&gt;</a>
 
 * Tobar an Dualchais <a href='https://www.tobarandualchais.co.uk'>&lt;tobarandualchais.co.uk&gt;</a>, Sabhal Mòr Ostaig
