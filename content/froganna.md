@@ -1718,6 +1718,9 @@ to the effort to make knowledge available online for others to access freely.
 
 ## Bibliography
 
+Sources only cited in the datapoints are either directly cited there, or are
+listed in the introduction (e.g. the LASID). They are not listed here.
+
 * Cambrensis, G. (1863). [<i>The Topography of Ireland</i> (T. Forester, Trans.)
 ](https://www.yorku.ca/inpar/topography_ireland.pdf). London : H.G. Bohn
 (Original work published c. 1188)
