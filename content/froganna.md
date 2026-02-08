@@ -1543,10 +1543,13 @@ and ideology.
 
 Back to <i>rannag</i>. I admit my first instict was that Fargher might have
 fabricated this word, but in the preface to his dictionary he openly admits he
-"borrowed unashamedly from our Gaelic cousins" and makes no apology for not
-producing a descriptive work of native speech. Coyly commenting on the
-strangeness of <i>rannag</i>'s Latin root for a word he fabricated would be at
-odds with that.
+"borrowed unashamedly from our Gaelic cousins" and "make[s] no apology
+whatsoever for attempting to restore to the Manx language mutations, genders
+and certain other characteristics of Gaelic which without doubt existed in
+pre-literary and classical Manx but which had already disappeared before the
+final demise of the native speakers"<sup id=fnref:25><a class="footnote.ref"
+href="#fn:25">25</a></sup>. Coyly commenting on the strangeness of
+<i>rannag</i>'s Latin root for a word he fabricated would be at odds with that.
 <br>
 
 In Lewin's work he uses the term "‘Traditional Manx’ to refer to the now
@@ -2232,3 +2235,18 @@ many neologisms had been developed and were in use within the small community
 of speakers in earlier decades, not to mention the fact that Manx speakers are
 at liberty to borrow from English specific lexis where no pre-existing Manx
 word exists or is remembered."</blockquote>
+
+[^25]: This replacement of native speakers' grammar, erasing a unique history
+of language contact and adaptation, is something I can see only as cultural
+vandalism. However, for more nuanced and detailed thoughts
+on Fargher's work I will again refer to Lewin's work. As he puts it in Lewin,
+   2017: <blockquote> [it is perhaps] problematic if the native Manx of the
+   past is implicitly (or explicitly) rejected as being not Manx enough.
+   Efforts to purge Manx of grammatical and lexical influence from English
+   arguably constitute a purism of a simplistic and unnecessarily xenophobic
+   kind, which disregards the lived experience of centuries of Manx speakers,
+   for whom some contact with English and borrowing of English forms was an
+   inherent part of their linguistic world, and reflects a discourse which
+   comes close to blaming the traditional speakers for letting their language
+   become ‘impure’. It also makes the native Manx texts of the past less
+   accessible to new speakers.</blockquote>
