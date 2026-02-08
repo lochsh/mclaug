@@ -95,6 +95,13 @@ of words grouped together (e.g.  </i>mula-mhàgag<i> displayed as
 Scotia exclusively had </i>màgan<i> for frog.</i></figcaption>
 </figure>
 
+The goal with the words included in the map is to have traceable examples
+of local native speakers using each word. I am keen to not allow
+this goal to unnecessarily exclude areas where the local language died. Where
+a dictionary is the only source of a word, I have not included it, but will
+often mention it in the text below. For some words, there are enough secondary
+sources that it feels right to include it on the map.
+
 <details>
 <summary>Click for more information about the sources and data</summary>
 <br>
@@ -513,14 +520,15 @@ Irish Glossary</a> from 1643:
 
 <br>
 The notes say the salamander is called <i>loisgionn</i> "because it is burnt"
-(salmanders are known to nest in firewood). Dinneen's dictionary also
+&mdash; salamanders are known to nest in firewood, and in mythology are
+associated with fire. Dinneen's dictionary also
 <a href=https://archive.org/details/foclirgaeilgeagu00dinn/page/443>lists</a>
 "salamander" as a possible translation of <i>loisceann</i>.
 
 <br><br>
-The eDIL also cites McKenna, 1947 (from a 14th century manuscript), using
-<i>losguinn</i> to refer to a
-dragon<sup id="fnref:14"><a class=“footnote-ref" href="#fn:14">14</a></sup>.
+The eDIL also cites the use of <i>losguinn</i> to refer to a dragon in 14th
+century manuscript <i>Leabhar Méig Shamhradháin</i> (McKenna, 1947)<sup
+id="fnref:14"><a class=“footnote-ref" href="#fn:14">14</a></sup>.
 
 <br><br>
 Is the humble frog the peat bog's answer to mythical fire beasts of
@@ -620,9 +628,10 @@ spelling</a> as a variant of <i>loscann</i>!
 Similarly, in The Schools' Collection I found a
 <a href=https://www.duchas.ie/en/cbes/4428280/4391740/4478383>usage</a><sup id="fnref:19"><a class=“footnote-ref" href="#fn:19">19</a></sup>
 of <i>luspán</i>, referring to some kind of small creature found by a
-turf bank. Whether it refers to a frog is unclear, but it seems very plausible.
-Apart from the quality of the initial consonant, this would likely match the
-pronunciation indicated by <i>liospán</i>.
+turf bank. Whether it refers to a frog is ambiguous, but to me it seems the
+most likely candidate.  Apart from the quality of the initial consonant and
+possibly the first vowel, <i>luspán</i> would likely match the pronunciation
+indicated by <i>liospán</i>.
 
 <figure>
     <img
@@ -652,11 +661,11 @@ actually saying it (as with "jeepers" for "Jesus").
         style="max-height: 250px;"
     >
     <figcaption><i>Example phonemic transcriptons of the attested words I propose
-    are evolutions of "loscann" to "lispín". A </i>síneadh fada<i> on an
+    are evolutions of </i>loscann<i> to </i>lispín<i>. A </i>síneadh fada<i> on an
     unstressed syllable taken to mean a clear short vowel, as in my experience
     in Donegal. Some further phonetically intermediate stages would be
-    grammatically restricted, e.g. "liospáin" would be a declension of
-    "liospán".  </i></figcaption>
+    grammatically restricted, e.g. </i>liospáin<i> would be a declension of
+    </i>liospán<i>.</i></figcaption>
 </figure>
 
 If this word is indeed a phonetic variation on <i>losgann</i>, then the fact
@@ -770,11 +779,10 @@ and the frog's unsheltered back (his head is under the toadstool)."></summary>
 <i>This word is reported as once having been found in County Derry</i>
 
 <br><br>
-This is a word I have included, despite finding no primary sources for it,
-because I feel there are sufficient secondary sources to support it, and
-because it is from a place where the local language died, and I wish to
-preserve and represent it in this work. I have not found it in any other
-place, at least not used to mean "frog".
+By the time of the LASID in the 1950s, the fieldworkers could find no
+native speakers in Derry. However, a variety of secondary sources record the
+word <i>fliuchán</i> as being used for "frog". I have not found the word used
+with this meaning anywhere else.
 <br><br>
 
 <img src="../images/froganna/fliuchán.png"
@@ -793,13 +801,13 @@ Cormac">
 
 <br>
 The word <i>fliuch</i> means wet, and correspondingly <i>fliuchán</i> means
-"wet thing" or "wetness". In Kerry it is used to refer to rain, see
-<a href=https://fr.wikisource.org/wiki/Phon%C3%A9tique_d%E2%80%99un_parler_irlandais_de_Kerry/2-6#p163> Sjoestedt, M. L. (1931), <i>Phonétique d’un parler irlandais de Kerry [Phonetics of an Irish Dialect of Kerry]</i></a>
-and <a href=https://www.duchas.ie/en/cbes/4678384/4674363/4683533>this</a> example
+"wet thing" or "wetness". In Kerry it is used to refer to rain, see Sjoestedt,
+1930, and <a
+href=https://www.duchas.ie/en/cbes/4678384/4674363/4683533>this</a> example
 in the Schools Collection. It is also used in <a
-href=https://www.duchas.ie/en/cbes/4622961/4617138/4627097>this entry</a> from Conamara to
-describe some kind of seafood that people long ago would have eaten, listed
-alongside crabs, clams, and seaweed.
+href=https://www.duchas.ie/en/cbes/4622961/4617138/4627097>this entry</a>
+from Conamara to describe some kind of seafood that people long ago would
+have eaten, listed alongside crabs, clams, and seaweed.
 
 <br><br>
 Sources where it used to mean frog:
