@@ -330,6 +330,31 @@
         {
             "type": "Feature",
             "properties": {
+                "word": "frog (sg.); froggyn (pl.)",
+                "source_transcription": "",
+                "ipa_transcription": "",
+                "logainm": "Creneash",
+                "placename": "Cregneash",
+                "ceantar": "Ellan Vannin",
+                "area": "Isle of Man",
+                "informant": "Edward Faragher / Neddy Beg Hom Ruy (1831-1908)",
+                "year": "1901",
+                "source": "Faragher, E. (1901). <i>Skeealyn Aesop</i>. Douglas : S. K. Broadbent",
+                "note": ""
+                "category": "frog",
+                "source_category": "other"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.7691,
+                    54.0693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "word": "ceanna-phiullan",
                 "source_transcription": "[cɛ̃ṉəfju̜ɫɑṉ]",
                 "ipa_transcription": "",
