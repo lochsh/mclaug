@@ -164,7 +164,7 @@
                 "area": "Glenties, County Donegal",
                 "informant": "John Hegarty",
                 "year": "1906",
-                "source": "Quiggin, E. C. (1906), <i>A Dialect of Donegal</i>, Cambridge University Press, page 13",
+                "source": "Quiggin, E. C. (1906). <i>A Dialect of Donegal</i>. Cambridge : University Press. p. 13",
                 "note": "Translated as 'toad'",
                 "category": "losgann",
                 "source_category": "other"
@@ -314,7 +314,7 @@
                 "area": "Isle of Man",
                 "informant": "",
                 "year": "1819",
-                "source": "Kelly, J. (1866), <i>The Manx Dictionary</i>",
+                "source": "Kelly, J. (1866). <i>The Manx Dictionary</i>. Douglas : The Manx Society",
                 "note": "Specific place chosen because it's where John Kelly (1750-1809) was born. Year 1819 given as the 1819 edition of Manx bible has plural examples, and I have read that this dictionary was used for bible translations from the late 1700s onwards, even though it was published later.<br><br>The word <i>rannag</i> seems to be the most popular word for 'frog' among revivalists, but I was unable to find any attestations from native speakers. The earliest extant occurrence seems to be in Douglas Fargher's 1969 <i> The Manx Have a Word for it Book 4 Insects, Reptiles etc.</i> Fargher was known for rejecting foreign loans and calques, and creating his own phrases and words to replace them. In this text, he says <i>The common frog [...] is <u>rannag</u>, but this word became lost during the course of time</i>, suggesting that he had not heard any native speakers use it. He claims that the word <i>was preserved in the place-name 'Poyll Ny Rannagyn' (pool of the frogs)</i>, but no other mention of this placename seems to be available in other texts.<br><br>It may well be that this seemingly Latin-derived name was used on the island long ago, but in the absence of any native attestation I have not included it as an entry on this map.",
                 "category": "frog",
                 "source_category": "other"
@@ -464,7 +464,7 @@
                 "area": "Fintown, County Donegal",
                 "informant": "Seaghán 'ac Meanman (1886-1962)",
                 "year": "c. 1940",
-                "source": "Mac Meanman, S. (1940), <i>Crann an Eolais, An Toradh</i>, Brún agus Ó Nualláin Teór., Dublin",
+                "source": "Mac Meanman, S. (1940). <i>Crann an Eolais, An Toradh</i>. Dublin : Brún agus Ó Nualláin Teór.",
                 "note": "<i>Ceann aca sin an frog nó an fliuchán mar deirtear i gcorr-áit ins an chúigeadh seo.</i>",
                 "category": "frog",
                 "source_category": "other"
@@ -739,7 +739,7 @@
                 "area": "Connemara, County Galway",
                 "informant": "Pádraic Ó Conaire (1882-1928)",
                 "year": "1919",
-                "source": "Ó Conaire, P. (1919), 'An Crann Géagach - Aistí agus Mion-sgéalta', Comhlucht Oideachais na hÉireann, Teoranta",
+                "source": "Ó Conaire, P. (1919). <i>An Crann Géagach - Aistí agus Mion-sgéalta</i>, Comhlucht Oideachais na hÉireann, Teoranta.",
                 "note": "<i>ag déanamh iongantais de'n tsíol lispín sa lochán le m'ais</i><br><br>I understand that Ó Conaire learnt Irish while living on Ros Muc between the ages of 12 and 16, so his inclusion here doesn't quite fit the goal of using native attestations. As the word is rare, and it seems he learned his Irish in one place, I have included this.",
                 "category": "lisbín",
                 "source_category": "other"
@@ -1039,7 +1039,7 @@
                 "area": "Curraun Peninsula, County Mayo",
                 "informant": "Mícheál Ó Maidín",
                 "year": "1974",
-                "source": "Stockman, G. (1974). <i>The Irish of Achill, Co. Mayo: A miscellaneous collection of linguistic material from the parish of Achill with a phonetic description of the dialect</i>. Institute of Irish Studies, Queen's University of Belfast.",
+                "source": "Stockman, G. (1974). <i>The Irish of Achill, Co. Mayo: A miscellaneous collection of linguistic material from the parish of Achill with a phonetic description of the dialect</i>. Belfast : Institute of Irish Studies, Queen's University of Belfast.",
                 "note": "",
                 "category": "crúbán claidhe",
                 "source_category": "other"
@@ -1064,7 +1064,7 @@
                 "area": "Curraun Peninsula, County Mayo",
                 "informant": "Liam Ó hÉilidhe",
                 "year": "1974",
-                "source": "Stockman, G. (1974). <i>The Irish of Achill, Co. Mayo: A miscellaneous collection of linguistic material from the parish of Achill with a phonetic description of the dialect</i>. Institute of Irish Studies, Queen's University of Belfast.",
+                "source": "Stockman, G. (1974). <i>The Irish of Achill, Co. Mayo: A miscellaneous collection of linguistic material from the parish of Achill with a phonetic description of the dialect</i>. Belfast : Institute of Irish Studies, Queen's University of Belfast.",
                 "note": "",
                 "category": "luascan lathaí",
                 "source_category": "other"
@@ -2114,7 +2114,7 @@
                 "area": "",
                 "informant": "",
                 "year": "1935",
-                "source": "Holmer, N. M. (1938) <a href=https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/Argyllshire%20Gaelic%20Holmer.pdf><i>Studies on Argyllshire Gaelic</i></a>, Almqvist & Wiksell",
+                "source": "Holmer, N. M. (1938). <a href=https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/Argyllshire%20Gaelic%20Holmer.pdf><i>Studies on Argyllshire Gaelic</i></a>. Uppsala : Almqvist & Wiksell",
                 "note": "No fortis N or L sounds in this dialect, according to source. [n] described as dental.",
                 "category": "losgann",
                 "source_category": "other"
@@ -4139,7 +4139,7 @@
                 "area": "Connemara, County Galway",
                 "informant": "Domhnall Ó Fotharta (1834-1919)",
                 "year": "1892",
-                "source": "Ó Fotharta, D. (1892) <i>Siamsa an Gheimhridh - Nó Cois an Teallaigh in Iar-Chonnachta</i>, Patrick Ó Brien, page 131",
+                "source": "Ó Fotharta, D. (1892). <i>Siamsa an Gheimhridh - Nó Cois an Teallaigh in Iar-Chonnachta</i>. Patrick Ó Brien. p. 131",
                 "note": "In a riddle I have seen repeated many times around Galway and Mayo. The riddle included in this book is in a fuller form. The answer to the riddle elsewhere is always a word meaning frog. Here the answer is <i>Athadán no frog air snamh.</i> meaning '<i>athadán</i> or <i>frog</i> swimming'. But I don't see how <i>athadán</i> could be some different creature that is an alternative answer. I'm sure it's an alternative name. Does it mean 'flighty thing' or 'eloper', from <i>athadh</i> + <i>án</i>? Or perhaps more likely, <i>áth<i> + <i>adán</i> (alternative form of <i>án</i>), with <i>áth</i> meaning shallow part of a river.<br><br>LASID point 35 gives a list of alternative words for frog heard in different areas. <span class=ipa>[ɑːdɑːn]</span> is given as a Conamara word, which is a possible realisation of <i>athadán</i>. I don't actually know that much about the phonology of dialects outside Donegal, but <a href=https://www3.smo.uhi.ac.uk/gaeilge/gramadach/canuinti.html>this resource</a> says intervocalic <span class=ipa>/h/</span> 'tends to disappear'.",
                 "category": "athadán",
                 "source_category": "other"
@@ -4214,7 +4214,7 @@
                 "area": "Connemara, County Galway",
                 "informant": "",
                 "year": "1973",
-                "source": "Ó Máille, T. S. (1974) <i>Liosta Focal Ros Muc</i>, Preas Ollscoile Éireann",
+                "source": "Ó Máille, T. S. (1974). <i>Liosta Focal Ros Muc</i>. Preas Ollscoile Éireann",
                 "note": "Frogs are a bad omen here: <i>deirtear dá dtiochfadh ceann acu isteach i dteach, gur chóir a dó</i>",
                 "category": "luascan lathaí",
                 "source_category": "other"
@@ -4239,7 +4239,7 @@
                 "area": "Connemara, County Galway",
                 "informant": "",
                 "year": "1973",
-                "source": "Ó Máille, T. S. (1974) <i>Liosta Focal Ros Muc</i>, Preas Ollscoile Éireann",
+                "source": "Ó Máille, T. S. (1974). <i>Liosta Focal Ros Muc</i>. Preas Ollscoile Éireann",
                 "note": "",
                 "category": "lúbóg lathaí",
                 "source_category": "other"
@@ -4264,7 +4264,7 @@
                 "area": "County Galway",
                 "informant": "",
                 "year": "1944",
-                "source": "de Bhaldraithe, T. (1985) <i>Foirisiún focal as Gaillimh</i>, Baile Átha Cliath: Acadamh Ríoga na hÉireann",
+                "source": "de Bhaldraithe, T. (1985). <i>Foirisiún focal as Gaillimh</i>. Baile Átha Cliath: Acadamh Ríoga na hÉireann",
                 "note": "",
                 "category": "lapadóir",
                 "source_category": "other"
@@ -4389,7 +4389,7 @@
                 "area": "County Meath",
                 "informant": "Aodh Mac Domhnaill",
                 "year": "1853",
-                "source": "",
+                "source": "Beckett, C. (1967). <i>Fealsúnacht Aodha Mhic Dhomhnaill</i>. Baile Átha Cliath : An Clóchomhar Tta.",
                 "note": "The text does use words that the 1967 editor wrote as <i>loscán</i>, but it is used to mean any amphibian, see its usage in reference to <i>dobhar-chú</i>. Thank you to Ciarán Ó Duibhín for this note from the editor's glossary.",
                 "category": "frog",
                 "source_category": "other"
