@@ -1026,32 +1026,29 @@ you hear the frogs crooning and croaking."</blockquote>
 
 </details>
 
-### gille-cnàigein, craigean, cròigean
+### <i>Gille-cràigean</i>, <i>cràigean</i>, and <i>cròigean</i>: well-pawed lads
 
 <details>
 <summary>
 <img src="../images/froganna/cráigean.svg">
 </summary>
 
-TODO: add note about orthgraphy (had trouble deciding which one to put on
-    illustration)
-Either "well-pawed one" or "wee knob" depending on whether from <i>cràg</i> or
-<i>cnag</i>. Perhaps vowel length would tell us which etymology is most likely.
-I expect "well-pawed one" which is what is given in
-https://en.wikisource.org/wiki/An_Etymological_Dictionary_of_the_Gaelic_Language/C.
+These words appear to refer to the frog's "hands". Dwelly's dictionary defines
+<i>cràg</i> and <i>cròg</i> primarily as "large or clumsy hand", with various
+other hand or paw definitions given also. Macbain, 1911 derives <i>cràigean</i>
+from these words, translating it as "well-pawed one". The addition of
+<i>gille</i> makes it "well-pawed lad".
 
-https://www.tobarandualchais.co.uk/track/88600?l=en
-also has muile-mhathag (I think from the speaker's father)
-
-cróigeán given as "act of footing turf" in irish of tory island
-
-https://x.com/guthan_g/status/637694618478489600
-
-given as knobbly here
-https://dalriada.scot/gd/a-cromadh-sios-an-rathad-the-last-of-the-gaelic-in-the-land-of-the-whisky
-https://en.wiktionary.org/wiki/cnag sense 3 on scottish gaelic
-
-https://dasg.ac.uk/fieldwork/view/Tm9ydGhBcmd5bGxBQ2FtZXJvbm1pc2N8Z2lsbGUgY3LDoGlnZWFufGlkcDE1NjkxMTU4NHx8ZnJvZ3xyN3x8fGFsbA==
+<br><br>
+I've seen it <a
+href=https://x.com/guthan_g/status/637694618478489600>suggested</a> that this
+word is instead derived from <i>cnag</i> <span class=ipa>/kʰɾãk/</span>, which
+Dwelly defines as "pin; peg; knob". Presumably this would describe the frog as
+a wee lump. This seems less likely to me, both from the meaning, and due to the
+fact that <i>cràigean</i> has a long vowel (e.g. <span
+class=ipa>[kɾɑ:ɡʹɑ̃ṉ]</span> is recorded in Badenoch) as in <i>crág</i>,
+and is also found as <i>cròigean</i>, reflecting the variants <i>cràg</i>
+and <i>cròg</i>.
 </details>
 
 ### <i>Màgan</i>, <i>mial-mhàgain</i> and <i>laprachán</i>; <i>lapadán</i> and <i>lapadóir</i>: crawlers and paddlers
