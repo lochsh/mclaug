@@ -670,21 +670,21 @@ A variant I found a single example of, in Mayo, was
 which we might translate as "loch salamander". The schoolchild actually
 wrote <i>lisbín lacha</i>, which I don't think makes grammatical sense
 (<i>lacha</i> is the nominative case of the word meaning "duck", but the
- genitive would be needed here. An association with ducks (the animals) makes a
- lot less sense than with bodies of water). So I assume this was a spelling
+genitive would be needed here. An association with ducks (the animals) makes a
+lot less sense than with bodies of water). So I assume this was a spelling
 error on the child's part.
 
 <h4>Other usages</h4>
 
 <ul>
-    <li><a href=http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=1580>An Irish telling of The Princess and the Frog</li>
-    <li><https://irishplayography.com/play?playid=32411>A character in a play</a></li>
-    <li><a href=https://maps.app.goo.gl/XHXXoNvcCagYGRGf7>Possibly in the name
-      of this beach</a>, written i nGaedhilg <a
-      href=https://www.rte.ie/news/nuacht/2022/0126/1275968-leanbh-fear-og-maraithe-i-dtimpisti/>in
-                 this news article</a> as <i>Trá Lispín</i></li>
-    <li>In <a
-    href=https://archive.org/details/manwhoinventedsi0000ofao/page/n5/mode/2up><i>The Man Who Invented Sin</i></a> by Seán O'Faoláin</li>
+<li><a href=http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=1580>An Irish telling of The Princess and the Frog</li>
+<li><https://irishplayography.com/play?playid=32411>A character in a play</a></li>
+<li><a href=https://maps.app.goo.gl/XHXXoNvcCagYGRGf7>Possibly in the name
+  of this beach</a>, written i nGaedhilg <a
+  href=https://www.rte.ie/news/nuacht/2022/0126/1275968-leanbh-fear-og-maraithe-i-dtimpisti/>in
+             this news article</a> as <i>Trá Lispín</i></li>
+<li>In <a
+href=https://archive.org/details/manwhoinventedsi0000ofao/page/n5/mode/2up><i>The Man Who Invented Sin</i></a> by Seán O'Faoláin</li>
 </ul>
 
 </details>
@@ -710,8 +710,8 @@ Scotland), and indeed is used this way in a few old sources:
 
 <blockquote>
 ’N uair a rainig mi’n gleannan<br>
- B’oirdhearc sealladh nam bruach,<br>
- Bho na chaochail an doinionn<br>
+B’oirdhearc sealladh nam bruach,<br>
+Bho na chaochail an doinionn<br>
 ’S a thainig sonasan nuadh<br>
 </blockquote>
 
@@ -779,17 +779,17 @@ place, at least not used to mean "frog".
 
 <img src="../images/froganna/fliuchán.png"
 alt="A newspaper clipping in Gaelic
-    type with title 'FROG' and body
-    'A chara, I gCondae Dhoire atá \"fliuchán\" ag
-    na Gaedhealaidh ar \"frog\". Ní ceart an beithidheach
-    beag bídeach sin a thabhairt as a ainm. Ní thig linn an Béarla a chur ar
-    leath-toabh ar fad, acht ní mór dúinn an Ghaedhilg a choinneál glan. Mise,
-    Cormac'"
+type with title 'FROG' and body
+'A chara, I gCondae Dhoire atá \"fliuchán\" ag
+na Gaedhealaidh ar \"frog\". Ní ceart an beithidheach
+beag bídeach sin a thabhairt as a ainm. Ní thig linn an Béarla a chur ar
+leath-toabh ar fad, acht ní mór dúinn an Ghaedhilg a choinneál glan. Mise,
+Cormac'"
 title="A chara, I gCondae Dhoire atá 'fliuchán' ag
-    na Gaedhealaidh ar 'frog'. Ní ceart an beithidheach
-    beag bídeach sin a thabhairt as a ainm. Ní thig linn an Béarla a chur ar
-    leath-toabh ar fad, acht ní mór dúinn an Ghaedhilg a choinneál glan. Mise,
-    Cormac">
+na Gaedhealaidh ar 'frog'. Ní ceart an beithidheach
+beag bídeach sin a thabhairt as a ainm. Ní thig linn an Béarla a chur ar
+leath-toabh ar fad, acht ní mór dúinn an Ghaedhilg a choinneál glan. Mise,
+Cormac">
 
 <br>
 The word <i>fliuch</i> means wet, and correspondingly <i>fliuchán</i> means
@@ -923,7 +923,7 @@ above.
 <details>
 <summary>
 <img src="../images/froganna/crónan.svg" alt="A drawing of frog with an expanded vocal
-    sac, with some musical notes to indicate he is croaking">
+sac, with some musical notes to indicate he is croaking">
 </summary>
 
 <br>
@@ -964,7 +964,7 @@ Caimbeul, Bàrd na Leidige.</li>
 </ul>
 
 Slightly less congruous is its use for birdsong (Sinclair, 1879, p. 291),
- though I suppose this too can be a pleasant background noise.
+though I suppose this too can be a pleasant background noise.
 
 <br><br>
 A variant <a href=https://www.duchas.ie/en/cbes/4428321/4394634>recorded</a> in
@@ -1009,7 +1009,7 @@ demonstrated by comparing animal sounds across languages.
 rain</a>:
 
 <blockquote><i>Nuair aireóchtha na froganna ag crónán agus ag cnádán.</i><br>"When
- you hear the frogs crooning and croaking."</blockquote>
+you hear the frogs crooning and croaking."</blockquote>
 
 </details>
 
@@ -1021,7 +1021,7 @@ rain</a>:
 </summary>
 
 TODO: add note about orthgraphy (had trouble deciding which one to put on
-        illustration)
+    illustration)
 Either "well-pawed one" or "wee knob" depending on whether from <i>cràg</i> or
 <i>cnag</i>. Perhaps vowel length would tell us which etymology is most likely.
 I expect "well-pawed one" which is what is given in
@@ -1124,12 +1124,12 @@ I am from).
 <br><br>
 
 <figure>
-    <img src="../images/froganna/claidhe.png" alt="Excerpt from The Irish of
-    Achill showing meaning of claidhe as stone fence">
-    <img src="../images/froganna/crúbán-claidhe.png" alt"Excerpt from The Irish
-    of Achill showing meaning of crúbán claidhe as frog">
-    <figcaption><i>Excerpts from Stockman, 1974.
-    In some other places <i>claidhe</i> is used to mean "ditch".</figcaption>
+<img src="../images/froganna/claidhe.png" alt="Excerpt from The Irish of
+Achill showing meaning of claidhe as stone fence">
+<img src="../images/froganna/crúbán-claidhe.png" alt="Excerpt from The Irish
+of Achill showing meaning of crúbán claidhe as frog">
+<figcaption><i>Excerpts from Stockman, 1974.
+In some other places </i>claidhe<i> is used to mean "ditch"</i>.</figcaption>
 </figure>
 
 The word <i>crúbán</i> would appear to refer to an animal with some kind of
@@ -1163,7 +1163,7 @@ datapoint in Inishowen from <a
 href=https://www.duchas.ie/en/cbes/4493801/4422210/4539693>The Schools'
 Collection</a>. Mayo outlier also from <a
 href=https://www.duchas.ie/en/cbes/5235172/5225583/5261072>The Schools'
-Collection</a>. Jura and Colonsay taken from Scouller, 2018.
+Collection</a>. Jura and Colonsay taken from Scouller, 2018.</i>
 </figcaption>
 </figure>
 
@@ -1176,8 +1176,8 @@ would we expect to hear the crab's claw referred to as <i>crúb</i> in the
 places that use this term for crabs? On Islay a crab's claw is recorded as
 <a
 href=https://dasg.ac.uk/fieldwork/view/UG9ydFdlbXlzc0pNYWNBcnRodXJzbGlwc3xsYWRoYXJ8aWRwMTE1NzYyNTEyfHxjcmFifHI1Mnx8fGFsbA==><i>ladhar</i></a>,
-   on Lewis as <a
-   href=https://dasg.ac.uk/fieldwork/view/Q3Jvd2xpc3RhQ2FuZFBNYWNEb25hbGRtaXNjMXxpb25nbmF8aWRtMzU0NjMzMDR8fGNyYWJ8cjUxfHx8YWxs><i>iongna</i></a>.
+on Lewis as <a
+href=https://dasg.ac.uk/fieldwork/view/Q3Jvd2xpc3RhQ2FuZFBNYWNEb25hbGRtaXNjMXxpb25nbmF8aWRtMzU0NjMzMDR8fGNyYWJ8cjUxfHx8YWxs><i>iongna</i></a>.
 
 <br><br>
 Perhaps there's been some sort of merging in Ireland of Celtic-origin
@@ -1220,7 +1220,7 @@ have in common? Well, they are all "fleshy" and share a certain shiny sliminess
 to their opaque surface. I will note that open clams and mussels look like a vulva.
 
 <br><br>
- The other meanings
+The other meanings
 listed for <i>breall</i> in Ó Dónaill's dictionary are:
 
 <blockquote>
@@ -1240,7 +1240,7 @@ insulting way</i>]</li>
 of yourself [<i>in English you might say you are making an arse of something,
 perhaps here they are saying you're making a glans of something</i>]. <b>Fágadh
 ~ air</b>, he was made to look very foolish. <b>Tá ~ orm le mo chuid oibre</b>,
-    my work is sadly neglected, very much in arrears.</li>
+my work is sadly neglected, very much in arrears.</li>
 <br>
 <li><b>~ a gorma</b>, knapweed.
 </ol>
@@ -1260,8 +1260,8 @@ ball below flower, and medieval flail weapon with spiky ball on a chain">
 <i>The spiky ball on the end of a flail resembles the involucre of the
 knapweed. Flail image from <a
 href=https://medievalbritain.com/type/medieval-life/weapons/medieval-flail/>medievalbritain.com</a>,
-   knapweed image from <a
-   href=https://www.ulsterwildlife.org/wildlife-explorer/wildflowers/common-knapweed>ulster-wildlife.org</a></i> 
+knapweed image from <a
+href=https://www.ulsterwildlife.org/wildlife-explorer/wildflowers/common-knapweed>ulster-wildlife.org</a></i> 
 </figcaption>
 </figure>
 
@@ -1290,6 +1290,32 @@ mysterious.
 </details>
 
 ### <i>Frús</i>: found only in the LASID. Another foreign loan?
+
+<details>
+<summary><i>This word was only found once, in LASID point 37 in Carnmore,
+Galway. It is corroborated as being used in Carnmore at LASID point 35. I could
+find no written attestations.</i></summary>
+
+<br>
+In imagining ways to write the LASID transcription <span
+class=ipa>[frus]</span> (standard IPA <span class=ipa>[fɾˠusˠ]</span>), I tried
+<i>fr[i][u, ú, o, ó, a, á]s</i> with various declensions, and the most likely
+match I found was <i>fras</i> or <i>fros</i> used to mean a shower of rain.
+This feels tenuous, although we do have the example of <i>fliuchán</i> above
+for a frog word used for rain elsewhere.
+
+<br><br>
+More compelling to me is the idea that this might be another foreign loan,
+ perhaps from
+an earlier form of "frog". Wiktionary lists various forms in Middle English,
+including <a
+href=https://en.wiktionary.org/wiki/frosk#English><i>frosk</i></a>, <a
+href=https://en.wiktionary.org/wiki/frossh#Middle_English><i>frossh</i></a> and
+(most attractively) <a
+href=https://en.wiktionary.org/wiki/fross#Middle_English><i>fross</i></a>.
+
+</details>
+
 
 ### <i>Preabaire na lathaighe</i>: mud hopper
 
@@ -1821,9 +1847,7 @@ Nualláin Teór.
   Dictionary</i>](https://archive.org/details/largerenglishiri00onei/page/n3/mode/2up).
   New York : Funk & Wagnalls Co.
 
-* O'Reilly, E. (1864). [<i>An Irish-English
-  dictionary</i>](https://archive.org/details/anirishenglishd00odogoog). Dublin
-  : James Duffy.
+* O'Reilly, E. (1864). [<i>An Irish-English dictionary</i>](https://archive.org/details/anirishenglishd00odogoog). Dublin : James Duffy.
 
 * Quiggin, E. C. (1906). [<i>A Dialect of Donegal</i>](https://en.wikisource.org/wiki/A_Dialect_of_Donegal). Cambridge : University Press.
 
