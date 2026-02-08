@@ -1320,6 +1320,29 @@ mysterious.
 <summary>
 <i>Collectively I found three usages of these terms, all in Galway.</i>
 </summary>
+<br>
+
+My best guess is that these <i>lúb-</i> words refer to the frog's bendy legs.
+De Bhaldraithe, 1945 shows usage of the verb <i>lúb</i> meaning "to bend", and
+De Bhaldraithe, 1985 shows usage for a purl stitch when knitting, the feeling
+of a twist in one's intestines when scared, and the ability to bend joints. I
+would translate <i>lúbóg lathaí</i> as "wee bent one of the mud". The variant
+<i>lúbar</i> is a bit more mysterious to me, particularly as one of the
+transcriptions from the LASID was <span class=ipa>[ˈlɑbər ˈlɑhiː]</span> which doesn't look like "ú"
+at all. Another transcription of <span class=ipa>[Lu̢.bər ˈLɑhiː]</span> convinced me they are the same
+word, and a derivation from <i>lúb</i> seems most likely. I'm not sure what
+suffix has been applied; <i>-ar</i> doesn't represent any standard suffix I
+know of. I considered <i>-óir</i> (wouldn't be <span class=ipa>ə</span>, would expect slender r),
+<i>-aire</i> (what about the next syllable, and again would expect slender
+r), <i>-ra</i> (collective suffix, have no
+evidence of this metathesising), <i>-úr</i> (collective
+ suffix, wouldn't expect <span class=ipa>ə</span>).
+<br><br>
+Not included on in the map data is <i>lúbán díge</i>, listed in O'Neill-Lane,
+1917 as being found in Oriel (South Armagh, North Louth, South Monaghan,
+North-West Meath, East Cavan). I couldn't find any other examples of this
+usage. I would translate it as "bent one of the ditch".
+
 </details>
 
 ### <i>Frús</i>: found only in the LASID. Another foreign loan?
@@ -1822,6 +1845,9 @@ listed in the introduction (e.g. the LASID). They are not listed here.
 
 * De Bhaldraithe, T. (1945). <i>Gaeilge Chois Fhairrge: An Deilbhíocht</i>.
   Dublin : Institute of Advanced Studies.
+
+* De Bhaldraithe, T. (1985). <i>Foirsiún Focal as Gaillimh</i>. Dublin :
+  Acadamh Ríoga na hÉireann.
 
 * Dinneen, P. S. (1904). [<i>Foclóir Gaedhilge agus Béarla</i>](https://archive.org/details/foclirgaeilgeagu00dinn). Irish  Texts Society
 
