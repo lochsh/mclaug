@@ -72,6 +72,10 @@ below the map. Clustering can also be enabled or disabled. When disabled, the
 remaining clusters are co-ordinates for which there is more than one data
 point.
 
+The GeoJSON file containing the data can be downloaded
+[here](../static/froganna/data/frogs.json), licensed under <a
+href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
+
 <figure>
 <img src="../images/froganna/word-map.png" alt="map with words on
 locations to show distribution of usage. Leinster and East Ulster do not have
@@ -1590,7 +1594,6 @@ is being description as a little lump. The use of <i>díge</i>, the genitive of
 a word for "ditch", seems to have been common when referring to frogs in East Ulster.
 
 <!---
-
 
 ## Given names for the frog in stories and riddles
 
