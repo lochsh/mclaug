@@ -28,7 +28,7 @@ Status: draft
 
 ## Cuairteoir gan iarraidh: an uninvited guest
 
-The other night I was sitting on the sofa cuddling my cat when, out of the
+Two months ago I was sitting on the sofa cuddling my cat when, out of the
 corner of my eye, I seen something small and dark hop into the room through the
 open doorway. I knew I'd seen a frog, but my brain was yet to accept this
 unlikelihood. I turned my head to see the dark shape on the floor, still now.
