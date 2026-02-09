@@ -1034,6 +1034,12 @@ you hear the frogs crooning and croaking."</blockquote>
 <img src="../images/froganna/cráigean.svg">
 </summary>
 
+Gille-cràigean<i> was recorded a few times around Ardnamurchan and on Lismore,
+and usage of </i>cràigean<i> then stretches in an unbroken (in the data I
+have gathered) band running northeast across Scotland to
+Strathspey, where </i>cròigean<i> is found.</i>
+<br><br>
+
 These words appear to refer to the frog's "hands". Dwelly's dictionary defines
 <i>cràg</i> and <i>cròg</i> primarily as "large or clumsy hand", with various
 other hand or paw definitions given also. Macbain, 1911 derives <i>cràigean</i>
@@ -1071,8 +1077,8 @@ one in Galway.</i>
 <br><br>
 
 I have grouped these words together partly to reduce my illustration burden,
-but also because they all seem to reference the frog's "hands" in some way,
-and perhaps specifically movement via these "hands".
+but also because they all (like <i>cràigean</i> above) seem to reference the
+frog's "hands" in some way, and perhaps (unlike <i>cràigean</i>) specifically movement via these "hands".
 <br><br>
 
 <h4><i>Màgan</i> and <i>mial-mhàgain</i></h4>
