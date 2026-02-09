@@ -1498,9 +1498,9 @@ wonder if the fieldworker who recorded this made an error!
 
 </details>
 
-## Words not included in the map
+## Words not included in the map, and not discussed above
 
-<h3><i>Rannag</i></h3>
+### <i>Rannag</i> on Man
 The word <i>rannag</i> seems to be the most popular word for
 "frog" among Manx revivalists, but I was unable to find any attestations from
 native speakers. The earliest extant occurrence seems to be in Fargher, 1969:
@@ -1560,11 +1560,28 @@ latter is a joyous thing to me, but my work here on frogs is concerned with the
 former, and in the absence of any evidence that the word "rannag" was ever used
 in Traditional Manx, I have not included it in the map.
 
+### <i>Uillichd</i> in Scotland
+A curious word I found only in Forbes, 1905 is <i>uillichd</i> (it is also in
+Dwelly, 1918, but sourced from Forbes). I believe this could have been
+pronounced <span class=ipa>[ɯʎəçgʲ]</span> though of course this is unattested
+as I have found no other use of this word! I believe <i>uillic</i> could have
+the same pronounciation, but that would only suggest that frogs were called
+some diminutive of "William", and the genitive at that (which does not make
+sense to me grammatically). Perhaps this word is related to <i>ùill</i> for oil
+or grease, referring to the frog's mucusy skin. That is the best suggestion I
+have. I wish I could find other usages!
+
+### <i>Cruitín díge</i> in Oriel
+
+Alongside <i>lúbán díge</i>, discussed above, O'Neill-Lane's dictionary lists
+<i>cruitín díge</i> as a word found in Oriel in Ireland. As well as the meaning
+of "harp, lyre", Dinneen gives the meanings of "a hump on the back, a little
+eminence; summit". Various sources from Monaghan and Cavan in The School's
+Collection list "hump" as the meaning. I suppose once again our froggy friend
+is being description as a little lump. The use of <i>díge</i>, the genitive of
+a word for "ditch", seems to have been common when referring to frogs in East Ulster.
+
 <!---
-
-
-### uillichd
-wilky?
 
 
 ## Given names for the frog in stories and riddles
