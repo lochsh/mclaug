@@ -31,6 +31,7 @@ $(document).ready(function () {
                     input.className = classname;
                     input.type = "checkbox";
                     input.value = line.key;
+                    input.id = line.key;
                     input.setAttribute("checked", "true");
 
                     var label = document.createElement("label");
