@@ -253,7 +253,7 @@ consonant, e.g. standard "froganna" has been rendered "froganaí" to represent
 the map easier to read, so please don't read too deeply into any of the choices
 made in rendering the phonetic transcriptions as words.
 
-<h3>Cognate suffices</h3>
+<h3>Cognate suffixes</h3>
 
 Descriptions largely taken from Wiktionary.
 
