@@ -2077,7 +2077,7 @@ left Ireland. Dwelly gives "active, energetic" for <i>frog</i>, a meaning I
 haven't seen in any Irish texts.
 
 [^5]: You can download a CSV of my collected list
-[here](../static/froganna/omens.csv). The list is not exhaustive and was
+[here](../static/froganna/data/omens.csv). The list is not exhaustive and was
 collected by searching the NFC for "frog luck", "frog omen", "frog house",
 "frog death", "frog bás", "frog good". A common belief stated was that killing
 a frog would bring you bad luck, but this doesn't really signal anything of the
