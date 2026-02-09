@@ -56,6 +56,10 @@ html {
     font-family: Charis SIL, Gentium Plus, Segoe UI, Doulos SIL, DejaVu Sans, Lucida Sans Unicode, Arial, sans-serif;
 }
 
+.frog-intro {
+    color: #7a7a7a;
+}
+
 .name-en {
     font-family: "Abril FatFace", serif;
     font-size: 3rem;

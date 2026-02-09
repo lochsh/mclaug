@@ -352,15 +352,12 @@ a doorway, casting a long shadow. A St. Bridget's Cross hangs over the
 doorway" style="max-height: 500px;">
 </summary>
 
-<i>I found this in places all over Ireland, but not at all in Scotland<sup
+<span class=frog-intro><i>I found this in places all over Ireland, but not at all in Scotland<sup
 id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup>.
  Of the 49 LASID locations in Ireland that gave a response for "frog", 34 gave
  a variation on this word. Anecdotally it is the most common word used in Irish
- today.<br><br>It is the word used in the Manx dictionary compiled by John
- Kelly (1750-1809), and the Manx bibles published in 1775 and 1819. It is also
- used in the 1602 Irish translation of the New Testament. See bible appendix
- for more details.</i>
-<br><br>
+ today. It is the only word I found native attestations of on The Isle of
+ Man.</i></span><br><br>
 
 Could the usage of a foreign loan word, from English, be due to a taboo, where
 it was feared saying the creatures' true name would summon them? Christopher
@@ -491,10 +488,10 @@ avoid.
     >
 </summary>
 
-<i>I found this across some of Ireland and Scotland, especially in Argyll. Only
+<span class=frog-intro><i>I found this across some of Ireland and Scotland, especially in Argyll. Only
 three LASID returns gave this word, two of which were in Argyll, and one in
 Mayo. Three of the four instances in the Schools' Collection are in
-Donegal.</i>
+Donegal.</i></span>
 <br><br>
 Macbain, 1911 suggests that this word is related to
 <a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a>
@@ -602,10 +599,10 @@ class=ipa>/ˈl̪ˠosˠkɑːnˠ/</span>.
 with his head just above the surface, with a rippled reflection below him.">
 </summary>
 
-<i>This word and its variants had only a handful of attestations, all in
+<span class=frog-intro><i>This word and its variants had only a handful of attestations, all in
 Ireland, with no
 obvious geographical centre. Usages were found in Kerry (1), Galway (1), Mayo
-(1) and Donegal (3).</i>
+(1) and Donegal (3).</i></span>
 <br><br>
 
 This word, most commonly spelt <i>lispín</i> in the examples I found, isn't in
@@ -710,8 +707,8 @@ href=https://archive.org/details/manwhoinventedsi0000ofao/page/n5/mode/2up><i>Th
 a daisy">
 </summary>
 
-<i>I found this word in two places in Wester Ross. It is also stated to be used
-in nearby Skye in Forbes, 1905.</i>
+<span class=frog-intro><i>I found this word in two places in Wester Ross. It is also stated to be used
+in nearby Skye in Forbes, 1905.</i></span>
 
 <br><br>
 In Robertson, 1900, p. 364 <i>sonasan</i> is described as specifically
@@ -781,7 +778,8 @@ https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasa
 from rain under a toadstool. Drops of rain are seen splashing off the toadstool
 and the frog's unsheltered back (his head is under the toadstool)."></summary>
 
-<i>This word is reported as once having been found in County Derry</i>
+<span class=frog-intro><i>This word is reported as once having been found in
+County Derry</i></span>
 
 <br><br>
 By the time of the LASID in the 1950s, the fieldworkers could find no
@@ -860,10 +858,10 @@ ditch".
 <img src="../images/froganna/leumrachan.svg" alt="drawing of a frog mid-leap">
 </summary>
 
-<i>I found variants of </i>leumachan<i> in various parts of Scotland,
+<span class=frog-intro><i>I found variants of </i>leumachan<i> in various parts of Scotland,
 especially in West and North Sutherland. Dòrlach's fieldwork found
 </i>leumadair<i> once in the North of Lewis, and The Schools' Collection
-records it once in Mayo (as </i>léimeadóir<i>)</i>.
+records it once in Mayo (as </i>léimeadóir<i>)</i>.</span>
 
 <br><br>
 The etymology of <i>leumachan</i> seems transparent: <i>leum</i> + <i>ach</i> + <i>an</i>
@@ -941,7 +939,7 @@ sac, with some musical notes to indicate he is croaking">
 </summary>
 
 <br>
-<i>Both of these words seem rare, at least for referring to frogs.
+<span class=frog-intro><i>Both of these words seem rare, at least for referring to frogs.
 </i>Crónán<i> came up twice in West Donegal, and once in the Fews in Armagh.
 </i>Cnádán<i> was found once each in Waterford and Cork, and is also listed in
 some old dictionaries and referred to in articles from the late 1800s. Modern
@@ -949,7 +947,7 @@ sources often cite </i>cnádán<i> as referring to the Natterjack Toad. Cnádán
 one of the words used in an <a
 href=https://archive.org/details/bioblanaomhthaan00bede/page/58/mode/2up>1817
 edition</a> of the bible<sup id="fnref:20"><a class="footnote-ref"
-href="#fn:20">20</a></sup>. See bible appendix for more information.</i>
+href="#fn:20">20</a></sup>. See bible appendix for more information.</i></span>
 <br>
 
 <h4>Crónán: hummer</h4>
@@ -1034,10 +1032,10 @@ you hear the frogs crooning and croaking."</blockquote>
 <img src="../images/froganna/cráigean.svg">
 </summary>
 
-Gille-cràigean<i> was recorded a few times around Ardnamurchan and on Lismore,
+<span class=frog-intro>Gille-cràigean<i> was recorded a few times around Ardnamurchan and on Lismore,
 and usage of </i>cràigean<i> then stretches in an unbroken (in the data I
 have gathered) band running northeast across Scotland to
-Strathspey, where </i>cròigean<i> is found.</i>
+Strathspey, where </i>cròigean<i> is found.</i></span>
 <br><br>
 
 These words appear to refer to the frog's "hands". Dwelly's dictionary defines
@@ -1065,7 +1063,7 @@ and <i>cròg</i>.
 style="max-height: 600px;">
 </summary>
 
-<i>All three Nova Scotia datapoints record </i>màgan<i> for frog. In Scotland
+<span class=frog-intro><i>All three Nova Scotia datapoints record </i>màgan<i> for frog. In Scotland
 it is more common for this to mean toad. However, its
 variant </i>mial-mhàgain<i> is popular in Scotland for frog, particularly on
 Skye and Raasay.<br><br>
@@ -1073,7 +1071,7 @@ Skye and Raasay.<br><br>
 In Ireland, </i>laprachán<i> or </i>laprachán lathái<i> was found once in
 Waterford, and a few times in Galway. </i>Lapadán<i> had one example each in
 Galway and Monaghan, </i>lapadóir<i> one in Mayo, and </i>lapadóir lathaí<i>
-one in Galway.</i>
+one in Galway.</i></span>
 <br><br>
 
 I have grouped these words together partly to reduce my illustration burden,
@@ -1150,8 +1148,8 @@ the splashing implement.
 <details>
 <summary><img src="../images/froganna/crubán-claidhe.svg"></summary>
 
-<i>This word was found twice, both times on the Curraun Peninsula, east of
-Achill Island in Mayo.</i>
+<span class=frog-intro><i>This word was found twice, both times on the Curraun
+Peninsula, east of Achill Island in Mayo.</i></span>
 <br><br>
 
 This seemingly very local term might be translated as "dyke beastie", with
@@ -1241,7 +1239,8 @@ recall Boticelli's The Birth of Venus. The frog is standing on a clam shell
 with one hand on his breast and the other reaching down" style="max-height: 600px;">
 </summary>
 
-<i>This term was recorded three times in the LASID, all in Galway.</i>
+<span class=frog-intro><i>This term was recorded three times in the LASID, all
+in Galway.</i></span>
 <br><br>
 
 When I first looked up <i>breall</i> in the dictionary, I was met with a
@@ -1322,7 +1321,8 @@ mysterious.
 
 <details>
 <summary>
-<i>Collectively I found three usages of these terms, all in Galway.</i>
+<span class=frog-intro><i>Collectively I found three usages of these terms, all
+in Galway.</i></span>
 </summary>
 <br>
 
@@ -1352,9 +1352,9 @@ usage. I would translate it as "bent one of the ditch".
 ### <i>Frús</i>: found only in the LASID. Another foreign loan?
 
 <details>
-<summary><i>This word was only found once, in LASID point 37 in Carnmore,
+<summary><span class=frog-intro><i>This word was only found once, in LASID point 37 in Carnmore,
 Galway. It is corroborated as being used in Carnmore at LASID point 35. I could
-find no written attestations.</i></summary>
+find no written attestations.</i></span></summary>
 
 <br>
 In imagining ways to write the LASID transcription <span
@@ -1381,8 +1381,9 @@ href=https://en.wiktionary.org/wiki/fross#Middle_English><i>fross</i></a>.
 
 <details>
 <summary>
-<i>I found only one <a
-href=https://www.duchas.ie/en/cbes/4498088/4351276/4502478>attestation</a> of this, in Mayo.</i>
+<span class=frog-intro><i>I found only one <a
+href=https://www.duchas.ie/en/cbes/4498088/4351276/4502478>attestation</a> of
+this, in Mayo.</i></span>
 </summary>
 
 <br>
@@ -1400,8 +1401,8 @@ as a possibility for magpie.
 
 <details>
 <summary>
-<i>I found only one written attestation of this word, and one phonetic in the
-LASID, both in Conamara.</i>
+<span class=frog-intro><i>I found only one written attestation of this word, and one phonetic in the
+LASID, both in Conamara.</i></span>
 </summary>
 
 <img src="../images/froganna/athadán.png" alt="Screenshot of book in Gaelic
@@ -1459,9 +1460,9 @@ have heard this or use it.
 ### <i>Tortán</i>: clod?
 
 <details>
-<summary><i>I only found this in Ballyglooneen, LASID point 35, in Galway. The
+<summary><span class=frog-intro><i>I only found this in Ballyglooneen, LASID point 35, in Galway. The
 similar </i>torpán<i> is listed in Dinneen's dictionary with "frog" as a
-possible meaning.</i>
+possible meaning.</i></span>
 </summary>
 <br>
 
@@ -1481,8 +1482,8 @@ Dinneen's dictionary lists both "crab" and "frog" as possible translations of
 
 <details>
 <summary>
-<i>There was only one example of this being used for frogs, in Romasdal on
-Skye. All other usages found were for tadpoles.</i>
+<span class=frog-intro><i>There was only one example of this being used for frogs, in Romasdal on
+Skye. All other usages found were for tadpoles.</i></span>
 </summary>
 <br>
 I wonder if this might be better written <i>ceann a' phiullan</i>, or perhaps
