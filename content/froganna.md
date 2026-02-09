@@ -1561,10 +1561,11 @@ and certain other characteristics of Gaelic which without doubt existed in
 pre-literary and classical Manx but which had already disappeared before the
 final demise of the native speakers"<sup id=fnref:25><a class="footnote.ref"
 href="#fn:25">25</a></sup>. Coyly commenting on the strangeness of
-<i>rannag</i>'s Latin root for a word he fabricated would be at odds with that.
+<i>rannag</i>'s Latin root for a word he fabricated would seem to be at odds
+with this open approach.
 <br>
 
-In Lewin's work he uses the term "‘Traditional Manx’ to refer to the now
+In Lewin's work he uses "the term ‘Traditional Manx’ to refer to the now
 extinct native variety deriving directly by intergenerational transmission from
 earlier forms of Gaelic, and ‘Revived Manx’ for the variety spoken today,
 predominantly as an L2 [second language]" (Lewin, 2017). The existence of the
