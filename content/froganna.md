@@ -438,9 +438,8 @@ creatures <a href=https://en.wiktionary.org/wiki/frogge#Middle_English><i>frogge
 The idea of much of Ireland having no word for frog that predates Middle
 English is not especially attractive to me. Returning our first
 idea, of taboo: Gerard of Wales' account above certainly
-gives an early example of frogs being treated as a bad omen. The 1802
-<i>Statistical Survey of the County of Down</i> conveys similarly fearful local
-attitudes:
+gives an early example of frogs being treated as a bad omen. Dubourdieu (1802)
+conveys similarly fearful local attitudes in county Down:
 
        <blockquote>
            [...] there are many stories still
@@ -497,7 +496,7 @@ three LASID returns gave this word, two of which were in Argyll, and one in
 Mayo. Three of the four instances in the Schools' Collection are in
 Donegal.</i></span>
 <br><br>
-Macbain, 1911 suggests that this word is related to
+Macbain (1911) suggests that this word is related to
 <a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a>
 meaning to burn<sup id="fnref:13"><a class="footnote-ref" href="#fn:13">13</a></sup>,
 referring to the sting from touching the secretions of the frog's skin.
@@ -553,10 +552,8 @@ Could the evolution instead be (association with fire) -> crickets ->
 
 <br><br>
 An etymology related to the frog's jumping would certainly be less unusual than
-one directly related to salamanders and dragons. In a 1908 article
-<a href=https://archive.org/details/sprogligeoghist00olsegoog/page/n258><i>Über
-irisches loscann und einige andere indogermanische namen der kröte</i></a>,
-Carl Marstander explores possibilities for the etymology of <i>losgann</i> and
+one directly related to salamanders and dragons. Marstrander (1908)
+explores possibilities for the etymology of <i>losgann</i> and
 divides Indo-European languages' words for frogs and toads into categories,
 named for their:
 <br><br>
@@ -569,7 +566,7 @@ named for their:
     <li>way of moving (jumping for frogs, crawling for toads)</li>
 </ol>
 
-Marstander complains that a proposed etymology for <i>losgann</i> to do with
+Marstrander complains that a proposed etymology for <i>losgann</i> to do with
 burning seems unlikely due to its uniqueness among other Indo-European
 language's words for frogs. Perhaps the missing piece he needed was the
 crickets.
@@ -583,7 +580,7 @@ salamander".
 <h4>East Sutherland's <i>losgaid</i></h4>
 An interesting variant found in Embo in East Sutherland is <i>losgaid</i> <span
 class=ipa>[ɫosɡidʹ]</span>. Noticeably similar is the usage of <i>iosgaid</i>
-in place of <i>easgann</i> for eel, recorded in Dorian, 1978.
+in place of <i>easgann</i> for eel, recorded in Dorian (1978).
 
 <h4>On spelling variations</h4>
 I have addressed <i>losgann</i> vs. <i>loscann</i> in my general orthography
@@ -612,7 +609,7 @@ obvious geographical centre. Usages were found in Kerry (1), Galway (1), Mayo
 This word, most commonly spelt <i>lispín</i> in the examples I found, isn't in
 Ó Dónaill's dictionary. A schoolchild in Listowel, County Kerry
 <a href=https://www.duchas.ie/en/cbes/4613715/4611694/4660320>defines</a> it as
-meaning "frog or lizard". Dinneen, 1904 lists this word as being found in
+meaning "frog or lizard". Dinneen (1904) lists this word as being found in
 Sligo, and meaning "frog".
 
 <br><br>
@@ -714,10 +711,10 @@ a daisy">
 </summary>
 
 <span class=frog-intro><i>I found this word in two places in Wester Ross. It is also stated to be used
-in nearby Skye in Forbes, 1905.</i></span>
+in nearby Skye in Forbes (1905).</i></span>
 
 <br><br>
-In Robertson, 1900, p. 364 <i>sonasan</i> is described as specifically
+In Robertson (1900) p. 364 <i>sonasan</i> is described as specifically
 referring to "the young frog when it has passed the tadpole stage".
 
 <br><br>
@@ -740,7 +737,7 @@ by An Comunn Gàidhealach.
 <br><br>
 The suffix <i>-an</i> is also used diminutively (c.f. <i>-án</i> in Ireland).
 The plural is recorded as <i>sonasánan</i> <span class=ipa>[sɔ᷉nəsɑnən]</span>,
-<span class=ipa>[sɔ᷉nəsɑnː]</span> in Wentworth, 1993. So it would seem
+<span class=ipa>[sɔ᷉nəsɑnː]</span> in Wentworth (1993). So it would seem
 that frogs are being referred to as "wee joys", or "joyful things".
 
 <br><br>
@@ -811,8 +808,7 @@ Cormac">
 
 <br>
 The word <i>fliuch</i> means wet, and correspondingly <i>fliuchán</i> means
-"wet thing" or "wetness". In Kerry it is used to refer to rain, see Sjoestedt,
-1930, and <a
+"wet thing" or "wetness". In Kerry it is used to refer to rain, see Sjoestedt (1930), and <a
 href=https://www.duchas.ie/en/cbes/4678384/4674363/4683533>this</a> example
 in the Schools Collection. It is also used in <a
 href=https://www.duchas.ie/en/cbes/4622961/4617138/4627097>this entry</a>
@@ -824,18 +820,18 @@ Sources where it used to mean frog:
 
 <br><br>
 <ul>
-<li>Dinneen, 1904, p. 320 "a frog (Der.)"
-<li>Cormac, 1909 (pictured above)
-<li>Mac Meanman, 1940: <i>Ceann aca sin an frog nó an fliuchán mar deirtear i
+<li>Dinneen (1904) p. 320 "a frog (Der.)"
+<li>Cormac (1909) (pictured above)
+<li>Mac Meanman (1940): <i>Ceann aca sin an frog nó an fliuchán mar deirtear i
 gcorr-áit ins an chúigeadh seo.</i></li>
-<li>Mac Gréagóir, 1908 (pictured below, not specifically attributed to Derry,
+<li>Mac Gréagóir (1908) (pictured below, not specifically attributed to Derry,
 just Ulster)</li>
 </ul>
 
 Ciarán Ó Duibhín believes the 'Cormac' in <i>An Claidheamh Soluis</i> is Séamus
 Ó Ceallaigh (1879-1954), whose father was from Draperstown and was raised with
 Irish until he was 7 years old. More information is available at
-<a href=https://www.ainm.ie/Bio.aspx?ID=57>ainm.ie</a> and in Whitfield, 1994.
+<a href=https://www.ainm.ie/Bio.aspx?ID=57>ainm.ie</a> and in Whitfield (1994).
 
 <h4>Fliuchán díge</h4>
 
@@ -883,7 +879,7 @@ DASG is down. add example usage). In Welsh, the cognate <i>llam</i> gives us
 <i>llamhidydd</i>, similarly meaning "jumper" and used for porpoises.
 <br><br>
 It is possible that <i>leumachan</i> was also used
-by native Manx speakers, as it is given in Fargher, 1969,
+by native Manx speakers, as it is given in Fargher (1969),
 rendered <i>lheimaghan</i>. It is likely this was a neologism introduced by
 Fargher, however. I couldn't find any native corroboration. Fargher's work is
 discussed further in the <a href=#other-words>section</a> on words not included in the map.
@@ -902,14 +898,14 @@ plain <i>leumachan</i>:
 Indeed, the word <i>léimneach</i> seems more common in Ireland than
 <i>léimeach</i>. How come?
 
-In Robertson, 1900, <i>leumrachan</i> is explained as coming about through
+In Robertson (1900), <i>leumrachan</i> is explained as coming about through
 <i>dissimilation</i> from <i>leumachan</i>. This explanation does not make
 sense to me. Dissimilation is a phonetic process where sounds change to make
 them more distinct from surrounding sounds, or where sounds that are too
 similar to others within a word are removed. There are various proposed reasons
 for this, but generally it seems to be done to make a word easier to say, or
 more pleasing to the ear. Gaelic examples of this given by others:
-<i>dealagán</i> for <i>gealagán</i> ("egg white", Quiggin 1906),
+<i>dealagán</i> for <i>gealagán</i> ("egg white", Quiggin, 1906),
 <i>caoláire</i> for <i>caol sháile</i>
 (<a href=https://www.logainm.ie/en/1165628>logainm.ie</a>). In English
 a common example is rhotic speakers pronouncing "berserk" as "beserk".
@@ -959,7 +955,7 @@ href="#fn:20">20</a></sup>. See <a href=#bibles>bible appendix</a> for more info
 
 <h4>Crónán: hummer</h4>
 Both of these words refer to the frog's croaking. The first, <i>crónán</i> is
-translated in Hamilton, 1974 as "purring", "humming", and beyond the frog's
+translated in Hamilton (1974) as "purring", "humming", and beyond the frog's
 croak is also used for other low pitched relatively white sounds:
 
 <br><br>
@@ -971,13 +967,13 @@ dheineann an cat crónán</i> "the cat purrs for himself", the significance of
 which I have seen explained in several diverging ways</li>
 <br>
 
-<li>for the sound of a babbling brook, Sinclair, 1879, p. 320: <i>Aig an allt' tha crònan fann/Air a'
+<li>for the sound of a babbling brook (Sinclair, 1879, p. 320): <i>Aig an allt' tha crònan fann/Air a'
 ghaoith tha fàile cùbhraidh</i>, from a song collected from Argyll-born bard
 Eanraig MacIlleBhàin
 </li>
 <br>
 
-<li>for the sound of waves crashing onto the shore, Sinclair, 1879, p. 223:
+<li>for the sound of waves crashing onto the shore (Sinclair, 1879, p. 223):
 <i>An tonn ri crònan air cladach còmhnard</i>, from a song collected from Iain
 Caimbeul, Bàrd na Leidige.</li>
 </ul>
@@ -1003,7 +999,7 @@ modern form "croon". Regardless, perhaps we can revise our earlier translation o
 <h4>Cnádán: croaker</h4>
 This word seems to most commonly have been used for the plant burdock, see various
 <a href=https://www.duchas.ie/en/cbes/4427936/4358938/4454815>sources</a> in
-The Schools' Collection, and again Hamilton, 1974.
+The Schools' Collection, and again Hamilton (1974).
 <br><br>
 Its usage for frogs seems to be onomatopoeic. The Scottish <i>cnàg</i> <span
 class=ipa>/kʰɾ̃ãːk/</span> and <i>gnàg</i> <span class=ipa>/kɾ̃ãːk/</span> for
@@ -1047,7 +1043,7 @@ Strathspey, where </i>cròigean<i> is found.</i></span>
 
 These words appear to refer to the frog's "hands". Dwelly's dictionary defines
 <i>cràg</i> and <i>cròg</i> primarily as "large or clumsy hand", with various
-other hand or paw definitions given also. Macbain, 1911 derives <i>cràigean</i>
+other hand or paw definitions given also. Macbain (1911) derives <i>cràigean</i>
 from these words, translating it as "well-pawed one". The addition of
 <i>gille</i> makes it "well-pawed lad".
 
@@ -1092,13 +1088,13 @@ Dwelly's dictionary <i>màg</i> as "paw; claw; ludicrous term for
 the hand", and "seal's paw (Argyll)".
 <i>Màigean</i> is given as "Fat little man; child
 beginning to walk; toad; frog; ludicrous term for a man with a creeping or
-sprawling gait, or moving on all fours." MacBain, 1911 suggests this term for
+sprawling gait, or moving on all fours." MacBain (1911) suggests this term for
 toads should properly be <i>mial-mhàgain</i>, meaning "squat beast".
 <br><br>
 Certainly there seems to be a strong association with crawling here, hence to
 me this word would evoke toads more than frogs. Nevertheless, variants of
 <i>mial-mhàgain</i> appear popular for frogs. On Skye and Raasay this is
-often rendered <i>mula-mhàgag</i>. In Robertson, 1898, this is analysed as
+often rendered <i>mula-mhàgag</i>. In Robertson (1898), this is analysed as
 epenthesis, noting other examples of vowel insertion like
 <i>seana-mhathair</i> instead of <i>sean-mhathair</i> for grandmother.
 Epenthesis between liquid consonants (l, n, r) followed by certain other
@@ -1170,7 +1166,7 @@ I am from).
 Achill showing meaning of claidhe as stone fence">
 <img src="../images/froganna/crúbán-claidhe.png" alt="Excerpt from The Irish
 of Achill showing meaning of crúbán claidhe as frog">
-<figcaption><i>Excerpts from Stockman, 1974.
+<figcaption><i>Excerpts from Stockman (1974).
 In some other places </i>claidhe<i> is used to mean "ditch"</i>.</figcaption>
 </figure>
 
@@ -1205,12 +1201,12 @@ datapoint in Inishowen from <a
 href=https://www.duchas.ie/en/cbes/4493801/4422210/4539693>The Schools'
 Collection</a>. Mayo outlier also from <a
 href=https://www.duchas.ie/en/cbes/5235172/5225583/5261072>The Schools'
-Collection</a>. Jura and Colonsay taken from Scouller, 2018.</i>
+Collection</a>. Jura and Colonsay taken from Scouller (2018).</i>
 </figcaption>
 </figure>
 
 Given the geographical distribution of <i>crúb-</i> words for crabs, I do wonder if the strikingly similar Scottish word <i>crùb</i> might be
-related, which Macbain, 1911 gives
+related, which Macbain (1911) gives
 as being derived from Norse <i>krjúpa</i> and cognate with English "creep",
 meaning "to squat, crouch". That certainly fits a frog's resting pose extremely
 well, and arguably a crab's. If <i>crúbán</i> does refer to the crab's claws,
@@ -1334,8 +1330,8 @@ in Galway.</i></span>
 <br>
 
 My best guess is that these <i>lúb-</i> words refer to the frog's bendy legs.
-De Bhaldraithe, 1945 shows usage of the verb <i>lúb</i> meaning "to bend", and
-De Bhaldraithe, 1985 shows usage for a purl stitch when knitting, the feeling
+De Bhaldraithe (1945) shows usage of the verb <i>lúb</i> meaning "to bend", and
+De Bhaldraithe (1985) shows usage for a purl stitch when knitting, the feeling
 of a twist in one's intestines when scared, and the ability to bend joints. I
 would translate <i>lúbóg lathaí</i> as "wee bent one of the mud". The variant
 <i>lúbar</i> is a bit more mysterious to me, particularly as one of the
@@ -1349,8 +1345,8 @@ r), <i>-ra</i> (collective suffix, have no
 evidence of this metathesising), <i>-úr</i> (collective
  suffix, wouldn't expect <span class=ipa>ə</span>).
 <br><br>
-Not included on in the map data is <i>lúbán díge</i>, listed in O'Neill-Lane,
-1917 as being found in Oriel (South Armagh, North Louth, South Monaghan,
+Not included on in the map data is <i>lúbán díge</i>, listed in O'Neill-Lane
+(1917) as being found in Oriel (South Armagh, North Louth, South Monaghan,
 North-West Meath, East Cavan). I couldn't find any other examples of this
 usage. I would translate it as "bent one of the ditch".
 
@@ -1456,7 +1452,7 @@ But what does it mean? Is it from <i>áth</i>,
 meaning a shallow fordable part of a river? But frogs prefer
 still water, so they and their spawn are not washed away. Is it from <i>athadh</i> for elopement (getting tenuous, but frogs
 are always escaping off if you try to catch them)? "Oast" is given as a meaning
-of <i>áth</i> in De Bhaldraithe, 1945, which makes no sense to me at all
+of <i>áth</i> in De Bhaldraithe (1945), which makes no sense to me at all
 for frogs.
 <br><br>
 A mysterious word. I would love to hear from any Conamara speakers whether they
@@ -1494,7 +1490,7 @@ Skye. All other usages found were for tadpoles.</i></span>
 <br>
 I wonder if this might be better written <i>ceann a' phiullan</i>, or perhaps
 more familiarly (to me) as <i>ceann a' phollain</i>. To me this would seem to clearly
-mean "head of the small pool". Dwelly, 1918 equates <i>pollan</i> to
+mean "head of the small pool". Dwelly (1918) equates <i>pollan</i> to
 <i>pollag</i>, defined primarily as <i>little pool, hole, pit,
 or pond</i> (see also Macbain, 1911 who writes <i>ceann-phollag</i> or
 <i>ceann-phollan</i> as words for tadpole).
@@ -1516,7 +1512,7 @@ wonder if the fieldworker who recorded this made an error!
 ### <i>Rannag</i> on Man {#rannag}
 The word <i>rannag</i> seems to be the most popular word for
 "frog" among Manx revivalists, but I was unable to find any attestations from
-native speakers. The earliest extant occurrence seems to be in Fargher, 1969:
+native speakers. The earliest extant occurrence seems to be in Fargher (1969):
 
 <blockquote>
 The common frog [...] is
@@ -1549,8 +1545,8 @@ so.
 
 Although I take a more preservationist approach to my own Gaelic
 learning, it is clear Fargher's work has played a significant part in the
-revival of the language, which he dedicated much of his life to. See Lewin,
-2016 and Lewin, 2017 for more exploration of Fargher's work's impact, context
+revival of the language, which he dedicated much of his life to. See Lewin
+(2016, 2017) for more exploration of Fargher's work's impact, context
 and ideology.
 <br>
 
@@ -1575,7 +1571,7 @@ former, and in the absence of any evidence that the word "rannag" was ever used
 in Traditional Manx, I have not included it in the map.
 
 ### <i>Uillichd</i> in Scotland {#uillichd}
-A curious word I found only in Forbes, 1905 is <i>uillichd</i> (it is also in
+A curious word I found only in Forbes (1905) is <i>uillichd</i> (it is also in
 Dwelly, 1918, but sourced from Forbes). I believe this could have been
 pronounced <span class=ipa>[ɯʎəçgʲ]</span> though of course this is unattested
 as I have found no other use of this word! I believe <i>uillic</i> could have
@@ -2023,7 +2019,7 @@ Nualláin Teór.
   introductory material)
 
 
-[^1]: Dorian, 1981, p. 101: <blockquote>Precisely because everyone
+[^1]: Dorian (1981) p. 101: <blockquote>Precisely because everyone
 uses such loanwords, and because there is considerable self-consciousness about
 it, the number of loanwords in a verbal performance seems to have become a
 marker of degree of formality in ESG [East Sutherland Gaelic]. In a relaxed and
@@ -2074,8 +2070,8 @@ I think the final consonants in all recordings <a
 href=https://www.teanglann.ie/en/fuaim/loc>here</a> are at least
 somewhat pre-aspirated.
 
-[^4]: Dwelly, 1918, p. 457: "1. Hole, chink, niche, nook, cranny. 2. marsh,
-fen" for <i>fròg</i>. O'Reilly, 1864, p. 259: "a fen,
+[^4]: Dwelly (1918) p. 457: "1. Hole, chink, niche, nook, cranny. 2. marsh,
+fen" for <i>fròg</i>. O'Reilly (1864) p. 259: "a fen,
 a marsh ; a pitfall, a hole, a cleft;" for <i>frog</i> (before also giving
 the animal). The marsh and hole senses seem to have
 left Ireland. Dwelly gives "active, energetic" for <i>frog</i>, a meaning I
@@ -2096,17 +2092,17 @@ href=https://www.duchas.ie/en/cbes/4921682/4889594/4951820>this</a>
 one:<blockquote>The frog was looked upon as something sacred as it was the frog
 taught Our Lord how to swim.</blockquote>Did he now...
 
-[^6]: Scharff, 1893.  This article explores various historical accounts of
+[^6]: Scharff (1893).  This article explores various historical accounts of
 frogs being found in Ireland, including Gerard of Wales's. The idea that
 Trinity students introduced frogs is dismissed by the author for being
 ecologically unlikely, noting that there are far more frogs on the west coast
 and the city doesn't seem like an ideal place for frogs to thrive.
 
-[^7]: O'Reilly, 1864, p. 259 states the frog is "an animal not found in Ireland
+[^7]: O'Reilly (1864) p. 259 states the frog is "an animal not found in Ireland
 before the reign of William the Third of England, whose Dutch troops first
 introduced it amongst us".
 
-[^8]: Dubourdieu, (1802), pp. 315-316: "that [frogs] first made their
+[^8]: Dubourdieu (1802) pp. 315-316: "that [frogs] first made their
 appearance near Moira, in the western parts of this county, can be
 proved beyond contradiction" but declines to do so himself. He
 offers an anecdote from a local man about when he first seen a frog.
@@ -2118,7 +2114,7 @@ Hibernia</i>, containing the account, was circulated in 1188. However, he mentio
 account, who I read <a href=https://www.dib.ie/biography/poer-robert-a7399>died</a> in
 1178. The Ossory king in question is said to have died in 1185.
 
-[^10]: Cambrensis, 1863.
+[^10]: Cambrensis (1863)
 
 [^11]: Domnall Mac Gilla Pátraic, see this <a
 href=https://www.dib.ie/biography/poer-robert-a7399>biography</a> of Robert Poer
@@ -2168,7 +2164,7 @@ footnote for reproducing references from the OED that attest this.
 provide more clues. <i>Cú cnámha</i> appears to read as "hound of
 bones", though the eDIL <a href=https://dil.ie/13291>tells us</a> that
 <i>cú</i> has also been generically used for creatures, particularly insects.
-In Forbes, 1905, this word is cited as meaning
+In Forbes (1905) this word is cited as meaning
 "louse", as is the other synonym listed by O'Clery, <i>snasán</i>.  I
 suppose, like salamanders, you might expect to find woodlice in your
 firewood, if you kept it outside. But these words could easily be referring to
@@ -2246,7 +2242,7 @@ is called <i>Mac I Shliopán</i>.</li>
 </ul> Vaguely similar riddles elsewhere: <ul> <li><a href=https://www.duchas.ie/en/cbes/4687698/4684993/4689936>Baile Uí
   Dhuinn, Contae Chiarraí</a></li></ul>
 
-[^24]: Dorian, 1981, pp. 111-112: <blockquote>There are at least five aspects of
+[^24]: Dorian (1981) pp. 111-112: <blockquote>There are at least five aspects of
 linguistic behaviour [...] in which the dominance of English over Gaelic is
 less complete than might be anticipated. First, despite the association of
 English with modernity and technology and the public spheres of life, no topic
@@ -2257,7 +2253,7 @@ resistance to English dominance is the thorough-going integration of English
 lexical borrowings into Gaelic; <b>this integration makes possible the use of
 Gaelic for all topics</b>."</blockquote> Emphasis my own. The idea that an expanded
 "native" lexicon is required for a language to expand its spheres of usage is
-also rejected in Lewin, 2016: <blockquote>"[on a quote declaring Fargher's dictionary as
+also rejected in Lewin (2016): <blockquote>"[on a quote declaring Fargher's dictionary as
 making it possible for Manx speakers to discuss topics like atomic physics]
 This passage implies that it was impossible to discuss subjects like atomic
 physics etc. before the appearance of the dictionary, ignoring the fact that
@@ -2269,8 +2265,8 @@ word exists or is remembered."</blockquote>
 [^25]: This replacement of native speakers' grammar, erasing a unique history
 of language contact and adaptation, is something I can see only as cultural
 vandalism. However, for more nuanced and detailed thoughts
-on Fargher's work I will again refer to Lewin's work. As he puts it in Lewin,
-   2017: <blockquote> [it is perhaps] problematic if the native Manx of the
+on Fargher's work I will again refer to Lewin's work. As he puts it in Lewin
+(2017): <blockquote> [it is perhaps] problematic if the native Manx of the
    past is implicitly (or explicitly) rejected as being not Manx enough.
    Efforts to purge Manx of grammatical and lexical influence from English
    arguably constitute a purism of a simplistic and unnecessarily xenophobic
