@@ -696,7 +696,7 @@ error on the child's part.
 <li><a href=http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=1580>An Irish telling of The Princess and the Frog</li>
 <li><https://irishplayography.com/play?playid=32411>A character in a play</a></li>
 <li><a href=https://maps.app.goo.gl/XHXXoNvcCagYGRGf7>Possibly in the name
-  of this beach</a>, written i nGaedhilg <a
+  of this beach</a>, written <i>i nGaedhilg</i> <a
   href=https://www.rte.ie/news/nuacht/2022/0126/1275968-leanbh-fear-og-maraithe-i-dtimpisti/>in
              this news article</a> as <i>Trá Lispín</i></li>
 <li>In <a
