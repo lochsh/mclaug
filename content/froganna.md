@@ -253,7 +253,7 @@ consonant, e.g. standard "froganna" has been rendered "froganaí" to represent
 the map easier to read, so please don't read too deeply into any of the choices
 made in rendering the phonetic transcriptions as words.
 
-<h3>Cognate suffixes</h3>
+<h3 id=suffixes>Cognate suffixes</h3>
 
 Descriptions largely taken from Wiktionary.
 
@@ -343,7 +343,7 @@ post I have used a more traditional spelling <i>Gaedhilg</i>, as it seemed appro
 
 ## Click on the illustrations to expand the notes for each word!
 
-### <i>Frog</i>: taboo-avoidance?
+### <i>Frog</i>: taboo-avoidance? {#frog}
 
 <details>
 <summary>
@@ -475,7 +475,7 @@ avoid.
 
 </details>
 
-### <i>Losgann</i>: the peat bog's answer to mythical fire beasts?
+### <i>Losgann</i>: the peat bog's answer to mythical fire beasts? {#losgann}
 
 <details>
 <summary>
@@ -591,7 +591,7 @@ class=ipa>/ˈl̪ˠosˠkɑːnˠ/</span>.
 
 </details>
 
-### <i>Lisbín</i>: taboo deformation of <i>losgann</i>?
+### <i>Lisbín</i>: taboo deformation of <i>losgann</i>? {#lisbín}
 
 <details>
 <summary>
@@ -648,7 +648,8 @@ indicated by <i>liospán</i>.
 </figure>
 
 I don't know of any other words where comparable phonetic variants exist,
-though of course they could. In the above section on the word "frog", I
+though of course they could. In the above section on the word <a
+href=#frog>"frog"</a>, I
 explored the idea of "frog" being used to substitute for a taboo "true" name for
 the creature. If <i>losgann</i> was such a taboo name, then the evolutions to
 <i>luspán</i>, <i>liospán</i>, <i>lispín</i> could be explained by taboo
@@ -673,7 +674,7 @@ actually saying it (as with "jeepers" for "Jesus").
 If this word is indeed a phonetic variation on <i>losgann</i>, then the fact
 it is also used for lizards might give credence to the idea that the word comes
 directly from salamanders, rather than indirectly via crickets (see above
-section on <i>losgann</i>).
+section on <a href=#losgann><i>losgann</i></a>).
 
 <h4>lisbín locha</h4>
 A variant I found a single example of, in Mayo, was
@@ -700,7 +701,7 @@ href=https://archive.org/details/manwhoinventedsi0000ofao/page/n5/mode/2up><i>Th
 
 </details>
 
-### <i>Sonasan</i>: an etymylogical outlier?
+### <i>Sonasan</i>: an etymylogical outlier? {#sonasan}
 
 <details>
 <summary><img src="../images/froganna/sonasan.svg" alt="A smiling frog next to
@@ -740,7 +741,8 @@ that frogs are being referred to as "wee joys", or "joyful things".
 <br><br>
 Referring to a frog as a "wee joy", while delightful, seemed unexpected to me.
 Superficially <i>sonasan</i> reminds me of <i>snasán</i>, listed above as a
-synonym for <i>loisgionn</i> (see section on <i>losgann</i>). This word refers
+synonym for <i>loisgionn</i> (see section on <a
+        href=#losgann><i>losgann</i></a>). This word refers
 to polish, stemming from the word <i>snas</i> for cutting or chipping, perhaps
 because of the process of making shellac involves scraping a resin secreted by
 bugs from tree bark, melting it into a sheet, then breaking that into small
@@ -771,7 +773,7 @@ https://archive.org/details/transactionsvol00invegoog/page/364/mode/2up?q=sonasa
 
 </details>
 
-### <i>Fliuchán</i>: a lost word from Derry
+### <i>Fliuchán</i>: a lost word from Derry {#fliuchán}
 
 <details>
 <summary><img src="../images/froganna/fliuchán.svg" alt="A frog seeks shelter
@@ -851,7 +853,7 @@ ditch".
 
 </details>
 
-### <i>Leumachan</i> and <i>leumadair</i>: leaper
+### <i>Leumachan</i> and <i>leumadair</i>: leaper {#leumachan}
 
 <details>
 <summary>
@@ -879,7 +881,7 @@ It is possible that <i>leumachan</i> was also used
 by native Manx speakers, as it is given in Fargher, 1969,
 rendered <i>lheimaghan</i>. It is likely this was a neologism introduced by
 Fargher, however. I couldn't find any native corroboration. Fargher's work is
-discussed further in the section on words not included in the map.
+discussed further in the <a href=#other-words>section</a> on words not included in the map.
 
 <h4>Variations</h4>
 Several variations of <i>leumachan</i> came up, in fact far more commonly than
@@ -930,7 +932,7 @@ above.
 
 </details>
 
-### <i>Crónán</i> and <i>cnádán</i>: for the frog's sweet song
+### <i>Crónán</i> and <i>cnádán</i>: for the frog's sweet song {#crónán}
 
 <details>
 <summary>
@@ -947,7 +949,7 @@ sources often cite </i>cnádán<i> as referring to the Natterjack Toad. Cnádán
 one of the words used in an <a
 href=https://archive.org/details/bioblanaomhthaan00bede/page/58/mode/2up>1817
 edition</a> of the bible<sup id="fnref:20"><a class="footnote-ref"
-href="#fn:20">20</a></sup>. See bible appendix for more information.</i></span>
+href="#fn:20">20</a></sup>. See <a href=#bibles>bible appendix</a> for more information.</i></span>
 <br>
 
 <h4>Crónán: hummer</h4>
@@ -1025,7 +1027,7 @@ you hear the frogs crooning and croaking."</blockquote>
 
 </details>
 
-### <i>Gille-cràigean</i>, <i>cràigean</i>, and <i>cròigean</i>: well-pawed lads
+### <i>Gille-cràigean</i>, <i>cràigean</i>, and <i>cròigean</i>: well-pawed lads {#cràigean}
 
 <details>
 <summary>
@@ -1056,7 +1058,7 @@ and is also found as <i>cròigean</i>, reflecting the variants <i>cràg</i>
 and <i>cròg</i>.
 </details>
 
-### <i>Màgan</i>, <i>mial-mhàgain</i> and <i>laprachán</i>; <i>lapadán</i> and <i>lapadóir</i>: crawlers and paddlers
+### <i>Màgan</i>, <i>mial-mhàgain</i> and <i>laprachán</i>; <i>lapadán</i> and <i>lapadóir</i>: crawlers and paddlers {#màgan}
 <details>
 <summary>
 <img src="../images/froganna/magan.svg", alt="drawing of frog crawling"
@@ -1103,7 +1105,7 @@ href=https://www.teanglann.ie/en/fuaim/seanmh%c3%a1thair>here</a>.
 Is the usage of a term associated with crawling because frogs and toads were
 undistinguished in some places, or the words got confused? MacBain's
 translation of "squat beast" certainly suits frogs well, see also the section
-on <i>crúbán claidhe</i>. It's possible these terms take their meaning from the
+on <a href=#crúbán><i>crúbán claidhe</i></a>. It's possible these terms take their meaning from the
 squatting, rather than movement in that position.
 
 <h4><i>Laprachán</i>, <i>lapadán</i> and <i>lapadóir</i></h4>
@@ -1143,7 +1145,7 @@ the splashing implement.
 
 </details>
 
-### <i>Crúbán claidhe</i>: what do frogs have to do with crabs?
+### <i>Crúbán claidhe</i>: what do frogs have to do with crabs? {#crúbán}
 
 <details>
 <summary><img src="../images/froganna/crubán-claidhe.svg"></summary>
@@ -1232,7 +1234,7 @@ I will elect to officially update my translation to "dyke squatter".
 
 </details>
 
-### <i>Breallach lathaí</i>: a crude comparison? Rated PG
+### <i>Breallach lathaí</i>: a crude comparison? Rated PG {#breallach}
 <details>
 <summary><img src="../images/froganna/breallach.svg" alt="a frog drawn to
 recall Boticelli's The Birth of Venus. The frog is standing on a clam shell
@@ -1317,7 +1319,7 @@ mysterious.
 
 </details>
 
-### <i>Lúbóg lathaí</i> and <i>lúbar lathaí</i>: for the frog's bendy legs?
+### <i>Lúbóg lathaí</i> and <i>lúbar lathaí</i>: for the frog's bendy legs? {#lúb}
 
 <details>
 <summary>
@@ -1349,7 +1351,7 @@ usage. I would translate it as "bent one of the ditch".
 
 </details>
 
-### <i>Frús</i>: found only in the LASID. Another foreign loan?
+### <i>Frús</i>: found only in the LASID. Another foreign loan? {#frús}
 
 <details>
 <summary><span class=frog-intro><i>This word was only found once, in LASID point 37 in Carnmore,
@@ -1376,8 +1378,7 @@ href=https://en.wiktionary.org/wiki/fross#Middle_English><i>fross</i></a>.
 
 </details>
 
-
-### <i>Preabaire na lathaighe</i>: mud hopper
+### <i>Preabaire na lathaighe</i>: mud hopper {#preabaire}
 
 <details>
 <summary>
@@ -1397,7 +1398,7 @@ Clare. Ó Dónaill's dictionary gives as <i>prebaire na mbánta</i>
 as a possibility for magpie.
 </details>
 
-### <i>Athadán</i>: a lost word from Conamara?
+### <i>Athadán</i>: a lost word from Conamara? {#athadán}
 
 <details>
 <summary>
@@ -1457,7 +1458,7 @@ A mysterious word. I would love to hear from any Conamara speakers whether they
 have heard this or use it.
 </details>
 
-### <i>Tortán</i>: clod?
+### <i>Tortán</i>: clod? {#tortán}
 
 <details>
 <summary><span class=frog-intro><i>I only found this in Ballyglooneen, LASID point 35, in Galway. The
@@ -1478,7 +1479,7 @@ Dinneen's dictionary lists both "crab" and "frog" as possible translations of
 <i>torpán</i>.
 </details>
 
-### <i>Ceanna-phiullan</i>: usually used for tadpoles
+### <i>Ceanna-phiullan</i>: usually used for tadpoles {#ceann}
 
 <details>
 <summary>
@@ -1505,9 +1506,9 @@ wonder if the fieldworker who recorded this made an error!
 
 </details>
 
-## Words not included in the map, and not discussed above
+## Words not included in the map, and not discussed above {#other-words}
 
-### <i>Rannag</i> on Man
+### <i>Rannag</i> on Man {#rannag}
 The word <i>rannag</i> seems to be the most popular word for
 "frog" among Manx revivalists, but I was unable to find any attestations from
 native speakers. The earliest extant occurrence seems to be in Fargher, 1969:
@@ -1567,7 +1568,7 @@ latter is a joyous thing to me, but my work here on frogs is concerned with the
 former, and in the absence of any evidence that the word "rannag" was ever used
 in Traditional Manx, I have not included it in the map.
 
-### <i>Uillichd</i> in Scotland
+### <i>Uillichd</i> in Scotland {#uillichd}
 A curious word I found only in Forbes, 1905 is <i>uillichd</i> (it is also in
 Dwelly, 1918, but sourced from Forbes). I believe this could have been
 pronounced <span class=ipa>[ɯʎəçgʲ]</span> though of course this is unattested
@@ -1578,9 +1579,9 @@ sense to me grammatically). Perhaps this word is related to <i>ùill</i> for oil
 or grease, referring to the frog's mucusy skin. That is the best suggestion I
 have. I wish I could find other usages!
 
-### <i>Cruitín díge</i> in Oriel
+### <i>Cruitín díge</i> in Oriel {#cruitín}
 
-Alongside <i>lúbán díge</i>, discussed above, O'Neill-Lane's dictionary lists
+Alongside <i>lúbán díge</i>, discussed <a href=#lúb>above</a>, O'Neill-Lane's dictionary lists
 <i>cruitín díge</i> as a word found in Oriel in Ireland. As well as the meaning
 of "harp, lyre", Dinneen gives the meanings of "a hump on the back, a little
 eminence; summit". Various sources from Monaghan and Cavan in The School's
@@ -1625,7 +1626,7 @@ búdh mian leis a ndíbeirt uadha.
 
 --->
 
-## Frogs in Gaelic bibles
+## Frogs in Gaelic bibles {#bibles}
 
 <details>
 <summary>Table of translations for "frog" in various Gaelic bibles 1602-1827</summary>
@@ -1813,7 +1814,7 @@ and Psalms uses the same word <a href=https://biblehub.com/hebrew/6854.htm>throu
 </table>
 </details>
 
-## Miscellaneous curiosities
+## Miscellaneous curiosities {#misc}
 
 ["Anybody that lived in rural Ireland remember the frog man?"](https://www.reddit.com/r/CasualIreland/comments/184j053/anybody_that_lived_in_rural_ireland_remember_the/)
 
@@ -1832,7 +1833,7 @@ II](https://imuseum.im/search/collections/objects/mnh-museum-35823.html)
 "grass-skin"](https://archive.org/details/annualreport04royauoft/page/29/mode/1up)
 
 
-## Go rabh maith agaibh
+## Go rabh maith agaibh {#grma}
 
 * Ciarán Ó Duibhín, ar ábhar misnigh é, agus as acmhainní ar líne a chur ar fáil
 
@@ -1855,7 +1856,7 @@ for it, Book 4: Insects, Reptiles etc.</i>
 informants who took the time to be interviewed, and everyone who has ever gone
 to the effort to make knowledge available online for others to access freely.
 
-## Bibliography
+## Bibliography {#bibliography}
 
 Sources only cited in the datapoints are either directly cited there, or are
 listed in the introduction (e.g. the LASID). They are not listed here.
@@ -2181,7 +2182,7 @@ an chrann, an traona san choirce, agus an liospán san pholl [...]"
 [^20]: The introduction of this bible says that the Old Testament
 is translated by William Bedell and "some changes made from the edition of
 1690". I assume one of the changes was changing to use <i>cnadáin</i>, though
-only in some places. See the appendix on Gaelic bibles for a full table of frog
+only in some places. See the <a href=#bibles>appendix on Gaelic bibles</a> for a full table of frog
 words used in bible editions.
 
 [^21]: "Crabfish" also meant lobster, but the LASID universally gives
