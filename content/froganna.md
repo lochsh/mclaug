@@ -263,7 +263,7 @@ Descriptions largely taken from Wiktionary.
     </li>
 </ul>
 
-## Thoughts on each word
+## Thoughts on each word {#toc}
 
 * [<i>Frog</i>: taboo-avoidance?](#frog)
 
@@ -431,6 +431,7 @@ taboo deformation from <i>losgann</i>. Various phonetically
 intermediate forms are attested, supporting the idea of it being akin to a
 "minced oath". Perhaps <i>losgann</i> was the taboo word everyone was trying to
 avoid.
+<a href=#toc><small>↩</small></a>
 
 ### <i>Losgann</i>: the peat bog's answer to mythical fire beasts? {#losgann}
 
@@ -528,6 +529,7 @@ notes. These spellings both reflect a pronounciation of something like
 spelling <i>loscán</i> reflects a pronunciation found in Connacht where the
 final consonant is lenis and the final vowel is clear: <span
 class=ipa>/ˈl̪ˠosˠkɑːnˠ/</span>.
+<a href=#toc><small>↩</small></a>
 
 ### <i>Lisbín</i>: taboo deformation of <i>losgann</i>? {#lisbín}
 
@@ -631,6 +633,8 @@ error on the child's part.
 href=https://archive.org/details/manwhoinventedsi0000ofao/page/n5/mode/2up><i>The Man Who Invented Sin</i></a> by Seán O'Faoláin</li>
 </ul>
 
+<a href=#toc><small>↩</small></a>
+
 ### <i>Sonasan</i>: an etymylogical outlier? {#sonasan}
 
 <img src="../images/froganna/sonasan.svg" alt="A smiling frog next to
@@ -680,6 +684,7 @@ innards</a> were once used for polish seems like a red herring.
 
 Perhaps we can take this word at face value: as describing the joyful motion of
 the leaping young frog, newly be-legged &mdash; or as signifying a positive omen.
+<a href=#toc><small>↩</small></a>
 
 <!---
 https://x.com/Gaeilgebheo/status/1762187597361594503
@@ -756,6 +761,7 @@ Freagra — Fliuchán díge.">
 The riddle asks what jumps over rocks and jumps into the loch. The answer,
 <i>fliuchán díge</i>, we can translate as "wet thing of the
 ditch".
+<a href=#toc><small>↩</small></a>
 
 ### <i>Leumachan</i> and <i>leumadair</i>: leaper {#leumachan}
 
@@ -824,6 +830,7 @@ purposes"), <i>greamannach</i> ("biting, inclined to bite; sticky" from
 "grips (n.); bites (n.)"). Perhaps the plural here conveyed repeated jumping.
 I find this a more satisfying explanation than the dissimilation
 above.
+<a href=#toc><small>↩</small></a>
 
 ### <i>Crónán</i> and <i>cnádán</i>: for the frog's sweet song {#crónán}
 
@@ -908,6 +915,7 @@ rain</a>:
 
 <blockquote><i>Nuair aireóchtha na froganna ag crónán agus ag cnádán.</i><br>"When
 you hear the frogs crooning and croaking."</blockquote>
+<a href=#toc><small>↩</small></a>
 
 
 ### <i>Gille-cràigean</i>, <i>cràigean</i>, and <i>cròigean</i>: well-pawed lads {#cràigean}
@@ -934,6 +942,7 @@ fact that <i>cràigean</i> has a long vowel (e.g. <span
 class=ipa>[kɾɑ:ɡʹɑ̃ṉ]</span> is recorded in Badenoch) as in <i>crág</i>,
 and is also found as <i>cròigean</i>, reflecting the variants <i>cràg</i>
 and <i>cròg</i>.
+<a href=#toc><small>↩</small></a>
 
 ### <i>Màgan</i>, <i>smàigean</i> and <i>mial-mhàgain</i>: crawlers {#màgan}
 
@@ -978,6 +987,7 @@ inflections[^s-mobile]. Hence the English word "small" and the Irish word
 <i>míol</i> ("animal") are thought to be from the same PIE root meaning "small
 animal". Whether the same word could be preserved in a language with and
 without the s prefix is not clear to me.
+<a href=#toc><small>↩</small></a>
 
 ### <i>Laprachán</i>, <i>lapadán</i>, <i>laparán</i> and <i>lapadóir</i>: paddlers {#lapa}
 
@@ -1022,6 +1032,7 @@ hand</a>.  I haven't been able to find any suggested etymologies for it. I
 wonder if there are two etymologies at play here, one associated with splashing
 and another with hands. I expect they are one and the same, with the hand being
 the splashing implement.
+<a href=#toc><small>↩</small></a>
 
 ### <i>Crúbán claidhe</i>: what do frogs have to do with crabs? {#crúbán}
 
@@ -1101,6 +1112,7 @@ something entirely different that is translated as "pig foot" by Sam Henry
 pig's feet in the LASID to compare against.
 
 I will elect to officially update my translation to "dyke squatter".
+<a href=#toc><small>↩</small></a>
 
 ### <i>Breallach lathaí</i>: a crude comparison? Rated PG {#breallach}
 <img src="../images/froganna/breallach.svg" alt="a frog drawn to
@@ -1177,6 +1189,7 @@ vocal sac, a suggestion from my teacher Dubhán Ó Longáin. Or perhaps it is ju
 calling the frog a wee knob. For now, the origin of this term will remain
 mysterious.
 </ul>
+<a href=#toc><small>↩</small></a>
 
 ### <i>Lúbóg lathaí</i> and <i>lúbar lathaí</i>: for the frog's bendy legs? {#lúb}
 
@@ -1200,6 +1213,7 @@ Not included on in the map data is <i>lúbán díge</i>, listed in O'Neill-Lane
 (1917) as being found in Oriel (South Armagh, North Louth, South Monaghan,
 North-West Meath, East Cavan). I couldn't find any other examples of this
 usage. I would translate it as "bent one of the ditch".
+<a href=#toc><small>↩</small></a>
 
 ### <i>Frús</i>: found only in the LASID. Another foreign loan? {#frús}
 
@@ -1222,6 +1236,7 @@ href=https://en.wiktionary.org/wiki/frosk#English><i>frosk</i></a>, <a
 href=https://en.wiktionary.org/wiki/frossh#Middle_English><i>frossh</i></a> and
 (most attractively) <a
 href=https://en.wiktionary.org/wiki/fross#Middle_English><i>fross</i></a>.
+<a href=#toc><small>↩</small></a>
 
 ### <i>Preabaire na lathaighe</i>: mud hopper {#preabaire}
 
@@ -1237,6 +1252,7 @@ superstition</a> from Tipperary, and this <a
 href=https://www.duchas.ie/en/cbes/4922329/4870637/5055991>riddle</a> from
 Clare. Ó Dónaill's dictionary gives as <i>prebaire na mbánta</i>
 as a possibility for magpie.
+<a href=#toc><small>↩</small></a>
 
 ### <i>Athadán</i>: Conamara creature {#athadán}
 
@@ -1294,6 +1310,7 @@ bird, fowl; a winged creature; a living creature", "a serpent, any venomous
 little creature", "a beast". It would seem to be applied in a similar way to
 "beastie", though it seems in Conamara it was used to mean a very specific
 beastie: the frog.
+<a href=#toc><small>↩</small></a>
 
 ### <i>Tortán</i>: clod? {#tortán}
 
@@ -1310,6 +1327,7 @@ lumps of creatures.
 Interestingly, in the context of the <i>crúbán claidhe</i> term,
 Dinneen's dictionary lists both "crab" and "frog" as possible translations of
 <i>torpán</i>.
+<a href=#toc><small>↩</small></a>
 
 ### <i>Ceanna-phiullan</i>: usually used for tadpoles {#ceann}
 
@@ -1332,6 +1350,7 @@ limbless head.
 
 It's harder to make sense of this term applying to frogs. I can't help but
 wonder if the fieldworker who recorded this made an error!
+<a href=#toc><small>↩</small></a>
 
 ## Words not included in the map, and not discussed above {#other-words}
 
