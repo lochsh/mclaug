@@ -35,7 +35,7 @@ $(document).ready(function () {
                     input.setAttribute("checked", "true");
 
                     var label = document.createElement("label");
-                    label.setAttribute("for", line.key);
+                    label.setAttribute("for", `${line.key}-input`);
                     label.innerHTML = line.display;
 
                     var item = document.createElement("li");
