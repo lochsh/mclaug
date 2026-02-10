@@ -324,25 +324,6 @@ Descriptions largely taken from Wiktionary.
     </li>
 </ul>
 
-<h3>On endonyms</h3>
-
-There are many ways to write Gaelic endonymically. When speaking it I say
-something like <span class=ipa>[geːlɪc]</span> or <span
-class=ipa>[keːlɪc]</span>, like the Ulster speaker recorded <a
-href=https://www.teanglann.ie/en/fuaim/gaeilge>here</a>. This would also
-reflect the pronunciation of some traditional speakers from Argyll.
-
-<br><br>
-Historically in Ireland I have seen this written <i>Gaedhilg</i> or
-<i>Gaedhilc</i> (epenthesis is triggered between the l and g/c). <i>An
-Caighdeán Oifigiúil</i> would have me write this as <i>Gaeilge</i>, even though
-this would represent the genitive case for me. Following the <i>An
-Caighdeán</i> rule of removing phonetically redundant "dh" occurrences, you
-could write my pronunciation as <i>Gaeilg</i>. Some Ulster speakers choose to
-write <i>Gaeilic</i> though I don't think it has a historical basis. I am still
-deciding what I would like to write day-to-day. For the purposes of this blog
-post I have used a more traditional spelling <i>Gaedhilg</i>, as it seemed appropriate to choose a spelling that was closer to the standard <i>Gàidhlig</i> in Scotland. Sadly this is further from the Manx <i>Gaelg</i>.
-
 </details>
 
 ## Thoughts on each word
