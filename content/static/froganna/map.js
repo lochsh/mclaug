@@ -71,7 +71,7 @@ $(document).ready(function () {
             <i>Area</i>: ${feature.properties.ceantar} / ${feature.properties.area}<br><br>
             <i>Source</i>: ${feature.properties.source}<br><br>
             <i>Notes</i>: ${feature.properties.note}<br>`,
-            {maxHeight: 500},
+            {maxHeight: 500, maxWidth: 275},
         ).openPopup();
     }
 
