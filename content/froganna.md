@@ -1226,22 +1226,24 @@ href=https://www.duchas.ie/en/cbes/4922329/4870637/5055991>riddle</a> from
 Clare. Ó Dónaill's dictionary gives as <i>prebaire na mbánta</i>
 as a possibility for magpie.
 
-### <i>Athadán</i>: a lost word from Conamara? {#athadán}
+### <i>Athadán</i>: Conamara creature {#athadán}
 
 <span class=frog-intro><i>I found only one written attestation of this word, and one phonetic in the
 LASID, both in Conamara.</i></span>
 
-<img src="../images/froganna/athadán.png" alt="Screenshot of book in Gaelic
-type, the text of which is given below">
-
-<blockquote>
-Chonnaic mé chugam thríd an locán,<br>
-Tadhg O Lupán agus a chos tinn,<br>
-Bárr a bhróige air poll a thóna,<br>
-Agus a dhá shúil mhóra a' dul as a cheann?<br>
-<br>
-Athadán no frog air snamh.
-</blockquote>
+<img
+src="../images/froganna/athadán.png"
+alt="Screenshot of book in Gaelic
+type, which reads 'Chonnaic mé chugam thríd an locán,
+Tadhg O Lupán agus a chos tinn,
+Bárr a bhróige air poll a thóna,
+Agus a dhá shúil mhóra a' dul as a cheann?
+        Athadán no frog air snamh.'"
+title="Chonnaic mé chugam thríd an locán,
+Tadhg O Lupán agus a chos tinn,
+Bárr a bhróige air poll a thóna,
+Agus a dhá shúil mhóra a' dul as a cheann?
+        Athadán no frog air snamh.">
 
 I have seen this riddle repeated across Galway and Mayo in The Schools'
 Collection and the LASID[^riddle]. The version above is from a collection of
@@ -1271,15 +1273,15 @@ class=ipa>[ɑːdɑːn]</span>. I have read that intervocalic <span
 class=ipa>/h/</span> is deleted in parts of Conamara, so this would appear to
 be our word.
 
-But what does it mean? Is it from <i>áth</i>,
-meaning a shallow fordable part of a river? But frogs prefer
-still water, so they and their spawn are not washed away. Is it from <i>athadh</i> for elopement (getting tenuous, but frogs
-are always escaping off if you try to catch them)? "Oast" is given as a meaning
-of <i>áth</i> in De Bhaldraithe (1945), which makes no sense to me at all
-for frogs.
-
-A mysterious word. I would love to hear from any Conamara speakers whether they
-have heard this or use it.
+I was perplexed as to what it could mean. I am grateful to Davis Sandefur for
+investigating. He asked Criostóir Ó Loingsigh, who had heard <i>eathadán</i>
+for "tadpole" from a Kerry speaker. The root of the word is spelt variously
+<i>athaid</i>, <i>aithid</i>, <i>eathaid</i>, <i>feithid</i>. The initial <i>f-</i> is not
+etymological. The [eDIL](https://dil.ie/20835) lists various related usages: "A
+bird, fowl; a winged creature; a living creature", "a serpent, any venomous
+little creature", "a beast". It would seem to be applied in a similar way to
+"beastie", though it seems in Conamara it was used to mean a very specific
+beastie: the frog.
 
 ### <i>Tortán</i>: clod? {#tortán}
 
