@@ -397,11 +397,11 @@ instantly die.
 The frog's arrival in Ireland is variously attributed to the Anglo-Norman
 invasion of the 12th
 century, or to students of Trinity College of the
-17th century[^scharff], or to William of Orange
-[^orange], or some unknown 18th century introducer in County Down[^down]. An
-account from Gerard of Wales of a frog being found in Waterford sometime in the
-1170s or 1180s[^gerard-date] speaks of fascination and consternation when the
-creature is presented at court[^topographia]:
+17th century[^scharff], or to William of Orange[^orange], or some unknown 18th
+century introducer in County Down[^down]. An account from Gerard of Wales of a
+frog being found in Waterford sometime in the 1170s or 1180s[^gerard-date]
+speaks of fascination and consternation when the creature is presented at
+court[^topographia]:
 
 > [...] a frog was found, within my time, in the grassy meadows near
 Waterford, and brought to court alive before Robert Poer, who was at that
