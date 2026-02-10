@@ -984,7 +984,7 @@ without the s prefix is not clear to me.
 </i>Laprachán<i> or </i>laprachán lathái<i> was found a few times in Galway and
 once in Waterford. </i>Lapadán<i> had one example each in
 Galway and Monaghan, </i>lapadóir<i> one in Mayo, and </i>lapadóir lathaí<i>
-one in Galway. </i>Laparán<i> was found once in Limerick, and in novel by a
+one in Galway. </i>Laparán<i> was found once in Limerick, and in a novel by a
 Donegal author.</i></span>
 
 While <i>màgan</i> and its variants stem from the word <i>màg</i>, these
