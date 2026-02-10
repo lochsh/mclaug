@@ -543,8 +543,8 @@ crickets.
 #### losgann lathaighe, luascán lathaighe, loscán laithighe, ⁊c.
 
 An enjoyable variant of this word, that I found primarily in Mayo and
-Galway, is <i>losgann lathaighe</i>, which I will choose to translate as "mud
-salamander".
+Galway, is <i>losgann lathaighe</i> (modern spelling <i>lathaí</i>), which I
+will choose to translate as "mud salamander".
 
 #### East Sutherland's <i>losgaid</i>
 An interesting variant found in Embo in East Sutherland is <i>losgaid</i> <span
@@ -639,7 +639,7 @@ section on <a href=#losgann><i>losgann</i></a>).
 
 #### lisbín locha
 A variant I found a single example of, in Mayo, was
-<a href=www.duchas.ie/en/cbes/4427846/4350083/4443127<i>lisbín locha</i></a>,
+<a href=www.duchas.ie/en/cbes/4427846/4350083/4443127><i>lisbín locha</i></a>,
 which we might translate as "loch salamander". The schoolchild actually
 wrote <i>lisbín lacha</i>, which I don't think makes grammatical sense
 (<i>lacha</i> is the nominative case of the word meaning "duck", but the
@@ -1739,7 +1739,9 @@ listed in the introduction (e.g. the LASID). They are not listed here.
 * De Bhaldraithe, T. (1985). <i>Foirsiún Focal as Gaillimh</i>. Dublin :
   Acadamh Ríoga na hÉireann.
 
-* Dinneen, P. S. (1904). [<i>Foclóir Gaedhilge agus Béarla</i>](https://archive.org/details/foclirgaeilgeagu00dinn). Irish  Texts Society
+* Dinneen, P. S. (1904). [<i>Foclóir Gaedhilge agus
+  Béarla</i>](https://archive.org/details/foclirgaeilgeagu00dinn). Irish  Texts
+  Society. (also referred to as "Dinneen's dictionary")
 
 * Dorian, N. C. (1978). <i>East Sutherland Gaelic: the dialect of the Brora,
   Golspie, and Embo fishing communities</i>. Dublin : Dublin Institute of
@@ -1820,7 +1822,7 @@ Nualláin Teór.
   at Louvrain in 1643.
   s.n.</i>](https://deriv.nls.uk/dcn23/8177/81776163.23.pdf). Revue Celtique,
   5 (1881-1883). 16. (Original work published 1643 as <i>Foclóir nó Sanasán
-          Nua</i>)
+          Nua</i>) (also referred to as "O'Clery's glossary")
 
 * Ó Dónaill, N. (1977). <i>Foclóir Gaeilge–Béarla</i>. Dublin: An Gúm
 
