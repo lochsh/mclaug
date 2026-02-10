@@ -800,11 +800,8 @@ possible diminutive reading. <i>Leumadair</i> is also used for other leaping
 animals, sometimes with qualifiers: Dòrlach's fieldwork in Scotland found
 <i>leumadair-fèoir</i> ("grass jumper") for grasshopper, which is also found
 in the 1819 Manx bible as <i>lheimydyr-faiyr</i>.  <i>Leumadair-mara</i> (sea
-jumper) is often cited as a word for dolphins (TODO I
-did find non-dictionary usages of this but did nto note it down and now
-DASG is down. add example usage). In Welsh, the cognate <i>llam</i> gives us
-<i>llamhidydd</i>, similarly meaning "jumper" and used for porpoises.
-<br><br>
+jumper) is often cited as a word for dolphins (TODO citation)[^welsh-leum].
+
 It is possible that <i>leumachan</i> was also used
 by native Manx speakers, as it is given in Fargher (1969),
 rendered <i>lheimaghan</i>. It is likely this was a neologism introduced by
@@ -840,21 +837,21 @@ a common example is rhotic speakers pronouncing "berserk" as "beserk".
 Perhaps it is lack of knowledge on my part, but I don't see how
 the insertion of /n/ or /r/ here can be explained by dissimilation.
 Certainly the substitution of /r/ for /n/, as in pronunciations of
-<i>mná</i> found in most places except Munster, seems well-described by
-dissimilation. But the insertion of nasal /n/ after nasal /m/
-does not seem well-described by this.
+<i>mná</i> (e.g. <span class=ipa>/mˠɾˠãː/</span>) found in most places except
+Munster, seems well-described by dissimilation. But the insertion of nasal /n/
+after nasal /m/ does not seem well-described by this.
 
 What if <i>leumnachan</i> (and thereby <i>leumrachan</i> &c. by dissimilation)
-could be explained <i>leumnach</i> being formed from the plural? The eDIL
+could be explained by <i>leumnach</i> being formed from the plural? The Old Gaelic
+nominative plural <i>léimmen</i> gave rise to <i>léimanna</i> in Ireland and
+<i>leuman</i> in Scotland. The eDIL
 records the old spellings of <i>lémennach</i> and <i>leminnach</i>. Could these
-reflect the suffixation of <i>léimmen</i>, the old <a
-href=https://en.wiktionary.org/wiki/l%C3%A9imm>plural form</a> of <i>léim</i>?
-Beyond the example old spellings, I don't have much to support this &mdash;
+reflect the suffixation of <i>léimmen</i>? Beyond the example old spellings, I don't have much to support this &mdash;
 except that there are other examples of <i>-ach</i> suffixation that are made
 from the plural: <i>aidhmeannach</i> ("designing; ambitious", from "aims,
 purposes"), <i>greamannach</i> ("biting, inclined to bite; sticky" from
-"grips (n.); bites (n.)"). Perhaps the plural here conveyed repeated jumping?
-Certainly I find this a more satisfying explanation than the dissimilation
+"grips (n.); bites (n.)"). Perhaps the plural here conveyed repeated jumping.
+I find this a more satisfying explanation than the dissimilation
 above.
 
 ### <i>Crónán</i> and <i>cnádán</i>: for the frog's sweet song {#crónán}
@@ -2025,6 +2022,9 @@ National Corpus of Irish. Mac Giolla Ceara, 1940, p. 42: "An préachán dubh ar
 an chrann, an traona san choirce, agus an liospán san pholl [...]"
 
 [^granny]: This was the school my granny went to :) and my granda's parents etc.
+
+[^welsh-leum]: In Welsh, the cognate <i>llam</i> gives us
+<i>llamhidydd</i>, similarly meaning "jumper" and used for porpoises.
 
 [^cnádán-bible]: The introduction of this bible says that the Old Testament
 is translated by William Bedell and "some changes made from the edition of
