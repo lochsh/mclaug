@@ -943,7 +943,8 @@ style="max-height: 600px;">
 <span class=frog-intro><i>All three Nova Scotia datapoints record </i>màgan<i> for frog. In Scotland
 it is more common for this to mean toad. However, its
 variant </i>mial-mhàgain<i> is popular in Scotland for frog, particularly on
-Skye and Raasay. </i>Smàigean<i> was found in East Perthshire.</i>
+Skye and Raasay. </i>Smàigean<i> was found in East Perthshire, and is also used
+for "toad" in other places.</i>
 </span>
 
 Dwelly's dictionary defines <i>màg</i> as "paw; claw; ludicrous term for
