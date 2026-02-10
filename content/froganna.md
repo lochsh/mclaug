@@ -1448,6 +1448,9 @@ mhúinteoireacht
 the Manx word <i>rannag</i>, and providing a copy of <i>The Manx Have a Word
 for it, Book 4: Insects, Reptiles etc.</i>
 
+* Davis Sandefur agus Criostóir Ó Loingsigh, as <i>athadán</i> a deánamh
+  taighde, agus fá <i>laparán</i> a insint domh
+
 * Ciarán Dunbar, as labhairt fá fhocla as Oirialla liom
 
 * Màiri MacMillan, as labhairt fá fhroganna Uibhist liom
