@@ -4426,6 +4426,31 @@
                     53.0159
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "word": "smàigean",
+                "source_transcription": "/smɑːg′ɑn/",
+                "ipa_transcription": "",
+                "logainm": "Srath Teimheil",
+                "placename": "Strathtummel",
+                "ceantar": "Siorrachd Pheairt",
+                "area": "East Perthshire",
+                "informant": "Mary Stewart (b. 1894)",
+                "year": "1980s",
+                "source": "Murchú, M. Ó. (1989). <i>East Perthshire Gaelic</i>. Dublin : Dublin Institute for Advanced Studies.",
+                "note": "",
+                "category": "smàigean",
+                "source_category": "other"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.939518,
+                    56.715236
+                ]
+            }
         }
     ]
 }
