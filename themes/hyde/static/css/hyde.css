@@ -323,17 +323,24 @@ ul.checkboxes {
     margin: 0px;
 }
 
-@media (min-width: 48em) {
+@media (65em <= width) {
+    ul.columns {
+        column-count: 4;
+    }
+}
+
+@media (38em <= width <= 65em) {
     ul.columns {
         column-count: 3;
     }
 }
 
-@media (max-width: 48em) {
+@media (width <= 38em) {
     ul.columns {
         column-count: 2;
     }
 }
+
 
 [type=checkbox] {
     accent-color: #009639;
