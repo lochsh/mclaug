@@ -193,71 +193,7 @@ conventions.
 
 </details>
 
-## A brief note about orthography
-
-<details>
-<summary>(Actually not as brief as I imagined, so click here if you would like to
-read)</summary>
-
-<h3>On frog words</h3>
-
-I have illustrated many of the words for frog below, and wondered whether I
-should try to use a consistent orthography across the illustrations. The
-writing systems used in Scotland and Ireland differ somewhat, having once been
-consistent and now diverged. (The Isle of Man's writing system was developed
-independently and is very different, but the only word I've illustrated from
-there is "frog", so the difference in orthography was not a concern.)
-<br><br>
-
-In the end, I have largely written the words in the illustrations as I would
-expect to see them in the places they were recorded. I did, however, make some choices:
-<br><br>
-
-<ul>
-
-<li> When standard Irish orthography would have "sc" or "sp", I have written "sg"
-  and "sb", as I believe is standard in Scotland (where I understand most
-  surviving dialects have lost voicing contrast on plosives entirely<sup
-  id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup>). This is
-  because I think the voicing of the second consonant is phonemically
-  irrelevant in this context even in Ireland, as it is in English (compare
-  "speech" with "sbeech"), and the (lack of) aspiration is what is most
-  salient phonetically. Also the letter "g" looks nice in the font I chose, so
-  this way we get to see it in <i>losgann</i>.</li>
-<br>
-
-<li>When there were a few variants of a word, the choice of which one to
-    represent in the illustrations was a bit arbitrary.
-    For example, although I had more attestations of <i>leumrachan</i> than
-    <i>leumachan</i>,it seemed more convenient for the headword to be formulated simply from
-    <i>leum</i> + <i>achan</i>, with further explanation of variants later
-    on.</li>
-<br>
-
-<li>This mostly applies to the datapoints on the map, but I have followed the old
-  Scottish tradition of using "ó" for <span class=ipa>/oː/</span> (as in
-  <i>mór</i> Eng. "big") and "ò" for <span class=ipa>/ɔː/</span> (as in
-  <i>òran</i> Eng. "song").
-</li>
-
-</ul>
-
-When adding datapoints to the map from written sources, I have always used the
-written form from the source.
-
-<br><br>
-When working from sources like the LASID that
-provide phonetic transcriptions only, I have used a very loose phonetic
-rendering in the orthography that is most familiar to me, which preserves
-fortis-lenis contrast on L and N. Hence for LASID responses for the many areas
-where this contrast is lost and only the lenis consonant remains, I have
-written a single consonant character even if the standard spelling has a double
-consonant, e.g. standard "froganna" has been rendered "froganaí" to represent
-<span class=ipa>[frɑgəniː]</span>. These spellings are really just here to make
-the map easier to read, so please don't read too deeply into any of the choices
-made in rendering the phonetic transcriptions as words.
-
-<h3 id=suffixes>Cognate suffixes</h3>
+## Guide to suffixes
 
 Descriptions largely taken from Wiktionary.
 
@@ -324,27 +260,40 @@ Descriptions largely taken from Wiktionary.
     </li>
 </ul>
 
-</details>
-
 ## Thoughts on each word
 
 * [<i>Frog</i>: taboo-avoidance?](#frog)
+
 * [<i>Losgann</i>: the peat bog's answer to mythical fire beasts?](#losgann)
+
 * [<i>Lisbín</i>: taboo deformation of <i>losgann</i>?](#lisbín)
+
 * [<i>Sonasan</i>: an etymylogical outlier?](#sonasan)
+
 * [<i>Fliuchán</i>: a lost word from Derry](#fliuchán)
+
 * [<i>Leumachan</i> and <i>leumadair</i>: leaper](#leumachan)
+
 * [<i>Crónán</i> and <i>cnádán</i>: for the frog's sweet song](#crónán)
+
 * [<i>Gille-cràigean</i>, <i>cràigean</i>, and <i>cròigean</i>: well-pawed
-  lads](#cràigean)
+lads](#cràigean)
 * [<i>Màgan</i>, <i>mial-mhàgain</i> and <i>laprachán</i>; <i>lapadán</i> and <i>lapadóir</i>: crawlers and paddlers](#màgan)
+
 * [<i>Crúbán claidhe</i>: what do frogs have to do with crabs?](#crúbán)
+
 * [<i>Breallach lathaí</i>: a crude comparison? Rated PG](#breallach)
+
 * [<i>Lúbóg lathaí</i> and <i>lúbar lathaí</i>: for the frog's bendy legs?](#lúb)
+
 * [<i>Frús</i>: found only in the LASID. Another foreign loan?](#frús)
+
 * [<i>Preabaire na lathaighe</i>: mud hopper](#preabaire)
+
 * [<i>Athadán</i>: a lost word from Conamara?](#athadán)
+
 * [<i>Tortán</i>: clod?](#tortán)
+
 * [<i>Ceanna-phiullan</i>: usually used for tadpoles](#ceann)
 
 ### <i>Frog</i>: taboo-avoidance? {#frog}
@@ -1485,7 +1434,115 @@ búdh mian leis a ndíbeirt uadha.
 
 --->
 
-## Frogs in Gaelic bibles {#bibles}
+## Miscellaneous curiosities {#misc}
+
+["Anybody that lived in rural Ireland remember the frog man?"](https://www.reddit.com/r/CasualIreland/comments/184j053/anybody_that_lived_in_rural_ireland_remember_the/)
+
+[A jumping frog and other creatures of etymological interest](https://blog.oup.com/2024/03/a-jumping-frog-and-other-creatures-of-etymological-interest/)
+
+[An etymological plague of frogs](https://blog.oup.com/2024/04/an-etymological-plague-of-frogs/)
+
+[The Etymology of English toad: Effects of the Celtic substrate?](http://centre-for-english-traditional-heritage.org/TraditionToday7/7Sayers_Toad.pdf)
+(strongly disagreed with by the previous item)
+
+[A frog burned by a German bomb on the Isle of Man during World War
+II](https://imuseum.im/search/collections/objects/mnh-museum-35823.html)
+
+[Celtic etymology for the word "wilky" or "quilkin", used for frogs, from Cornish
+<i>gwelsken</i> meaning
+"grass-skin"](https://archive.org/details/annualreport04royauoft/page/29/mode/1up)
+
+
+## Go rabh maith agaibh {#grma}
+
+* Ciarán Ó Duibhín, ar ábhar misnigh é, agus as acmhainní ar líne a chur ar fáil
+
+* Dubhán Ó Longáin, as mo cheisteanna fá fhroganna a fhreagairt, agus as an
+mhúinteoireacht
+
+* Àdhamh Ó Broin, as d'obair ghoirt a roinnt, agus as labhairt fá fhroganna liom
+
+* Christopher Lewin, for answering my questions about the possible origins of
+the Manx word <i>rannag</i>, and providing a copy of <i>The Manx Have a Word
+for it, Book 4: Insects, Reptiles etc.</i>
+
+* Ciarán Dunbar, as labhairt fá fhocla as Oirialla liom
+
+* Màiri MacMillan, as labhairt fá fhroganna Uibhist liom
+
+* Simon Thoumire, as sonraí teagmhála Mhàiri a thabairt domh
+
+* Thank you to all the fieldworkers, the 1930s Irish schoolchildren, the
+informants who took the time to be interviewed, and everyone who has ever gone
+to the effort to make knowledge available online for others to access freely.
+
+## Appendix: orthography
+
+<details>
+<summary>
+Read more
+</summary>
+<br>
+
+When illustrating the words for frog above, I wondered whether I
+should try to use a consistent orthography across the illustrations. The
+writing systems used in Scotland and Ireland differ somewhat, having once been
+shared, now are diverged. The Isle of Man's writing system was developed
+independently and is very different, but the only word I've illustrated from
+there is "frog", so the difference in orthography was not a concern.
+<br><br>
+
+In the end, I have largely written the words in the illustrations as I would
+expect to see them in the places they were recorded. I did, however, make some choices:
+<br><br>
+
+<ul>
+
+<li> When standard Irish orthography would have "sc" or "sp", I have written "sg"
+  and "sb", as I believe is standard in Scotland (where I understand most
+  surviving dialects have lost voicing contrast on plosives entirely<sup
+  id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup>). This is
+  because I think the voicing of the second consonant is phonemically
+  irrelevant in this context even in Ireland, as it is in English (compare
+  "speech" with "sbeech"), and the (lack of) aspiration is what is most
+  salient phonetically. Also the letter "g" looks nice in the font I chose, so
+  this way we get to see it in <i>losgann</i>.</li>
+<br>
+
+<li>When there were a few variants of a word, the choice of which one to
+    represent in the illustrations was a bit arbitrary.
+    For example, although I had more attestations of <i>leumrachan</i> than
+    <i>leumachan</i>,it seemed more convenient for the headword to be formulated simply from
+    <i>leum</i> + <i>achan</i>, with further explanation of variants later
+    on.</li>
+<br>
+
+<li>This mostly applies to the datapoints on the map, but I have followed the old
+  Scottish tradition of using "ó" for <span class=ipa>/oː/</span> (as in
+  <i>mór</i> Eng. "big") and "ò" for <span class=ipa>/ɔː/</span> (as in
+  <i>òran</i> Eng. "song").
+</li>
+
+</ul>
+
+When adding datapoints to the map from written sources, I have always used the
+written form from the source.
+
+<br><br>
+When working from sources like the LASID that
+provide phonetic transcriptions only, I have used a very loose phonetic
+rendering in the orthography that is most familiar to me, which preserves
+fortis-lenis contrast on L and N. Hence for LASID responses for the many areas
+where this contrast is lost and only the lenis consonant remains, I have
+written a single consonant character even if the standard spelling has a double
+consonant, e.g. standard "froganna" has been rendered "froganaí" to represent
+<span class=ipa>[frɑgəniː]</span>. These spellings are really just here to make
+the map easier to read, so please don't read too deeply into any of the choices
+made in rendering the phonetic transcriptions as words.
+
+</details>
+
+## Appendix: Frogs in Gaelic bibles {#bibles}
 
 <details>
 <summary>Table of translations for "frog" in various Gaelic bibles 1602-1827</summary>
@@ -1673,47 +1730,7 @@ and Psalms uses the same word <a href=https://biblehub.com/hebrew/6854.htm>throu
 </table>
 </details>
 
-## Miscellaneous curiosities {#misc}
 
-["Anybody that lived in rural Ireland remember the frog man?"](https://www.reddit.com/r/CasualIreland/comments/184j053/anybody_that_lived_in_rural_ireland_remember_the/)
-
-[A jumping frog and other creatures of etymological interest](https://blog.oup.com/2024/03/a-jumping-frog-and-other-creatures-of-etymological-interest/)
-
-[An etymological plague of frogs](https://blog.oup.com/2024/04/an-etymological-plague-of-frogs/)
-
-[The Etymology of English toad: Effects of the Celtic substrate?](http://centre-for-english-traditional-heritage.org/TraditionToday7/7Sayers_Toad.pdf)
-(strongly disagreed with by the previous item)
-
-[A frog burned by a German bomb on the Isle of Man during World War
-II](https://imuseum.im/search/collections/objects/mnh-museum-35823.html)
-
-[Celtic etymology for the word "wilky" or "quilkin", used for frogs, from Cornish
-<i>gwelsken</i> meaning
-"grass-skin"](https://archive.org/details/annualreport04royauoft/page/29/mode/1up)
-
-
-## Go rabh maith agaibh {#grma}
-
-* Ciarán Ó Duibhín, ar ábhar misnigh é, agus as acmhainní ar líne a chur ar fáil
-
-* Dubhán Ó Longáin, as mo cheisteanna fá fhroganna a fhreagairt, agus as an
-mhúinteoireacht
-
-* Àdhamh Ó Broin, as d'obair ghoirt a roinnt, agus as labhairt fá fhroganna liom
-
-* Christopher Lewin, for answering my questions about the possible origins of
-the Manx word <i>rannag</i>, and providing a copy of <i>The Manx Have a Word
-for it, Book 4: Insects, Reptiles etc.</i>
-
-* Ciarán Dunbar, as labhairt fá fhocla as Oirialla liom
-
-* Màiri MacMillan, as labhairt fá fhroganna Uibhist liom
-
-* Simon Thoumire, as sonraí teagmhála Mhàiri a thabairt domh
-
-* Thank you to all the fieldworkers, the 1930s Irish schoolchildren, the
-informants who took the time to be interviewed, and everyone who has ever gone
-to the effort to make knowledge available online for others to access freely.
 
 ## Bibliography {#bibliography}
 
