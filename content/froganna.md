@@ -380,7 +380,7 @@ all in Scotland[^fròg]
  Man.</i></span>
 
 Could the usage of a foreign loan word, from English, be due to a taboo, where
-it was feared saying the creatures' true name would summon them? Christopher
+it was feared saying the true name of the creatures would summon them? Christopher
 Lewin, a Manx scholar, kindly corresponded with me about Manx words for frogs,
 and he suggested the possibility of this taboo.
 
