@@ -282,10 +282,9 @@ Descriptions largely taken from Wiktionary.
 * [<i>Gille-cràigean</i>, <i>cràigean</i>, and <i>cròigean</i>: well-pawed
 lads](#cràigean)
 
-* [<i>Màgan</i>, <i>mial-mhàgain</i> and <i>smàigean</i>>: crawlers](#màgan)
+* [<i>Màgan</i>, <i>smàigean</i> and <i>mial-mhàgain</i>: crawlers](#màgan)
 
-* [<i>Laprachán</i>, <i>lapadán</i>, <i>laparán</i> and <i>lapadóir</i>:
-* paddlers](#lapa)
+* [<i>Laprachán</i>, <i>lapadán</i>, <i>laparán</i> and <i>lapadóir</i>: paddlers](#lapa)
 
 * [<i>Crúbán claidhe</i>: what do frogs have to do with crabs?](#crúbán)
 
@@ -936,7 +935,7 @@ class=ipa>[kɾɑ:ɡʹɑ̃ṉ]</span> is recorded in Badenoch) as in <i>crág</i>
 and is also found as <i>cròigean</i>, reflecting the variants <i>cràg</i>
 and <i>cròg</i>.
 
-### <i>Màgan</i>, <i>smàigean</i> and <i>mial-mhàgain</i>: crawlers
+### <i>Màgan</i>, <i>smàigean</i> and <i>mial-mhàgain</i>: crawlers {#màgan}
 
 <img src="../images/froganna/magan.svg", alt="drawing of frog crawling"
 style="max-height: 600px;">
