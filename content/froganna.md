@@ -1493,7 +1493,7 @@ for it, Book 4: Insects, Reptiles etc.</i>
 informants who took the time to be interviewed, and everyone who has ever gone
 to the effort to make knowledge available online for others to access freely.
 
-## Appendix: orthography
+## Appendix: Orthography notes
 
 <details>
 <summary>
@@ -1517,8 +1517,7 @@ expect to see them in the places they were recorded. I did, however, make some c
 
 <li> When standard Irish orthography would have "sc" or "sp", I have written "sg"
   and "sb", as I believe is standard in Scotland (where I understand most
-  surviving dialects have lost voicing contrast on plosives entirely<sup
-  id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup>). This is
+  surviving dialects have lost voicing contrast on plosives entirely). This is
   because I think the voicing of the second consonant is phonemically
   irrelevant in this context even in Ireland, as it is in English (compare
   "speech" with "sbeech"), and the (lack of) aspiration is what is most
@@ -1954,27 +1953,6 @@ jumpers. Perhaps in these islands, where we have very few species, it does at
 least line up with scientific taxonomy. In other parts of the world with more
 amphibious diversity it seems there is more variation on whether folk and
 scientific taxonomies align.
-
-[^3]: The Scottish dialects I have read about that have voiced realisations
-of stops (outside nasal contact contexts) are parts of Argyll and East
-Sutherland. The latter is thought extinct. Argyll covers quite a large area;
-the LASID response from Arran shows voicing, but the Gaelic there is extinct.
-Islay is also given as having voiced stops in initial position, and there is
-still local Gaelic there. The stops being realised in this way doesn't
-necessarily mean the voicing is phonemic. I don't know what the general opinion
-is on that. The phonemic weight of voicing on stops in Donegal seems quite
-marginal to me, see this <a href=https://www.teanglann.ie/en/fuaim/gaeilge>Ulster
-recording</a> of the language's name, which I would transcribe as <span
-class=ipa>[keːlɪʰc]</span>. (maybe there is palatalisation on the /l/, I just don't hear it, perhaps due to
-personal deficiency). I hadn't actually noticed the pre-aspiration until
-now (a spectrogram revealed it, it's not something I have an ear for). I
-haven't seen anyone talk about pre-aspiration in Irish, but perhaps it's been
-disguised in descriptions of the length of stops, which is suggested in this
-thesis (?) <a
-href=https://www.abdn.ac.uk/media/site/llmvc/documents/Ch10-Iosad.pdf>chapter</a> I found from Pavel Iosad.
-I think the final consonants in all recordings <a
-href=https://www.teanglann.ie/en/fuaim/loc>here</a> are at least
-somewhat pre-aspirated.
 
 [^fròg]: Dwelly (1918) p. 457: "1. Hole, chink, niche, nook, cranny. 2. marsh,
 fen" for <i>fròg</i>. O'Reilly (1864) p. 259: "a fen,
