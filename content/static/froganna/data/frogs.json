@@ -4401,6 +4401,31 @@
                     53.8542
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "word": "laparán",
+                "source_transcription": "",
+                "ipa_transcription": "",
+                "logainm": "Baile an Gharraí",
+                "placename": "Ballingarry",
+                "ceantar": "Contae Luimnigh",
+                "area": "County Limerick",
+                "informant": "",
+                "year": "1883",
+                "source": "Ó Danachair, L. (1947). <i>Memories of my youth</i>. Béaloideas, 17(1/2), 58–72.",
+                "note": "<i>When I visited my other uncle near Ballingarry in 1883 I noticed some minor differences from what I was used to Ballyallinan [10km away][...] They would call a frog </i>laparán<i>.",
+                "category": "laparán",
+                "source_category": "other"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.02428,
+                    53.0159
+                ]
+            }
         }
     ]
 }
