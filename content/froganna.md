@@ -1534,6 +1534,7 @@ The original Hebrew of Exodus
 and Psalms uses the same word <a href=https://biblehub.com/hebrew/6854.htm>throughout</a> for "frog".
 <br><br>
 
+<div class=table-container>
 <table>
 <thead>
 <tr>
@@ -1708,6 +1709,7 @@ and Psalms uses the same word <a href=https://biblehub.com/hebrew/6854.htm>throu
 </tr>
 </tbody>
 </table>
+</div>
 </details>
 
 

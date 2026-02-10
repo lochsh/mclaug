@@ -457,3 +457,8 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+}
