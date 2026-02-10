@@ -278,7 +278,11 @@ Descriptions largely taken from Wiktionary.
 
 * [<i>Gille-cràigean</i>, <i>cràigean</i>, and <i>cròigean</i>: well-pawed
 lads](#cràigean)
-* [<i>Màgan</i>, <i>mial-mhàgain</i> and <i>laprachán</i>; <i>lapadán</i> and <i>lapadóir</i>: crawlers and paddlers](#màgan)
+
+* [<i>Màgan</i>, <i>mial-mhàgain</i> and <i>smàigean</i>>: crawlers](#màgan)
+
+* [<i>Laprachán</i>, <i>lapadán</i>, <i>laparán</i> and <i>lapadóir</i>:
+* paddlers](#lapa)
 
 * [<i>Crúbán claidhe</i>: what do frogs have to do with crabs?](#crúbán)
 
@@ -290,7 +294,7 @@ lads](#cràigean)
 
 * [<i>Preabaire na lathaighe</i>: mud hopper](#preabaire)
 
-* [<i>Athadán</i>: a lost word from Conamara?](#athadán)
+* [<i>Athadán</i>: Conamara creature](#athadán)
 
 * [<i>Tortán</i>: clod?](#tortán)
 
@@ -440,7 +444,7 @@ three LASID returns gave this word, two of which were in Argyll, and one in
 Mayo. Three of the four instances in the Schools' Collection are in
 Donegal.</i></span>
 
-Macbain (1911) suggests that this word is related to
+MacBain (1911) suggests that this word is related to
 <a href=https://en.wiktionary.org/wiki/loisc><i>loisc</i></a>
 meaning to burn[^leprosy],
 referring to the sting from touching the secretions of the frog's skin.
@@ -929,27 +933,18 @@ class=ipa>[kɾɑ:ɡʹɑ̃ṉ]</span> is recorded in Badenoch) as in <i>crág</i>
 and is also found as <i>cròigean</i>, reflecting the variants <i>cràg</i>
 and <i>cròg</i>.
 
-### <i>Màgan</i>, <i>mial-mhàgain</i> and <i>laprachán</i>; <i>lapadán</i> and <i>lapadóir</i>: crawlers and paddlers {#màgan}
+### <i>Màgan</i>, <i>smàigean</i> and <i>mial-mhàgain</i>: crawlers
+
 <img src="../images/froganna/magan.svg", alt="drawing of frog crawling"
 style="max-height: 600px;">
 
 <span class=frog-intro><i>All three Nova Scotia datapoints record </i>màgan<i> for frog. In Scotland
 it is more common for this to mean toad. However, its
 variant </i>mial-mhàgain<i> is popular in Scotland for frog, particularly on
-Skye and Raasay.
+Skye and Raasay. </i>Smàigean<i> was found in East Perthshire.</i>
+</span>
 
-In Ireland, </i>laprachán<i> or </i>laprachán lathái<i> was found once in
-Waterford, and a few times in Galway. </i>Lapadán<i> had one example each in
-Galway and Monaghan, </i>lapadóir<i> one in Mayo, and </i>lapadóir lathaí<i>
-one in Galway.</i></span>
-
-I have grouped these words together partly to reduce my illustration burden,
-but also because they all (like <i>cràigean</i> above) seem to reference the
-frog's "hands" in some way, and perhaps (unlike <i>cràigean</i>) specifically movement via these "hands".
-
-#### <i>Màgan</i> and <i>mial-mhàgain</i>
-
-Dwelly's dictionary <i>màg</i> as "paw; claw; ludicrous term for
+Dwelly's dictionary defines <i>màg</i> as "paw; claw; ludicrous term for
 the hand", and "seal's paw (Argyll)".
 <i>Màigean</i> is given as "Fat little man; child
 beginning to walk; toad; frog; ludicrous term for a man with a creeping or
@@ -973,7 +968,24 @@ translation of "squat beast" certainly suits frogs well, see also the section
 on <a href=#crúbán><i>crúbán claidhe</i></a>. It's possible these terms take their meaning from the
 squatting, rather than movement in that position.
 
-#### <i>Laprachán</i>, <i>lapadán</i> and <i>lapadóir</i>
+But what of <i>smàigean</i>? Is the <i>s-</i> etymological? MacBain also
+defines <i>smàg</i> as "paw", but compares it to English "smuggle". It seems worth noting that in Proto Indo European, many <i>*s-</i>
+prefixes are theorised to have been optional, or only present in some
+inflections[^s-mobile]. Hence the English word "small" and the Irish word
+<i>míol</i> ("animal") are thought to be from the same PIE root meaning "small
+animal". Whether the same word could be preserved in a language with and
+without the s prefix is not clear to me.
+
+### <i>Laprachán</i>, <i>lapadán</i>, <i>laparán</i> and <i>lapadóir</i>: paddlers {#lapa}
+
+<img src="../images/froganna/lapa.svg" alt="drawing of a frog paddling">
+
+<span class=frog-intro><i>
+</i>Laprachán<i> or </i>laprachán lathái<i> was found a few times in Galway and
+once in Waterford. </i>Lapadán<i> had one example each in
+Galway and Monaghan, </i>lapadóir<i> one in Mayo, and </i>lapadóir lathaí<i>
+one in Galway. </i>Laparán<i> was found once in Limerick, and in novel by a
+Donegal author.</i></span>
 
 While <i>màgan</i> and its variants stem from the word <i>màg</i>, these
 words stem from the word <i>lapa</i>. Relevant extracts from Dinneen's
@@ -2061,6 +2073,10 @@ is translated by William Bedell and "some changes made from the edition of
 1690". I assume one of the changes was changing to use <i>cnadáin</i>, though
 only in some places. See the <a href=#bibles>appendix on Gaelic bibles</a> for a full table of frog
 words used in bible editions.
+
+[^s-mobile]: All of my knowledge of this comes from noticing the parenthesised
+"s" in PIE derivations, and
+[this](https://en.wikipedia.org/wiki/Indo-European_s-mobile) Wikipedia article.
 
 [^crabfish]: "Crabfish" also meant lobster, but the LASID universally gives
 <i>gliomach</i> (<i>giomach</i> in Scotland) for that.
