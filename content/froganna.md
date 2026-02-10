@@ -880,8 +880,8 @@ This word seems to most commonly have been used for the plant burdock, see vario
 The Schools' Collection, and again Hamilton (1974).
 <br><br>
 Its usage for frogs seems to be onomatopoeic. The Scottish <i>cnàg</i> <span
-class=ipa>/kʰɾ̃ãːk/</span> and <i>gnàg</i> <span class=ipa>/kɾ̃ãːk/</span> for
-the frog's cry are notably similar. It is recorded
+class=ipa>/kʰɾãːk/</span> and <i>gnàg</i> <span class=ipa>/kɾãːk/</span> for
+the frog's croak are notably similar. It is recorded
 <a href=https://www.duchas.ie/en/cbes/5008809/4958019/5055398?HighlightText=cnadan>several</a>
 <a href=https://www.duchas.ie/en/cbes/5009102/4986861/5121908>times</a> in the The
 Schools' Collection as a pejorative for someone who moans or is cranky, and <a
