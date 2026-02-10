@@ -193,7 +193,7 @@ conventions.
 
 </details>
 
-## Guide to suffixes
+## Guide to suffixes {suffixes}
 
 Descriptions largely taken from Wiktionary.
 
@@ -636,26 +636,28 @@ in nearby Skye in Forbes (1905).</i></span>
 In Robertson (1900) p. 364 <i>sonasan</i> is described as specifically
 referring to "the young frog when it has passed the tadpole stage".
 
-At first glance this word appears to mean "joys" (<i>sonas</i> + <i>-an</i>;
-the suffix <i>-an</i> forms the nominative plural for some nouns in
-Scotland), and indeed is used this way in a few old sources:
+The word can be the nominative plural for <i>sonas</i>, which means "joy" or
+"good fortune". Use of the plural seems uncommon, but it is used this way in a
+few old sources:
 
 <blockquote>
 ’N uair a rainig mi’n gleannan<br>
 B’oirdhearc sealladh nam bruach,<br>
 Bho na chaochail an doinionn<br>
-’S a thainig sonasan nuadh<br>
+’S a thainig <b>sonasan</b> nuadh<br>
 </blockquote>
 
-The above is from a song <i>Cuairt Mhaidne A'Bhuachaille</i>, by Calum MacEath,
+"[...] and new joys have come". The above is from a song <i>Cuairt Mhaidne A'Bhuachaille</i>, by Calum MacEath,
 which won a prize at a 1926 Mòd, and was reprinted in
 <a href=https://deriv.nls.uk/dcn23/1252/1713/125217135.23.pdf>An Gaidheal</a>
 by An Comunn Gàidhealach.
 
-The suffix <i>-an</i> is also used diminutively (c.f. <i>-án</i> in Ireland).
-The plural is recorded as <i>sonasánan</i> <span class=ipa>[sɔ᷉nəsɑnən]</span>,
-<span class=ipa>[sɔ᷉nəsɑnː]</span> in Wentworth (1993). So it would seem
-that frogs are being referred to as "wee joys", or "joyful things".
+In the frog's case, the suffix <i>-an</i> is being used either diminutively or
+to create some other new noun (see
+[suffix guide](#suffixes)). The plural is recorded as
+<i>sonasánan</i> <span class=ipa>[sɔ᷉nəsɑnən]</span>, <span
+class=ipa>[sɔ᷉nəsɑnː]</span> in Wentworth (1993). It would seem that frogs
+are being referred to as "wee joys", or "joyful things".
 
 Referring to a frog as a "wee joy", while delightful, seemed unexpected to me.
 Superficially <i>sonasan</i> reminds me of <i>snasán</i>, listed above as a
@@ -671,7 +673,7 @@ href=https://www.duchas.ie/en/cbe/9000894/7260368/9085160>burnt frog
 innards</a> were once used for polish seems like a red herring.
 
 Perhaps we can take this word at face value: as describing the joyful motion of
-the leaping frog.
+the leaping young frog, newly be-legged &mdash; or as signifying a positive omen.
 
 <!---
 https://x.com/Gaeilgebheo/status/1762187597361594503
