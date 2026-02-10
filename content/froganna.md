@@ -380,13 +380,28 @@ must have caused a shift &mdash; that is, unless "frog" was actually the first
 word many Gaels heard used for the creatures.
 
 I learnt during this research was that it is a common belief
-that frogs did not exist in Ireland until the Anglo-Norman invasion in the 12th
-century, or perhaps when students of Trinity College brought some over in the
-17th century[^scharff], or that William of Orange is responsible for their
-introduction[^orange], or that they first arrived in County Down in the 18th
-century[^down]. An account from Gerard of Wales of a frog being found in Waterford
-sometime in the 1170s or 1180s[^gerard-date] speaks of fascination and consternation when
-the creature is presented at court[^topographia]:
+that frogs are not native to Ireland. Several 17th century texts attribute this
+to "the graces of our patron Saint Patrick" (Ó Maonaigh, 1952) or to some
+mystical quality of the island. From de Rochefort (1779):
+
+> It is a peculiarity in this island that there are no venomous animals, not even
+frogs, toads, lizards, spiders, nor any other kind, which is a mark of the
+purity and goodness of its air. Some persons have tried the experiment whether
+any creatures of this sort brought from other places would live here, but it is
+a certainty that they die as soon as they arrive in the country; and farther it
+is said, that the touch of a native of Ireland proves mortal to any of these
+animals in any foreign country whatsoever, and that a circle being made about
+any venomous creature with a stick which grew in this island, the animal will
+instantly die.
+
+The frog's arrival in Ireland is variously attributed to the Anglo-Norman
+invasion of the 12th
+century, or to students of Trinity College of the
+17th century[^scharff], or to William of Orange
+[^orange], or some unknown 18th century introducer in County Down[^down]. An
+account from Gerard of Wales of a frog being found in Waterford sometime in the
+1170s or 1180s[^gerard-date] speaks of fascination and consternation when the
+creature is presented at court[^topographia]:
 
 > [...] a frog was found, within my time, in the grassy meadows near
 Waterford, and brought to court alive before Robert Poer, who was at that
@@ -1727,6 +1742,12 @@ listed in the introduction (e.g. the LASID). They are not listed here.
 * De Bhaldraithe, T. (1985). <i>Foirsiún Focal as Gaillimh</i>. Dublin :
   Acadamh Ríoga na hÉireann.
 
+* de Rochefort, A. J. (1779). [<i>Albert Jouvin, de Rochefort, Description of
+  Ireland after the
+  Restoration</i>](https://celt.ucc.ie/published/T100075/text005.html). In
+  Francis Grose and Thomas Astle (eds.), <i>Antiquarian Repertory</i>, London :
+  for E. Jeffrey. (Original work published 1672)
+
 * Dinneen, P. S. (1904). [<i>Foclóir Gaedhilge agus
   Béarla</i>](https://archive.org/details/foclirgaeilgeagu00dinn). Irish  Texts
   Society. (also referred to as "Dinneen's dictionary")
@@ -1818,6 +1839,10 @@ Nualláin Teór.
   gConnachta</i>](https://babel.hathitrust.org/cgi/pt?id=uc1.c070984047&seq=139).
   Baile Átha Cliath : O'Brien Patrick
 
+* Mac Aingil, A. (1952). [<i>Scáthán Shacramuinte na
+  hAithridhe</i>](http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=2344)
+  (C. Ó Maonaigh, Trans.).
+  Dublin : Dublin Institute for Advanced Studies. (Original work 1618)
 
 * O'Neill-Lane, T. (1917). [<i>Larger English-Irish
   Dictionary</i>](https://archive.org/details/largerenglishiri00onei/page/n3/mode/2up).
