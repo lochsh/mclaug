@@ -347,6 +347,25 @@ post I have used a more traditional spelling <i>Gaedhilg</i>, as it seemed appro
 
 ## Thoughts on each word
 
+* [<i>Frog</i>: taboo-avoidance?](#frog)
+* [<i>Losgann</i>: the peat bog's answer to mythical fire beasts?](#losgann)
+* [<i>Lisbín</i>: taboo deformation of <i>losgann</i>?](#lisbín)
+* [<i>Sonasan</i>: an etymylogical outlier?](#sonasan)
+* [<i>Fliuchán</i>: a lost word from Derry](#fliuchán)
+* [<i>Leumachan</i> and <i>leumadair</i>: leaper](#leumachan)
+* [<i>Crónán</i> and <i>cnádán</i>: for the frog's sweet song](#crónán)
+* [<i>Gille-cràigean</i>, <i>cràigean</i>, and <i>cròigean</i>: well-pawed
+  lads](#cràigean)
+* [<i>Màgan</i>, <i>mial-mhàgain</i> and <i>laprachán</i>; <i>lapadán</i> and <i>lapadóir</i>: crawlers and paddlers](#màgan)
+* [<i>Crúbán claidhe</i>: what do frogs have to do with crabs?](#crúbán)
+* [<i>Breallach lathaí</i>: a crude comparison? Rated PG](#breallach)
+* [<i>Lúbóg lathaí</i> and <i>lúbar lathaí</i>: for the frog's bendy legs?](#lúb)
+* [<i>Frús</i>: found only in the LASID. Another foreign loan?](#frús)
+* [<i>Preabaire na lathaighe</i>: mud hopper](#preabaire)
+* [<i>Athadán</i>: a lost word from Conamara?](#athadán)
+* [<i>Tortán</i>: clod?](#tortán)
+* [<i>Ceanna-phiullan</i>: usually used for tadpoles](#ceann)
+
 ### <i>Frog</i>: taboo-avoidance? {#frog}
 
 <img src="../images/froganna/frog.svg" alt="a drawing of a frog's silhouette in
