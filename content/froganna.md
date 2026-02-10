@@ -1068,7 +1068,8 @@ nevertheless...).
 <a href=https://www.duchas.ie/en/cbes/4428052/4372722>Here</a> it is used in
 the name for a plant shaped like a hare's paw. It is also listed in Ó
 Dónaill's dictionary as referring to a "short potato-ridge at angle to main
-ridge", probably describing its shape as similar to some kind of foot. In Dinneen's dictionary it is
+ridge", probably describing its shape as similar to some kind of
+foot[^body-parts]. In Dinneen's dictionary it is
 defined as <a href=https://en.wiktionary.org/wiki/crabfish>"crabfish"</a>, an
 archaic term for crab[^crabfish].
 In the
@@ -2074,6 +2075,10 @@ words used in bible editions.
 [^s-mobile]: All of my knowledge of this comes from noticing the parenthesised
 "s" in PIE derivations, and
 [this](https://en.wikipedia.org/wiki/Indo-European_s-mobile) Wikipedia article.
+
+[^body-parts]: It's common for body parts (and animals) to be used in
+placenames to describe geographical features. E.g. <i>droim</i> "back" used for
+"ridge".
 
 [^crabfish]: "Crabfish" also meant lobster, but the LASID universally gives
 <i>gliomach</i> (<i>giomach</i> in Scotland) for that.
