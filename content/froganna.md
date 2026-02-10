@@ -168,7 +168,8 @@ the scope of this project to words used for frogs.
 
 <h3>Phonetic transcription</h3>
 The LASID transcriptions are shown with narrow phonetic transcription brackets
-e.g. <span class=ipa>[Lɪːsḳɑːn´]</span>. The narrowness of the transcriptions
+e.g. <span class=ipa>[Lɪːsḳɑːn´]</span>. This is in accordance with the source
+material's explicit description of the transcriptions as phonetic. The narrowness of the transcriptions
 varies a little; all fieldworkers seem to aim to be very narrow in terms of
 vowel notation, with a detailed vowel chart with many labelled points
 provided. A spectrum of consonant palatalisation is allowed for in the notation,
@@ -180,16 +181,18 @@ where I'd consistently expect an unaspirated <span
 class=ipa>/k/</span>), and velar and palatal off-glides (seemingly only
 sometimes shown, but often missing from places I would expect to hear
 them, e.g. in Conamara speaker's pronunciation of the language's endonym). Devoicing of consonants seems rarely recorded. It's not clear that
-there's any provision for recording of <span class=ipa>[ɹ]</span>, making it
-hard to know if it was encountered (e.g. word-finally) but recorded
-phonemically, or not encountered.
+there's any provision for recording approximant realisations of slender r.
+Around Gaoth Dobhair I have certainly heard something like <span
+class=ipa>[j]</span> for /r'/, which possibly is recorded in the LASID as /r′′/
+to indicate "strong palatalisation".
 
 <br><br>
 I have added my own IPA transcriptions to "translate" the LASID symbols. I am
 not providing these because I think they're an improvement; on the contrary,
 they're much more annoying to read. I hope that they can be useful to people
 with knowledge of the IPA but without knowledge of common Gaelic transcription
-conventions.
+conventions. They should be read with the understanding of the apparent
+limitations of the source transcription described above.
 
 </details>
 
