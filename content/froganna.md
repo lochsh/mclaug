@@ -763,12 +763,11 @@ records it once in Mayo (as </i>léimeadóir<i>)</i>.</span>
 The etymology of <i>leumachan</i> seems transparent: <i>leum</i> + <i>ach</i> + <i>an</i>
 = (wee) jumping thing. Similarly for <i>leumadair</i>, though without any
 possible diminutive reading. <i>Leumadair</i> is also used for other leaping
-animals, sometimes with qualifiers: Dòrlach's fieldwork in Scotland found
+animals, like dolphins or grasshoppers. Sometimes qualifiers are used: Dòrlach's fieldwork in Scotland found
 <i>leumadair-fèoir</i> ("grass jumper") for grasshopper, which is also found
-in the 1819 Manx bible as <i>lheimydyr-faiyr</i>.  <i>Leumadair-mara</i> (sea
-jumper) is often cited as a word for dolphins (TODO citation)[^welsh-leum].
+in the 1819 Manx bible as <i>lheimydyr-faiyr</i>.  [^welsh-leum].
 
-It is possible that <i>leumachan</i> was also used
+It is possible that <i>leumachan</i> was also used for frog
 by native Manx speakers, as it is given in Fargher (1969),
 rendered <i>lheimaghan</i>. It is likely this was a neologism introduced by
 Fargher, however. I couldn't find any native corroboration. Fargher's work is
