@@ -1,7 +1,6 @@
 Title: Goidé mar a deirtear "frog" i nGaedhilg?
 Slug: froganna
-Date: 11th Dec 2025
-Status: draft
+Date: 11th Feb 2026
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.40/jquery.csv.js"></script>
