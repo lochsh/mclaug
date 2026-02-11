@@ -2137,20 +2137,32 @@ feitheamh an bheireochadh an bróg carnóg sin orra</blockquote>I think
 <i>saltann</i> is "heels (n.)", given as <i>sáltan</i> in Holmer (1942). I
 think <i>luiríní</i> refers to digits, in this case toes, some kind of
 diminutive of <i>ladhar</i>. The word is also used in another story in the same
-collection where it seems to be referring to fingers. So I believe this
+collection where it seems to be referring to fingers. Ciarán has glossed it as
+"toes" in his East Ulster Dictionary. So I believe this
 describes the sisters cutting their heels and toes in order to fit into the
 shoe. Cinderella is then forced to hide under a tub while the prince visits.
 She cries out: <blockquote><i>Saltann móra lobhtha<br>
-Is ladhra gearrtha crúbán<br>
-Is an té beag buidheach </i>[Cinderella]<i><br>
+Is ['s = agus] ladhra gearrtha crúbán<br>
+Is ['s = agus] an té beag buidheach </i>[Cinderella]<i><br>
 Síos faoi an tubhán</i></blockquote>
-<i>Lobhtha</i> is "rotten" (modern spelling <i>lofa</i>). <i>Saltann móra
-lobhtha</i> = "Big rotten heels".
-Let's assume <i>ladhra</i> is a
-nominative plural of <i>ladhar</i> for toes/claws. I think <i>is ladhra gearrtha
-crúbán</i> is "cut toes are [<i>crúbán</i>]". But what does that mean...or should
-there be the genitive of <i>crúbán</i> and she's saying "big rotten heels and
-cut crab claws [...] are under the tub"?
+Perhaps this is "Big rotten heels and cut crab claws, and the little yellow one
+[referring to Cinderella] under the tub". It was not easy for me to arrive at
+this translation. <i>Lobhtha</i> is "rotten" (modern spelling <i>lofa</i>). We
+already have <i>saltann</i> as "heels" above.
+I assumed <i>ladhra</i> is the nominative plural of <i>ladhar</i> for
+toes/claws. And I am assuming <i>crúbán</i> is genitive plural of
+<i>crúbán</i>. The use of <i>ladhar</i>, which can mean both toes (Holmer,
+1942) and claws (Ó Dónaill, 1977) right after talking about the sisters cutting
+their toes made me assume she was still talking about her sister's toes. But
+I can't reconcile that with the use of <i>crúbán</i>.<br><br>
+Thank you to Ciarán Ó
+Duibhín for helping me with this translation. I did not twig (did you know twig
+is from <i>tuig</i>?) that <i>is</i> probably wasn't the copula here, but
+a shortened form of <i>agus</i> ("and") that I have usually seen rendered
+<i>'s</i>. I also forgot that the genitive plural is identical to the
+nominative singular for first declension nouns with weak plurals. These two
+oversights meant I could make no sense of it, despite having identified the
+meaning of the nouns. Go rabh maith agad.
 
 [^riddle]: It is interesting comparing this 1892 recording of the riddle with
 versions from the The Schools' Collection (1930s) and the LASID (1950s). Most of
