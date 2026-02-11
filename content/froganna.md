@@ -619,7 +619,30 @@ genitive would be needed here. An association with ducks (the animals) makes a
 lot less sense than with bodies of water). So I assume this was a spelling
 error on the child's part.
 
-#### Other usages
+#### Use of <i>losgann</i> to mean "semi-aquatic"
+Meath's Aodh Mac Domhnaill (1802-1867) uses <i>losgann</i> to mean
+"semi-aquatic" (Beckett, 1967). The editor renders <i>lighsgan</i> and other
+various spellings as <i>loscán</i>. On otters:
+
+<blockquote>
+Is loscán an dobharchú, óir is ar an uisce a ghintear na coileáin agus dá bhrí
+sin baineann a mbeatha amach faoi agus os cionn uisce.
+</blockquote>
+
+"The otter is <i>loscán</i>, for in the water the pups are born and therefore
+they spend life out of and in the water."
+
+The same text uses <i>frag</i> (rendered <i>frog</i> by the editor) for "frog".
+Does the use of <i>losgann</i> to mean any semi-aquatic creature
+support the idea of it being a taboo word? Perhaps not. However, the usage
+seems at odds with all earlier examples given in the <a
+href=https://dil.ie/30711>eDIL</a>. Given our proposed etymology for
+[<i>losgann</i>](#losgann), it would seem this usage has come from the previous
+use of the word to mean "frog" specifically. Perhaps after the word had become
+infrequent, and <i>frog</i> had become ubiquitous, this more general usage
+became possible.
+
+#### Other usages of <i>lisbín</i>
 
 <ul>
 <li><a href=http://corpas.ria.ie/index.php?fsg_function=3&fsg_id=1580>An Irish
@@ -1808,6 +1831,9 @@ listed in the introduction (e.g. the LASID). They are not listed here.
   Reptiles, etc.</i>. Reayrt Ny Marrey : The author.
 
 * Fargher, D. C. (1979). <i>Fargher's English-Manx Dictionary</i>. Douglas : Shearwater Press
+
+* Beckett, C. (1967). <i>Fealsúnacht Aodha Mhic Dhomhnaill</i>. Baile Átha
+* Cliath : An Clóchomhar Tta. (Original manuscript 1853)
 
 * Forbes, A. R. (1905). [<i>Gaelic names of beasts (Mammalia), birds, fishes,
   insects, reptiles, etc.</i>](https://archive.org/details/gaelicnamesofbea00forb/page/406/mode/2up).
