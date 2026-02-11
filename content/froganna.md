@@ -521,8 +521,8 @@ class=ipa>[ɫosɡidʹ]</span>. Noticeably similar is the usage of <i>iosgaid</i>
 in place of <i>easgann</i> for eel, recorded in Dorian (1978).
 
 #### On spelling variations
-I have addressed <i>losgann</i> vs. <i>loscann</i> in my general orthography
-notes. These spellings both reflect a pronounciation of something like
+I have addressed <i>losgann</i> vs. <i>loscann</i> in my general [orthography
+notes](#orthography). These spellings both reflect a pronounciation of something like
 <span class=ipa>/ˈl̪ˠɔsˠkən̪ˠ/</span>, where the first vowel may vary. The
 spelling <i>loscán</i> reflects a pronunciation found in Connacht where the
 final consonant is lenis and the final vowel is clear: <span
@@ -1519,7 +1519,7 @@ for it, Book 4: Insects, Reptiles etc.</i>
 informants who took the time to be interviewed, and everyone who has ever gone
 to the effort to make knowledge available online for others to access freely.
 
-## Appendix: Orthography notes
+## Appendix: Orthography notes {#orthography}
 
 <details>
 <summary>
