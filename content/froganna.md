@@ -1073,7 +1073,8 @@ foot[^body-parts]. In Dinneen's dictionary it is
 defined as <a href=https://en.wiktionary.org/wiki/crabfish>"crabfish"</a>, an
 archaic term for crab[^crabfish].
 In the
-LASID, the only places giving <i>crúbán</i> for crab are Rathlin Island,
+LASID, the only places giving <i>crúbán</i> for crab are Rathlin
+Island[^rathlin],
 Inishowen, Arran and Kintyre. The DASG also records this
 usage in other parts of Argyll. Some places (mostly in Ulster, also in
 Scotland, one place in Clare, two in Mayo) are however recorded as
@@ -1102,17 +1103,11 @@ href=https://dasg.ac.uk/fieldwork/view/UG9ydFdlbXlzc0pNYWNBcnRodXJzbGlwc3xsYWRoY
 on Lewis as <a
 href=https://dasg.ac.uk/fieldwork/view/Q3Jvd2xpc3RhQ2FuZFBNYWNEb25hbGRtaXNjMXxpb25nbmF8aWRtMzU0NjMzMDR8fGNyYWJ8cjUxfHx8YWxs><i>iongna</i></a>.
 
-Perhaps there's been some sort of merging in Ireland of Celtic-origin
-<i>crobh</i>
-(Scottish <i>crubh</i>, meaning: hoof, clawed foot, etc.) with Norse-origin
-<i>crúb</i>, perhaps explaining how on Rathlin <i>crúbán</i> is recorded as
-meaning "crab", but is also used in a local telling of Cinderella (Mac
-Gréagóir, 1910) to mean
-something entirely different that is translated as "pig foot" by Sam Henry
-(Henry, 1939)[^rathlin]. Unfortunately the Rathlin informants gave no word for
-pig's feet in the LASID to compare against.
+Perhaps in Ireland, Celtic-origin <i>crobh</i> (Scottish <i>crubh</i>, meaning:
+hoof, clawed foot, etc.) has merged with Norse-origin <i>crúb</i>.
 
-I will elect to officially update my translation to "dyke squatter".
+Despite the ambiguity, I will elect to officially update my translation to
+"dyke squatter".
 <a href=#toc><small>↩</small></a>
 
 ### <i>Breallach lathaí</i>: a crude comparison? Rated PG {#breallach}
@@ -1824,6 +1819,9 @@ listed in the introduction (e.g. the LASID). They are not listed here.
 * Henry, S. (1939). <i>The Cinderella of Rathlin Island</i>. The Belfast
   Telegraph (18/04/1939)
 
+* Holmer, N. M. (1942). <i>The Irish Language in Rathlin Island, Co.
+  Antrim</i>. Dublin : Royal Irish Academy.
+
 * Kelly, J. (1866). [<i>The Manx
   Dictionary</i>](https://archive.org/details/cu31924027086945). Douglas : The
   Manx Society
@@ -2083,26 +2081,35 @@ placenames to describe geographical features. E.g. <i>droim</i> "back" used for
 [^crabfish]: "Crabfish" also meant lobster, but the LASID universally gives
 <i>gliomach</i> (<i>giomach</i> in Scotland) for that.
 
-[^rathlin]: The word <i>crúbán</i> is used in <a
-href=https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/Sg%C3%A9altan%20Rachreann.pdf>this</a>
-telling of Cinderella, recorded by Aoidhmín Mac Gréagóir and published in 1910.
+[^rathlin]: The word <i>crúbán</i> is used in the Rathlin retelling of
+Cinderella recorded in Mac Gréagóir (1910).
 This is translated in the Belfast Telegraph 18/04/1939
 by Sam Henry and titled "The Cinderella of Rathlin Island", where <i>crúbán</i>
-seems to be translated as "pig's feet". There's not a huge amount of context;
-the Cinderella character cries: <blockquote><i>Saltann móra lobhtha<br>
+seems to be translated as "pig's feet" &mdash; however, I don't think this
+translation is trustworthy. Ciarán Ó Duibhín thinks Sam Henry likely didn't have much
+Irish, let alone knowledge of Rathlin's dialect. It
+[seems](https://niarchive.org/wp-content/uploads/2020/03/Sam-Henry-Booklet-WR.pdf) schoolteacher Andrew
+Dooey often did translation for him.<br><br>Onto the usage of <i>crúbán</i> in the
+Cinderella telling. There's not a huge
+amount of context. First we are told of her sisters' activities: <blockquote>Tosuigh iad ag gearradh a saltann is luiríní móra daoibh ag
+feitheamh an bheireochadh an bróg carnóg sin orra</blockquote>I think
+<i>saltann</i> is "heels (n.)", given as <i>sáltan</i> in Holmer (1942). I
+think <i>luiríní</i> refers to digits, in this case toes, some kind of
+diminutive of <i>ladhar</i>. The word is also used in another story in the same
+collection where it seems to be referring to fingers. So I believe this
+describes the sisters cutting their heels and toes in order to fit into the
+shoe. Cinderella is then forced to hide under a tub while the prince visits.
+She cries out: <blockquote><i>Saltann móra lobhtha<br>
 Is ladhra gearrtha crúbán<br>
 Is an té beag buidheach </i>[Cinderella]<i><br>
-Síos faoi an tubhán</i></blockquote> while being forced to
-hide under a tub while the prince visits, before which her sisters all were cutting at
-their feet to make them fit the glass slipper. <a
-href=https://en.wiktionary.org/wiki/ladhar><i>Ladhar</i></a> (genitive
-<a href=https://en.wiktionary.org/wiki/ladhra#Scottish_Gaelic><i>ladhra</i></a>
-presumably used on Rathlin as in Scotland) is "space between toes or
-fingers", "toe", "claw". So <i>is ladhra gearrtha crúbán</i> is perhaps
-shouting that the <i>crúbán</i> under the tub with her are in fact her sister's
-toes. However, I don't quite grasp the grammar so I will update this after
-talking to someone with more Gaelic. The Rathlin LASID returns give
-<i>salann</i> for salt, not <i>saltann</i>.
+Síos faoi an tubhán</i></blockquote>
+<i>Lobhtha</i> is "rotten" (modern spelling <i>lofa</i>). <i>Saltann móra
+lobhtha</i> = "Big rotten heels".
+Let's assume <i>ladhra</i> is a
+nominative plural of <i>ladhar</i> for toes/claws. I think <i>is ladhra gearrtha
+crúbán</i> is "cut toes are [<i>crúbán</i>]". But what does that mean...or should
+there be the genitive of <i>crúbán</i> and she's saying "big rotten heels and
+cut crab claws [...] are under the tub"?
 
 [^riddle]: It is interesting comparing this 1892 recording of the riddle with
 versions from the The Schools' Collection (1930s) and the LASID (1950s). Most of
