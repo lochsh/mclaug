@@ -462,3 +462,7 @@ a.pagination-item:hover {
     width: 100%;
     overflow-x: auto;
 }
+
+.pink {
+    color: #fc04a2;
+}

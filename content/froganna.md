@@ -1001,18 +1001,18 @@ one in Galway. </i>Laparán<i> was found once in Limerick, and in a novel by a
 Donegal author.</i></span>
 
 While <i>màgan</i> and its variants stem from the word <i>màg</i>, these
-words stem from the word <i>lapa</i>. Relevant extracts from Dinneen's
-dictionary, pp. 419-210:
+words appear to stem from the word <i>lapa</i>. Relevant extracts from
+Dinneen's dictionary, pp. 419-420:
 
 <ul>
-<li><i>lapa</i>: a paw, the fist</li>
-<li><i>lapach</i>: a swamp, a marsh</li>
-<li><i>lapadán</i>: a kind of sea-fish; also a bird called "diver"; a small
+<li><span class=pink><i>lapa</i></span>: a paw, the fist</li>
+<li><span class=pink><i>lapach</i></span>: a swamp, a marsh</li>
+<li><span class=pink><i>lapadán</i></span>: a kind of sea-fish; also a bird called "diver"; a small
 inactive person (Donegal); a clumsy person</li>
-<li><i>lapáil</i>: act of using the paws, pawing; of a frog swimming
+<li><span class=pink><i>lapáil</i></span>: act of using the paws, pawing; of a frog swimming
 (Connacht)</li>
-<li>lapaire</i>: one that paws or pads with the hand</li>
-<li>laparnach</i>: a wading through water etc.; pawing or handling soft mud
+<li><span class=pink><i>lapaire</i></span>: one that paws or pads with the hand</li>
+<li><span class=pink><i>laparnach</i></span>: a wading through water etc.; pawing or handling soft mud
 etc.</li>
 </ul>
 
@@ -1028,10 +1028,11 @@ href=https://www.duchas.ie/en/cbes/4921952/4912854/4947435>webbed</a> <a
 href=https://www.duchas.ie/en/cbes/4706359/4706073/4725828>feet</a>, and also
 seemingly a <a
 href=https://www.duchas.ie/en/cbes/4921874/4897822/5184841>severed human
-hand</a>.  I haven't been able to find any suggested etymologies for it. I
-wonder if there are two etymologies at play here, one associated with splashing
-and another with hands. I expect they are one and the same, with the hand being
-the splashing implement.
+hand</a>.  I haven't been able to find any suggested etymologies for it.
+Ó Dónaill defines <i>laprachán</i> as "toddler; waddler", possibly evoking
+crawling. I wonder if there are two etymologies at play here, one associated with
+splashing and another with hands. I expect they are one and the same, with the
+hand being the splashing implement.
 <a href=#toc><small>↩</small></a>
 
 ### <i>Crúbán claidhe</i>: what do frogs have to do with crabs? {#crúbán}
