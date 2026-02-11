@@ -108,7 +108,7 @@ html {
   }
 }
 
-@media (min-width: 80em) {
+@media (min-width: 95em) {
   .right-sidebar {
     background-color: #00413f;
     position: fixed;
