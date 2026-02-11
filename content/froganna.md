@@ -2163,7 +2163,7 @@ a shortened form of <i>agus</i> ("and") that I have usually seen rendered
 <i>'s</i>. I also forgot that the genitive plural is identical to the
 nominative singular for first declension nouns with weak plurals. These two
 oversights meant I could make no sense of it, despite having identified the
-meaning of the nouns. Go rabh maith agad.
+meaning of the nouns. Go rabh maith agad a chara.
 
 [^riddle]: It is interesting comparing this 1892 recording of the riddle with
 versions from the The Schools' Collection (1930s) and the LASID (1950s). Most of
