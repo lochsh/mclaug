@@ -1477,11 +1477,11 @@ Seid (cos of the expanding when croaking) https://archive.org/details/witchcraft
 
 ["Anybody that lived in rural Ireland remember the frog man?"](https://www.reddit.com/r/CasualIreland/comments/184j053/anybody_that_lived_in_rural_ireland_remember_the/)
 
-[A jumping frog and other creatures of etymological interest](https://blog.oup.com/2024/03/a-jumping-frog-and-other-creatures-of-etymological-interest/)
+["A jumping frog and other creatures of etymological interest"](https://blog.oup.com/2024/03/a-jumping-frog-and-other-creatures-of-etymological-interest/)
 
-[An etymological plague of frogs](https://blog.oup.com/2024/04/an-etymological-plague-of-frogs/)
+["An etymological plague of frogs"](https://blog.oup.com/2024/04/an-etymological-plague-of-frogs/)
 
-[The Etymology of English toad: Effects of the Celtic substrate?](http://centre-for-english-traditional-heritage.org/TraditionToday7/7Sayers_Toad.pdf)
+["The Etymology of English toad: Effects of the Celtic substrate?"](http://centre-for-english-traditional-heritage.org/TraditionToday7/7Sayers_Toad.pdf)
 (strongly disagreed with by the previous item)
 
 [A frog burned by a German bomb on the Isle of Man during World War
@@ -1491,6 +1491,7 @@ II](https://imuseum.im/search/collections/objects/mnh-museum-35823.html)
 <i>gwelsken</i> meaning
 "grass-skin"](https://archive.org/details/annualreport04royauoft/page/29/mode/1up)
 
+["A ribbiting display"](https://www.nts.org.uk/stories/a-ribbiting-display)
 
 ## Go rabh maith agaibh {#grma}
 
