@@ -309,11 +309,10 @@ a doorway, casting a long shadow. A St. Bridget's Cross hangs over the
 doorway" style="max-height: 500px;">
 
 <span class=frog-intro><i>I found this in places all over Ireland, but not at
-all in Scotland[^fròg]
- Of the 49 LASID locations in Ireland that gave a response for "frog", 34 gave
- a variation on this word. Anecdotally it is the most common word used in Irish
- today. It is the only word I found native attestations of on The Isle of
- Man.</i></span>
+all in Scotland[^fròg]. Of the 49 LASID locations in Ireland that gave a
+response for "frog", 34 gave a variation on this word. Anecdotally it is the
+most common word used in Irish today. It is the only word I found native
+attestations of on The Isle of Man.</i></span>
 
 Could the usage of a foreign loan word, from English, be due to a taboo, where
 it was feared saying the true name of the creatures would summon them? Christopher
@@ -470,14 +469,13 @@ Irish Glossary</a> from 1643:
 eile dó 'because it is burnt [loisgthear] and cú cnámha is another
 name for it'.\"">
 
-The notes say the salamander is called <i>loisgionn</i> "because it is burnt"
-&mdash; salamanders are known to nest in firewood, and in mythology are
-associated with fire. Dinneen's dictionary also
+The notes say the salamander is called <i>loisgionn</i> "because it is burnt";
+salamanders are known to nest in firewood, and in mythology are
+associated with fire. Dinneen (1904) also
 <a href=https://archive.org/details/foclirgaeilgeagu00dinn/page/443>lists</a>
-"salamander" as a possible translation of <i>loisceann</i>.
-
-The eDIL also cites the use of <i>losguinn</i> to refer to a dragon in 14th
-century manuscript <i>Leabhar Méig Shamhradháin</i> (McKenna, 1947)[^dragon].
+"salamander" as a possible translation of <i>loisceann</i>. The 14th
+century manuscript <i>Leabhar Méig Shamhradháin</i> (McKenna, 1947) seems to
+use <i>losguinn</i> to refer to a dragon[^dragon].
 
 Is the humble frog the peat bog's answer to mythical fire beasts of
 old? It would seem plausible that <i>losgann</i> evolved from referring to
@@ -580,8 +578,7 @@ indicated by <i>liospán</i>.
     href=https://www.geograph.org.uk/photo/1001844>geograph.org.uk</a></i></figcaption>
 </figure>
 
-I don't know of any other words where comparable phonetic variants exist,
-though of course they could. In the above section on the word <a
+In the above section on the word <a
 href=#frog>"frog"</a>, I
 explored the idea of "frog" being used to substitute for a taboo "true" name for
 the creature. If <i>losgann</i> was such a taboo name, then the evolutions to
@@ -611,13 +608,9 @@ section on <a href=#losgann><i>losgann</i></a>).
 
 #### lisbín locha
 A variant I found a single example of, in Mayo, was
-<a href=www.duchas.ie/en/cbes/4427846/4350083/4443127><i>lisbín locha</i></a>,
-which we might translate as "loch salamander". The schoolchild actually
-wrote <i>lisbín lacha</i>, which I don't think makes grammatical sense
-(<i>lacha</i> is the nominative case of the word meaning "duck", but the
-genitive would be needed here. An association with ducks (the animals) makes a
-lot less sense than with bodies of water). So I assume this was a spelling
-error on the child's part.
+<a href=www.duchas.ie/en/cbes/4427846/4350083/4443127><i>lisbín
+locha</i></a>[^locha],
+which we might translate as "loch salamander".
 
 #### Use of <i>losgann</i> to mean "semi-aquatic"
 Meath's Aodh Mac Domhnaill (1802-1867) uses <i>losgann</i> to mean
@@ -727,7 +720,7 @@ County Derry</i></span>
 By the time of the LASID in the 1950s, the fieldworkers could find no
 native speakers in Derry. However, a variety of secondary sources record the
 word <i>fliuchán</i> as being used for "frog". I have not found the word used
-with this meaning anywhere else.
+with this meaning elsewhere.
 
 <img src="../images/froganna/fliuchán.png"
 alt="A newspaper clipping in Gaelic
@@ -753,14 +746,18 @@ have eaten, listed alongside crabs, clams, and seaweed.
 
 Sources where it used to mean frog:
 
-<ul>
-<li>Dinneen (1904) p. 320 "a frog (Der.)"
-<li>Cormac (1909) (pictured above)
-<li>Mac Meanman (1940): <i>Ceann aca sin an frog nó an fliuchán mar deirtear i
-gcorr-áit ins an chúigeadh seo.</i></li>
-<li>Mac Gréagóir (1908) (pictured below, not specifically attributed to Derry,
-just Ulster)</li>
-</ul>
+* Dinneen (1904) p. 320 "a frog (Der.)"
+
+* Cormac (1909) (pictured above) He says that in Derry they call frogs
+  <i>fliuchán</i>.
+
+* Mac Meanman (1940): <i>Ceann aca sin an frog nó an fliuchán mar deirtear i
+ gcorr-áit ins an chúigeadh seo.</i> A Donegal source saying frogs are known as
+ <i>fliuchán</i> elsewhere in Ulster.
+
+* Mac Gréagóir (1908) (pictured below) A riddle describing frogs has the
+  answer <i>fliuchán díge</i>. It is not specifically attributed to Derry,
+  just Ulster.
 
 Ciarán Ó Duibhín believes the 'Cormac' in <i>An Claidheamh Soluis</i> is Séamus
 Ó Ceallaigh (1879-1954), whose father was from Draperstown and was raised with
@@ -796,7 +793,7 @@ especially in West and North Sutherland. Dòrlach's fieldwork found
 records it once in Mayo (as </i>léimeadóir<i>)</i>.</span>
 
 The etymology of <i>leumachan</i> seems transparent: <i>leum</i> + <i>ach</i> + <i>an</i>
-= (wee) jumping thing. Similarly for <i>leumadair</i>, though without any
+= "(wee) jumping thing". Similarly for <i>leumadair</i>, though without any
 possible diminutive reading. <i>Leumadair</i> is also used for other leaping
 animals, like dolphins or grasshoppers. Sometimes qualifiers are used: Dòrlach's fieldwork in Scotland found
 <i>leumadair-fèoir</i> ("grass jumper") for grasshopper, which is also found
@@ -962,7 +959,7 @@ word is instead derived from <i>cnag</i> <span class=ipa>/kʰɾãk/</span>, whic
 Dwelly defines as "pin; peg; knob". Presumably this would describe the frog as
 a wee lump. This seems less likely to me, both from the meaning, and due to the
 fact that <i>cràigean</i> has a long vowel (e.g. <span
-class=ipa>[kɾɑ:ɡʹɑ̃ṉ]</span> is recorded in Badenoch) as in <i>crág</i>,
+class=ipa>[kɾɑ:ɡʹɑ̃ṉ]</span> is recorded in Badenoch) as in <i>cràg</i>,
 and is also found as <i>cròigean</i>, reflecting the variants <i>cràg</i>
 and <i>cròg</i>.
 <a href=#toc><small>↩</small></a>
@@ -1089,7 +1086,8 @@ refer to pig trotters as food (to me, a distinctively large food, but
 nevertheless...).
 
 <i>Crúbán</i> is hard to find written Irish attestations of.
-<a href=https://www.duchas.ie/en/cbes/4428052/4372722>Here</a> it is used in
+An <a href=https://www.duchas.ie/en/cbes/4428052/4372722>example</a> in the
+ Schools' Collection uses it in
 the name for a plant shaped like a hare's paw. It is also listed in Ó
 Dónaill's dictionary as referring to a "short potato-ridge at angle to main
 ridge", probably describing its shape as similar to some kind of
@@ -1128,10 +1126,15 @@ on Lewis as <a
 href=https://dasg.ac.uk/fieldwork/view/Q3Jvd2xpc3RhQ2FuZFBNYWNEb25hbGRtaXNjMXxpb25nbmF8aWRtMzU0NjMzMDR8fGNyYWJ8cjUxfHx8YWxs><i>iongna</i></a>.
 
 Perhaps in Ireland, Celtic-origin <i>crobh</i> (Scottish <i>crubh</i>, meaning:
-hoof, clawed foot, etc.) has merged with Norse-origin <i>crúb</i>.
+hoof, clawed foot, etc.) has merged, phonetically and orthographically,
+with Norse-origin <i>crúb</i>. In Scotland there are some examples of
+<i>crubhan</i>, clearly distinct from <i>crùban</i>.  Dwelly (1918) lists
+<i>crubhan cait</i> for "cat's paw print", specifically the shape one would
+make with their fingers inorder to make such an imprint.  The same meaning is
+used in Stewart (1885).
 
-Despite the ambiguity, I will elect to officially update my translation to
-"dyke squatter".
+I am personally satisfied with this explanation. I will elect to officially
+update my translation to "dyke squatter".
 <a href=#toc><small>↩</small></a>
 
 ### <i>Breallach lathaí</i>: a crude comparison? Rated PG {#breallach}
@@ -1219,15 +1222,17 @@ in Galway.</i></span>
 My best guess is that these <i>lúb-</i> words refer to the frog's bendy legs.
 De Bhaldraithe (1945) shows usage of the verb <i>lúb</i> meaning "to bend", and
 De Bhaldraithe (1985) shows usage for a purl stitch when knitting, the feeling
-of a twist in one's intestines when scared, and the ability to bend joints. I
-would translate <i>lúbóg lathaí</i> as "wee bent one of the mud". The variant
+of a twist in one's intestines when scared, and the ability to bend joints.
+
+I would translate <i>lúbóg lathaí</i> as "wee bent one of the mud". The variant
 <i>lúbar</i> was a bit more mysterious to me, particularly as one of the
-transcriptions from the LASID was <span class=ipa>[ˈlɑbər ˈlɑhiː]</span> which doesn't look like "ú"
-at all. Another transcription of <span class=ipa>[Lu̢.bər ˈLɑhiː]</span> convinced me they are the same
-word, and a derivation from <i>lúb</i> seems most likely. I wasn't sure what
-suffix had been applied; my rendering of <i>-ar</i> does not represent any
-standard suffix. Davis Sandefur suggested this was probably a realisation of
-<i>-óir</i>, thus we would have <i>lúbóir</i> meaning "bender".
+transcriptions from the LASID was <span class=ipa>[ˈlɑbər ˈlɑhiː]</span> which
+doesn't look like "ú" at all. Another transcription of <span class=ipa>[Lu̢.bər
+ˈLɑhiː]</span> convinced me they are the same word, and a derivation from
+<i>lúb</i> seems most likely. I wasn't sure what suffix had been applied; my
+rendering of <i>-ar</i> does not represent any standard suffix. Davis Sandefur
+suggested this was probably a realisation of <i>-óir</i>, thus we would have
+<i>lúbóir</i> meaning "bender".
 
 Not included on in the map data is <i>lúbán díge</i>, listed in O'Neill-Lane
 (1917) as being found in Oriel (South Armagh, North Louth, South Monaghan,
@@ -1344,7 +1349,7 @@ clod" or "roundish thing; lumpish person, pot-bellied person". Perhaps it is
 used for frogs to compare them to clods of turf, or refer generically to small
 lumps of creatures.
 
-Interestingly, in the context of the <i>crúbán claidhe</i> term,
+Interestingly, in the context of the [<i>crúbán claidhe</i>](#crúbán) term,
 Dinneen's dictionary lists both "crab" and "frog" as possible translations of
 <i>torpán</i>.
 <a href=#toc><small>↩</small></a>
@@ -1937,6 +1942,9 @@ Nualláin Teór.
   Kerry</i>](https://fr.wikisource.org/wiki/Phon%C3%A9tique_d%E2%80%99un_parler_irlandais_de_Kerry/2-6#p163).
   In: Annales de Bretagne. Book 40, number 3, 1932. 570-571
 
+* Stewart, A. (1885). [<i>Twixt Ben Nevis and
+  Glencoe</i>](https://dn720005.ca.archive.org/0/items/twixtbennevisgle00stew_1/twixtbennevisgle00stew_1.pdf). Edinburgh : W. Paterson
+
 * Stockman, G. (1974). [<i>The Irish of Achill, Co.
   Mayo</i>](https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/Stockman%20(1974),%20The%20Irish%20of%20Achill,%20Co%20Mayo.pdf). Belfast : Institute of Irish Studies, Queen's University of Belfast.
 
@@ -2087,6 +2095,12 @@ National Corpus of Irish. Mac Giolla Ceara, 1940, p. 42: "An préachán dubh ar
 an chrann, an traona san choirce, agus an liospán san pholl [...]"
 
 [^granny]: This was the school my granny went to :) and my granda's parents etc.
+
+[^locha]: The schoolchild actually wrote <i>lisbín lacha</i>, which I don't
+think makes grammatical sense (<i>lacha</i> is the nominative case of the word
+meaning "duck", but the genitive would be needed here. An association
+with ducks (the animals) makes a lot less sense than with bodies of
+water). So I assume this was a spelling error on the child's part.
 
 [^welsh-leum]: In Welsh, the cognate <i>llam</i> gives us
 <i>llamhidydd</i>, similarly meaning "jumper" and used for porpoises.
