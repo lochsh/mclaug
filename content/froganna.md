@@ -333,7 +333,7 @@ know of any other name for an animal that has changed in this way. Some force
 must have caused a shift &mdash; that is, unless "frog" was actually the first
 word many Gaels heard used for the creatures.
 
-I learnt during this research was that it is a common belief
+I learnt during this research that it is a common belief
 that frogs are not native to Ireland. Several 17th century texts attribute this
 to "the graces of our patron Saint Patrick" (Ó Maonaigh, 1952) or to some
 mystical quality of the island. From de Rochefort (1779):
@@ -393,7 +393,7 @@ creatures <a href=https://en.wiktionary.org/wiki/frogge#Middle_English><i>frogge
 </figure>
 
 The idea of much of Ireland having no word for frog that predates Middle
-English is not especially attractive to me. Returning our first
+English is not especially attractive to me. Returning to our first
 idea, of taboo: Gerard of Wales' account above certainly
 gives an early example of frogs being treated as a bad omen. Dubourdieu (1802)
 conveys similarly fearful local attitudes in county Down:
