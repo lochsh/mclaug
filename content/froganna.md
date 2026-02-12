@@ -795,9 +795,9 @@ records it once in Mayo (as </i>léimeadóir<i>)</i>.</span>
 The etymology of <i>leumachan</i> seems transparent: <i>leum</i> + <i>ach</i> + <i>an</i>
 = "(wee) jumping thing". Similarly for <i>leumadair</i>: "jumper".
 <i>Leumadair</i> is also used for other leaping
-animals, like dolphins or grasshoppers. Sometimes qualifiers are used: Dòrlach's fieldwork in Scotland found
+animals, like dolphins[^welsh-leum] or grasshoppers. Sometimes qualifiers are used: Dòrlach's fieldwork in Scotland found
 <i>leumadair-fèoir</i> ("grass jumper") for grasshopper, which is also found
-in the 1819 Manx bible as <i>lheimydyr-faiyr</i>.  [^welsh-leum].
+in the 1819 Manx bible as <i>lheimydyr-faiyr</i>.
 
 It is possible that <i>leumachan</i> was also used for frog
 by native Manx speakers, as it is given in Fargher (1969),
