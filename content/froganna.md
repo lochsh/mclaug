@@ -718,9 +718,9 @@ and the frog's unsheltered back (his head is under the toadstool).">
 County Derry</i></span>
 
 By the time of the LASID in the 1950s, the fieldworkers could find no
-native speakers in Derry. However, a variety of secondary sources record the
-word <i>fliuchán</i> as being used for "frog". I have not found the word used
-with this meaning elsewhere.
+native speakers in Derry. However, a variety of earlier secondary sources
+record the word <i>fliuchán</i> as being used for "frog". I have not found the
+word used with this meaning elsewhere.
 
 <img src="../images/froganna/fliuchán.png"
 alt="A newspaper clipping in Gaelic
