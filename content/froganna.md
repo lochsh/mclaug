@@ -1133,7 +1133,7 @@ with Norse-origin <i>crúb</i>. In Scotland there are some examples of
 make with their fingers inorder to make such an imprint.  The same meaning is
 used in Stewart (1885).
 
-I am personally satisfied with this explanation. I will elect to officially
+I am personally satisfied by this explanation. I will elect to officially
 update my translation to "dyke squatter".
 <a href=#toc><small>↩</small></a>
 
