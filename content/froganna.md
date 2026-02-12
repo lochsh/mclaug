@@ -1839,7 +1839,7 @@ listed in the introduction (e.g. the LASID). They are not listed here.
 * Fargher, D. C. (1979). <i>Fargher's English-Manx Dictionary</i>. Douglas : Shearwater Press
 
 * Beckett, C. (1967). <i>Fealsúnacht Aodha Mhic Dhomhnaill</i>. Baile Átha
-* Cliath : An Clóchomhar Tta. (Original manuscript 1853)
+  Cliath : An Clóchomhar Tta. (Original manuscript 1853)
 
 * Forbes, A. R. (1905). [<i>Gaelic names of beasts (Mammalia), birds, fishes,
   insects, reptiles, etc.</i>](https://archive.org/details/gaelicnamesofbea00forb/page/406/mode/2up).
