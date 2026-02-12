@@ -1454,7 +1454,7 @@ Alongside <i>lúbán díge</i>, discussed <a href=#lúb>above</a>, O'Neill-Lane'
 of "harp, lyre", Dinneen gives the meanings of "a hump on the back, a little
 eminence; summit". Various sources from Monaghan and Cavan in The School's
 Collection list "hump" as the meaning. I suppose once again our froggy friend
-is being description as a little lump. The use of <i>díge</i>, the genitive of
+is being described as a little lump. The use of <i>díge</i>, the genitive of
 a word for "ditch", seems to have been common when referring to frogs in East Ulster.
 
 <!---
