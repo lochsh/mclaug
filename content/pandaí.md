@@ -8,7 +8,7 @@ My mother was talking about her childhood summers in rural Donegal, and used
 the word "pandy" to describe the tin drinking vessels she was often
 tasked with bringing to the men out working, along with a pail of water from the
 spring well to fill the vessels from. My culturally hungry ears
-pricked; could this be a Gaelic word? It beginning with <i>p-</i> marks it as
+pricked; could this be a Gaelic word? The initial <i>p-</i> marks it as
 a loan word &mdash; but from which language, and with what meaning?
 
 <figure>
@@ -121,7 +121,9 @@ English "pound" or "pandy" (for a school beating), I cannot say.
 <figcaption><i>Map of uses in Ireland of </i>pandaí<i> or "pandy". The markers
 have been somewhat roughly placed. The only usages I could find in Scotland or
 the Isle of Man were in English and referred to the school punishment.<br><br>The
-Munster usage for a beating describes a horse's feet crushing a fox as having "made a pandy
+Munster
+<a
+href="https://www.duchas.ie/en/cbe/9001854/7191125?HighlightText=pandy&Route=items&SearchLanguage=ga">usage</a> for a beating describes a horse's feet crushing a fox as having "made a pandy
 of him", which might just be referring to getting mashed like a potato.</i></figcaption>
 </figure>
 
