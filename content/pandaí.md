@@ -162,6 +162,15 @@ after giving birth, and bring a pandy of milk, or he wouldn't pass the night."
   shuí agus <b>pandaí</b> de tae dhubh déanta aige.</i> "[...] and he made a pandy of black
   tea."
 
+* In Conor Thomas Caldwell's [<i>'Did you hear about the poor old travelling fiddler?' &ndash; The Life
+  and Music of John Doherty</i>](https://www.academia.edu/9727990/Did_you_hear_about_the_poor_aul_travelling_fiddler_The_Life_and_Music_of_John_Doherty) (2013)
+
+* In this [inscription](https://www.geograph.ie/photo/2087988) in
+  [Edenfinfreagh](https://maps.app.goo.gl/cWbKB7mjWMF1DFJQ6), telling the story
+  of John Doherty's brother Mickey escaping violence from Black and Tans by
+  making a <i>pandaí</i> on the spot to demonstrate he was just a poor
+  tinsmith.
+
 * Diarmuid Ó hAirt's [<i>Cnuasach Conallach: A Computerized Dictionary of
   Donegal Irish</i>](https://web.archive.org/web/20240721234049/http://homepage.eircom.net/~gfg/p.htm)
   defines it as <i>Soitheach stáin</i> ("tin vessel"), and uses sources
@@ -189,15 +198,6 @@ way."
 
 * In Brighid "Biddy" McLaughlin's <i>Tales of a Patchwork Life</i> (2024): "a
   tin <b>pandy</b> made by Irish travellers that my son Johnny still drinks from"
-
-* In Conor Thomas Caldwell's [<i>'Did you hear about the poor old travelling fiddler?' &ndash; The Life
-  and Music of John Doherty</i>](https://www.academia.edu/9727990/Did_you_hear_about_the_poor_aul_travelling_fiddler_The_Life_and_Music_of_John_Doherty) (2013)
-
-* In this [inscription](https://www.geograph.ie/photo/2087988) in
-  [Edenfinfreagh](https://maps.app.goo.gl/cWbKB7mjWMF1DFJQ6), telling the story
-  of John Doherty's brother Mickey escaping violence from Black and Tans by
-  making a <i>pandaí</i> on the spot to demonstrate he was just a poor
-  tinsmith.
 
 * [Referring to a metal trophy](https://donegalgaa.ie/2023/09/14/calling-on-amateur-photographers-the-inaugural-michael-jack-pandy-competition-awaits-your-entry/)
 
