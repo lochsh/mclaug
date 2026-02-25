@@ -96,11 +96,12 @@ me questioning it.
 [Collins' English
 dictionary](https://www.collinsdictionary.com/dictionary/english/pandy) defines "pandy" as "(in schools) a stroke
 on the hand with a strap as a punishment", and notes the term is primarily used
-in Scotland and Ireland[^belt]. The etymology is proposed as "C19: from Latin
-<i>pande</i> (<i>manum</i>) stretch out (the hand), from <i>pandere</i> to
-spread or extend". The imperative <i>pande manum</i> seems to have been issued
-to pupils by teachers, at a time when Latin was still used in schools. This
-etymology is supported in James Wilson's [<i>Early Recollections of Life at
+in Scotland and Ireland[^belt]. The etymology is proposed as deriving from the
+imperative <i>pande manum</i>, Latin for "hold out [your] hand".
+This seems to have been issued
+to pupils by teachers, at a time when Latin was still used in schools, as
+described
+in James Wilson's [<i>Early Recollections of Life at
 King William's
 College</i>](https://www.isle-of-man.com/manxnotebook/barovian/n136_103.htm) on The
 Isle of Man. Both "pandy" and <i>pande manum</i> are used to refer to this
@@ -118,7 +119,10 @@ English "pound" or "pandy" (for a school beating), I cannot say.
 <figure>
 <img src="images/pandy-map.svg" alt="Map of usages of pandaí/pandy">
 <figcaption><i>Map of uses in Ireland of </i>pandaí<i> or "pandy". The markers
-have been somewhat roughly placed.</i></figcaption>
+have been somewhat roughly placed. The only usages I could find in Scotland or
+the Isle of Man were in English and referred to the school punishment.<br><br>The
+Munster usage for a beating describes a horse's feet crushing a fox as having "made a pandy
+of him", which might just be referring to getting mashed like a potato.</i></figcaption>
 </figure>
 
 Below is a list of usages of <i>pandaí</i> or "pandy" to mean something along
