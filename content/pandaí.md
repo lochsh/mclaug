@@ -7,8 +7,8 @@ Date: 25th Feb 2026
 My mother was talking about her childhood summers in rural Donegal, and used
 the word "pandy" to describe the tin drinking vessels she was often
 tasked with bringing to the men out working, along with a pail of water from the
-spring well for the veseels to be filled from. My culturally hungry ears
-pricked; could this be a Gaelic word? As it begins with <i>p-</i>, it would be
+spring well to fill the vessels from. My culturally hungry ears
+pricked; could this be a Gaelic word? It beginning with <i>p-</i> marks it as
 a loan word &mdash; but from which language, and with what meaning?
 
 <figure>
@@ -16,7 +16,7 @@ a loan word &mdash; but from which language, and with what meaning?
     <img src="images/twilly-pandy.jpg" alt="a black and white photo taken in
     the 1960s showing three men in their 20s-30s, a young boy, and a woman in
     her late 20s. the men are drinking from glass bottles. the young boy is
-    drinking from a tin mug, a 'pandy'."</img>
+    drinking from a tin mug, a 'pandy'.">
 
     <figcaption><i>My grandparents and two of my granny's brothers, with my
     uncle as a young boy. My uncle is drinking from a </i>pandaí<i>. The men
@@ -24,9 +24,9 @@ a loan word &mdash; but from which language, and with what meaning?
 
 </figure>
 
-The word <i>pandaí</i> does not appear in any dictionaries I've found, but
-searching the digitised parts of the National Folklore Collection yields a few
-usages in Donegal. A selection:
+The word <i>pandaí</i> does not seem to appear in any major Irish dictionaries,
+but searching the digitised parts of Ireland's National Folklore Collection
+yields a few usages in Donegal. A selection:
 
 * From [near Creeslough](https://www.duchas.ie/en/cbes/4493635/4406045/4521041?HighlightText=panda%C3%AD&Route=stories&SearchLanguage=ga):
 
@@ -60,13 +60,15 @@ also being used for these larger vessels:
     saves her from witchcraft."
 
 These corroborating examples are pleasing, but do not get us any closer to
-understanding the origin. There are a few usages of the word with divergent
+understanding the origin of the word. There are a few usages of the word with divergent
 meanings that perhaps hold the key: in Munster, "pandy" appears to refer
 to
-[mashed potatoes](https://www.duchas.ie/en/cbes/4921760/4904208/5215639?HighlightText=pandy&Route=stories&SearchLanguage=ga) (see "poundies" in Ulster[^champ]), and
+[mashed
+potatoes](https://www.duchas.ie/en/cbes/4921760/4904208/5215639?HighlightText=pandy&Route=stories&SearchLanguage=ga)
+(see ["poundies"](https://en.wikipedia.org/wiki/Champ_(food)) in Ulster[^champ]), and
 [some](https://www.duchas.ie/en/cbes/4493627/4405070/4514525?HighlightText=pandy&Route=stories&SearchLanguage=ga)
 [sources](https://www.duchas.ie/en/cbe/9001854/7191125?HighlightText=pandy&Route=items&SearchLanguage=ga) also use it to refer to receiving a beating. In fact, we find a version
-of <i>pandaí</i> with slenderised consonants as <i>peaindí</i> in [Ó Dónaill's
+of <i>pandaí</i> with slenderised consonants as <i>peaindí</i>[^peaindí] in [Ó Dónaill's
 dictionary](https://www.teanglann.ie/en/fgb/peaind%c3%ad), with meanings "tin
 mug" and "mashed potatoes (with milk and butter)".
 
@@ -109,9 +111,23 @@ and spread in usage to other things that were struck? Or does the word
 "poundies" suggest that the usage for mashed potatoes at least evolved
 separately? I do stand by the idea that the tin mugs take their
 name from being struck during their manufacture, but whether this came from
-English "pound" or "pandy" for a school beating, I cannot say.
+English "pound" or "pandy" (for a school beating), I cannot say.
 
 ## Usages of <i>pandaí</i> or "pandy"
+
+<figure>
+<img src="images/pandy-map.svg" alt="Map of usages of pandaí/pandy">
+<figcaption><i>Map of uses in Ireland of </i>pandaí<i> or "pandy". The markers
+have been somewhat roughly placed.</i></figcaption>
+</figure>
+
+A list of usages to mean something along the lines of "tin mug":
+
+* In Seán Ó hEochaidh's <i>Sean-chainnt Theilinn</i> (1955), <i>pandaí</i> is
+  glossed as "a tin pot", and used in the saying <i>Tá sé go h-oiread an
+  phandaí</i>. If I understand correctly this means "it's as big as a pandy"
+  and is described as being used to describe small tasks, or tasks near their
+  completion.
 
 * In Pól Ó Seachnasaigh's [<i>Eagrán de na scéalta idirnáisiúnta
 ó na Cruacha Gorma
@@ -125,17 +141,25 @@ bhainne a thabhairt dó, nó nach gcuirfeadh sé isteach an oíche.</i> "The old
 man said to the woman again she must get up, and milk the cow, the cow was
 after giving birth, and bring a pandy of milk, or he wouldn't pass the night."
 
-* In Seán Ó hEochaidh's <i>Sean-chainnt Theilinn</i> (1955), <i>pandaí</i> is
-  glossed as "a tin pot", and used in the saying <i>Tá sé go h-oiread an
-  phandaí</i>. If I understand correctly this means "it's as big as a pandy"
-  and is described as being used to describe small tasks, or tasks near their
-  completion.
+* In a song collected in the Bluestacks, published in
+  [Béaloideas, Iml. 68 (2000)](https://www.jstor.org/stable/20522563)
 
 * In Gerard Stockman's [<i>The Irish of Achill, Co.
   Mayo</i>](https://www3.smo.uhi.ac.uk/oduibhin/leabharthai/Stockman%20(1974),%20The%20Irish%20of%20Achill,%20Co%20Mayo.pdf) (1974),
   <i>pandaí</i> is glossed as "an aluminium mug"
 
-* [Referring to a metal trophy](https://donegalgaa.ie/2023/09/14/calling-on-amateur-photographers-the-inaugural-michael-jack-pandy-competition-awaits-your-entry/)
+* In Pádraig Ó Baoighill's writing, including in <i>Srathóg Feamnaí agus
+  Scéalta Eile</i> (2001): <i>Ó bhreacadh na maidne bhí fear an oileáin ina
+  shuí agus pandaí de tae dhubh déanta aige.</i> "[...] and he made a pandy of black
+  tea."
+
+* Diarmuid Ó hAirt's [<i>Cnuasach Conallach: A Computerized Dictionary of
+  Donegal Irish</i>](https://web.archive.org/web/20240721234049/http://homepage.eircom.net/~gfg/p.htm)
+  defines it as <i>Soitheach stáin</i> ("tin vessel"), and uses sources
+  collected from The Frosses, Lettermacaward, and Glencolmcille.
+
+* In this
+  [interview](https://www.bealoideasbeo.ie/bealoideas/httpdocs/trascribhinni/piosai/019t041_tr.pdf) in Teelin in 2006
 
 * In a song collected in Patrick MacGill's [<i>Songs of
   Donegal</i>](https://upload.wikimedia.org/wikipedia/commons/9/9d/Songs_of_Donegal_%28IA_songsofdonegal00macgrich%29.pdf)
@@ -144,7 +168,7 @@ after giving birth, and bring a pandy of milk, or he wouldn't pass the night."
 * In Seaghán 'ac Meanman's works, including in <i>Mám Eile as an Mhála
   Chéadna</i> (1954): <i>Níorbh' fhada go dtáinig an chomharsanach a ba
   deirean-naighe a bhí astigh an oidhche roimh ré, agus
-  bhí pandaí bainne leis.</i> "[...]and he had a pandy of milk with him."
+  bhí pandaí bainne leis.</i> "[...] and he had a pandy of milk with him."
 
 * In Joy Elliott's [<i>Derby to Donegal &ndash; by
   design</i>](https://louishemmings.com/wp-content/uploads/2016/10/Louis-Joy-A5sLR-29-04-2011.pdf) (2011): "Inside I was invited to a
@@ -158,12 +182,28 @@ way."
 * In Conor Thomas Caldwell's [<i>'Did you hear about the poor old travelling fiddler?' &ndash; The Life
   and Music of John Doherty</i>](https://www.academia.edu/9727990/Did_you_hear_about_the_poor_aul_travelling_fiddler_The_Life_and_Music_of_John_Doherty) (2013)
 
+* [Referring to a metal trophy](https://donegalgaa.ie/2023/09/14/calling-on-amateur-photographers-the-inaugural-michael-jack-pandy-competition-awaits-your-entry/)
+
+Other usages can be found by searching [duchas.ie](https://www.duchas.ie).
+
+## The panda in the room
+
+I should mention that "panda" has been borrowed into Irish and the plural is
+<i>pandaí</i>.
+
 [^champ]: Personally I've only ever called it "champ". I've seen "poundies" in
 Peadar O'Donnell's writing. Possibly it is used outside Ulster too, and it
 might not always refer to mashed potatoes and sybies.
+
+[^peaindí]: I haven't found any clear record of anyone using this form for tin
+mugs. There are a couple usages of it in [The National Corpus of
+Irish](https://www.corpas.ie/en/cng/?q=peaind%C3%AD) but I'm not sure what
+they're referring to. The first one is a food, I don't know about the second.
 
 [^belt]: Thankfully corporal punishment was a thing of the past when I went to
 school, but my parents both received [the
 belt](https://en.wikipedia.org/wiki/Tawse) as punishment. They had no
 recollection of the term "pandy" ever being used in relation to it, though my
-mother vaguely recalled "getting a pandying" to mean getting a generic beating. 
+mother vaguely recalled "getting a pandying" to mean getting a generic beating.
+It is
+[recorded](https://dasg.ac.uk/fieldwork/view/SW52ZXJuZXNzSEJhcnJvbnBlcnNvbmFsbWlzY3xhIHBhbmR5fGlkcDE1NzA0OTk2OHx8cGFuZHxyMnx8fGFsbA==) in the DASG fieldwork in Inverness.
