@@ -19,8 +19,8 @@ a loan word &mdash; but from which language, and with what meaning?
     drinking from a tin mug, a 'pandy'.">
 
     <figcaption><i>My grandparents and two of my granny's brothers, with my
-    uncle as a young boy. My uncle is drinking from a </i>pandaí<i>. The men
-    are drinking milky tea from glass bottles.</i></figcaption>
+    uncle as a young boy. My uncle is drinking from a </i>pandaí<i>. The men, I
+    am told, are drinking milky tea from glass bottles.</i></figcaption>
 
 </figure>
 
