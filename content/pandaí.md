@@ -30,14 +30,14 @@ yields a few usages in Donegal. A selection:
 
 * From [near Creeslough](https://www.duchas.ie/en/cbes/4493635/4406045/4521041?HighlightText=panda%C3%AD&Route=stories&SearchLanguage=ga):
 
-    * <i>Tháinic sí annsin agus shín sí an pandaí dó agus d'ól se achan braon a bhí</i>
+    * <i>Tháinic sí annsin agus shín sí an <b>pandaí</b> dó agus d'ól se achan braon a bhí</i>
     * "She came there and passed the pandy to him, and he drank every drop"
 
 * From [near Kilcar](https://www.duchas.ie/en/cbes/4428319/4394444/4481910?HighlightText=panda%C3%AD&Route=stories&SearchLanguage=ga)
 
     * <i>Gheibheadh siad baisín céad uair agus cuireadh siad gráinín ann. Go minic
       chuireadh siad dhorn de min bhuidhe fríd. Chuireadh siad gráinín soda agus
-      gráinín salainn isteach leobhtha annsin. Chuireadh siad pandaí blaithche
+      gráinín salainn isteach leobhtha annsin. Chuireadh siad <b>pandaí</b> blaithche
       isteach annsin agus mheasgadh siad na ceithre rudaí le chéile.</i>
     * A description of how to make soda bread; <i>pandaí
       [blaithche](https://en.wiktionary.org/wiki/bl%C3%A1ithche#Irish)</i> = "pandy of
@@ -56,7 +56,7 @@ also being used for these larger vessels:
 
 * [near Glendowan](https://www.duchas.ie/en/cbes/4481744/4408451/4481256?HighlightText=pandy&Route=stories&SearchLanguage=ga)
     * "When a heifer calves you are to put a palm branch and a penny at the
-    bottom of the pandy when you are milking her for the first time. This
+    bottom of the <b>pandy</b> when you are milking her for the first time. This
     saves her from witchcraft."
 
 These corroborating examples are pleasing, but do not get us any closer to
@@ -98,13 +98,13 @@ dictionary](https://www.collinsdictionary.com/dictionary/english/pandy) defines 
 on the hand with a strap as a punishment", and notes the term is primarily used
 in Scotland and Ireland[^belt]. The etymology is proposed as "C19: from Latin
 <i>pande</i> (<i>manum</i>) stretch out (the hand), from <i>pandere</i> to
-spread or extend".
-
-The term is used in this way in James Joyce's <i>A Portrait of the Artist as a
-Young Man</i> (1917), and in John Kennedy's Scottish satire <i>Geordie
-Chalmers, or, the law in Glenbuckie</i> (1833). I can't find any Gaelic usage
-of the word in Scotland, which supports this being an English word that entered
-the language via some other route, like the Latin etymology proposed above.
+spread or extend". The imperative <i>pande manum</i> seems to have been issued
+to pupils by teachers, at a time when Latin was still used in schools. This
+etymology is supported in James Wilson's [<i>Early Recollections of Life at
+King William's
+College</i>](https://www.isle-of-man.com/manxnotebook/barovian/n136_103.htm) on The
+Isle of Man. Both "pandy" and <i>pande manum</i> are used to refer to this
+punishment in various English language texts[^texts].
 
 So did "pandy" come to Irish via this restricted meaning,
 and spread in usage to other things that were struck? Or does the word
@@ -121,12 +121,13 @@ English "pound" or "pandy" (for a school beating), I cannot say.
 have been somewhat roughly placed.</i></figcaption>
 </figure>
 
-A list of usages to mean something along the lines of "tin mug":
+Below is a list of usages of <i>pandaí</i> or "pandy" to mean something along
+the lines of "tin mug". All are from Donegal, except one from Mayo.
 
 * In Seán Ó hEochaidh's <i>Sean-chainnt Theilinn</i> (1955), <i>pandaí</i> is
   glossed as "a tin pot", and used in the saying <i>Tá sé go h-oiread an
   phandaí</i>. If I understand correctly this means "it's as big as a pandy"
-  and is described as being used to describe small tasks, or tasks near their
+  and is used to describe small tasks, or tasks near their
   completion.
 
 * In Pól Ó Seachnasaigh's [<i>Eagrán de na scéalta idirnáisiúnta
@@ -135,9 +136,11 @@ a bhailigh Seán Ó hEochaidh
 do Choimisiún Béaloideasa Éireann
 i 1947 agus
 1948</i>](https://mural.maynoothuniversity.ie/id/eprint/4505/1/P%C3%B3l_%C3%93_Seachnasaigh_-_Tr%C3%A1chtas_PDF.pdf) (2012), stories collected from the Bluestacks by Seán Ó
-hEochaidh are reproduced. Story 26: <i>Dúirt an seanduine leis an bhean ar ais
-go gcaithfeadh sí éirí, agus an bhó a bhleán, bhí bó ann i ndiaidh breith, agus pandaí den
-bhainne a thabhairt dó, nó nach gcuirfeadh sé isteach an oíche.</i> "The old
+hEochaidh are reproduced. Story 26: <blockquote><i>Dúirt an seanduine leis an bhean ar ais
+go gcaithfeadh sí éirí, agus an bhó a bhleán, bhí bó ann i ndiaidh breith, agus
+<b>pandaí</b> den
+bhainne a thabhairt dó, nó nach gcuirfeadh sé isteach an
+oíche.</i></blockquote> "The old
 man said to the woman again she must get up, and milk the cow, the cow was
 after giving birth, and bring a pandy of milk, or he wouldn't pass the night."
 
@@ -150,7 +153,7 @@ after giving birth, and bring a pandy of milk, or he wouldn't pass the night."
 
 * In Pádraig Ó Baoighill's writing, including in <i>Srathóg Feamnaí agus
   Scéalta Eile</i> (2001): <i>Ó bhreacadh na maidne bhí fear an oileáin ina
-  shuí agus pandaí de tae dhubh déanta aige.</i> "[...] and he made a pandy of black
+  shuí agus <b>pandaí</b> de tae dhubh déanta aige.</i> "[...] and he made a pandy of black
   tea."
 
 * Diarmuid Ó hAirt's [<i>Cnuasach Conallach: A Computerized Dictionary of
@@ -158,38 +161,48 @@ after giving birth, and bring a pandy of milk, or he wouldn't pass the night."
   defines it as <i>Soitheach stáin</i> ("tin vessel"), and uses sources
   collected from The Frosses, Lettermacaward, and Glencolmcille.
 
-* In this
-  [interview](https://www.bealoideasbeo.ie/bealoideas/httpdocs/trascribhinni/piosai/019t041_tr.pdf) in Teelin in 2006
+* In these interviews in
+  [Teelin](https://www.bealoideasbeo.ie/bealoideas/httpdocs/trascribhinni/piosai/019t041_tr.pdf)
+  and
+  [Cloghan](https://www.bealoideasbeo.ie/bealoideas/httpdocs/trascribhinni/piosai/045t053_tr.pdf).
 
 * In a song collected in Patrick MacGill's [<i>Songs of
   Donegal</i>](https://upload.wikimedia.org/wikipedia/commons/9/9d/Songs_of_Donegal_%28IA_songsofdonegal00macgrich%29.pdf)
-  (1921). Page 19: "strong was his house. In all things handy/Thatching a haystack or mending a pandy"
+  (1921). Page 19: "In all things handy/Thatching a haystack or mending a pandy"
 
 * In Seaghán 'ac Meanman's works, including in <i>Mám Eile as an Mhála
   Chéadna</i> (1954): <i>Níorbh' fhada go dtáinig an chomharsanach a ba
   deirean-naighe a bhí astigh an oidhche roimh ré, agus
-  bhí pandaí bainne leis.</i> "[...] and he had a pandy of milk with him."
+  bhí <b>pandaí</b> bainne leis.</i> "[...] and he had a pandy of milk with him."
 
 * In Joy Elliott's [<i>Derby to Donegal &ndash; by
   design</i>](https://louishemmings.com/wp-content/uploads/2016/10/Louis-Joy-A5sLR-29-04-2011.pdf) (2011): "Inside I was invited to a
-‘pandy’ of tea. A pandy was a tin mug, usually blackened from
+‘<b>pandy</b>’ of tea. A pandy was a tin mug, usually blackened from
 being nudged into the fire, so tea ended up being stewed this
 way."
 
 * In Brighid "Biddy" McLaughlin's <i>Tales of a Patchwork Life</i> (2024): "a
-  tin pandy made by Irish travellers that my son Johnny still drinks from"
+  tin <b>pandy</b> made by Irish travellers that my son Johnny still drinks from"
 
 * In Conor Thomas Caldwell's [<i>'Did you hear about the poor old travelling fiddler?' &ndash; The Life
   and Music of John Doherty</i>](https://www.academia.edu/9727990/Did_you_hear_about_the_poor_aul_travelling_fiddler_The_Life_and_Music_of_John_Doherty) (2013)
 
+* In this [inscription](https://www.geograph.ie/photo/2087988) in
+  [Edenfinfreagh](https://maps.app.goo.gl/cWbKB7mjWMF1DFJQ6), telling the story
+  of John Doherty's brother Mickey escaping violence from Black and Tans by
+  making a <i>pandaí</i> on the spot to demonstrate he was just a poor
+  tinsmith.
+
 * [Referring to a metal trophy](https://donegalgaa.ie/2023/09/14/calling-on-amateur-photographers-the-inaugural-michael-jack-pandy-competition-awaits-your-entry/)
 
-Other usages can be found by searching [duchas.ie](https://www.duchas.ie).
+Other usages can be found by searching [duchas.ie](https://www.duchas.ie). The
+[National Corpus of Irish](https://www.corpas.ie/en/cng/?q=pandy) also records
+"pandy" in a couple audio interviews that I haven't listed above.
 
 ## The panda in the room
 
-I should mention that "panda" has been borrowed into Irish and the plural is
-<i>pandaí</i>.
+I should mention that "panda", for the animals, has been borrowed into Irish
+and the plural is <i>pandaí</i>. This is of course unrelated etymologically! 🐼
 
 [^champ]: Personally I've only ever called it "champ". I've seen "poundies" in
 Peadar O'Donnell's writing. Possibly it is used outside Ulster too, and it
@@ -206,4 +219,15 @@ belt](https://en.wikipedia.org/wiki/Tawse) as punishment. They had no
 recollection of the term "pandy" ever being used in relation to it, though my
 mother vaguely recalled "getting a pandying" to mean getting a generic beating.
 It is
-[recorded](https://dasg.ac.uk/fieldwork/view/SW52ZXJuZXNzSEJhcnJvbnBlcnNvbmFsbWlzY3xhIHBhbmR5fGlkcDE1NzA0OTk2OHx8cGFuZHxyMnx8fGFsbA==) in the DASG fieldwork in Inverness.
+[recorded](https://dasg.ac.uk/fieldwork/view/SW52ZXJuZXNzSEJhcnJvbnBlcnNvbmFsbWlzY3xhIHBhbmR5fGlkcDE1NzA0OTk2OHx8cGFuZHxyMnx8fGFsbA==)
+in the DASG fieldwork in Inverness.
+
+[^texts]: A non-exhaustive list of usages referring to hitting the hands with a
+strap or cane:
+
+    * 1715, Scotland, <i>pande manum</i>: [Sermon preached by Mr. James Rows (sic), in St. Geil's Kirk at Edinburgh](https://en.wikisource.org/wiki/Sermon_preached_by_Mr._James_Rows_(sic),_in_St._Geil%27s_Kirk_at_Edinburgh,_which_has_been_commonly_known_by_the_name_of_Pockmanty_preaching)
+    * 1833, Scotland, <i>pandies</i>: John Kennedy's <i>Geordie Chalmers; or,
+      the Law in Glenbuckie</i>
+    * 1863, England, <i>pandied</i>: Charles Kingsley's [<i>The Water-Babies</i>](https://www.pagebypagebooks.com/Charles_Kingsley/The_Water_Babies/Chapter_V_p12.html)
+    * 1917, Ireland, <i>pandies</i>: James Joyce's [<i>A Portrait of the Artist
+      as a Young Man</i>](https://archive.org/details/in.ernet.dli.2015.27989/page/177/mode/2up?q=pandies)
