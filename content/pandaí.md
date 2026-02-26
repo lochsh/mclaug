@@ -132,7 +132,7 @@ the lines of "tin mug". All are from Donegal, except one from Mayo.
 
 * In Seán Ó hEochaidh's <i>Sean-chainnt Theilinn</i> (1955), <i>pandaí</i> is
   glossed as "a tin pot", and used in the saying <i>Tá sé go h-oiread an
-  phandaí</i>. If I understand correctly this means "it's as big as a pandy"
+  <b>phandaí</b></i>. If I understand correctly this means "it's as big as a pandy"
   and is used to describe small tasks, or tasks near their
   completion.
 
@@ -183,7 +183,8 @@ after giving birth, and bring a pandy of milk, or he wouldn't pass the night."
 
 * In a song collected in Patrick MacGill's [<i>Songs of
   Donegal</i>](https://upload.wikimedia.org/wikipedia/commons/9/9d/Songs_of_Donegal_%28IA_songsofdonegal00macgrich%29.pdf)
-  (1921). Page 19: "In all things handy/Thatching a haystack or mending a pandy"
+  (1921). Page 19: "In all things handy/Thatching a haystack or mending a
+  <b>pandy</b>"
 
 * In Seaghán 'ac Meanman's works, including in <i>Mám Eile as an Mhála
   Chéadna</i> (1954): <i>Níorbh' fhada go dtáinig an chomharsanach a ba
