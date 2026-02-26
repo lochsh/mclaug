@@ -117,12 +117,12 @@ chewing on bits of meat. I want to all but inhale them.
 Given this opinion, do I consider ~98% meat link sausages to be sausages?
 Well, I suppose I do, reluctantly[^sausage]. Clearly the form factor of a link
 sausage is sufficient, though not necessary, for me to bequeath sausage status.
-On the opposite end of the meat spectrum, I am happy for vegetarian sausages to
-be called such. Could I accept a vegetarian square sausage? This tests my
-boundaries of what I consider preposterous. I think it would require the
-vegetarian square sausauge to have a suitable texture, such as if it was made
-with soy protein or similar. However, I would not require the same of a
-vegetarian link sausage.
+On the opposite end of the meat spectrum, I am happy for vegetarian link
+sausages to be called such. Could I accept a vegetarian square sausage? This
+tests my boundaries of what I consider preposterous. I think it would require
+the vegetarian square sausauge to both be sliced from a mould and to have a
+suitable texture, such as if it was made with soy protein or similar. However,
+I would not require the same texture of a vegetarian link sausage.
 
 Absent from the above discussion has been American uses of the word "sausage".
 They clearly have a more open mind than many English people in this respect,
@@ -158,7 +158,61 @@ To me, for something to be a sausage, then:
 * if it contains no meat, it must satisfy at least one of: link form factor;
   non-vegetal texture.
 
+I do think there are two tiers here, as there likely will be in other food
+categories. There are the things I think about when I think of sausages, and
+things I find acceptable to be called as sausages but not quintessential
+examples. But the point of exploring taxonomies is to move beyond
+quintessential examples and figure out where the boundaries are.
+
 Do not ask me about "skinless sausages": I do not understand what they are.
+
+## Sandwiches
+
+<small>An aside: does anyone know why I say <span class=ipa>/sa<b>ŋ</b>wɪd͡ʒ/</span>? I heard
+someone make fun of this pronunciation recently.</small>
+
+I have chosen to explore sandwiches because there are many example foods which
+test the definition. Are open sandwiches sandwiches (yes)? If so, is cheese on
+toast a sandwich (obviously not, don't be silly)?
+
+The quintessential sandwich to me is two slices of bread with something in
+between. The "something in between" could simply be a spread like jam, or it
+could be more substantial. I want to be able to pick a sandwich up with my
+hands and bite into it; however, I don't think something stops being a sandwich
+automatically if it is too unwiedly for this.
+
+What about filled rolls? I'm not sure!!! I would never call them a
+sandwich...they are rolls. But I would not be surprised to find them among a
+selection of sandwiches, and would not require the spread to be described as
+"sandwiches and filled rolls". And if someone offered to make me a sandwich and
+then made it with a roll I wouldn't be confused.
+
+I will now give my own judgement on whether some foods are typologically
+sandwiches to me:
+
+* Toastie: yes
+* Cheese on toast: no
+* Open tuna melt: no
+* An open sandwich with cold ingredients: yes
+* Filled rolls: tentatively yes but its own sub-category
+* Burger (in a bun): yes but a sub-category of filled rolls, or alongside it.
+* Sausage sandwich: yes
+* Hot dog (in a finger roll with the sausage facing up): in sub-category of filled rolls
+* Wrap: no but like filled rolls I'd not find it odd among a sandwich platter
+
+A few interesting pairs jump out. Toasties (yes) vs. cheese on toast (no)
+highlight the two bread slices with something in between factor. If two slices
+of cheese on toast where placed together so that the cheese layers were in the
+middle, it would become a sandwich to me. So why is an open sandwich permitted?
+Well, I'm not sure I can logically justify it &mdash; it simply is. This is
+about personal taxonomies, not about arguing for laws around food labelling.
+
+Sausage sandwiches (yes) vs. hot dogs (no) reflects both some distinction made
+between slices of bread and bread rolls, as well as some discomfort with hot
+dogs being sandwiched in a horizontal, rather than vertical, plane.
+
+I would find calling a burger a sandwich odd, but I would not deny that it is
+typologically a sandwich.
 
 [^sausage]: Is not the point of a sausage to use up random bits of meat and pad
 them out with delicious, delicious filler??? If you want 100% meat maybe you
