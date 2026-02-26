@@ -223,8 +223,7 @@ they're referring to. The first one is a food, I don't know about the second.
 [^belt]: Thankfully corporal punishment was a thing of the past when I went to
 school, but my parents both received [the
 belt](https://en.wikipedia.org/wiki/Tawse) as punishment. They had no
-recollection of the term "pandy" ever being used in relation to it, though my
-mother vaguely recalled "getting a pandying" to mean getting a generic beating.
+recollection of the term "pandy" ever being used in relation to it.
 It is
 [recorded](https://dasg.ac.uk/fieldwork/view/SW52ZXJuZXNzSEJhcnJvbnBlcnNvbmFsbWlzY3xhIHBhbmR5fGlkcDE1NzA0OTk2OHx8cGFuZHxyMnx8fGFsbA==)
 in the DASG fieldwork in Inverness.
