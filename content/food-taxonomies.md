@@ -31,9 +31,6 @@ Status: draft
       right form factor intended to be eaten in a certain way can be one. but
       when does it stop...
 
-* cake
-    * pineapple cake
-
 * pudding
 
 * seasoning
@@ -166,6 +163,60 @@ quintessential examples and figure out where the boundaries are.
 
 Do not ask me about "skinless sausages": I do not understand what they are.
 
+## Cakes
+
+A favourite treat in childhood, and today when I can get one, is pineapple
+cakes. Here is what they look like:
+
+<figure>
+<img src="../images/pineapple-cakes.jpg" alt="photos of the scottish treat
+pineapple cakes. When whole they have a large mound covered in yellow icing
+sitting on top of a pastry tart shell in a tin foil cup. Inside they are filled
+with something looking like cream. The photos don't make it very clear but they
+also have pineapple jam.">
+<figcaption><i>Delicious, delicious pineapple cakes</i></figcaption>
+</figure>
+
+They comprise a pastry tart shell with a small amount of pineapple jam, then
+"mock cream" (a delicious, delicious sticky sweet filling that is nothing like
+actual cream) forming a big bump, covered in yellow icing.
+
+Would you call this a cake? I do. My family and Scottish friends do.
+[Greggs](https://www.greggs.com/news/have-you-heard-about-the-greggs-secret-menu)
+does. Other
+people commenting on this Greggs [Facebook
+post](https://www.facebook.com/greggsofficial/posts/so-think-you-know-all-there-is-to-know-about-greggs-but-can-you-guess-the-name-o/10159357316019776/)
+do, though some of them call them tarts, and they are often[^tarts] labelled this when
+sold.
+
+Do many people only think of sponges as cakes? But would these people not
+consider [fridge
+cake](https://www.bbc.co.uk/food/recipes/chocolatefridgecake_74814) to be cake?
+I've never had "ice-cream cake" but understand it can just be ice cream pressed
+into a mould and sliced. Similarly, the [crepe
+cakes](https://tasty.co/recipe/rainbow-crepe-cake) that were once so popular on
+the internet are clearly different from a Victoria sponge, but are still
+considered cakes.
+
+Despite listing these non-sponge examples of cakes, I'm not sure I understand
+exactly what makes something a cake and what makes it not. Although pineapple
+cakes are layered, and the layering is done after any cooking, I do not
+consider millionaire shortbread to be a cake. Is the enclosure of the filling
+via icing a factor? I feel fridge cake and ice-cream cake are so because they
+involve setting something in a mould to be sliced.  Similarly, crepe cake is
+chilled so that it can be sliced. But that does not explain pineapple cakes
+&mdash; perhaps they are part of a closed set of "cakes" that I inherited from
+another time with a different concept of "cake".
+
+TODO: table? pancakes?
+
+## Biscuits
+
+I think some Americans are under the impression that what they call "cookies"
+are what we call in these islands "biscuits". But I have seen Americans call
+many things "cookies" that I would never think of calling a "biscuit". For
+example, small meringue
+
 ## Sandwiches
 
 <small>An aside: does anyone know why I say <span class=ipa>/sa<b>ŋ</b>wɪd͡ʒ/</span>? I heard
@@ -179,7 +230,8 @@ The quintessential sandwich to me is two slices of bread with something in
 between. The "something in between" could simply be a spread like jam, or it
 could be more substantial. I want to be able to pick a sandwich up with my
 hands and bite into it; however, I don't think something stops being a sandwich
-automatically if it is too unwiedly for this.
+automatically if it is too unwiedly for this. A club sandwich is acceptable to
+me.
 
 What about filled rolls? I'm not sure!!! I would never call them a
 sandwich...they are rolls. But I would not be surprised to find them among a
@@ -217,3 +269,9 @@ typologically a sandwich.
 [^sausage]: Is not the point of a sausage to use up random bits of meat and pad
 them out with delicious, delicious filler??? If you want 100% meat maybe you
 should eat a steak and leave sausages alone!
+
+[^tarts]: McGhee's, MacKenzies Bakery in Portree, Brownings, and Marks &
+Spencer all label them "pineapple tarts". Bakeries in Ulster seem to mostly
+call them "pineapple cups". Aulds in Greenock had a huge one they called
+"pineapple flan". Maybe it was just what I'd usually think of as flan and I
+just assumed it was a large pineapple cake with the usual fillings...
