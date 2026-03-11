@@ -2580,9 +2580,9 @@
         {
             "type": "Feature",
             "properties": {
-                "word": "frog (sg. & pl.)",
-                "source_transcription": "[frog]",
-                "ipa_transcription": "[fɾˠog]",
+                "word": "lapadán lathaí",
+                "source_transcription": "[lɑpədɑːn ˈlɑhiː]",
+                "ipa_transcription": "[lˠɑpˠəd̪ˠɑːnˠ ˈlˠɑhiː]",
                 "logainm": "Ceathrú na Madradh",
                 "placename": "Carrownamaddra",
                 "ceantar": "Contae na Gaillimhe",
@@ -2591,7 +2591,7 @@
                 "year": "1951",
                 "source": "LASID point 25",
                 "note": "<i>A limited number of good speakers can still be found along the coast west of Kinvara. Our subject was equally fluent in both languages.</i>",
-                "category": "frog",
+                "category": "lapadán",
                 "source_category": "LASID"
             },
             "geometry": {

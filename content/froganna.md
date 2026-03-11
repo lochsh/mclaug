@@ -1015,8 +1015,8 @@ without the s prefix is not clear to me.
 
 <span class=frog-intro><i>
 </i>Laprachán<i> or </i>laprachán lathái<i> was found a few times in Galway and
-once in Waterford. </i>Lapadán<i> had one example each in
-Galway and Monaghan, </i>lapadóir<i> one in Mayo, and </i>lapadóir lathaí<i>
+once in Waterford. </i>Lapadán<i> or <i>lapadán lathaí</i> had two examples in
+Galway and one in Monaghan, </i>lapadóir<i> one in Mayo, and </i>lapadóir lathaí<i>
 one in Galway. </i>Laparán<i> was found once in Limerick, and in a novel by a
 Donegal author.</i></span>
 
