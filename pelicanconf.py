@@ -27,7 +27,7 @@ RELATIVE_URLS = True
 INDEX_SAVE_AS="blog.html"
 
 THEME = "themes/hyde"
-PROFILE_IMAGE = "headshot.jpg"
+PROFILE_IMAGE = "me.jpg"
 BIO = ("I'm an engineer with an interest in linguistics. I live in Oxford, UK, "
        "and I love learning about phonetics and phonology. I'm particularly interested "
        "in Japanese and Gaelic.<br><br>"
