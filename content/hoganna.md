@@ -84,7 +84,15 @@ Ireland.
 
 What if the name _gráinneóg_ is not cruelly insulting the humble hog, but
 referring to his spines? Macbain (1911) makes this interpretation, literally
-translating _gráinneóg_ as "horrent one".
+translating _gráinneóg_ as "horrent one". "Horrent" was not a word I had in my
+personal lexicon. It is derived from the same Latin root as "horror", and means 
+
+<figure>
+<img src="../images/hoganna/horrent-etymology.svg" alt="Etymology diagram
+showing a shared PIE root for the Latin words for hedgehog and horror. The
+English words horrent and horror are derived from the latter."</img>
+<figcaption></figcaption>
+</figure>
 
 I would suggest that the name is not cruelly insulting the humble
 hog, but referring to his spines.
