@@ -98,22 +98,54 @@ Webster</figcaption>
 
 Also derived from Latin _horreo_ are Romanian and Occitan words for "hate".
 
-Beyond analogy to English and Latin, is there any evidence for _gráinneóg_, a
-word seemingly related to a word for q
+Beyond analogy to English and Latin, is there any evidence for _gráinneóg_,
+seemingly related to a word meaning "hate", being a reference to the hedgehog's
+spines? A little, but nothing definitive.
+
+Sources across Donegal[^urchins] note variants of _gráinneóg_ used for sea urchins. Mac
+Giolla Easpaig (2025) lists _gráinneog_ from Inis Bó Finne, _gráinneog
+fharraige_ from Inis Meáin, _gráinneog sáile_ from Ros Goill, and _gráinneog
+uisce_ from Gaoth Dobhair. Ó hEochaidh & Ó Catháin (1970) gives _gráinneog
+dhearg_, for the red colour of the _Echinus esculentus_. Of course, the term
+"sea urchin" in English uses a word originally used for hedgehogs. These Gaelic
+words could also be comparing the sea creature to the hedgehog. However,
+hedgehogs are thought to have been introduced to Ireland in the 12th or 13th
+Century[^arrival],
+whereas sea urchins are native. Might we assume that sea urchins would
+have an older name, not one derived from a later arrival? Perhaps, but there
+are other names like _cuán mara_ that are in use that could have been
+supplanted.
+
+What about older language? 
 
 
 ## Arkan sonney agus 
 
 ## Bibliography
 
-* B. (1840). An Ghraineog / The Hedgehog. The Irish Penny Journal, 1(21), 166–167. [https://doi.org/10.2307/30001176](https://doi.org/10.2307/30001176)
+* B. (1840). <i>An Ghraineog / The Hedgehog</i>. The Irish Penny Journal, 1(21), 166–167. [https://doi.org/10.2307/30001176](https://doi.org/10.2307/30001176)
 
-* Borsje, J. (1994). The Bruch in the Irish Version of the Sunday Letter. Ériu, 45, 83–98. [http://www.jstor.org/stable/30007713](http://www.jstor.org/stable/30007713)
+* Borsje, J. (1994). <i>The Bruch in the Irish Version of the Sunday Letter</i>. Ériu, 45, 83–98. [http://www.jstor.org/stable/30007713](http://www.jstor.org/stable/30007713)
 
-* [Forvague, S. (1767). A New Catalogue of Vulgar Errors.](https://en.wikisource.org/wiki/A_New_Catalogue_of_Vulgar_Errors)
+* [Forvague, S. (1767). <i>A New Catalogue of Vulgar Errors</i>.](https://en.wikisource.org/wiki/A_New_Catalogue_of_Vulgar_Errors)
+
+* Haigh, A., Butler, F., & O’Riordan, R. M. (2012). <i>Habitat use by the
+European hedgehog (Erinaceus europaeus L., 1758) in an Irish rural
+landscape</i>. The Irish Naturalists’ Journal, 36–45.
+[http://www.jstor.org/stable/24394186](http://www.jstor.org/stable/24394186)
 
 * Macbain, Alexander (1911). [<i>An Etymylogical Dictionary of the Gaelic
   Language</i>](https://archive.org/details/etymologicaldict00macbuoft/page/232/mode/2up). Stirling : Eneas Mackay.
+
+* Mac Giolla Easpaig, Cormac (2025). <i>Fá Bhruach an Chladaigh</i>. Donegal : Éabhlóid
+
+* Montgomery et. al. (2014). <i>Origin of British and Irish mammals: disparate
+  post-glacial colonisation and species introductions</i>. Quaternary Science
+  Reviews, Vol. 98, 144-165
+
+* Ó hEochaidh, Seán & Ó Catháin, Séamas (1970). Foclóir agus Seanchas na
+  Farraige. Zeitschrift für celtische Philologie, 31, 256
+
 
 [^penny]: B. (1840)
 [^suckling]: I am not alone in questioning the anatomical feasibility of
@@ -149,4 +181,8 @@ through it, but an apple would have stayed impaled on each separate hair
 because of the fierce bristling of his hair above his head. 
 </blockquote>
 
-[^spit]: https://www.duchas.ie/ga/cbes/4540666/4362754/4540735
+[^urchins]: I couldn't find any uses of _gráinneóg_ on [duchas.ie](duchas.ie)
+that clearly referred to sea urchins. Other terms are in use and perhaps more
+popular. I couldn't find any sources in Scotland listing it beyond the 
+
+[^arrival]: Montgomery et. al. (2014) and Haigh & O'Riordan (2012)
