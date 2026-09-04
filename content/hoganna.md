@@ -17,7 +17,7 @@ This time, the humble hedgehog has his moment in the spotlight.
     * horrent -- compare with english
     * fenian cycle and grammatical texts
 
-## Gráinneog nó gràineag: not so hateful after all?
+## Gráinneóg nó gràineag: not so hateful after all?
 
 Near-ubiquitous in the returns for the Linguistic Atlas and Survey of Irish
 Dialects is the word _gráinneog_. Only two returns in Ireland offer
@@ -80,25 +80,27 @@ place with apples and brought an apple to the Virgin Mary.]
 </figure>
 
 The hedgehog's social standing generally would seem ambiguous, at least in
-Ireland.
-
-What if the name _gráinneóg_ is not cruelly insulting the humble hog, but
+Ireland. What if the name _gráinneóg_ is not cruelly insulting the humble hog, but
 referring to his spines? Macbain (1911) makes this interpretation, literally
 translating _gráinneóg_ as "horrent one". "Horrent" was not a word I had in my
-personal lexicon. It is derived from the same Latin root as "horror", and means 
+personal lexicon. It is derived from the same Latin root as "horror", and has a
+meaning of bristled, i.e. being covered in bristling points. It derives from
+the same Latin root as "horror" and "horrible". The Latin word for "hedgehog"
+is related, as shown in the etymology diagram below.
 
 <figure>
 <img src="../images/hoganna/horrent-etymology.svg" alt="Etymology diagram
 showing a shared PIE root for the Latin words for hedgehog and horror. The
 English words horrent and horror are derived from the latter."</img>
-<figcaption></figcaption>
+<figcaption>Etymologies and definitions taken from Wiktionary and Merriam
+Webster</figcaption>
 </figure>
 
-I would suggest that the name is not cruelly insulting the humble
-hog, but referring to his spines.
+Also derived from Latin _horreo_ are Romanian and Occitan words for "hate".
 
-A common variant of the name is _gráinneóg fhéir_, "_gráinneóg_ of the grass",
-suggesting other 
+Beyond analogy to English and Latin, is there any evidence for _gráinneóg_, a
+word seemingly related to a word for q
+
 
 ## Arkan sonney agus 
 
