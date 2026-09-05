@@ -84,7 +84,7 @@ Ireland. What if the name _gráinneóg_ is not cruelly insulting the humble hog,
 referring to his spines? Macbain (1911) makes this interpretation, literally
 translating _gráinneóg_ as "horrent one". "Horrent" was not a word I had in my
 personal lexicon. It is derived from the same Latin root as "horror", and has a
-meaning of bristled, i.e. being covered in bristling points. It derives from
+meaning of bristled, i.e. covered in bristling points. It derives from
 the same Latin root as "horror" and "horrible". The Latin word for "hedgehog"
 is related, as shown in the etymology diagram below.
 
@@ -116,8 +116,26 @@ have an older name, not one derived from a later arrival? Perhaps, but there
 are other names like _cuán mara_ that are in use that could have been
 supplanted.
 
-What about older language? 
+What about older language? The Electronic Dictionary of the Irish Language
+tentatively provides a possible alternative meaning for _gráin_ of "spearpoint".
+In 12th century narrative Acallamh na Senórach:
 
+<figure>
+<blockquote>
+ocus ni léicfe gráin na sleigi neme codlad fort<br>
+agus ní ligfidh gráin na sleá nimhe codladh ort<br>
+so shall the point of the spear forbid that sleep fall on thee
+</blockquote>
+<figcaption>Original Middle Irish<br>Modern Irish translation by Pádraig de
+Barra<br>English translation by Standih H. O'Grady. From UCC's <a
+href=https://iso.ucc.ie/Acallamh-senorach/Acallamh-senorach-text.html>Irish
+           Sagas Online</a></figcaption>
+</figure>
+
+However, you can see how this could perhaps be translated as "the horror of the
+spear" also. The other example given in the eDIL is from a Middle Irish
+grammatical tract and has a compound _gráindealgaigh_, from _dealg_,
+meaning prickle, thorn, skewer.
 
 ## Arkan sonney agus 
 
@@ -146,6 +164,7 @@ landscape</i>. The Irish Naturalists’ Journal, 36–45.
 * Ó hEochaidh, Seán & Ó Catháin, Séamas (1970). Foclóir agus Seanchas na
   Farraige. Zeitschrift für celtische Philologie, 31, 256
 
+* Pettit, E. (2021). <i>Finn mac Cumhaill’s Birga ‘Water-Spear.’</i> Studia Hibernica, 47(1), 1–20. https://doi.org/10.3828/sh.2021.1
 
 [^penny]: B. (1840)
 [^suckling]: I am not alone in questioning the anatomical feasibility of
