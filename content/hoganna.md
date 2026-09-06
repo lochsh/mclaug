@@ -116,17 +116,18 @@ assume that sea urchins would have an older name, not one derived from a later
 arrival? Perhaps, but there are other names like _cuán mara_ that are in use
 that could have been supplanted. I will note that it's also common in Donegal
 to refer to hedgehogs with a qualified noun: _gráinneog fhéir_, "_gráinneog_ of
-the grass"[^fheir].
-
+the grass"[^fheir]. On the surface this does suggest some shared meaning not
+specific to the land creature, but nevertheless the origin remains unclear.
 
 What about older language? The Electronic Dictionary of the Irish Language
 tentatively provides a possible alternative meaning for _gráin_ of "spearpoint".
-In 12th century narrative Acallamh na Senórach:
+It is used in the In 12th century narrative Acallamh na Senórach, part of the
+Fenian Cycle:
 
 <figure>
 <blockquote>
-ocus ni léicfe gráin na sleigi neme codlad fort<br>
-agus ní ligfidh gráin na sleá nimhe codladh ort<br>
+ocus ni léicfe gráin na sleigi neme codlad fort<br><br>
+agus ní ligfidh gráin na sleá nimhe codladh ort<br><br>
 so shall the point of the spear forbid that sleep fall on thee
 </blockquote>
 <figcaption>Original Middle Irish<br>Modern Irish translation by Pádraig de
@@ -135,10 +136,21 @@ href=https://iso.ucc.ie/Acallamh-senorach/Acallamh-senorach-text.html>Irish
            Sagas Online</a></figcaption>
 </figure>
 
-However, you can see how this could perhaps be translated as "the horror of the
-spear" also. The other example given in the eDIL is from a Middle Irish
-grammatical tract and has a compound _gráindealgaigh_, from _dealg_,
-meaning prickle, thorn, skewer.
+However, you can see how this could perhaps be translated as "the
+horror/awfulness of the spear" also. The other example given in the eDIL is
+from a Middle Irish grammatical tract and has a compound _gráindealgaigh_, from
+_dealg_, meaning prickle, thorn, skewer.
+
+Not cited in the eDIL is the use of _gráin catha_ for caltrops. I have seen
+this interpreted as "battle grains", perhaps because they are thrown to the
+ground as one might do when sowing seeds. Their spikiness caught my eye, but if
+the literal meaning was "battle spikes" perhaps we'd expect _gráineacha_ or
+another plural form.
+
+<figure>
+<img src="../images/hoganna/caltrops.jpg">
+<figcaption><a href=https://en.wikipedia.org/wiki/Caltrop#/media/File:Drevnosti_RG_v3_ill130c_-_Caltrop.jpg>16th Century caltrops</a></figcaptoin>
+</figure>
 
 ## Arkan sonney agus 
 
