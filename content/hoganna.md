@@ -5,17 +5,11 @@ Date: 5th September 2026
 I am continuing the theme of researching the creatures that live in my garden.
 This time, the humble hedgehog has his moment in the spotlight.
 
-
-* Gráinneog
-    * usage area
-    * little hatred?
-    * lore:
-        * being burned for fun
-        * stealing milk
-        * sacred?
-        * forward mention to lucky piglet
-    * horrent -- compare with english
-    * fenian cycle and grammatical texts
+<figure>
+<img src="../images/hoganna/hog.jpg" alt="A hedgehog in my garden at night
+time">
+<figcaption>A recent visitor to my garden</figcaption>
+</figure>
 
 ## Gráinneóg nó gràineag: not so hateful after all?
 
@@ -230,12 +224,11 @@ saying it was recorded in Donegal), as referring to a lapcock of hay. The noun
 is used unqualified for the same meaning in [this Mayo
 source](https://www.irishlanguageincountymayo.com/farming-life-2). I'm not sure
 what to make of this in terms of hedgehog etymology. This summer I seen
-lapcocks near Maghera beach near Ardara. My mother told me this is how they
-used to do it in Townawilly too. The hay had been rolled into small
+laps near Maghera beach near Ardara. The hay had been rolled into small
 cones, not piled into a large mound. I suppose they're a little spiky at the
 top...and they're rolled. But no obvious relation to the hedgehog comes to
 mind. I am reminded of [this
 entry](https://www.faclair.com/ViewDictionaryEntry.aspx?ID=E8D44FE3A48A1AD02ADAEF172D5C69D1)
-in Dinneen's dictionary, though I don't think it relevant.
+in Dwelly's dictionary, though I don't think it relevant.
 
 [^arrival]: Montgomery et. al. (2014) and Haigh & O'Riordan (2012)
