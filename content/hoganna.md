@@ -106,15 +106,18 @@ Sources across Donegal[^urchins] note variants of _gráinneóg_ used for sea urc
 Giolla Easpaig (2025) lists _gráinneog_ from Inis Bó Finne, _gráinneog
 fharraige_ from Inis Meáin, _gráinneog sáile_ from Ros Goill, and _gráinneog
 uisce_ from Gaoth Dobhair. Ó hEochaidh & Ó Catháin (1970) gives _gráinneog
-dhearg_, for the red colour of the _Echinus esculentus_. Of course, the term
-"sea urchin" in English uses a word originally used for hedgehogs. These Gaelic
-words could also be comparing the sea creature to the hedgehog. However,
-hedgehogs are thought to have been introduced to Ireland in the 12th or 13th
-Century[^arrival],
-whereas sea urchins are native. Might we assume that sea urchins would
-have an older name, not one derived from a later arrival? Perhaps, but there
-are other names like _cuán mara_ that are in use that could have been
-supplanted.
+dhearg_, for the red colour of the _Echinus esculentus_.
+
+Of course, the term "sea urchin" in English uses a word originally used for
+hedgehogs. These Gaelic words could also be comparing the sea creature to the
+hedgehog. However, hedgehogs are thought to have been introduced to Ireland in
+the 12th or 13th Century[^arrival], whereas sea urchins are native. Might we
+assume that sea urchins would have an older name, not one derived from a later
+arrival? Perhaps, but there are other names like _cuán mara_ that are in use
+that could have been supplanted. I will note that it's also common in Donegal
+to refer to hedgehogs with a qualified noun: _gráinneog fhéir_, "_gráinneog_ of
+the grass"[^fheir].
+
 
 What about older language? The Electronic Dictionary of the Irish Language
 tentatively provides a possible alternative meaning for _gráin_ of "spearpoint".
@@ -154,6 +157,9 @@ landscape</i>. The Irish Naturalists’ Journal, 36–45.
 
 * Macbain, Alexander (1911). [<i>An Etymylogical Dictionary of the Gaelic
   Language</i>](https://archive.org/details/etymologicaldict00macbuoft/page/232/mode/2up). Stirling : Eneas Mackay.
+
+* Mac Giolla Chearna, P. (1940). <i>Ceachta as Leabhar na Cruinne</i>. Baile
+  Átha Cliath : Oifig an tSoláthair.
 
 * Mac Giolla Easpaig, Cormac (2025). <i>Fá Bhruach an Chladaigh</i>. Donegal : Éabhlóid
 
@@ -197,11 +203,27 @@ His hair curled about his head like branches of red hawthorn used to
 re-fence a gap in a hedge. If a noble apple-tree weighed down with fruit had
 been shaken about his hair, scarcely one apple would have reached the ground
 through it, but an apple would have stayed impaled on each separate hair
-because of the fierce bristling of his hair above his head. 
+because of the fierce bristling of his hair above his head.
 </blockquote>
 
 [^urchins]: I couldn't find any uses of _gráinneóg_ on [duchas.ie](duchas.ie)
 that clearly referred to sea urchins. Other terms are in use and perhaps more
 popular. I couldn't find any sources in Scotland listing it beyond the 
+
+[^fheir]: LASID points 71, 74a, 75, 77, 78, 80-86, 86a; a variety of
+sources in The Schools' Collection; Mac Giolla Cearna (1940) p. 96. LASID point
+67 (Rathlin Island) also records this. I will note that
+_gráineog fhéir_ has also been recorded, e.g. in Dinneen's dictionary (with a note
+saying it was recorded in Donegal), as referring to a lapcock of hay. The noun
+is used unqualified for the same meaning in [this Mayo
+source](https://www.irishlanguageincountymayo.com/farming-life-2). I'm not sure
+what to make of this in terms of hedgehog etymology. This summer I seen
+lapcocks near Maghera beach near Ardara. My mother told me this is how they
+used to do it in Townawilly too. The hay had been rolled into small
+cones, not piled into a large mound. I suppose they're a little spiky at the
+top...and they're rolled. But no obvious relation to the hedgehog comes to
+mind. I am reminded of [this
+entry](https://www.faclair.com/ViewDictionaryEntry.aspx?ID=E8D44FE3A48A1AD02ADAEF172D5C69D1)
+in Dinneen's dictionary, though I don't think it relevant.
 
 [^arrival]: Montgomery et. al. (2014) and Haigh & O'Riordan (2012)
