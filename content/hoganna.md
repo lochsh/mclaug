@@ -255,15 +255,57 @@ and [Strathglass](https://dasg.ac.uk/fieldwork/view/S2Vzc29ja0dNb3NzcGVyc29uYWxt
 Also recorded [in North
 Argyll](https://dasg.ac.uk/audio/view/s/crc/GU_North_Argyll) is _duircean
 garraidh_. The word _duircean_ (or _dearcán_) is variously used for acorns,
-pinecones, thistles. Comparing the hedgehog to pinecones is charming, but I
-wonder if this might be a mistranscription. As it appears with the definite
+pinecones, thistle-heads. Comparing the hedgehog to pinecones is charming, but
+I wonder if this might be a mistranscription. As it appears with the definite
 article, perhaps _an t-uircean garraidh_ might have been what was said? The
 initial plosive doesn't sound aspirated to me, however, though the recording is
 noisy.
 
-## Púitín TODO
+## Púicín or púitín: a mystery
+In Ring, County Waterford, the LASID records two words for hedgehog:
+<span class=ipa>**grɑːˈN′uːg**</span> (_gráinneóg_), and the transcription <span
+class=ipa>**puːˈţ′iːn′**</span>. The <span class=ipa>**ţ′**</span> sound is described as
+being intermediate between <span class=ipa>t′</span> and <span
+class=ipa>k′</span>, hence I would guess this would be written
+either _púicín_ or _púitín_.
 
-## Alp luachra? TODO
+I have found no other usage of this word for hedgehog. _Púicín_ has variously
+been recorded for a blindfold or [a game involving
+one](https://www.duchas.ie/en/cbes/4622992/4621781/4629728), or similarly
+[a cloth muzzle](https://www.duchas.ie/en/cbes/4921764/4904949/5177752),
+a [young donkey](https://www.duchas.ie/ga/cbes/4569053/4567105/4574493) (because his hair is in his eyes, like a blindfold), a
+[sparrowhawk or kite](https://www.logainm.ie/en/9932), a [type of opening in a kiln](https://www.duchas.ie/ga/cbes/4701705/4694419/4760452).  _Púitín_ is harder to find examples of but is recorded in a few places for a
+[hole in a fence for sheep to pass
+through](https://www.duchas.ie/ga/cbes/4569053/4567100/4574493), or the opening of a kiln again
+(though both commonly without the fada on the u). I _think_ it refers to an
+ant-hill in [this
+riddle](https://www.duchas.ie/en/cbes/4583354/4582364/4592360) with the answer
+_púitín siogháin_, spelt _púthrín siongán_ in this
+[example](https://www.duchas.ie/en/cbes/4602696/4595737/4606469).
+
+None of the above examples bring a hedgehog to mind. Perhaps _púicín_ is a
+diminutive of _púca_, and the púca was said to take the hedgehog's shape.
+
+## Alp luachra: an error?
+Another mystery from the LASID comes from point 31, at Newbridge in Roscommon.
+Wagner notes "There are only a very few people left in this area who know some
+Irish. Our informant could not speak it fluently." Perhaps this can explain why
+the informant gave <span class=ipa>,alʰp ˈluəxrə,</span> for the hedgehog,
+apparently _alp luachra_. This term usually refers to the newt, believed to
+crawl down the throats of people who laid down to rest in fields, where they
+would eat the person's food as it entered their stomach, leaving them to waste.
+The _alp luachra_ is only drawn out by eating lots of salted meat, to make them
+thirsty, then lying with mouth open by a river to draw out the thirsty lizards.
+A bilingual account of this tale can be found in Hyde (1890).
+
+The spiky hedgehog seems less capable of slipping stealthily down someone's
+throat. But what of the term itself? _Luachra_ means "of the rushes". As a
+verb, _alp_ can mean "devour, swallow whole"; as a noun, "lump, chunk, knob",
+or an alternative form of _earc_ meaning "lizard".
+
+I suppose a comparison of a hedgehog's spines to rushes is not preposterous
+&ndash; is it being called a lump of rushes? I still think it more likely that
+the informant made a mistake.
 
 ## Rutha
 This is a word I have found used for hedgehogs only in dictionary-type sources.
@@ -449,6 +491,9 @@ Groundhog Day.
 European hedgehog (Erinaceus europaeus L., 1758) in an Irish rural
 landscape</i>. The Irish Naturalists’ Journal, 36–45.
 [http://www.jstor.org/stable/24394186](http://www.jstor.org/stable/24394186)
+
+* Hyde, D. (ed. & trans.) (1890). [<i>Beside the Fire: A Collection of Irish Gaelic Folk
+  Stories</i>](https://digital.nls.uk/dcn6/7624/76243704.6.pdf). David Nutt : London.
 
 * Macbain, Alexander (1911). [<i>An Etymylogical Dictionary of the Gaelic
   Language</i>](https://archive.org/details/etymologicaldict00macbuoft/page/232/mode/2up). Stirling : Eneas Mackay.
