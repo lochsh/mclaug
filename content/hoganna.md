@@ -578,7 +578,7 @@ Groundhog Day.
   insects, reptiles, etc.</i>](https://archive.org/details/gaelicnamesofbea00forb/page/406/mode/2up).
   Edinburgh : Oliver and Boyd : Norman Macleod.
 
-* [Forvague, S. (1767). <i>A New Catalogue of Vulgar Errors</i>.](https://en.wikisource.org/wiki/A_New_Catalogue_of_Vulgar_Errors)
+* Forvague, S. (1767). [<i>A New Catalogue of Vulgar Errors</i>.](https://en.wikisource.org/wiki/A_New_Catalogue_of_Vulgar_Errors)
 
 * Gannon, P. (Ed.) (1999). <i>The Way It Was</i>. Galway.
 
@@ -610,7 +610,7 @@ landscape</i>. The Irish Naturalists’ Journal, 36–45.
   Farraige</i>. Zeitschrift für celtische Philologie, 31, 256
 
 * Roeder, K. (1904). <i>Manx Notes and Queries</i>. Douglas : S.K. Broadbent
- & Co. Ltd. [[Online edition](https://www.isle-of-man.com/manxnotebook/fulltext/mnq1904/n134.htm)
+ & Co. Ltd. [[Online edition]](https://www.isle-of-man.com/manxnotebook/fulltext/mnq1904/n134.htm)
 
 [^penny]: B. (1840)
 [^suckling]: I am not alone in questioning the anatomical feasibility of
@@ -663,16 +663,11 @@ gráinneog of the sea [water]; _gráinneog uisce_ = _gráinneog_ of the water
 sources in The Schools' Collection; Mac Giolla Cearna (1940) p. 96. LASID point
 67 (Rathlin Island) also records this. I will note that
 _gráineog fhéir_ has also been recorded, e.g. in Dinneen's dictionary (with a note
-saying it was recorded in Donegal), as referring to a lapcock of hay. The noun
-is used unqualified for the same meaning in [this Mayo
-source](https://www.irishlanguageincountymayo.com/farming-life-2). I'm not sure
-what to make of this in terms of hedgehog etymology. This summer I seen
-laps near Maghera beach near Ardara. The hay had been rolled into small
-cones, not piled into a large mound. I suppose they're a little spiky at the
-top...and they're rolled. But no obvious relation to the hedgehog comes to
-mind. I am reminded of [this
+saying it was recorded in Donegal), as referring to a lapcock of hay. More on
+this above. It did remind me of [this
 entry](https://www.faclair.com/ViewDictionaryEntry.aspx?ID=E8D44FE3A48A1AD02ADAEF172D5C69D1)
-in Dwelly's dictionary, though I don't think it relevant.
+in Dwelly's dictionary describing tufts of grain left so as not to disturb
+hedgehogs, though it doesn't seem relevant.
 
 [^edil]: The other example given in the eDIL is from a Middle Irish grammatical
 tract and has a compound _gráindealgaigh_, from _dealg_, meaning prickle,
