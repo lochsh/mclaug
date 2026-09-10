@@ -253,8 +253,10 @@ Also recorded [in North
 Argyll](https://dasg.ac.uk/audio/view/s/crc/GU_North_Argyll) is _duircean
 garraidh_. The word _duircean_ (or _dearcán_) is variously used for acorns,
 pinecones, thistles. Comparing the hedgehog to pinecones is charming, but I
-think this might be a mistranscription. As it appears with the definite
-article, perhaps _an t-uircean garraidh_ might have been what was said?
+wonder if this might be a mistranscription. As it appears with the definite
+article, perhaps _an t-uircean garraidh_ might have been what was said? The
+initial plosive doesn't sound aspirated to me, however, though the recording is
+noisy.
 
 ### Rutha
 This is a word I have found used for hedgehogs only in dictionary-type sources.
