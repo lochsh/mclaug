@@ -8,7 +8,7 @@ This time, the humble hedgehog has his moment in the spotlight.
 <figure>
 <img src="../images/hoganna/hog.jpg" alt="A hedgehog in my garden at night
 time">
-<figcaption>A recent visitor to my garden</figcaption>
+<figcaption><i>A recent visitor to my garden</i></figcaption>
 </figure>
 
 ## Gráinneóg nó gràineag: not so hateful after all?
@@ -56,10 +56,10 @@ the hedgehog seemingly being considered holy:
 Once Our Lord got hungry and the "gráinnóg" taking pity on him went to him and on every one of his thorns grew an apple which he gave to our Lord. He blessed the little animal and ever since it is said it is a sin to kill him.
   </blockquote>
   <figcaption><a
-  href=https://www.duchas.ie/en/cbes/4427847/4350261/4449627)>The Schools’
+  href=https://www.duchas.ie/en/cbes/4427847/4350261/4449627)><i>The Schools’
   Collection, Volume 0098, Page 075</a>. A mere 20 km away, a custom of
   <a href=https://www.duchas.ie/ga/cbes/4540666/4362754/4540735>spitting at
-                hedgehogs</a> you pass is recorded, however.
+                hedgehogs</a> you pass is recorded, however.</i>
 </figcaption>
 </figure>
 
@@ -70,7 +70,9 @@ a raibh ubhlaí agus gur thug sí ubhall ar gach buir uirthe chuig an Mhaighdean
 Muire. [It is said that the hedgehog is blessed because it rubbed itself in a
 place with apples and brought an apple to the Virgin Mary.]
 </blockquote>
-<figcaption><a href=https://www.duchas.ie/en/cbes/4566083/4565667/4573393>The Schools’ Collection, Volume 0032, Page 0211</a>
+<figcaption><a
+href=https://www.duchas.ie/en/cbes/4566083/4565667/4573393><i>The Schools’
+Collection, Volume 0032, Page 0211</i></a>
 </figure>
 
 The hedgehog's social standing generally would seem ambiguous, at least in
@@ -86,8 +88,8 @@ is related, as shown in the etymology diagram below.
 <img src="../images/hoganna/horrent-etymology.svg" alt="Etymology diagram
 showing a shared PIE root for the Latin words for hedgehog and horror. The
 English words horrent and horror are derived from the latter."</img>
-<figcaption>Etymologies and definitions taken from Wiktionary and Merriam
-Webster</figcaption>
+<figcaption><i>Etymologies and definitions taken from Wiktionary and Merriam
+Webster</i></figcaption>
 </figure>
 
 Also derived from Latin _horreo_ are Romanian and Occitan words for "hate".
@@ -111,7 +113,7 @@ arrival? Perhaps, but there are other names like _cuán mara_ that are in use
 that could have been supplanted. I will note that it's also common in Donegal
 to refer to hedgehogs with a qualified noun: _gráinneog fhéir_, "_gráinneog_ of
 the grass"[^fheir]. On the surface this does suggest some shared meaning not
-specific to the land creature, but nevertheless the origin remains unclear.
+specific to the land creature.
 
 What about older language? The Electronic Dictionary of the Irish Language
 tentatively provides a possible alternative meaning for _gráin_ of "spearpoint".
@@ -124,26 +126,44 @@ ocus ni léicfe gráin na sleigi neme codlad fort<br><br>
 agus ní ligfidh gráin na sleá nimhe codladh ort<br><br>
 so shall the point of the spear forbid that sleep fall on thee
 </blockquote>
-<figcaption>Original Middle Irish<br>Modern Irish translation by Pádraig de
+<figcaption><i>Original Middle Irish<br>Modern Irish translation by Pádraig de
 Barra<br>English translation by Standih H. O'Grady. From UCC's <a
 href=https://iso.ucc.ie/Acallamh-senorach/Acallamh-senorach-text.html>Irish
-           Sagas Online</a></figcaption>
+           Sagas Online</i></a></figcaption>
 </figure>
 
 However, you can see how this could perhaps be translated as "the
-horror/awfulness of the spear" also. The other example given in the eDIL is
-from a Middle Irish grammatical tract and has a compound _gráindealgaigh_, from
-_dealg_, meaning prickle, thorn, skewer.
+horror/awfulness of the spear" also[^edil].
 
-Not cited in the eDIL is the use of _gráin catha_ for caltrops. I have seen
-this interpreted as "battle grains", perhaps because they are thrown to the
-ground as one might do when sowing seeds. Their spikiness caught my eye, but if
-the literal meaning was "battle spikes" perhaps we'd expect _gráineacha_ or
-another plural form.
+Another use of the word _gráinneog_ mostly recorded in Connacht[^cocks]
+is for lapcocks, the first gatherings of cut hay. I have seen and heard various
+descriptions of how these are made. My mother recalls the "lapping" in Donegal
+involving making small piles of hay that had to be turned regularly. Once
+dried, they were made into stacks. Written accounts describe "a method of
+rolling the hay in batches and setting on dry bits of ground with the least
+amount of hay touching the ground as possible", and varyingly are described as
+being "rolled up in such a way as to form conical heaps" or "when well made,
+[having] the appearance of a round ball, flattened a little beneath". TODO
+citations. It is not immediately clear how this might be related to the
+hedgehog. LASID point 20 (Dún Chaoin) gives _dreas-chocaí_ for haycocks,
+seemingly describing the cocks as thorny (from _dreas_ or _dris_ meaning briar
+or thorny plant). But why they would be thorny is unclear to me. Ultimately,
+this agricultural usage has not brought us closer to understanding
+the etymology.
+
+We can, however, consider another agricultural topic: grain. The nominative
+plural of the word _grán_, meaning "grain", is _gráin_[^plural]. Might we
+analyse _gráinneóg_ as comparing the hedgehog's spines to grain seeds? The
+plural form would make sense, given the hedgehog's many spines. It wouldn't be
+the only time _grán_ has been used analogously for small spiky things. _Gráin
+catha_ refers to caltrops, though perhaps because they are thrown to the ground
+as one might do when sowing seeds.
 
 <figure>
 <img src="../images/hoganna/caltrops.jpg">
-<figcaption><a href=https://en.wikipedia.org/wiki/Caltrop#/media/File:Drevnosti_RG_v3_ill130c_-_Caltrop.jpg>16th Century caltrops</a></figcaptoin>
+<figcaption><a
+href=https://en.wikipedia.org/wiki/Caltrop#/media/File:Drevnosti_RG_v3_ill130c_-_Caltrop.jpg><i>16th
+   Century caltrops</i></a></figcaption>
 </figure>
 
 ## Arkan sonney agus 
@@ -155,6 +175,8 @@ another plural form.
 * Borsje, J. (1994). <i>The Bruch in the Irish Version of the Sunday Letter</i>. Ériu, 45, 83–98. [http://www.jstor.org/stable/30007713](http://www.jstor.org/stable/30007713)
 
 * [Forvague, S. (1767). <i>A New Catalogue of Vulgar Errors</i>.](https://en.wikisource.org/wiki/A_New_Catalogue_of_Vulgar_Errors)
+
+* Gannon, P. (Ed.) (1999). <i>The Way It Was</i>. Galway.
 
 * Haigh, A., Butler, F., & O’Riordan, R. M. (2012). <i>Habitat use by the
 European hedgehog (Erinaceus europaeus L., 1758) in an Irish rural
@@ -214,7 +236,13 @@ because of the fierce bristling of his hair above his head.
 
 [^urchins]: I couldn't find any uses of _gráinneóg_ on [duchas.ie](duchas.ie)
 that clearly referred to sea urchins. Other terms are in use and perhaps more
-popular. I couldn't find any sources in Scotland listing it beyond the 
+popular. I couldn't find any sources in Scotland using the word for sea
+urchins beyond [this dictionary
+entry](https://www.faclair.com/ViewEntry.aspx?ID=B1DD7244E3B016E3BA937440355F4BD5),
+though it does not appear in Dwelly's dictionary so I'm not sure where it's
+sourced from.
+
+[^arrival]: Montgomery et. al. (2014) and Haigh & O'Riordan (2012)
 
 [^fheir]: LASID points 71, 74a, 75, 77, 78, 80-86, 86a; a variety of
 sources in The Schools' Collection; Mac Giolla Cearna (1940) p. 96. LASID point
@@ -231,4 +259,14 @@ mind. I am reminded of [this
 entry](https://www.faclair.com/ViewDictionaryEntry.aspx?ID=E8D44FE3A48A1AD02ADAEF172D5C69D1)
 in Dwelly's dictionary, though I don't think it relevant.
 
-[^arrival]: Montgomery et. al. (2014) and Haigh & O'Riordan (2012)
+[^edil]: The other example given in the eDIL is from a Middle Irish grammatical
+tract and has a compound _gráindealgaigh_, from _dealg_, meaning prickle,
+thorn, skewer. However, I do not understand the rest of the sentence.
+
+[^cocks]: Gannon (1999); LASID points 54 (Acaill) and 55 (Dumha Thuama). Also
+listed on this
+[website](https://www.irishlanguageincountymayo.com/farming-life-2) dedicated
+to the Irish language in County Mayo. Dinneen also lists _gráineog fhéir_ for
+the same meaning, but gives Donegal as the place it was recorded.
+
+[^plural]: Modern dictionaries say this word has no plural but it is attested.
