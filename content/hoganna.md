@@ -95,7 +95,7 @@ Regardless of the source of animosity, the hedgehog's historical social standing
 would seem ambiguous, at least in Ireland.  Might we
 consider that _gráinneóg_ may not be cruelly insulting the humble hog, but
 instead referring to his spines? Macbain (1911) makes this interpretation,
-literally translating _gráinneóg_ as "horrent one". "Horrent" was not a
+literally translating _gràineag_ as "horrent one". "Horrent" was not a
 word I had in my personal lexicon. It is derived from the same Latin
 root as "horror", and has a meaning of bristled, i.e. covered in
 bristling points. It derives from the same Latin root as "horror" and
@@ -175,8 +175,8 @@ plural of the word _grán_, meaning "grain", is _gráin_[^plural]. Might we
 analyse _gráinneóg_ as comparing the hedgehog's spines to grain seeds? The
 plural form would make sense, given the hedgehog's many spines. It wouldn't be
 the only time _grán_ has been used analogously for small spiky things. _Gráin
-catha_ refers to caltrops, though perhaps because they are thrown to the ground
-as one might do when sowing seeds.
+catha_ ("battle grains") refers to caltrops, though perhaps because they are
+thrown to the ground as one might do when sowing seeds[^caltrops].
 
 <figure>
 <img src="../images/hoganna/caltrops.jpg">
@@ -185,13 +185,18 @@ href=https://en.wikipedia.org/wiki/Caltrop#/media/File:Drevnosti_RG_v3_ill130c_-
    Century caltrops</i></a></figcaption>
 </figure>
 
-It seems less likely that sea urchins would be compared in this way, however.
+It seems less likely that sea urchins would be compared to grains in this way,
+however.
 
 Ultimately, the origin of the term _gráinneog_ is unclear, but I personally
 enjoy the idea of it referring to the hedgehog's spines, whether by comparing
 them to grains or describing them with a generic word for spikes.
 
-## Arkan sonney agus 
+## Arkan sonney
+
+## Uircean garraidh
+
+## Duircean garraidh
 
 ## Bibliography
 
@@ -301,3 +306,7 @@ to the Irish language in County Mayo. Dinneen also lists _gráineog fhéir_ for
 the same meaning, but gives Donegal as the place it was recorded.
 
 [^plural]: Modern dictionaries say this word has no plural but it is attested.
+
+[^caltrops]: I did consider whether _gráin catha_ was referring to the spikes,
+rather than comparing to grains, but I'd expect a different plural form like
+_gráineacha_ perhaps.
