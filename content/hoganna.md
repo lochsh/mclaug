@@ -237,10 +237,13 @@ Jeremy, who collects coins from visitors for the hospital funds". Alas, a
 photograph is not included &ndash; if any Manx (or otherwise) readers are able
 to provide one, I would love to see the lucky piggybank.
 
-While I could find no similar lore in Ireland or Scotland, I did find some weak
-attestation of _uircean sona_ in Scotland. It is listed in Forbes (1905). It is
-also published in a list of Gaelic words for animals in the Oban Times in 1902
-but no author is given; it may well be Forbes.
+While I could find no similar lore in Ireland or Scotland, the term _uircean
+sona_ is listed in Forbes (1905). It is not clear if his collection of Gaelic
+animal names  is pan-Gaelic or meant to be specifically collected from his
+native Scotland &ndash; he might have just been listing the term he'd heard
+used on Man.  _Uircean sona_ is also published in a list of Gaelic words for
+animals in the Oban Times in 1902 but no author is given; it may well be
+Forbes.
 
 ## Uircean garraidh...no duircean garraidh?
 
@@ -258,7 +261,11 @@ article, perhaps _an t-uircean garraidh_ might have been what was said? The
 initial plosive doesn't sound aspirated to me, however, though the recording is
 noisy.
 
-### Rutha
+## Púitín TODO
+
+## Alp luachra? TODO
+
+## Rutha
 This is a word I have found used for hedgehogs only in dictionary-type sources.
 Dinneen's 1904 dictionary and Forbes (1905) list it. Dinneen also translates it
 as "thornback" (Raja clavata), a fish with a thorny tale. It appears to be used
@@ -267,7 +274,7 @@ Galway](https://www.duchas.ie/ga/cbes/4569043/4566321/4574308?HighlightText=ruth
 Clearly the name refers to spikiness, or it would not be shared by these very
 different creatures. Beyond this, I have no knowledge to offer.
 
-### Gruin nó griun
+## Gruin nó griun
 
 Perhaps this is the oldest word listed here. It appears in [O'Clery's Glossary
 of 1643](https://dasg.ac.uk/audio/view/s/crc/GU_North_Argyll) as _griun_ where
@@ -280,6 +287,141 @@ Strathglass](https://dasg.ac.uk/fieldwork/view/S2Vzc29ja0dNb3NzcGVyc29uYWxtaXNjf
 I can't help but notice this words superficial similarity to _gráin_. Could
 _gráinneog_ be related to some older, lost word? I have no justification for
 the change in vowel, but the prospect is intriguing.
+
+## Appendices
+
+### The hedgehog and the Holy Family
+
+The hedgehog helping Jesus in the desert/when he was hungry:
+
+* [In Kilkenny](https://www.duchas.ie/en/cbes/4758557/4754519/5012636)
+* [In Mayo](https://www.duchas.ie/en/cbes/4427847/4350261/4449627)
+
+The hedgehog present at the birth of Christ:
+
+* [In Mayo](https://www.duchas.ie/ga/cbes/5215813/5214685)
+* [In Mayo, same place as * above](https://www.duchas.ie/ga/cbes/5215813/5215262)
+
+The hedgehog bringing apples to Mary:
+
+* [In Galway](https://www.duchas.ie/en/cbes/4566083/4565667/4573393)
+* [In Waterford](https://www.duchas.ie/en/cbes/4428147/4381857/4457890)
+
+### Hedgehog cures
+
+#### Boiling hedgehogs and drinking the soup (or eating the flesh) to cure whooping cough
+
+* In Ulster
+    * In Cavan
+        * [https://www.duchas.ie/en/cbes/5070796/5064656/5096240](https://www.duchas.ie/en/cbes/5070796/5064656/5096240)
+* In Connacht
+    * In Galway
+        * <https://www.duchas.ie/ga/cbes/4569068/4568655/4575275>
+        * <https://www.duchas.ie/ga/cbes/4569068/4568656/4575280>
+        * <https://www.duchas.ie/en/cbes/4569068/4568654/4575273>
+        * <https://www.duchas.ie/ga/cbes/4583301/4577775/4586801>
+        * <https://www.duchas.ie/en/cbes/4562124/4561501/4571887>
+        * <https://www.duchas.ie/en/cbes/4649680/4646117/4650673>
+        * <https://www.duchas.ie/ga/cbes/4583273/4575571/4591365>
+        * <https://www.duchas.ie/en/cbes/4583273/4575564/4591348>
+        * <https://www.duchas.ie/en/cbes/4622999/4622271/4630006>
+        * <https://www.duchas.ie/en/cbes/4569055/4567381/4574661>
+        * <https://www.duchas.ie/en/cbes/4569052/4567041/4574385>
+        * <https://www.duchas.ie/en/cbes/4613673/4607203/4624156>
+        * <https://www.duchas.ie/en/cbes/4569049/4566701/4573192>
+        * <https://www.duchas.ie/en/cbes/4566057/4563101>
+        * <https://www.duchas.ie/en/cbes/4602674/4594369>
+    * In Mayo
+        * <https://www.duchas.ie/en/cbes/4427841/4349471/4440594>
+    * In Roscommon
+        * <https://www.duchas.ie/en/cbes/4798665/4788419/4823683>
+        * <https://www.duchas.ie/en/cbes/4798694/4790705/4823556>
+        * <https://www.duchas.ie/en/cbes/4798676/4789426/4922495>
+        * <https://www.duchas.ie/en/cbes/4798724/4793574/4926411>
+    * In Leitrim
+        * <https://www.duchas.ie/en/cbes/4605956/4605721/4644632>
+* In Munster
+    * In Clare
+        * <https://www.duchas.ie/en/cbes/4922324/4870191/4933669>
+        * <https://www.duchas.ie/en/cbes/4922322/4870032/5055112>
+        * <https://www.duchas.ie/en/cbes/4922323/4870131/4933232>
+* In Leinster
+    * In Meath
+        * <https://www.duchas.ie/en/cbes/5008991/4974714/5112170>
+        * <https://www.duchas.ie/en/cbes/5008968/4971906/5111657>
+
+
+#### Cures for toothache involving the hedgehog's jaw or teeth:
+
+* In Connacht
+    * In Leitrim
+        * <https://www.duchas.ie/en/cbes/4605947/4604879/4652173>
+        * <https://www.duchas.ie/en/cbes/4602725/4598549/4627163>
+    * In Sligo
+        * <https://www.duchas.ie/en/cbes/4701691/4693026/4743856>
+    * In Roscommon
+        * <https://www.duchas.ie/en/cbes/4798657/4787556/4822619>
+* In Munster
+    * In Waterford
+        * <https://www.duchas.ie/en/cbes/4428084/4376467/4499823>
+    * In Tipperary
+        * <https://www.duchas.ie/en/cbes/4922264/4865457/5054373>
+    * In Cork
+        * <https://www.duchas.ie/en/cbes/4921605/4884196/5149642>
+    * In Kerry
+        * <https://www.duchas.ie/en/cbes/4742111/4736949/4817128>
+        * <https://www.duchas.ie/en/cbes/4687695/4684702/4689402>
+        * <https://www.duchas.ie/en/cbes/4666584/4664009/4668036>
+        * <https://www.duchas.ie/en/cbes/4687694/4684443/4927266>
+* In Leinster
+    * In Wicklow
+        * <https://www.duchas.ie/en/cbes/5044737/5035347/5136056>
+    * In Carlow
+        * <https://www.duchas.ie/en/cbes/5044685/5031912/5145705>
+
+A cure for toothache involving the hedgehog jaw is also recorded in 1794
+collection of cures [Sean-oideasaí Leighis](https://corpas.ria.ie/index.php?fsg_function=3&fsg_id=373).
+
+#### The fat of the hedgehog as a cure for deafness
+
+* In Munster
+    * In Limerick
+        * <https://www.duchas.ie/en/cbes/4922044/4846924/4952413>
+    * In Kerry
+        * <https://www.duchas.ie/en/cbes/4666592/4664829/4668525>
+        * <https://www.duchas.ie/en/cbes/4613715/4611634/4659544>
+* In Leinster
+    * In Kilkenny
+        * <https://www.duchas.ie/en/cbes/4758556/4754321/4931444>
+
+#### Cures involving hedgehog spines
+
+* In Ulster
+    * In Donegal
+        * [for toothache](https://www.duchas.ie/en/cbes/4428334/4396329/44861600)
+        * [toothache, pull three spines from hedgehog with mouth](https://www.duchas.ie/ga/cbes/4428317/4394484/4480899)
+        * [same as above](https://www.duchas.ie/ga/cbes/4428319/4394397/4481375)
+        * [taking a bite of hedgehog spine, for unclear ailment](https://www.duchas.ie/en/cbes/4428326/4395301)
+* In Connacht
+    * In Mayo
+        * <https://www.duchas.ie/en/cbes/4428007/4367528/4549242>
+* In Leinster
+    * Louth
+        * [If you pull three spines out of a live hedgehog with your teeth you will never suffer from the toothache.](https://www.duchas.ie/en/cbes/5008822/4959049/5071874)
+    * In Westmeath
+        * [A thorn taken from a grannóg and put to the ear, while saying a prayer. In the name of the Father, and off the Son and of the Holy Ghost.](https://www.duchas.ie/en/cbes/5009098/4986234/5120654)
+
+### The hedgehog coming out of his hole on St Bridget's Day
+
+This is tradition travelled from Europe to America where it has become known as
+Groundhog Day.
+
+* [In Mayo, St Bridget's Day](https://www.duchas.ie/ga/cbes/5215813/5215072/5238731)
+* [In Mayo, St Bridget's Day, same place as above](https://www.duchas.ie/ga/cbes/5215813/5215396/5239516)
+* [In Mayo, St Bridget's Day, same place as above](https://www.duchas.ie/ga/cbes/5215813/5214584/5221293)
+* [In Mayo, "about February 2nd"](https://www.duchas.ie/ga/cbes/4428052/4372644/4475942)
+* [In Longford, no specific day](https://www.duchas.ie/ga/cbes/5009183/4995380/5104930)
+* [In Carlow, Valentine's Day](https://www.duchas.ie/en/cbes/5044670/5030840/5144815)
 
 ## Bibliography
 
