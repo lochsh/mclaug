@@ -84,7 +84,7 @@ Collection, Volume 0032, Page 0211</i></a>
 </figure>
 
 Might these attitudes better reflect native beliefs about the hedgehog, with
-animosity being a colonial import? This is a romantic notion, but not one I can
+animosity being a colonial import? An attractive notion, but not one I can
 substantiate. Worth noting is that from the 1560s to the 1800s, a collection of
 laws aimed at vermin control, passed by Henry VIII and Elizabeth I, resulted in
 the mass slaughter of hedgehogs.  Atkinson (2009) notes "in Bunbury parish
@@ -92,7 +92,7 @@ the mass slaughter of hedgehogs.  Atkinson (2009) notes "in Bunbury parish
 mere 35 years."
 
 Regardless of the source of animosity, the hedgehog's historical social standing
-would seem ambiguous, at least in Ireland.  Might we
+would seem ambiguous, at least in Ireland[^standing]. Might we
 consider that _gráinneóg_ may not be cruelly insulting the humble hog, but
 instead referring to his spines? Macbain (1911) makes this interpretation,
 literally translating _gràineag_ as "horrent one". "Horrent" was not a
@@ -419,6 +419,8 @@ The hedgehog bringing apples to Mary:
     </li>
 </ul>
 
+Magpies were also boiled in a similar way for whooping cough.
+
 </details>
 
 #### Cures for toothache involving the hedgehog's jaw or teeth:
@@ -646,6 +648,15 @@ through it, but an apple would have stayed impaled on each separate hair
 because of the fierce bristling of his hair above his head.
 </blockquote>
 
+[^standing]: There is some suggestion that hedgehogs were looked upon kindly in
+Scotland in this account from Forbes (1905):
+<blockquote>
+In some parts of the North the name of the hedgehog was given to a very mysterious animal which, when met with among the corn, had only the appearance of a grey stone, but could change its shape. When thus met with a small quantity of the crop was left standing around it, and only the ears of grain cut. Such a clump has been seen by the compiler, and the above given him as the reason. It was called "Tom an ioghnaidh," the wonder clump or tuft ; as few knew, every one almost wondered why it existed.
+</blockquote>
+To leave the creature undisturbed during the harvest shows care for its
+wellbeing. Forbes also records a superstition in Advie in Strathspey of it
+being unlucky to meet a hedgehog, particularly after nightfall.
+
 [^urchins]: I couldn't find any uses of _gráinneóg_ on [duchas.ie](duchas.ie)
 that clearly referred to sea urchins. Other terms are in use and perhaps more
 popular. I couldn't find any sources in Scotland using the word for sea
@@ -664,10 +675,7 @@ sources in The Schools' Collection; Mac Giolla Cearna (1940) p. 96. LASID point
 67 (Rathlin Island) also records this. I will note that
 _gráineog fhéir_ has also been recorded, e.g. in Dinneen's dictionary (with a note
 saying it was recorded in Donegal), as referring to a lapcock of hay. More on
-this above. It did remind me of [this
-entry](https://www.faclair.com/ViewDictionaryEntry.aspx?ID=E8D44FE3A48A1AD02ADAEF172D5C69D1)
-in Dwelly's dictionary describing tufts of grain left so as not to disturb
-hedgehogs, though it doesn't seem relevant.
+this above.
 
 [^edil]: The other example given in the eDIL is from a Middle Irish grammatical
 tract and has a compound _gráindealgaigh_, from _dealg_, meaning prickle,
