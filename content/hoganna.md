@@ -1,4 +1,4 @@
-Title: Lucky pigs and little hatreds: on Gaelic terms for hedgehog
+Title: Lucky piglets and little hatreds: on Gaelic terms for hedgehog
 Slug: hoganna
 Date: 5th September 2026
 
