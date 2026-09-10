@@ -16,21 +16,19 @@ time">
 Near-ubiquitous in the returns for the Linguistic Atlas and Survey of Irish
 Dialects is the word _gráinneog_. Only two returns in Ireland offer
 alternative names, which we will address later. Of the seven Scottish survey
-points, only two give a name for the hedgehog, both variants of this word.
-
-The Digital Archive of Scottish Gaelic records usages of this
-word in Argyll, North and South Uist, Mull, Easter and Wester Ross, and in Cape
-Breton.
+points, only two give a name for the hedgehog, both variants of this word.  The
+Digital Archive of Scottish Gaelic records usages in Argyll, North and South
+Uist, Mull, Easter and Wester Ross, and in Cape Breton.
 
 I have commonly seen this word translated literally as "little hatred" or "wee
-ugly one", given it is formed from _gráin_ ("hatred", "ugliness") and the
-diminutive suffix _-óg_. I personally think of the hedgehog as quite charming;
-I am delighted whenever I find one in my garden. Such a negative epithet is sad
-for me to contemplate. Was the hedgehog really looked upon with hatred by
-Gaels of yore?
+ugly one", given it appears to be formed from _gráin_ ("hatred", "ugliness")
+and the diminutive suffix _-óg_. I personally think of the hedgehog as quite
+charming; I am delighted whenever I find one in my garden. Such a negative
+epithet is sad for me to contemplate. Was the hedgehog really looked upon with
+hatred by Gaels of yore?
 
 In an 1840 article in the _Irish Penny Journal_[^penny], an anonymous author defends
-the hedgehog from hateful attitudes (a warning for animal cruelty):
+the hedgehog from hateful attitudes (content warning for animal cruelty):
 
 > Some twenty years ago it was not unusual in the south of Ireland to see boys
 > assembled about a fire of straw, loudly exulting over a flame-surrounded
@@ -43,10 +41,20 @@ Certainly this account would suggest malice towards the hedgehog was widespread.
 
 The charge of stealing milk by suckling sleeping cows is a popular and
 perplexing one that seems to have been widely believed across these
-islands[^suckling]. Similarly puzzling is fhe image of the hedgehog stealing
+islands[^suckling]. Similarly puzzling is the image of the hedgehog stealing
 apples by piercing them on his spines[^chulainn] &ndash; this image remains popular across
 Europe, seemingly having originated in Pliny's Natural History in the first
 century AD, but does not seem to be based in reality.
+
+<figure>
+<img src="../images/hoganna/bestiary.png" alt="Medieval bestiary illustration
+of hedgehogs rolling in apples and carrying them on their spines">
+<figcaption><i>Rochester Bestiary illustration of hedgehogs rolling in apples and
+carrying them on their spines. Source: <a
+href=https://www.kentarchaeology.org.uk/records/rochester-bestiary-hedgehog>Kent
+Archaeological Society</a></i>
+</figcaption>
+</figure>
 
 In contrast to these negative notions are a variety of accounts in Ireland of
 the hedgehog seemingly being considered holy:
@@ -67,7 +75,7 @@ Once Our Lord got hungry and the "gráinnóg" taking pity on him went to him and
 <blockquote>
 Deirtear go bhfuil an ghráinneóg beannuighthe mar gur cuimil sí í féin i n-áit
 a raibh ubhlaí agus gur thug sí ubhall ar gach buir uirthe chuig an Mhaighdean
-Muire. [It is said that the hedgehog is blessed because it rubbed itself in a
+Muire. <br>[It is said that the hedgehog is blessed because it rubbed itself in a
 place with apples and brought an apple to the Virgin Mary.]
 </blockquote>
 <figcaption><a
@@ -75,14 +83,24 @@ href=https://www.duchas.ie/en/cbes/4566083/4565667/4573393><i>The Schools’
 Collection, Volume 0032, Page 0211</i></a>
 </figure>
 
-The hedgehog's social standing generally would seem ambiguous, at least in
-Ireland. What if the name _gráinneóg_ is not cruelly insulting the humble hog, but
-referring to his spines? Macbain (1911) makes this interpretation, literally
-translating _gráinneóg_ as "horrent one". "Horrent" was not a word I had in my
-personal lexicon. It is derived from the same Latin root as "horror", and has a
-meaning of bristled, i.e. covered in bristling points. It derives from
-the same Latin root as "horror" and "horrible". The Latin word for "hedgehog"
-is related, as shown in the etymology diagram below.
+Might these attitudes better reflect native beliefs about the hedgehog, with
+animosity being a colonial import? This is a romantic notion, but not one I can
+substantiate. Worth noting is that from the 1560s to the 1800s, a collection of
+laws aimed at vermin control, passed by Henry VIII and Elizabeth I, resulted in
+the mass slaughter of hedgehogs.  Atkinson (2009) notes "in Bunbury parish
+(Ches) in the late seventeenth century, for example, some 8585 were killed in a
+mere 35 years."
+
+Regardless of the source of animosity, the hedgehog's historical social standing
+would seem ambiguous, at least in Ireland.  Might we
+consider that _gráinneóg_ may not be cruelly insulting the humble hog, but
+instead referring to his spines? Macbain (1911) makes this interpretation,
+literally translating _gráinneóg_ as "horrent one". "Horrent" was not a
+word I had in my personal lexicon. It is derived from the same Latin
+root as "horror", and has a meaning of bristled, i.e. covered in
+bristling points. It derives from the same Latin root as "horror" and
+"horrible" (and of course "abhorrent"). The Latin word for "hedgehog" is
+related, as shown in the etymology diagram below.
 
 <figure>
 <img src="../images/hoganna/horrent-etymology.svg" alt="Etymology diagram
@@ -101,8 +119,8 @@ spines? A little, but nothing definitive.
 Sources across Donegal[^urchins] note variants of _gráinneóg_ used for sea urchins. Mac
 Giolla Easpaig (2025) lists _gráinneog_ from Inis Bó Finne, _gráinneog
 fharraige_ from Inis Meáin, _gráinneog sáile_ from Ros Goill, and _gráinneog
-uisce_ from Gaoth Dobhair. Ó hEochaidh & Ó Catháin (1970) gives _gráinneog
-dhearg_, for the red colour of the _Echinus esculentus_.
+uisce_ from Gaoth Dobhair[^uisce]. Ó hEochaidh & Ó Catháin (1970) give
+_gráinneog dhearg_, for the red colour of the _Echinus esculentus_.
 
 Of course, the term "sea urchin" in English uses a word originally used for
 hedgehogs. These Gaelic words could also be comparing the sea creature to the
@@ -115,10 +133,10 @@ to refer to hedgehogs with a qualified noun: _gráinneog fhéir_, "_gráinneog_ 
 the grass"[^fheir]. On the surface this does suggest some shared meaning not
 specific to the land creature.
 
-What about older language? The Electronic Dictionary of the Irish Language
-tentatively provides a possible alternative meaning for _gráin_ of "spearpoint".
-It is used in the In 12th century narrative Acallamh na Senórach, part of the
-Fenian Cycle:
+Is there any evidence from older language? The Electronic Dictionary of the
+Irish Language tentatively provides a possible alternative meaning for _gráin_
+of "spearpoint".  It is used in the In 12th century narrative _Acallamh na
+Senórach_, part of the Fenian Cycle:
 
 <figure>
 <blockquote>
@@ -145,11 +163,12 @@ amount of hay touching the ground as possible", and varyingly are described as
 being "rolled up in such a way as to form conical heaps" or "when well made,
 [having] the appearance of a round ball, flattened a little beneath". TODO
 citations. It is not immediately clear how this might be related to the
-hedgehog. LASID point 20 (Dún Chaoin) gives _dreas-chocaí_ for haycocks,
-seemingly describing the cocks as thorny (from _dreas_ or _dris_ meaning briar
-or thorny plant). But why they would be thorny is unclear to me. Ultimately,
-this agricultural usage has not brought us closer to understanding
-the etymology.
+hedgehog &ndash; perhaps they were an attractive nest for the creatures, and
+often found when turning the hay? Did they resemble the creature? LASID point
+20 (Dún Chaoin) gives _dreas-chocaí_ for haycocks, seemingly describing the
+cocks as thorny (from _dreas_ or _dris_ meaning briar or thorny plant). But why
+they would be thorny is unclear to me. Ultimately, this agricultural usage has
+not brought us closer to understanding the etymology.
 
 We can, however, consider another agricultural topic: grain. The nominative
 plural of the word _grán_, meaning "grain", is _gráin_[^plural]. Might we
@@ -166,9 +185,18 @@ href=https://en.wikipedia.org/wiki/Caltrop#/media/File:Drevnosti_RG_v3_ill130c_-
    Century caltrops</i></a></figcaption>
 </figure>
 
+It seems less likely that sea urchins would be compared in this way, however.
+
+Ultimately, the origin of the term _gráinneog_ is unclear, but I personally
+enjoy the idea of it referring to the hedgehog's spines, whether by comparing
+them to grains or describing them with a generic word for spikes.
+
 ## Arkan sonney agus 
 
 ## Bibliography
+
+* Atkinson, R. (2009). <i>Silent Fields: The Long Decline of a Nation’s
+  Wildlife</i>. Oxford University Press.
 
 * B. (1840). <i>An Ghraineog / The Hedgehog</i>. The Irish Penny Journal, 1(21), 166–167. [https://doi.org/10.2307/30001176](https://doi.org/10.2307/30001176)
 
@@ -241,6 +269,9 @@ urchins beyond [this dictionary
 entry](https://www.faclair.com/ViewEntry.aspx?ID=B1DD7244E3B016E3BA937440355F4BD5),
 though it does not appear in Dwelly's dictionary so I'm not sure where it's
 sourced from.
+
+[^uisce]: _gráinneog fharraige_ = _gráinneog_ of the sea; _gráinneog sáile_ =
+gráinneog of the sea [water]; _gráinneog uisce_ = _gráinneog_ of the water
 
 [^arrival]: Montgomery et. al. (2014) and Haigh & O'Riordan (2012)
 
