@@ -322,10 +322,6 @@ landscape</i>. The Irish Naturalists’ Journal, 36–45.
 * Ó hEochaidh, Seán & Ó Catháin, Séamas (1970). <i>Foclóir agus Seanchas na
   Farraige</i>. Zeitschrift für celtische Philologie, 31, 256
 
-* Pettit, E. (2021). <i>Finn mac Cumhaill’s Birga ‘Water-Spear.’</i> Studia
-  Hibernica, 47(1), 1–20. https://doi.org/10.3828/sh.2021.1 TODO: remove if not
-  using
-
 * Roeder, K. (1904). <i>Manx Notes and Queries</i>. Douglas : S.K. Broadbent
  & Co. Ltd. [[Online edition](https://www.isle-of-man.com/manxnotebook/fulltext/mnq1904/n134.htm)
 
