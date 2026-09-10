@@ -179,6 +179,11 @@ catha_ ("battle grains") refers to caltrops, though perhaps because they are
 thrown to the ground as one might do when sowing seeds[^caltrops].
 
 <figure>
+<img src="../images/hoganna/grains.jpg">
+<figcaption><i>Grains (in this case oats)...visually similar to a hedgehog's coat?</i></figcaption>
+</figure>
+
+<figure>
 <img src="../images/hoganna/caltrops.jpg">
 <figcaption><a
 href=https://en.wikipedia.org/wiki/Caltrop#/media/File:Drevnosti_RG_v3_ill130c_-_Caltrop.jpg><i>16th
