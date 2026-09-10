@@ -14,7 +14,7 @@ time">
 ## Gráinneóg nó gràineag: not so hateful after all?
 
 Near-ubiquitous in the returns for the Linguistic Atlas and Survey of Irish
-Dialects is the word _gráinneog_. Only two returns in Ireland offer
+Dialects (LASID) is the word _gráinneog_. Only two returns in Ireland offer
 alternative names, which we will address later. Of the seven Scottish survey
 points, only two give a name for the hedgehog, both variants of this word.  The
 Digital Archive of Scottish Gaelic records usages in Argyll, North and South
