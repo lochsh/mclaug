@@ -237,15 +237,42 @@ attestation of _uircean sona_ in Scotland. It is listed in Forbes (1905). It is
 also published in a list of Gaelic words for animals in the Oban Times in 1902
 but no author is given; it may well be Forbes.
 
-## Uircean garraidh
+## Uircean garraidh...no duircean garraidh?
 
-## Poorly attested words
+Continuing the theme of piglets, _uircean garraidh_, or "garden piglet" is
+recorded in the Digital Archive of Scottish Gaelic in [North
+Argyll](https://dasg.ac.uk/fieldwork/view/Tm9ydGhBcmd5bGxBQ2FtZXJvbm1pc2N8YW4gdWlyY2VhbiBnYXJyYWlkaHxpZHAxNTY5MjA0NDB8fGhlZGdlaG9nfHIxfHx8YWxs)[^cameron]
+and [Strathglass](https://dasg.ac.uk/fieldwork/view/S2Vzc29ja0dNb3NzcGVyc29uYWxtaXNjfHVpcmNlYW4tZ8OgcmFpZGh8aWRwMTE5MTIxODg4fHxoZWRnZWhvZ3xyNnx8fGFsbA==).
 
-### Duircean garraidh
-
-### Gruin
+Also recorded [in North
+Argyll](https://dasg.ac.uk/audio/view/s/crc/GU_North_Argyll) is _duircean
+garraidh_. The word _duircean_ (or _dearcán_) is variously used for acorns,
+pinecones, thistles. Comparing the hedgehog to pinecones is charming, but I
+think this might be a mistranscription. As it appears with the definite
+article, perhaps _an t-uircean garraidh_ might have been what was said?
 
 ### Rutha
+This is a word I have found used for hedgehogs only in dictionary-type sources.
+Dinneen's 1904 dictionary and Forbes (1905) list it. Dinneen also translates it
+as "thornback" (Raja clavata), a fish with a thorny tale. It appears to be used
+in this way [in this account from
+Galway](https://www.duchas.ie/ga/cbes/4569043/4566321/4574308?HighlightText=rutha&Route=stories&SearchLanguage=ga).
+Clearly the name refers to spikiness, or it would not be shared by these very
+different creatures. Beyond this, I have no knowledge to offer.
+
+### Gruin nó griun
+
+Perhaps this is the oldest word listed here. It appears in [O'Clery's Glossary
+of 1643](https://dasg.ac.uk/audio/view/s/crc/GU_North_Argyll) as _griun_ where
+it is glossed as _gráinéog_ (fada placement as in the edition linked). The word
+is also listed in O'Reilly's 1864 Irish dictionary and Shaw's 1780 Scottish
+dictionary. The only non-dictionary recording I have found is in the DASG's
+fieldwork archive, in [1967 in
+Strathglass](https://dasg.ac.uk/fieldwork/view/S2Vzc29ja0dNb3NzcGVyc29uYWxtaXNjfHVpcmNlYW4tZ8OgcmFpZGh8aWRwMTE5MTIxODg4fHxoZWRnZWhvZ3xyNnx8fGFsbA==).
+
+I can't help but notice this words superficial similarity to _gráin_. Could
+_gráinneog_ be related to some older, lost word? I have no justification for
+the change in vowel, but the prospect is intriguing.
 
 ## Bibliography
 
@@ -395,3 +422,7 @@ Mrs Watterson of Colby.
 
 [^red]: I have read about this in [Ulster Folklore by Elizabeth Andrews
 (1913)](https://www.gutenberg.org/cache/epub/37187/pg37187-images.html).
+
+[^cameron]: I expect the speaker is this [Alasdair
+Cameron](https://www.tobarandualchais.co.uk/person/4165?l=en), from Strontian,
+which used to be part of Argyll.
