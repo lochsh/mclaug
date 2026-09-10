@@ -237,7 +237,7 @@ Jeremy, who collects coins from visitors for the hospital funds". Alas, a
 photograph is not included &ndash; if any Manx (or otherwise) readers are able
 to provide one, I would love to see the lucky piggybank.
 
-While I could find no similar lore in Ireland or Scotland, the term _uircean
+Whilst I could find no similar lore in Ireland or Scotland, the term _uircean
 sona_ is listed in Forbes (1905). It is not clear if his collection of Gaelic
 animal names  is pan-Gaelic or meant to be specifically collected from his
 native Scotland &ndash; he might have just been listing the term he'd heard
