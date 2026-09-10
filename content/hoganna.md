@@ -192,7 +192,50 @@ Ultimately, the origin of the term _gráinneog_ is unclear, but I personally
 enjoy the idea of it referring to the hedgehog's spines, whether by comparing
 them to grains or describing them with a generic word for spikes.
 
-## Arkan sonney
+## Arkan sonney, arkan vollagh, as muc sonnys
+
+While Ireland and Scotland might espouse hate for the hedgehog with
+_gráinneog_, the Isle of Man blesses the hedgehog with the moniker of "happy
+piglet". The small table below might elucidate the meanings of these terms by
+showing them in different orthographies (and grammars, in the case of the last
+two terms)[^late-manx]:
+
+| Manx | Scottish | Irish | English translation |
+| -------- | ------- | ------ | ---- |
+| arkan sonney | uircean sona  | arcán sona | happy/lucky piglet |
+| arkan vollagh | uircean molach  | arcán mollach | shaggy/coarse piglet |
+| muc sonnys | muc sonais  | muc sonais | pig of good fortune, happiness |
+
+These three terms are taken from Broderick (1984), recorded from an unnammed
+speaker from the south of the island[^wagner], Harry Kelly of Cregneash, and
+Thomas Christian of Ramsey, respectively.
+
+The hedgehog appears to have become synonymous with a creature from folklore,
+    though it is unclear how this association came about. Roeder (1904)
+    describes the "the arkan-sonney, or lucky little pig":
+
+> I have heard of some little white animal, like a young pig. They called it
+> the uircean sonny, or the lucky or plentiful little pig. The old people
+> usad [sic] to say if you caught it you would be very fortunate; that you always find a piece of silver in your pocket when you are in need of it. A woman once said that she was walking one night, and came across some little white thing, but she did not catch it, nor try to catch it, but for some time afterwards she always found a. silver piece in her pocket, when she needed it and put her hand into to her pocket not thinking to find it. And this continued for some time; but she told one of her friends about it, and she did not get any more — the bank was closed.
+
+In Gill (1929):
+
+> Just above a new house which stands beside the road there is a streamlet inside a gateway, more or less concealed by bushes. Here it was that a boy of twelve who was being driven from Dalby to Peel was delighted by the sight of a strange-looking little white pig wearing a red hat. One of his adult companions remarked to the other in Manx, " that's one of Themselves," and touched up the horse, telling the boy to take no notice of what he had seen ; meaning doubtless that he was not to chatter about it, or try to catch it if he should ever see it again. For this was the Arkan Sonney, the little Fairy Pig, an omen of great good fortune, if the seer is content with seeing.
+
+The red hat is a common motif in stories about fairies across Ireland too,
+though I believe green is/was more common in Scotland and in parts of East
+Ulster[^red].
+
+The Isle of Man Times of 7th October 1966 describes the hospital Cronk Ruagh as
+having a "genuine Manx Arc Sonney, or Lucky Pig, white with red spots, named
+Jeremy, who collects coins from visitors for the hospital funds". Alas, a
+photograph is not included &ndash; if any Manx (or otherwise) readers are able
+to provide one, I would love to see the lucky piggybank.
+
+While I could find no similar lore in Ireland or Scotland, I did find some weak
+attestation of _uircean sona_ in Scotland. It is listed in Forbes (1905). It is
+also published in a list of Gaelic words for animals in the Oban Times in 1902
+but no author is given; it may well be Forbes.
 
 ## Uircean garraidh
 
@@ -213,9 +256,18 @@ them to grains or describing them with a generic word for spikes.
 
 * Borsje, J. (1994). <i>The Bruch in the Irish Version of the Sunday Letter</i>. Ériu, 45, 83–98. [http://www.jstor.org/stable/30007713](http://www.jstor.org/stable/30007713)
 
+* Broderick, G. (1984). <i>A Handbook of Late Spoken Manx: Vol. 2, Dictionary</i>. Buchreihe der Zeitschrift für celtische Philologie
+
+* Forbes, A. R. (1905). [<i>Gaelic names of beasts (Mammalia), birds, fishes,
+  insects, reptiles, etc.</i>](https://archive.org/details/gaelicnamesofbea00forb/page/406/mode/2up).
+  Edinburgh : Oliver and Boyd : Norman Macleod.
+
 * [Forvague, S. (1767). <i>A New Catalogue of Vulgar Errors</i>.](https://en.wikisource.org/wiki/A_New_Catalogue_of_Vulgar_Errors)
 
 * Gannon, P. (Ed.) (1999). <i>The Way It Was</i>. Galway.
+
+* Gill, W. W. (1929). <i>A Manx Scrapbook</i>. Bristol : J. W. Arrowsmith Ltd.
+  [[Online edition]](https://www.isle-of-man.com/manxnotebook/fulltext/scrap1/ch04_pk.htm)
 
 * Haigh, A., Butler, F., & O’Riordan, R. M. (2012). <i>Habitat use by the
 European hedgehog (Erinaceus europaeus L., 1758) in an Irish rural
@@ -228,18 +280,22 @@ landscape</i>. The Irish Naturalists’ Journal, 36–45.
 * Mac Giolla Chearna, P. (1940). <i>Ceachta as Leabhar na Cruinne</i>. Baile
   Átha Cliath : Oifig an tSoláthair.
 
-* Mac Giolla Easpaig, Cormac (2025). <i>Fá Bhruach an Chladaigh</i>. Donegal : Éabhlóid
+* Mac Giolla Easpaig, Cormac (2025). <i>Fá Bhruach an Chladaigh</i>. Donegal :
+  Éabhlóid.
 
 * Montgomery et. al. (2014). <i>Origin of British and Irish mammals: disparate
   post-glacial colonisation and species introductions</i>. Quaternary Science
   Reviews, Vol. 98, 144-165
 
-* Ó hEochaidh, Seán & Ó Catháin, Séamas (1970). Foclóir agus Seanchas na
-  Farraige. Zeitschrift für celtische Philologie, 31, 256
+* Ó hEochaidh, Seán & Ó Catháin, Séamas (1970). <i>Foclóir agus Seanchas na
+  Farraige</i>. Zeitschrift für celtische Philologie, 31, 256
 
 * Pettit, E. (2021). <i>Finn mac Cumhaill’s Birga ‘Water-Spear.’</i> Studia
   Hibernica, 47(1), 1–20. https://doi.org/10.3828/sh.2021.1 TODO: remove if not
   using
+
+* Roeder, K. (1904). <i>Manx Notes and Queries</i>. Douglas : S.K. Broadbent
+ & Co. Ltd. [[Online edition](https://www.isle-of-man.com/manxnotebook/fulltext/mnq1904/n134.htm)
 
 [^penny]: B. (1840)
 [^suckling]: I am not alone in questioning the anatomical feasibility of
@@ -322,3 +378,20 @@ and sources in the [Dictionaries of the Scots Lanauge page on "lap"](https://dsl
 [^caltrops]: I did consider whether _gráin catha_ was referring to the spikes,
 rather than comparing to grains, but I'd expect a different plural form like
 _gráineacha_ perhaps.
+
+[^late-manx]: From Broderick (1984): "The genitive singular case with a
+separate form has largely disappeared in Late Spoken Manx. Nouns in a
+genitival relationship with another noun, with or without the definite
+article or possessive adjective, usually appear in the same form as the
+general[...]". Revived Manx would have a morphological genitive case in
+_muc sonnys_. As for the lenition on _arkan vollagh_, Broderick writes:
+"The system of gender in Late Spoken Manx has more or less broken down from
+its more Classical forms of masculine and feminine."
+
+[^wagner]: Arkan sonney was recorded by Wagner and reproduced in Broderick's
+thesis. This is also published in Wagner's LASID, where he lists the speakers
+from the South as Eleanor Karran of Cregneish, Ned Madrell of Glenchass, and
+Mrs Watterson of Colby.
+
+[^red]: I have read about this in [Ulster Folklore by Elizabeth Andrews
+(1913)](https://www.gutenberg.org/cache/epub/37187/pg37187-images.html).
