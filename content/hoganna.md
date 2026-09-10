@@ -161,8 +161,8 @@ dried, they were made into stacks. Written accounts describe "a method of
 rolling the hay in batches and setting on dry bits of ground with the least
 amount of hay touching the ground as possible", and varyingly are described as
 being "rolled up in such a way as to form conical heaps" or "when well made,
-[having] the appearance of a round ball, flattened a little beneath". TODO
-citations. It is not immediately clear how this might be related to the
+[having] the appearance of a round ball, flattened a little
+beneath"[^cock-descr]. It is not immediately clear how this might be related to the
 hedgehog &ndash; perhaps they were an attractive nest for the creatures, and
 often found when turning the hay? Did they resemble the creature? LASID point
 20 (Dún Chaoin) gives _dreas-chocaí_ for haycocks, seemingly describing the
@@ -196,7 +196,13 @@ them to grains or describing them with a generic word for spikes.
 
 ## Uircean garraidh
 
-## Duircean garraidh
+## Poorly attested words
+
+### Duircean garraidh
+
+### Gruin
+
+### Rutha
 
 ## Bibliography
 
@@ -231,7 +237,9 @@ landscape</i>. The Irish Naturalists’ Journal, 36–45.
 * Ó hEochaidh, Seán & Ó Catháin, Séamas (1970). Foclóir agus Seanchas na
   Farraige. Zeitschrift für celtische Philologie, 31, 256
 
-* Pettit, E. (2021). <i>Finn mac Cumhaill’s Birga ‘Water-Spear.’</i> Studia Hibernica, 47(1), 1–20. https://doi.org/10.3828/sh.2021.1
+* Pettit, E. (2021). <i>Finn mac Cumhaill’s Birga ‘Water-Spear.’</i> Studia
+  Hibernica, 47(1), 1–20. https://doi.org/10.3828/sh.2021.1 TODO: remove if not
+  using
 
 [^penny]: B. (1840)
 [^suckling]: I am not alone in questioning the anatomical feasibility of
@@ -304,6 +312,10 @@ listed on this
 [website](https://www.irishlanguageincountymayo.com/farming-life-2) dedicated
 to the Irish language in County Mayo. Dinneen also lists _gráineog fhéir_ for
 the same meaning, but gives Donegal as the place it was recorded.
+
+[^cock-descr]: Descriptions taken from [Butterlope
+Farm](https://www.butterlopefarm.co.uk/revealing-rural-heritage/working-the-hay-and-turf/),
+and sources in the [Dictionaries of the Scots Lanauge page on "lap"](https://dsl.ac.uk/entry/snd/lap)
 
 [^plural]: Modern dictionaries say this word has no plural but it is attested.
 
