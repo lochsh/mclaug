@@ -120,18 +120,17 @@ Sources across Donegal[^urchins] note variants of _gráinneóg_ used for sea urc
 Giolla Easpaig (2025) lists _gráinneog_ from Inis Bó Finne, _gráinneog
 fharraige_ from Inis Meáin, _gráinneog sáile_ from Ros Goill, and _gráinneog
 uisce_ from Gaoth Dobhair[^uisce]. Ó hEochaidh & Ó Catháin (1970) give
-_gráinneog dhearg_, for the red colour of the _Echinus esculentus_.
-
-Of course, the term "sea urchin" in English uses a word originally used for
-hedgehogs. These Gaelic words could also be comparing the sea creature to the
-hedgehog. However, hedgehogs are thought to have been introduced to Ireland in
-the 12th or 13th Century[^arrival], whereas sea urchins are native. Might we
-assume that sea urchins would have an older name, not one derived from a later
-arrival? Perhaps, but there are other names like _cuán mara_ that are in use
-that could have been supplanted. I will note that it's also common in Donegal
-to refer to hedgehogs with a qualified noun: _gráinneog fhéir_, "_gráinneog_ of
-the grass"[^fheir]. On the surface this does suggest some shared meaning not
-specific to the land creature.
+_gráinneog dhearg_, for the red colour of the _Echinus esculentus_. Of course,
+the term "sea urchin" in English uses a word originally used for hedgehogs.
+These Gaelic words could also be comparing the sea creature to the
+hedgehog. However, hedgehogs are thought to have been introduced to Ireland
+in the 12th or 13th Century[^arrival], whereas sea urchins are native.
+Might we assume that sea urchins would have an older name, not one derived
+from a later arrival? Perhaps, but there are other names like _cuán mara_
+that are in use that could have been supplanted. I will note that it's also
+common in Donegal to refer to hedgehogs with a qualified noun: _gráinneog
+fhéir_, "_gráinneog_ of the grass"[^fheir]. On the surface this does
+suggest some shared meaning not specific to the land creature.
 
 Is there any evidence from older language? The Electronic Dictionary of the
 Irish Language tentatively provides a possible alternative meaning for _gráin_
@@ -199,7 +198,7 @@ them to grains or describing them with a generic word for spikes.
 
 ## Arkan sonney, arkan vollagh, as muc sonnys
 
-While Ireland and Scotland might espouse hate for the hedgehog with
+While Ireland and Scotland might appear to espouse hate for the hedgehog with
 _gráinneog_, the Isle of Man blesses the hedgehog with the moniker of "happy
 piglet". The small table below might elucidate the meanings of these terms by
 showing them in different orthographies (and grammars, in the case of the last
@@ -649,13 +648,12 @@ because of the fierce bristling of his hair above his head.
 </blockquote>
 
 [^standing]: There is some suggestion that hedgehogs were looked upon kindly in
-Scotland in this account from Forbes (1905):
-<blockquote>
+Scotland in this account from Forbes (1905): <blockquote>
 In some parts of the North the name of the hedgehog was given to a very mysterious animal which, when met with among the corn, had only the appearance of a grey stone, but could change its shape. When thus met with a small quantity of the crop was left standing around it, and only the ears of grain cut. Such a clump has been seen by the compiler, and the above given him as the reason. It was called "Tom an ioghnaidh," the wonder clump or tuft ; as few knew, every one almost wondered why it existed.
-</blockquote>
-To leave the creature undisturbed during the harvest shows care for its
+</blockquote> To leave the creature undisturbed during the harvest shows care for its
 wellbeing. Forbes also records a superstition in Advie in Strathspey of it
-being unlucky to meet a hedgehog, particularly after nightfall.
+being unlucky to meet a hedgehog, particularly after nightfall. The hedgehog
+wasn't introduced to many Hebridean islands until the late 20th century.
 
 [^urchins]: I couldn't find any uses of _gráinneóg_ on [duchas.ie](duchas.ie)
 that clearly referred to sea urchins. Other terms are in use and perhaps more
