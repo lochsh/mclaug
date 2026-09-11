@@ -262,7 +262,7 @@ noisy.
 
 ## Púicín or púitín: a mystery
 In Ring, County Waterford, the LASID records two words for hedgehog:
-<span class=ipa>**grɑːˈN′uːg**</span> (_gráinneóg_), and the transcription <span
+<span class=ipa>**grɑːˈN′uːg**</span> (_gráinneóg_), and <span
 class=ipa>**puːˈţ′iːn′**</span>. The <span class=ipa>**ţ′**</span> sound is described as
 being intermediate between <span class=ipa>t′</span> and <span
 class=ipa>k′</span>, hence I would guess this would be written
@@ -291,11 +291,12 @@ Wagner notes "There are only a very few people left in this area who know some
 Irish. Our informant could not speak it fluently." Perhaps this can explain why
 the informant gave <span class=ipa>,alʰp ˈluəxrə,</span> for the hedgehog,
 apparently _alp luachra_. This term usually refers to the newt, believed to
-crawl down the throats of people who laid down to rest in fields, where they
-would eat the person's food as it entered their stomach, leaving them to waste.
-The _alp luachra_ is only drawn out by eating lots of salted meat, to make them
-thirsty, then lying with mouth open by a river to draw out the thirsty lizards.
-A bilingual account of this tale can be found in Hyde (1890).
+crawl down the throats of people who laid down to rest in fields, where the
+newt would eat the person's food as it entered their stomach, over time
+causing the victim to waste.  The _alp luachra_ is only drawn out by the
+victim eating lots of salted meat, to make the _alp luachra_ thirsty, then
+lying with their mouth open by a river to draw out the thirsty lizards.  A
+bilingual account of this tale can be found in Hyde (1890).
 
 The spiky hedgehog seems less capable of slipping stealthily down someone's
 throat. But what of the term itself? _Luachra_ means "of the rushes". As a
@@ -564,12 +565,17 @@ Groundhog Day.
 * [In Longford, no specific day](https://www.duchas.ie/ga/cbes/5009183/4995380/5104930)
 * [In Carlow, Valentine's Day](https://www.duchas.ie/en/cbes/5044670/5030840/5144815)
 
+### Riddles in which the hedgehog's coat is described as Albanach or Sasanach
+
+* [In Galway](https://www.duchas.ie/en/cbes/4613704/4610539/4625455)
+* [In Kerry](https://www.duchas.ie/en/cbes/4678393/4675928/4683141)
+
 ## Bibliography
 
 * Atkinson, R. (2009). <i>Silent Fields: The Long Decline of a Nation’s
   Wildlife</i>. Oxford University Press.
 
-* B. (1840). <i>An Ghraineog / The Hedgehog</i>. The Irish Penny Journal, 1(21), 166–167. [https://doi.org/10.2307/30001176](https://doi.org/10.2307/30001176)
+* B. (1840). <i>An Ghraineog / The Hedgehog</i>. The Irish Penny Journal, 1(21), 166–167. <https://doi.org/10.2307/30001176>
 
 * Borsje, J. (1994). <i>The Bruch in the Irish Version of the Sunday Letter</i>. Ériu, 45, 83–98. [http://www.jstor.org/stable/30007713](http://www.jstor.org/stable/30007713)
 
@@ -589,7 +595,7 @@ Groundhog Day.
 * Haigh, A., Butler, F., & O’Riordan, R. M. (2012). <i>Habitat use by the
 European hedgehog (Erinaceus europaeus L., 1758) in an Irish rural
 landscape</i>. The Irish Naturalists’ Journal, 36–45.
-[http://www.jstor.org/stable/24394186](http://www.jstor.org/stable/24394186)
+<http://www.jstor.org/stable/24394186>
 
 * Hyde, D. (ed. & trans.) (1890). [<i>Beside the Fire: A Collection of Irish Gaelic Folk
   Stories</i>](https://digital.nls.uk/dcn6/7624/76243704.6.pdf). David Nutt : London.
