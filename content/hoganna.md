@@ -230,6 +230,12 @@ The red hat is a common motif in stories about fairies across Ireland too,
 though I believe green is/was more common in Scotland and in parts of East
 Ulster[^red].
 
+<figure>
+<img src="../images/hoganna/arkan-sonney.jpg" alt="A painting of a white piglet
+with red eyes wearing a red cap">
+<figcaption><i>My own rendering of the lucky piglet</i></figcaption>
+</figure>
+
 The Isle of Man Times of 7th October 1966 describes the hospital Cronk Ruagh as
 having a "genuine Manx Arc Sonney, or Lucky Pig, white with red spots, named
 Jeremy, who collects coins from visitors for the hospital funds". Alas, a
