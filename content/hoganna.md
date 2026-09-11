@@ -1,9 +1,10 @@
 Title: Lucky piglets and little hatreds: on Gaelic terms for hedgehog
 Slug: hoganna
-Date: 5th September 2026
+Date: 11th September 2026
 
-I am continuing the theme of researching the creatures that live in my garden.
-This time, the humble hedgehog has his moment in the spotlight.
+Following on from [_frogject_](https://mcla.ug/froganna.html), I am continuing
+the theme of researching the creatures that live in my garden.  This time, the
+humble hedgehog has his moment in the spotlight. A _hogject_, if you will.
 
 <figure>
 <img src="../images/hoganna/hog.jpg" alt="A hedgehog in my garden at night
@@ -11,7 +12,7 @@ time">
 <figcaption><i>A recent visitor to my garden</i></figcaption>
 </figure>
 
-## Gráinneóg nó gràineag: not so hateful after all?
+## Gráinneog nó gràineag: not so hateful after all?
 
 Near-ubiquitous in the returns for the Linguistic Atlas and Survey of Irish
 Dialects (LASID) is the word _gráinneog_. Only two returns in Ireland offer
@@ -22,7 +23,7 @@ Uist, Mull, Easter and Wester Ross, and in Cape Breton.
 
 I have commonly seen this word translated literally as "little hatred" or "wee
 ugly one", given it appears to be formed from _gráin_ ("hatred", "ugliness")
-and the diminutive suffix _-óg_. I personally think of the hedgehog as quite
+and the diminutive suffix _-óg_[^og]. I personally think of the hedgehog as quite
 charming; I am delighted whenever I find one in my garden. Such a negative
 epithet is sad for me to contemplate. Was the hedgehog really looked upon with
 hatred by Gaels of yore?
@@ -96,11 +97,10 @@ would seem ambiguous, at least in Ireland[^standing]. Might we
 consider that _gráinneóg_ may not be cruelly insulting the humble hog, but
 instead referring to his spines? Macbain (1911) makes this interpretation,
 literally translating _gràineag_ as "horrent one". "Horrent" was not a
-word I had in my personal lexicon. It is derived from the same Latin
+word I had in my personal lexicon; it is derived from the same Latin
 root as "horror", and has a meaning of bristled, i.e. covered in
-bristling points. It derives from the same Latin root as "horror" and
-"horrible" (and of course "abhorrent"). The Latin word for "hedgehog" is
-related, as shown in the etymology diagram below.
+bristling points. The Latin word for "hedgehog" is related, as shown in the
+etymology diagram below.
 
 <figure>
 <img src="../images/hoganna/horrent-etymology.svg" alt="Etymology diagram
@@ -348,7 +348,11 @@ The hedgehog helping Jesus in the desert/when he was hungry:
 The hedgehog present at the birth of Christ:
 
 * [In Mayo](https://www.duchas.ie/ga/cbes/5215813/5214685)
-* [In Mayo, same place as * above](https://www.duchas.ie/ga/cbes/5215813/5215262)
+* [In Mayo, same place as above](https://www.duchas.ie/ga/cbes/5215813/5215262)
+  "God was so pleased with the grainneog that He told him to come and live in
+  Heaven with Him. But the grainneog said, 'Is fearr liom mo theachín féin ná
+  aon teach eile.' ['I prefer my own wee house to any other'.]
+  That is why the grainneog has his own (the same) coat always."
 
 The hedgehog bringing apples to Mary:
 
@@ -624,6 +628,12 @@ landscape</i>. The Irish Naturalists’ Journal, 36–45.
 
 * Roeder, K. (1904). <i>Manx Notes and Queries</i>. Douglas : S.K. Broadbent
  & Co. Ltd. [[Online edition]](https://www.isle-of-man.com/manxnotebook/fulltext/mnq1904/n134.htm)
+
+ [^og]: It's common for compound words to have the fada dropped in _óg_ &ndash;
+ I'm not sure why, as in Donegal I wouldn't expect it to make any difference to
+ pronunciation, and further south I would expect to hear a clear, possibly long
+ vowel regardless. I haven't paid much attention to whether I have included it
+ in the spellings here or not, and I don't feel the need to be consistent.
 
 [^penny]: B. (1840)
 [^suckling]: I am not alone in questioning the anatomical feasibility of
