@@ -1,7 +1,6 @@
 Title: Lucky piglets and little hatreds: on Gaelic terms for hedgehog
 Slug: hoganna
 Date: 11th September 2026
-Status: draft
 
 Following on from [_frogject_](https://mcla.ug/froganna.html), I am continuing
 the theme of researching the creatures that live in my garden.  This time, the
