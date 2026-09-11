@@ -1,6 +1,7 @@
 Title: Lucky piglets and little hatreds: on Gaelic terms for hedgehog
 Slug: hoganna
 Date: 11th September 2026
+Status: draft
 
 Following on from [_frogject_](https://mcla.ug/froganna.html), I am continuing
 the theme of researching the creatures that live in my garden.  This time, the
@@ -47,7 +48,7 @@ apples by piercing them on his spines[^chulainn] &ndash; this image remains popu
 Europe, seemingly having originated in Pliny's Natural History in the first
 century AD, but does not seem to be based in reality.
 
-<figure>
+<figure style="margin-left: 15px; margin-right: 15px">
 <img src="../images/hoganna/bestiary.png" alt="Medieval bestiary illustration
 of hedgehogs rolling in apples and carrying them on their spines">
 <figcaption><i>Rochester Bestiary illustration of hedgehogs rolling in apples and
@@ -102,7 +103,7 @@ root as "horror", and has a meaning of bristled, i.e. covered in
 bristling points. The Latin word for "hedgehog" is related, as shown in the
 etymology diagram below.
 
-<figure>
+<figure style="margin-left: 15px; margin-right: 15px">
 <img src="../images/hoganna/horrent-etymology.svg" alt="Etymology diagram
 showing a shared PIE root for the Latin words for hedgehog and horror. The
 English words horrent and horror are derived from the latter."</img>
