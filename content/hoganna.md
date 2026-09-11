@@ -87,11 +87,12 @@ Collection, Volume 0032, Page 0211</i></a>
 
 Might these attitudes better reflect native beliefs about the hedgehog, with
 animosity being a colonial import? An attractive notion, but not one I can
-substantiate. Worth noting is that from the 1560s to the 1800s, a collection of
-laws aimed at vermin control, passed by Henry VIII and Elizabeth I, resulted in
-the mass slaughter of hedgehogs.  Atkinson (2009) notes "in Bunbury parish
-(Ches) in the late seventeenth century, for example, some 8585 were killed in a
-mere 35 years."
+substantiate. The hedgehog _is_ known to suck eggs, after all. It does seem
+worth noting that from the 1560s to the 1800s, a collection of laws aimed at
+vermin control, passed by Henry VIII and Elizabeth I, resulted in the mass
+slaughter of hedgehogs.  Atkinson (2009) notes "in Bunbury parish (Ches) in the
+late seventeenth century, for example, some 8585 were killed in a mere 35
+years."
 
 Regardless of the source of animosity, the hedgehog's historical social standing
 would seem ambiguous, at least in Ireland[^standing]. Might we
@@ -128,7 +129,8 @@ hedgehog. However, hedgehogs are thought to have been introduced to Ireland
 in the 12th or 13th Century[^arrival], whereas sea urchins are native.
 Might we assume that sea urchins would have an older name, not one derived
 from a later arrival? Perhaps, but there are other names like _cuán mara_
-that are in use that could have been supplanted. I will note that it's also
+that are in use that could have been supplanted; we stopped calling hedgehogs
+urchins in English, after all. I will note that it's also
 common in Donegal to refer to hedgehogs with a qualified noun: _gráinneog
 fhéir_, "_gráinneog_ of the grass"[^fheir]. On the surface this does
 suggest some shared meaning not specific to the land creature.
@@ -153,28 +155,22 @@ href=https://iso.ucc.ie/Acallamh-senorach/Acallamh-senorach-text.html>Irish
 However, you can see how this could perhaps be translated as "the
 horror/awfulness of the spear" also[^edil].
 
-Another use of the word _gráinneog_ mostly recorded in Connacht[^cocks]
-is for lapcocks, the first gatherings of cut hay. I have seen and heard various
-descriptions of how these are made. My mother recalls the "lapping" in Donegal
-involving making small piles of hay that had to be turned regularly. Once
-dried, they were made into stacks. Written accounts describe "a method of
-rolling the hay in batches and setting on dry bits of ground with the least
-amount of hay touching the ground as possible", and varyingly are described as
-being "rolled up in such a way as to form conical heaps" or "when well made,
-[having] the appearance of a round ball, flattened a little
-beneath"[^cock-descr]. It is not immediately clear how this might be related to the
+Another use of the word _gráinneog_ mostly recorded in Connacht is for
+lapcocks, the first gatherings of cut hay[^cocks].  My mother recalls the
+"lapping" in Donegal involving making small piles of hay that had to be turned
+regularly. Once dried, they were made into stacks. It is not immediately clear how this might be related to the
 hedgehog &ndash; perhaps they were an attractive nest for the creatures, and
 often found when turning the hay? Did they resemble the creature? LASID point
 20 (Dún Chaoin) gives _dreas-chocaí_ for haycocks, seemingly describing the
 cocks as thorny (from _dreas_ or _dris_ meaning briar or thorny plant). But why
-they would be thorny is unclear to me. Ultimately, this agricultural usage has
-not brought us closer to understanding the etymology.
+they would be thorny is unclear to me. In the end, this agricultural usage has
+not brought us closer to understanding the word.
 
-We can, however, consider another agricultural topic: grain. The nominative
-plural of the word _grán_, meaning "grain", is _gráin_[^plural]. Might we
-analyse _gráinneóg_ as comparing the hedgehog's spines to grain seeds? The
+We can, however, consider another agricultural topic: grain.  The nominative
+plural of the word _grán_, meaning "grain", is _gráin_[^plural][^small-amount]. Might we
+analyse _gráinneóg_ as comparing the hedgehog's spines to grain seeds?  The
 plural form would make sense, given the hedgehog's many spines. It wouldn't be
-the only time _grán_ has been used analogously for small spiky things. _Gráin
+the only time _grán_ has been used analogously for small spiky things: _gráin
 catha_ ("battle grains") refers to caltrops, though perhaps because they are
 thrown to the ground as one might do when sowing seeds[^caltrops].
 
@@ -200,7 +196,7 @@ them to grains or describing them with a generic word for spikes.
 ## Arkan sonney, arkan vollagh, as muc sonnys
 
 While Ireland and Scotland might appear to espouse hate for the hedgehog with
-_gráinneog_, the Isle of Man blesses the hedgehog with the moniker of "happy
+_gráinneog_, the Isle of Man blesses the hedgehog with the moniker of "lucky
 piglet". The small table below might elucidate the meanings of these terms by
 showing them in different orthographies (and grammars, in the case of the last
 two terms)[^late-manx]:
@@ -211,9 +207,9 @@ two terms)[^late-manx]:
 | arkan vollagh | uircean molach  | arcán mollach | shaggy/coarse piglet |
 | muc sonnys | muc sonais  | muc sonais | pig of good fortune, happiness |
 
-These three terms are taken from Broderick (1984), recorded from an unnammed
+These three terms are taken from Broderick (1984), recorded respectively from an unnammed
 speaker from the south of the island[^wagner], Harry Kelly of Cregneash, and
-Thomas Christian of Ramsey, respectively.
+Thomas Christian of Ramsey.
 
 The hedgehog appears to have become synonymous with a creature from folklore,
     though it is unclear how this association came about. Roeder (1904)
@@ -298,9 +294,9 @@ Wagner notes "There are only a very few people left in this area who know some
 Irish. Our informant could not speak it fluently." Perhaps this can explain why
 the informant gave <span class=ipa>,alʰp ˈluəxrə,</span> for the hedgehog,
 apparently _alp luachra_. This term usually refers to the newt, believed to
-crawl down the throats of people who laid down to rest in fields, where the
-newt would eat the person's food as it entered their stomach, over time
-causing the victim to waste.  The _alp luachra_ is only drawn out by the
+crawl down the throats of people who laid down to rest in fields. The
+newt would then live int he person's stomatch, eating their food, over time
+causing the victim to waste away. The _alp luachra_ is only drawn out by the
 victim eating lots of salted meat, to make the _alp luachra_ thirsty, then
 lying with their mouth open by a river to draw out the thirsty lizards.  A
 bilingual account of this tale can be found in Hyde (1890).
@@ -321,7 +317,9 @@ as "thornback" (Raja clavata), a fish with a thorny tale. It appears to be used
 in this way [in this account from
 Galway](https://www.duchas.ie/ga/cbes/4569043/4566321/4574308?HighlightText=rutha&Route=stories&SearchLanguage=ga).
 Clearly the name refers to spikiness, or it would not be shared by these very
-different creatures. Beyond this, I have no knowledge to offer.
+different creatures. Beyond this, I have no knowledge to offer. That this word
+(spelt variously) is also used to refer to a piece of land often called a
+"point" in English seems like a red herring.
 
 ## Gruin nó griun
 
@@ -336,6 +334,15 @@ Strathglass](https://dasg.ac.uk/fieldwork/view/S2Vzc29ja0dNb3NzcGVyc29uYWxtaXNjf
 I can't help but notice this word's superficial similarity to _gráin_. Could
 _gráinneog_ be related to some older, lost word? I have no justification for
 the change in vowel, but the prospect is intriguing.
+
+## Go rabh maith agat
+Go rabh maith agat as léamh mo thaighde. Ma tá aon smaointe agat féin fán
+foclaí sin, tig leat ríomh-phost a sheoladh ag
+<a href="mailto:h@mcla.ug">h@mcla.ug</a>.
+
+Thank you for reading my investigation. If you have any ideas or knowledge
+about these words, feel free to email me at
+<a href="mailto:h@mcla.ug">h@mcla.ug</a>.
 
 ## Appendices
 
@@ -630,6 +637,10 @@ landscape</i>. The Irish Naturalists’ Journal, 36–45.
 * Roeder, K. (1904). <i>Manx Notes and Queries</i>. Douglas : S.K. Broadbent
  & Co. Ltd. [[Online edition]](https://www.isle-of-man.com/manxnotebook/fulltext/mnq1904/n134.htm)
 
+* Watson, S. (2003). Saoghal Bana-Mharaiche: Oral Accounts of Life in an Easter
+  Ross Fisher Community (Part 1). Béaloideas, 71, 75–215.
+  <https://doi.org/10.2307/20520826>
+
  [^og]: It's common for compound words to have the fada dropped in _óg_ &ndash;
  I'm not sure why, as in Donegal I wouldn't expect it to make any difference to
  pronunciation, and further south I would expect to hear a clear, possibly long
@@ -702,17 +713,33 @@ this above.
 tract and has a compound _gráindealgaigh_, from _dealg_, meaning prickle,
 thorn, skewer. However, I do not understand the rest of the sentence.
 
-[^cocks]: Gannon (1999); LASID points 54 (Acaill) and 55 (Dumha Thuama). Also
+[^cocks]: Recorded in Gannon (1999); LASID points 54 (Acaill) and 55 (Dumha Thuama). Also
 listed on this
 [website](https://www.irishlanguageincountymayo.com/farming-life-2) dedicated
 to the Irish language in County Mayo. Dinneen also lists _gráineog fhéir_ for
-the same meaning, but gives Donegal as the place it was recorded.
-
-[^cock-descr]: Descriptions taken from [Butterlope
-Farm](https://www.butterlopefarm.co.uk/revealing-rural-heritage/working-the-hay-and-turf/),
-and sources in the [Dictionaries of the Scots Lanauge page on "lap"](https://dsl.ac.uk/entry/snd/lap)
+the same meaning, but gives Donegal as the place it was recorded.<br> Beyond my
+mother's, I have seen various
+descriptions of how lapcocks are made.  Some describe ["a method of
+rolling the hay in batches and setting on dry bits of ground with the least
+amount of hay touching the ground as
+possible"](https://www.butterlopefarm.co.uk/revealing-rural-heritage/working-the-hay-and-turf/), and varyingly are described as
+being "rolled up in such a way as to form conical heaps" or "when well made,
+[having] the appearance of a round ball, flattened a little
+beneath". Last two descriptions taken from
+and sources in the [Dictionaries of the Scots Lanauge page on "lap".](https://dsl.ac.uk/entry/snd/lap)
 
 [^plural]: Modern dictionaries say this word has no plural but it is attested.
+
+[^small-amount]: _gràineag_ has also been used in Scotland to mean small
+amount, see the usage in Watson (2003): "'nam bitheadh poc agam dhèanainn
+gràineag guail", translated as "if I had a bag I'd get myself a good bit of
+coal". It is also listed in Dwelly's dictionary as meaning "small grain", which
+makes sense to me, though the slenderisation of the "n" is curious. I think
+this easily could have evolved from _gràn_ alongside the word referring to
+hedgehog, so I'm not sure it really provides any evidence towards the etymology
+for the word for hedgehog. It might explain the usage for haycocks, if their
+defining characteristic was being a small amount, particularly if the same
+process was used when harvesting grains.
 
 [^caltrops]: I did consider whether _gráin catha_ was referring to the spikes,
 rather than comparing to grains, but I'd expect a different plural form like
