@@ -215,7 +215,7 @@ The hedgehog appears to have become synonymous with a creature from folklore,
     describes the "the arkan-sonney, or lucky little pig":
 
 > I have heard of some little white animal, like a young pig. They called it
-> the uircean sonny, or the lucky or plentiful little pig. The old people
+> the _uircean_ sonny, or the lucky or plentiful little pig. The old people
 > usad [sic] to say if you caught it you would be very fortunate; that you always find a piece of silver in your pocket when you are in need of it. A woman once said that she was walking one night, and came across some little white thing, but she did not catch it, nor try to catch it, but for some time afterwards she always found a. silver piece in her pocket, when she needed it and put her hand into to her pocket not thinking to find it. And this continued for some time; but she told one of her friends about it, and she did not get any more — the bank was closed.
 
 In Gill (1929):
@@ -294,7 +294,7 @@ Irish. Our informant could not speak it fluently." Perhaps this can explain why
 the informant gave <span class=ipa>,alʰp ˈluəxrə,</span> for the hedgehog,
 apparently _alp luachra_. This term usually refers to the newt, believed to
 crawl down the throats of people who laid down to rest in fields. The
-newt would then live int he person's stomatch, eating their food, over time
+newt would then live in the person's stomatch, eating their food, over time
 causing the victim to waste away. The _alp luachra_ is only drawn out by the
 victim eating lots of salted meat, to make the _alp luachra_ thirsty, then
 lying with their mouth open by a river to draw out the thirsty lizards.  A
@@ -312,7 +312,7 @@ the informant made a mistake.
 ## Rutha
 This is a word I have found used for hedgehogs only in dictionary-type sources.
 Dinneen's 1904 dictionary and Forbes (1905) list it. Dinneen also translates it
-as "thornback" (Raja clavata), a fish with a thorny tale. It appears to be used
+as "thornback" (Raja clavata), a fish with a thorny tail. It appears to be used
 in this way [in this account from
 Galway](https://www.duchas.ie/ga/cbes/4569043/4566321/4574308?HighlightText=rutha&Route=stories&SearchLanguage=ga).
 Clearly the name refers to spikiness, or it would not be shared by these very
