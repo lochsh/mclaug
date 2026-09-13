@@ -336,7 +336,7 @@ the change in vowel, but the prospect is intriguing.
 
 ## Go rabh maith agat
 Go rabh maith agat as léamh mo thaighde. Ma tá aon smaointe agat féin fán
-foclaí sin, tig leat ríomh-phost a sheoladh ag
+foclaí seo, tig leat ríomh-phost a sheoladh ag
 <a href="mailto:h@mcla.ug">h@mcla.ug</a>.
 
 Thank you for reading my investigation. If you have any ideas or knowledge
