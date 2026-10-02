@@ -19,7 +19,7 @@ my digitisation work.
 
 ## Map 85: _also_
 
-<img src="images/lasid/also.svg"
+<img src="images/lasid/also.png"
 width=80%
 alt="A map of Ireland, the Isle of Man and
 the much of Scotland with colour-coded words overlaid representing the word
@@ -30,7 +30,7 @@ into Mayo. Ulster is entirely 'fosta' but for one variant 'fostacht', except
 Rathlin Island which, like Scotland has 'cuidheachd'. The Isle of Man has
 'neesht'. A few places around Roscommon and Clare have 'go maith'.">
 
-<img src="images/lasid/also-scatter.svg"
+<img src="images/lasid/also-scatter.png"
 width=80%
 alt="A map of Ireland, the Isle of Man and
 the much of Scotland with a scatter plot overlaid. The information is the same
