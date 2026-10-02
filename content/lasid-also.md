@@ -77,9 +77,9 @@ On the Isle of Man we find _neesht_ <span class=ipa>[njɪs], [neːs]</span>,
 which John Rhŷs derives from _ina ndís_, in Irish orthography, meaning "in
 their pair"[^broderick].
 
-Curiously, _go maith_ is recorded in three places around Roscommon and east
-Galway. In all three points where _go maith_ was recorded in this way, the
-Gaelic was all but dead at the time of the LASID. Wagner writes:
+Curiously, _go maith_ appears to be recorded in three places around Roscommon
+and east Galway. In all of these points, the Gaelic was all
+but dead at the time of the LASID. Wagner writes:
 
 of point 26, Careeny:
 > None of our informants in this mountain area could speak Irish. We were, however, able to collect a few hundred words and little sentences from them. They must have spoken some Irish in their childhood. The area is situated on the <i>Galway/Clare</i> border.
@@ -94,9 +94,10 @@ Usually, _go maith_ is either the adverb form of "good", i.e. "well", or it is
 used to express subjective opinion that something is good. Of course, in
 English we say "as well", and the equivalent expression _chomh maith_ has
 already been discussed. Is _go maith_ here a corruption of _chomh maith_?
-Or a remanant of a lost East Connacht dialectal usage? Searching elsewhere for
-written attestations of the same usage is made difficult by how common the
-phrase is in other contexts.
+Or a remanant of a lost East Connacht dialectal usage? Have I misinterpreted
+the transcriptions (might this be eclipsis _gcomh maith_)?[^go-maith] Searching
+elsewhere for written attestations of the same usage of _go maith_ is made
+difficult by how common the phrase is in other contexts.
 
 On comparing the LASID results to other sources, we must remember that the
 LASID does not mean to suggest that no other words could ever be used in an
@@ -181,6 +182,15 @@ dictionary](https://www.teanglann.ie/en/fgb/cuideachta) also defines
 _cuideachta_ as "company", in the sense of companionship.
 
 [^broderick]: [Broderick, G. (2019). <i>Prof. Sir John Rhŷs in the Isle of Man (1886-1893): Dictionary</i>. Zeitschrift Für Celtische Philologie .](https://chaucerianmyth.neocities.org/IPA%20Manx%20Dict..pdf)  <https://doi.org/10.1515/ZCPH-2019-0002>
+
+[^go-maith]: The transcriptions recorded for the survey points in question:<ul> <li>26: <span class=ipa>[go ˈmɑ]</span></li> <li>32: <span class=ipa>[gə ˈmɑ]</span></li> <li>33: <span class=ipa>[go ˈmaix′]</span></li> </ul> The pronunciation of _maith_ matches that given in map 240 for points 26
+and 33, though point 32 has <span class=ipa>[mɑih]</span>. I don't see any
+reason why there would be eclipsis on _comh maith_, but that could be my lack
+of knowledge. The full utterance for point 32 actually looks like _tá
+do léinidh salach go maith leis-sean_, though the last word is not included on
+the printed map. Point 33 ends with _go maith_, and point 26 does not have
+printed responses to the survey, only texts and vocabulary, in which I cannot
+find an obvious source for this map entry.
 
 [^freisin]: Galway has by far the most at 1715, followed by Mayo (625) and
 Clare (132). We also have Roscommon (32), Cavan (31), Sligo (21), and Kerry
