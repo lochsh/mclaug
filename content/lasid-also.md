@@ -28,7 +28,7 @@ we find mostly 'chomh maith' but 'leis' and 'féin' are also found. Most
 places around Conamara have 'freisin', fading into 'chomh maith' as you go north
 into Mayo. Ulster is entirely 'fosta' but for one variant 'fostacht', except
 Rathlin Island which, like Scotland has 'cuidheachd'. The Isle of Man has
-'neesht'. A few places around Roscommon and Clare have 'go maith'.">
+'neesht'. A few places around Roscommon and Clare have 'gomh maith'.">
 
 <img src="images/lasid/also-scatter.png"
 width=80%
@@ -39,6 +39,8 @@ as in the previous image, see its alt text for description.">
 Map 85 in Volume 1 of the LASID shows the word used for "also" at the various
 survey points. The elicitation prompt was "your shirt is dirty too", with the
 prior prompt being "my shirt is dirty".
+
+### Lexical observations
 
 From the plots above, we can see that _leis_ is ubiquitous in Kerry and Cork.
 We can interpret this as "with it", i.e. "your shirt is dirty with it [it = my
@@ -77,27 +79,35 @@ On the Isle of Man we find _neesht_ <span class=ipa>[njɪs], [neːs]</span>,
 which John Rhŷs derives from _ina ndís_, in Irish orthography, meaning "in
 their pair"[^broderick].
 
-Curiously, _go maith_ appears to be recorded in three places around Roscommon
-and east Galway. In all of these points, the Gaelic was all
-but dead at the time of the LASID. Wagner writes:
+The pronunciations I have labelled as _gomh maith_ (<span class=ipa>[go ˈmɑ],
+[gə ˈmɑ], [go ˈmaix′]</span>) initially surprised me, as I interpreted them as
+_go maith_, which is the adverb form of "good" (i.e. "well") or is used to
+express subjective opinion that something is good. The Gaelic was all but dead
+at the time of the LASID in the three points where this was recorded, so I
+wondered it might be corrupt. However, this pronunciation of what would
+more etymologically be written _comh maith_ is the same phenomenon that gives
+us _goidé_ for _caidé_, as is commonly heard in Ulster. Quiggin
+writes[^quiggin]:
 
-of point 26, Careeny:
-> None of our informants in this mountain area could speak Irish. We were, however, able to collect a few hundred words and little sentences from them. They must have spoken some Irish in their childhood. The area is situated on the <i>Galway/Clare</i> border.
+> <i><span class=ipa>g</span></i> arises from O.Ir. [Old Irish] <i>
+<span class=ipa>_c_</span></i> in pretonic syllables. For <i><span
+class=ipa>gαχ</span></i>, O.Ir.
+> cach, cech; <i><span class=ipa>gən</span></i>, ‘without’, O.Ir. cen; <i><span
+> class=ipa>gə</span></i>, O.Ir. co; <i><span class=ipa>gə·dʹe꞉</span></i>, O.Ir. cate, cote
 
-of point 32, Carrowntarriff:
->This point represents a place in <i>County Roscommon</i>, about eight miles west of <i>Athlone</i>. Professor T. O Máille (Galway) discovered here two native speakers a few years ago. He recorded answers to our short questionnaire on tape. One of the two informants (a) was very good and could answer most of the questions.
+The adjective following _comh_ or _chomh_ would be stressed, hence _comh_ would
+be pretonic. I have plotted the distribution of the initial consonant in this
+word below, from the elicitation "he is as cute as a fox".
 
-of point 33, Camderry, Galway:
-> Two fluent Irish speakers were found in this area where Irish must have been alive some twenty years ago. Most of our questions were answered.
+<img src="images/lasid/chomh-first-con-scatter.png" width=80%
+alt="Distribution of chomh and comh. With lenition is most widespread, with [x]
+being the most common realisation. One spot has [χ] and another [h]. Without
+lenition is found in much of Ulster, voiced in most places except south
+Donegal, mid-Ulster and Rathlin Island. There is a smattering of no lenition
+around Clare, East Connacht and Kerry. Scotland has lenition except on
+Arran.">
 
-Usually, _go maith_ is either the adverb form of "good", i.e. "well", or it is
-used to express subjective opinion that something is good. Of course, in
-English we say "as well", and the equivalent expression _chomh maith_ has
-already been discussed. Is _go maith_ here a corruption of _chomh maith_?
-Or a remanant of a lost East Connacht dialectal usage? Have I misinterpreted
-the transcriptions (might this be eclipsis _gcomh maith_)?[^go-maith] Searching
-elsewhere for written attestations of the same usage of _go maith_ is made
-difficult by how common the phrase is in other contexts.
+#### Comparing to other sources
 
 On comparing the LASID results to other sources, we must remember that the
 LASID does not mean to suggest that no other words could ever be used in an
@@ -109,7 +119,7 @@ geographical clustering observed on the maps does suggest that, even if other te
 the survey points, the ones given in the LASID were likely the most
 natural for the elicitation.
 
-## Comparing some of the complete utterances
+### Phonetic comparison of some of the complete utterances
 
 Point 1, Ring, Waterford:
 <blockquote>
@@ -181,16 +191,10 @@ in Irish."
 dictionary](https://www.teanglann.ie/en/fgb/cuideachta) also defines
 _cuideachta_ as "company", in the sense of companionship.
 
-[^broderick]: [Broderick, G. (2019). <i>Prof. Sir John Rhŷs in the Isle of Man (1886-1893): Dictionary</i>. Zeitschrift Für Celtische Philologie .](https://chaucerianmyth.neocities.org/IPA%20Manx%20Dict..pdf)  <https://doi.org/10.1515/ZCPH-2019-0002>
+[^broderick]: Broderick, G. (2019). [<i>Prof. Sir John Rhŷs in the Isle of Man
+(1886-1893): Dictionary</i>](https://chaucerianmyth.neocities.org/IPA%20Manx%20Dict..pdf). Zeitschrift Für Celtische Philologie .  <https://doi.org/10.1515/ZCPH-2019-0002>
 
-[^go-maith]: The transcriptions recorded for the survey points in question:<ul> <li>26: <span class=ipa>[go ˈmɑ]</span></li> <li>32: <span class=ipa>[gə ˈmɑ]</span></li> <li>33: <span class=ipa>[go ˈmaix′]</span></li> </ul> The pronunciation of _maith_ matches that given in map 240 for points 26
-and 33, though point 32 has <span class=ipa>[mɑih]</span>. I don't see any
-reason why there would be eclipsis on _comh maith_, but that could be my lack
-of knowledge. The full utterance for point 32 actually looks like _tá
-do léinidh salach go maith leis-sean_, though the last word is not included on
-the printed map. Point 33 ends with _go maith_, and point 26 does not have
-printed responses to the survey, only texts and vocabulary, in which I cannot
-find an obvious source for this map entry.
+[^quiggin]: Quiggin, E. C. (1906). [<i>A Dialect of Donegal</i>](https://en.wikisource.org/wiki/A_Dialect_of_Donegal). Cambridge : University Press. § 428
 
 [^freisin]: Galway has by far the most at 1715, followed by Mayo (625) and
 Clare (132). We also have Roscommon (32), Cavan (31), Sligo (21), and Kerry
