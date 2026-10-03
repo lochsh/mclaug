@@ -84,7 +84,7 @@ The pronunciations I have labelled as _gomh maith_ (<span class=ipa>[go ˈmɑ],
 _go maith_, which is the adverb form of "good" (i.e. "well") or is used to
 express subjective opinion that something is good. The Gaelic was all but dead
 at the time of the LASID in the three points where this was recorded, so I
-wondered it might be corrupt. However, this pronunciation of what would
+wondered if this might be corrupt. However, this pronunciation of what would
 more etymologically be written _comh maith_ is the same phenomenon that gives
 us _goidé_ for _caidé_, as is commonly heard in Ulster. Quiggin
 writes[^quiggin]:
@@ -158,13 +158,13 @@ Waterford.
 * the short length of _á_ in both Donegal and Scotland
 
 * the preservation of the palatalisation of the _n_ in _léine_ in the Irish
-  points, lost in Lewis after the preceding front vowel.
+  points, lost on Lewis after the preceding front vowel.
 
 In all examples shown here, I note the lenis slender _l_ in _do léine_. An
 earlier question in the LASID reveals that without the possessive adjective,
 _léine_ starts with a fortis consonant in all but the first point (Ring does not
 maintain a fortis-lenis contrast on _l_ sounds[^breatnach]). Compare <span
-class=ipa>[ʟ′eːn′ĕ]</span> with <span class=ipa>[l′eːn′ə]</span> at point 44. It
+class=ipa>[ʟ′eːn′ĕ]</span> with <span class=ipa>[də l′eːn′ə]</span> at point 44. It
 is enjoyable to see phonetic evidence of lenition not represented in the
 orthography[^fortis].
 
