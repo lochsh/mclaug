@@ -28,18 +28,20 @@ INDEX_SAVE_AS="blog.html"
 
 THEME = "themes/hyde"
 PROFILE_IMAGE = "me.jpg"
-BIO = ("I'm an engineer with an interest in linguistics. I live in Oxford, UK, "
-       "and I love learning about phonetics and phonology. I'm particularly interested "
-       "in Japanese and Gaelic.<br><br>"
-       "I have previously worked as a software engineer, writing Rust and Python for "
-       "quantum computers, C++ for medical imaging diagnostics, and bare metal "
-       "embedded C for surgical robots."
+BIO = (
+    "After a decade labouring in the software engineering mines, I am enjoying a "
+    "luxurious period of indulgence in my linguistic interests. "
+    "On this blog you can read my investigations into Gaelic "
+    "words for <a href=https://mcla.ug/froganna.html>frogs</a> and "
+    "for <a href=https://mcla.ug/hoganna.html>hedgehogs</a>, about my ongoing "
+    "<a href=https://mcla.ug/fosta.html>digitisation</a> of the Linguistic "
+    "Atlas and Survey of Irish Dialects, and other delights."
 )
 LONG_BIO = (
-       "I'm Hannah McLaughlin <span class=ipa>/mɪˈ.glɔx.lən/ [mɪ̞ˈ.gɫɔx.ɫn̩]</span>.<br><br>"
+       "I'm Hannah McLaughlin, or Nóra Nic Lochlainn.<br><br>"
        "I'm an engineer with an interest in linguistics. I live in Oxford, UK, "
        "and I love learning about phonetics and phonology. I'm particularly interested "
-       "in Japanese and Gaelic. I love exploring "
+       "in Gaelic, though I have also been interested in Japanese. I love exploring "
        "connection and variation of language across the Gaelic world, particularly "
        "between Ulster and Scotland.<br><br>"
 
@@ -49,15 +51,18 @@ LONG_BIO = (
        "demonstrate both the unique history of a place, and its connection to other "
        "places, whether near or far. <br><br>"
 
+       "I am currently working on "
+       "<a href=https://codeberg.org/lochsh/lasid>digitising</a> the "
+       "Linguistic Atlas and Survey of Irish Dialects.<br><br>"
+
        "I have previously worked as a software engineer, writing Rust and Python for "
        "quantum computers, C++ for medical imaging diagnostics, and bare metal "
-       "embedded C for surgical robots.<br><br>"
+       "embedded C for surgical robots. The older articles on this website tend to be "
+       "about software and related technology. Newer articles reflect my interest "
+       "in languages.<br><br>"
 
        "I studied Information and Computer Engineering at the University of "
-       "Cambridge.<br><br>"
-
-       "Most of the posts on my blog have been about software and related technology. "
-       "I look forward to writing more about languages."
+       "Cambridge."
 )
 NAME_EN = "I'm Hannah"
 NAME_JA = "ハナといいます"
