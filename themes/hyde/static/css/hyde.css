@@ -33,7 +33,19 @@
 
 @font-face {
     font-family: ChunkyJA;
-    src: url("/images/GenEiKiwamiGo.ttf");
+    src: url("/static/fonts/GenEiKiwamiGo.ttf");
+}
+
+@font-face {
+    font-family: Anois Sans Trom;
+    src: url("/static/fonts/AnoisSans-Trom.woff2");
+    font-feature-settings: "ss16";
+}
+
+@font-face {
+    font-family: Anois Sans Eádrom;
+    src: url("/static/fonts/AnoisSans-Eádrom.woff2");
+    font-feature-settings: "ss16";
 }
 
 html {
@@ -54,6 +66,18 @@ html {
 
 .ipa {
     font-family: Charis SIL, Gentium Plus, Segoe UI, Doulos SIL, DejaVu Sans, Lucida Sans Unicode, Arial, sans-serif;
+}
+
+.seanchlo {
+    font-family: Anois Sans Eádrom;
+}
+
+.seanchlochunky {
+    font-family: Anois Sans Trom;
+}
+
+.roman {
+    font-family: Comic Neue;
 }
 
 .frog-intro {

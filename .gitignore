@@ -10,4 +10,4 @@ wheels/
 .venv
 
 output/
-content/images/*ttf
+content/static/fonts

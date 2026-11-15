@@ -1,0 +1,23 @@
+{% set blogpage=true %}
+{% extends "base.html" %}
+
+{% block head %}
+{{ super() }}
+<meta property="og:image" content="{{ article.cover }}"/>
+{% endblock %}
+
+{% block title %}
+    {{ article.title }}
+{% endblock %}
+
+{% block content %}
+<div class="post">
+	<h1 class="post-title" style="font-family: Anois Sans Trom;">{{ article.title }}</h1>
+	<span class="post-date">{{ article.locale_date }}</span>
+    <span class=seanchlo>
+	{{ article.content }}
+    </span>
+	{% include 'fragments/disqus.html' %}
+</div>
+{% endblock %}
+
