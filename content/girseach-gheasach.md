@@ -150,7 +150,8 @@ Ba oiḋċe ḃrónaċ í an oiḋċe réab-ġealaiġe eadar Loċ Iasg agus an B
 
 Faoi ṡolas na gealaiġe, ḃí Míċeal ag léaṁ litreaċ Ṡorċa. Ḃrúiġ sé an litir i gcoinne a ċroiḋe, agus ṡiuḃail sé aḃaile ċun an toiġe sgoile lena ḟreagair a sgríoḃ.
 
-Le fáinne an lae, d’imiġ leis ó ṫuaiḋ. Ṡiuḃail sé le taoḃ An Ċorrabair, ṫar bráid Loċ Ḃéal Séad agus níos faide isteaċ ar na Cruaċa. Fá ḋeireaḋ, ṫáinig sé go dtí mullaċ na Cruaiċe Goirme, an mullaċ is airde ina ṫimpeall. D’ḟan sé ansin, ag féaċaint ar néalltaiḃ ag gluaiseaċt suas, go dtí go raḃ an ġrian imiṫe faoi, agus an ġealaċ éiriṫe i n-airde sa sbéir. Ṫóg sé litir do Ṡorċa as a ṗóca, agus ċuir sé í i bpoll beag sa tallaṁ. Las Míċeál cipín, agus é ag lasaḋ na litreaċ, d’ḟéaċ sé ar an ġealaiġ, deora lena ṡúile, ag guí go ḃfeicfeaḋ a stór an solas…
+Le fáinne an lae, d’imiġ leis ó ṫuaiḋ. Ṡiuḃail sé le taoḃ An Ċorrabair, ṫar
+bráid Loċ Ḃéal Séad agus níos faide isteaċ ar na Cruaċaiḃ. Fá ḋeireaḋ, ṫáinig sé go dtí mullaċ na Cruaiċe Goirme, an mullaċ is airde ina ṫimpeall. D’ḟan sé ansin, ag féaċaint ar néalltaiḃ ag gluaiseaċt suas, go dtí go raḃ an ġrian imiṫe faoi, agus an ġealaċ éiriṫe i n-airde sa sbéir. Ṫóg sé litir do Ṡorċa as a ṗóca, agus ċuir sé í i bpoll beag sa tallaṁ. Las Míċeál cipín, agus é ag lasaḋ na litreaċ, d’ḟéaċ sé ar an ġealaiġ, deora lena ṡúile, ag guí go ḃfeicfeaḋ a stór an solas…
 
 ## Iarḟocal
 
@@ -183,8 +184,21 @@ distant uninhabitable moon.
 Thanks as always are due to Dubhán Ó Longáin for correcting my grammar and
 being a supportive teacher. Any remaining mistakes are certainly my
 own, as are the old-fashioned choices in spelling and grammar, which I have
-made for my own enjoyment. I hope it is not too inconsistent for fellow old
-writing appreciators, or too inaccessible for fellow learners.
+made for my own enjoyment and learning. The story is set around the turn of the
+20th Century, so it felt appropriate to me to use contemporary spelling. I also
+enjoy more etymological spellings as well as dialectal spellings
+regardless of this context, and often employ them. The use of dative plurals
+such as <i>néalltaibh</i> is something I have come across as late as the 1930s,
+though I have read that the pronunciation of the final syllable was usually
+<span class=ipa>/i/</span> in <a
+href=https://www.teanga.info/oduibhin/leabharthai/First%20Irish%20Grammar%20(Ulster%20Edition).pdf>The
+Christian Brothers' Ulster Edition</a>. I find using these dative plurals
+useful from a learning perspective to make me more conscious of grammatical
+case, though if dative plurals are largely defunct in the modern spoken
+language this is perhaps a pretentious endeavour.
+<br><br>
+I hope these writing choices are not too inconsistent for
+fellow old writing appreciators, or too inaccessible for fellow learners.
 <br><br>
 The font used is Anois Sans from <a href=https://gaeltacht-type.com/>Gaeltacht Type</a>.
 </div>
