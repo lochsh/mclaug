@@ -42,7 +42,8 @@ Do Ṡeán Ó Cuinn as Allt na Péiste, ba éigean dó An Claiḋeaṁ Solais a 
 
 Do Ṡeán Mac an Ḃáird as An Eaglais, ba éigean dó An Craoḃ Airgid a ṫaḃairt leis daoiṫe.
 
-Do Ṡeán Mac an Lúin as Duḃċruaċ, ba éigean dó fiacail as an doḃar-ċú a ċosnaíos Loċ Ḃéal Séad a ṫaḃairt leis daoiṫe.
+Do Ṡeán Mac an Lúin as Duḃċruaċ, ba éigean dó fiacail as an doḃar-ċú a ċosnaíos
+Loċ Ḃéal Séad a ṫaḃairt leis daoiṫe[^dobhar].
 
 <figure>
 <img src="../images/claidheamh.svg" alt="an claideamh solais" width="30%">
@@ -192,6 +193,11 @@ The font used is Anois Sans from <a href=https://gaeltacht-type.com/>Gaeltacht T
 A remarkable reduction of <i>uə</i> > <i>ɔ</i> before the stress occurs
 in <i>Lɔχ·pʹi꞉Nʹə</i>, ‘a penny­worth’ < Luəχ, Di. luach; <i>krɔχ
 ·eirʹ</i>, ‘hay-stack’, < cruach.</span></blockquote>
+
+[^dobhar]: Is é cat a ċosnaíos Loċ Ḃéal Séad sa
+[sgéal](https://www.duchas.ie/en/cbes/4428280/4391331/4478267) as Taṁnaċ Ṁullaiġ seo,
+ach is é doḃar-ċú sa [sgéal](https://www.duchas.ie/en/cbes/4428277/4391185)
+seo eile. Ba ḟearr liom doḃar-ċú fá ċoinne mo sgéil.
 
 [^casán]: [bealach ársa eadar Loċ Iasg agus Gleann Ḟinne](https://www.duchas.ie/en/cbes/4428281/4391419/4478772)
 
