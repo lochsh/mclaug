@@ -86,7 +86,7 @@ Sorċa an Seán sin arís.
 Ní raḃ duine ar biṫ ṫuas ag Loċ Ḃéal Séad an tráṫnóna sin. Agus a ġlaoite ag géilleaḋ do ṫost ṫur na talún, gealaċ na gconlaċ ag éirí, ṡíl sé gur ċuala sé sblais as an loċ…
 
 <figure>
-<img src="../images/litir.svg" alt="litir do Shorcha" width="15%">
+<img src="../images/litir.svg" alt="litir do Shorcha" width="20%">
 </figure>
 
 Ṫóg fear eile a ṡúil ar Ṡorċa, giḋ naċ raḃ dadaiḋ ráite aige fós. I n-amanntaí, nuair a ḃí sé ag siúḃail amuiġ san oiḋċe, d'ḟeiceaḋ sé Sorċa ag aṁarc ar an ġealaċ, faoina luisne. Ḃí a ḟios aige go mbíoḋ Sorċa ag cuidiú lena tuismiṫeoirí agus páisdí áitiúla lena litreaċa, agus ḃí an-ṁeas aige uirṫi as sin. Ba é Míċeál Mac Meanman é, agus ḃí sé ina ṫeagasgóir ag Sgoil Náisiúnta Ċineal Conaill.
@@ -121,7 +121,7 @@ Ar a ngearáin, a ṫáinig dá ḃarr, lean sí uirṫi fríd ḋeoraiḃ: “N
 “Ná h-abair a leiṫéid de rudaí niṁneaċa”, a duḃairt Peadar go lag. “Ní ligfiḋ mé dófa tú a ġlacaḋ leofa!”
 
 <figure>
-<img src="../images/nealltaí.svg" alt="nealltaí lionnreacha seoigh" width="50%">
+<img src="../images/nealltaí.svg" alt="nealltaí lionnreacha seoigh" style="height: 8em;">
 </figure>
 
 Ṫáinig meán oiḋċe. Soilsíoḋ an teaċ le réab-ġealaċ. Ḃí sé geal go leor ċun pioċán craicinn duine a ḟeiceáilt. Ar néalltaiḃ loinnreaċa seoiġ ṫáinig as na sbéarṫaiḃ daoiní daṫúla dóiġ. Rinneaḋ stangairí daofa a ḃí taoḃ amuiġ agus taoḃ istiġ ag an aṁarc. Fá ḋeireaḋ, rinn siad iarraċt tarraingt ar a ngunnaí agus a lánta, aċ ḃí láidreaċt imiṫe as a láṁaiḃ féin, ċaill siad a lúṫ gluaiseaċta. Níor ṫig leofa aċ aṁarc uaṫu, trí ċéile.
