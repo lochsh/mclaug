@@ -186,16 +186,23 @@ being a supportive teacher. Any remaining mistakes are certainly my
 own, as are the old-fashioned choices in spelling and grammar, which I have
 made for my own enjoyment and learning. The story is set around the turn of the
 20th Century, so it felt appropriate to me to use contemporary spelling. I also
-enjoy more etymological spellings as well as dialectal spellings
+generally enjoy more etymological and dialectal spellings
 regardless of this context, and often employ them. The use of dative plurals
-such as <i>néalltaibh</i> is something I have come across as late as the 1930s,
-though I have read that the pronunciation of the final syllable was usually
-<span class=ipa>/i/</span> in <a
-href=https://www.teanga.info/oduibhin/leabharthai/First%20Irish%20Grammar%20(Ulster%20Edition).pdf>The
-Christian Brothers' Ulster Edition</a>. I find using these dative plurals
-useful from a learning perspective to make me more conscious of grammatical
-case, though if dative plurals are largely defunct in the modern spoken
-language this is perhaps a pretentious endeavour.
+such as <i>néalltaibh</i> is something I have come across in writing up until
+the dawn of the Caighdeán in the 1950s, though I have read that the pronunciation of the final syllable was
+usually <span class=ipa>/i/</span> in The Christian Brothers' <a
+href=https://www.teanga.info/oduibhin/leabharthai/First%20Irish%20Grammar%20(Ulster%20Edition).pdf>
+<i>First Irish Grammar Ulster Edition</i></a> and in Séamus Ó
+Searcaigh's <a
+href=https://corpas.ria.ie/index.php?fsg_function=3&fsg_id=3024><i>Cloich
+Cheann-Fhaolaidh</i></a>, both from the first decade of the 20th
+Century. I find using these dative plurals useful from a learning perspective
+to make me more conscious of grammatical case, though given dative plurals are
+(largely?  completely?) defunct in the modern spoken language this is perhaps a
+pretentious endeavour!
+<br><br>
+Using "sgéal" instead of "scéal" &c. is a personal
+preference, as is writing e.g. "ba iad" instead of "b'iad".
 <br><br>
 I hope these writing choices are not too inconsistent for
 fellow old writing appreciators, or too inaccessible for fellow learners.
