@@ -15,9 +15,13 @@ Dubhchruach. Baile Dhún na nGall is southwest of all.">
 <figcaption style="text-align: center;">Na h-áiteanna a ṫarlaíos ár sgéal</figcaption>
 </figure>
 
+<figure>
+<img src="../images/préataí.svg" alt="planda préata" width="30%">
+</figure>
+
 Fadó fadó, i n-áit darḃ ainm Taṁnaċ Ṁullaiġ, eadar Loċ Iasg agus an Bearnas Mór, ḃí sean-lánúin i n-a gcónaí i dtoiġ ḃeag ḟionn-aolta. Peadar agus Bríd Ṁic ḟionntaiġ atá orṫu, agus óna dtoiġ ḃeag i mbaile fearainn Ġuala Duḃ, ṫig leat na Cruaċa Gorma agus trasna an loċa a ḟeiceáilt.
 
-Tráṫnóna saṁraiḋ aṁáin, faoi lán-ġealaigh, ḃí Peadar ag teaċt aḃaile i ndiaiḋ ċuidiú le coṁarsa, agus ċonaic sé rud aisteaċ ina ċuiḃreann préataí féin! Ḃí planda aṁáin ina ċaor ċoiṁṫíoċ! D’aṁarc sé níos gaire ar an ṗlanda, agus d’aimsiġ sé foinse an tsolais. Ḃí mion-ġirseaċ ṁaiseaċ ina suiḋe ar ḋuilleog préata ann! Ní raḃ fad ordóige inti, agus ḃí solas suaiṁneaċ ag teaċt uaiṫi.
+Tráṫnóna saṁraiḋ aṁáin, faoi lán-ġealaiġ, ḃí Peadar ag teaċt aḃaile i ndiaiḋ ċuidiú le coṁarsa, agus ċonaic sé rud aisteaċ ina ċuiḃreann préataí féin! Ḃí planda aṁáin ina ċaor ċoiṁṫíoċ! D’aṁarc sé níos gaire ar an ṗlanda, agus d’aimsiġ sé foinse an tsolais. Ḃí mion-ġirseaċ ṁaiseaċ ina suiḋe ar ḋuilleog préata ann! Ní raḃ fad ordóige inti, agus ḃí solas suaiṁneaċ ag teaċt uaiṫi.
 
 Duḃairt Peadar leis an ṁion-ġirseaċ “Tá tú faiġte agam mar tá tú anseo, sna préataí a mbím ag siúḃail ṫairis gaċ lá. Caiṫfiḋ sé sa ċinniúint go mbeifeá i do ṗáisde agam féin.” Ṫóg sé í ina láṁaiḃ agus ṫug sé leis aḃaile ċuige Bríd í.
 
@@ -25,7 +29,9 @@ Ní raḃ clann ag an tsean-lánúin roiṁe sin, agus ṫug siad aire ṁaiṫ 
 
 Aon lá aṁáin, rinneaḋ Feis Ṫaṁnaċ Ṁullaiġ ag an sgoil náisiúnta Ċineal Conaill. Ṫáinig daoiní as gaċ cearn fá ċoinne aṁránaíoċta, filíoċta agus seanċais. Ċan Sorċa Nic ḟionntaiġ aṁrán galánta i nGaeḋilg ḃlasta, agus ḃuaiġ sí an comórtas aṁránaíoċta.
 
-Ḃí triúr fear faoi ḋraíoċt ag áilleaċt agus cumas Ṡorċa. Ba iad Seán Ó Cuinn as Allt na Péiste, Seán Mac an Ḃáird as An Eaglais, agus Seán Mac a' Lúin as Duḃċruaċ. Ḃí siad go leir ag iarraiḋ Sorċa a ṗósaḋ. Aċ níor suim ar biṫ léiṫe aon duine, mar sin ḃronn sí tasc do-ḋeánta ar gaċ fear. An té a ċríoċnóḋ a ṫasc ar dtús, ṗósfaḋ sí é.
+Ḃí triúr fear faoi ḋraíoċt ag áilleaċt agus cumas Ṡorċa. Ba iad Seán Ó Cuinn as
+Allt na Péiste, Seán Mac an Ḃáird as An Eaglais, agus Seán Mac a' Lúin as
+Duḃċruaċ[^cruach]. Ḃí siad go leir ag iarraiḋ Sorċa a ṗósaḋ. Aċ níor suim ar biṫ léiṫe aon duine, mar sin ḃronn sí tasc do-ḋeánta ar gaċ fear. An té a ċríoċnóḋ a ṫasc ar dtús, ṗósfaḋ sí é.
 
 Do Ṡeán Ó Cuinn as Allt na Péiste, ba éigean dó An Claiḋeaṁ Solais a ṫaḃairt leis daoiṫe.
 
@@ -37,7 +43,8 @@ Do Ṡeán Mac an Lúin as Duḃċruaċ, ba éigean dó fiacail as an doḃar-ċ
 <img src="../images/claidheamh.svg" alt="an claideamh solais" width="30%">
 </figure>
 
-Anois, ḃí Seán Ó Cuinn coṁ glic le sionnaċ. Níor ṫig leis gléas ársa a ḟáilt, agus ṫuig sé sin go maiṫ. Ċuir sé Casán na mBráṫar de, trasna na gCruaċ Gorm go Glinn Ḟinne, ċuige gaḃa Ḃaile Bó Báinín…
+Anois, ḃí Seán Ó Cuinn coṁ glic le sionnaċ. Níor ṫig leis gléas ársa a ḟáilt,
+agus ṫuig sé sin go maiṫ. Ċuir sé Casán na mBráṫar[^casán] de, trasna na gCruaċ Gorm go Glinn Ḟinne, ċuige gaḃa Ḃaile Bó Báinín…
 
 Cupla mí ina ḋiaiḋ sin, ṫáinig Seán Ó Cuinn ar ais go Taṁnaċ Ṁullaiġ. Ní raḃ Sorċa sásta é a ḟeiceáilt ag teaċt suas an bealaċ go toiġ Ṁic ḟionntaiġ. Duḃairt a h-áṫair altrama léiṫe “Cad ċuige naċ dtaḃarfá seans de? Lá inteaċt, beiḋ mise agus Bríd marḃ, agus tá imní orainn fár niġean a ḃeiṫ ina h-aonar.” Níor ċuir sí aċ puisín uirṫi féin.
 
@@ -174,6 +181,13 @@ writing appreciators, or too inaccessible for fellow learners.
 The font used is Anois Sans from <a href=https://gaeltacht-type.com/>Gaeltacht Type</a>.
 </div>
 
+[^cruach]: Nóta fuaimniṫe: Pointe LASID 83 <span class=ipa>[dûʰrɔː]</span>.  [Quiggin](https://en.wikisource.org/wiki/A_Dialect_of_Donegal/The_Vowel_System#s27): <blockquote><span class=roman>
+A remarkable reduction of <i>uə</i> > <i>ɔ</i> before the stress occurs
+in <i>Lɔχ·pʹi꞉Nʹə</i>, ‘a penny­worth’ < Luəχ, Di. luach; <i>krɔχ
+·eirʹ</i>, ‘hay-stack’, < cruach.</span></blockquote>
+
+[^casán]: [bealach ársa eadar Loċ Iasg agus Gleann Ḟinne](https://www.duchas.ie/en/cbes/4428281/4391419/4478772)
+
 [^fraoch]: [As an t-aṁrán áitiúl
 seo](https://www.duchas.ie/en/cbes/4428280/4391354/4478307), le mo
-ṡin-sean-ṁáthair, is cosamhail é.
+ṡin-sean-ṁáthair, is cosaṁail é.
