@@ -34,7 +34,7 @@ Aon lá aṁáin, rinneaḋ Feis Ṫaṁnaċ Ṁullaiġ ag an sgoil náisiúnta 
 Ċan Sorċa Nic Ḟionntaiġ aṁrán galánta i nGaeḋilg ḃlasta, agus ḃuaiġ sí an
 comórtas aṁránaiḋeaċta.
 
-Ḃí triúr fear faoi ḋraíoċt ag áilleaċt agus cumas Ṡorċa. Ba iad Seán Ó Cuinn as
+Ḃí triúr fear faoi ḋraoiṫeaċt ag áilleaċt agus cumas Ṡorċa. Ba iad Seán Ó Cuinn as
 Allt na Péiste, Seán Mac an Ḃáird as An Eaglais, agus Seán Mac a' Lúin as
 Duḃċruaċ[^cruach]. Ḃí siad go leir ag iarraiḋ Sorċa a ṗósaḋ. Aċ níor suim ar biṫ léiṫe aon duine, mar sin ḃronn sí tasc do-ḋeánta ar gaċ fear. An té a ċríoċnóḋ a ṫasc ar dtús, ṗósfaḋ sí é.
 
@@ -54,7 +54,7 @@ agus ṫuig sé sin go maiṫ. Ċuir sé Casán na mBráṫar[^casán] de, trasn
 Cupla mí ina ḋiaiḋ sin, ṫáinig Seán Ó Cuinn ar ais go Taṁnaċ Ṁullaiġ. Ní raḃ
 Sorċa sásta é a ḟeiceáilt ag teaċt suas an bealaċ go toiġ Ṁic Ḟionntaiġ. Duḃairt a h-áṫair altrama léiṫe “Cad ċuige naċ dtaḃarfá seans de? Lá inteaċt, beiḋ mise agus Bríd marḃ, agus tá imní orainn fár niġean a ḃeiṫ ina h-aonar.” Níor ċuir sí aċ puisín uirṫi féin.
 
-Níorḃ ḟada gur ḃain Seán Ó Cuinn an teaċ amaċ. Sulma dtiocfaḋ le Peadar copán tae a ṫairisgint dó, ċuaiġ Seán síos ar leaṫ-ġlúin, agus ḃronn sé claiḋeaṁ ar Ṡorċa. Duḃairt sé léiṫe “A Ṡorċa, a stór. Tá taistealta i ḃfad agus i ngearr agam ċun an claiḋeaṁ a ḟáilt duitse. Bíoḋ an claiḋeaṁ ina ċoṁarṫa seirce duit, fianaise mo ġráiḋ duit.” Ṫóg Sorċa an claiḋeaṁ ina láṁaiḃ. Ċumail sí barra a méar de éadan an claiḋiṁ, ḃí solas ina súile, agus seo mar a laḃair sí: “Níor neaċ buan an té a rinn an claiḋeaṁ seo. Níl sé iomparṫa ag aon laoċ ar biṫ. Cá h-áit a ṡolas loisgeaċ? Cá h-áit a ġreanaḋ draíoċta? Ní h-é Claiḋeaṁ Solais mo iarrṫa agam.”
+Níorḃ ḟada gur ḃain Seán Ó Cuinn an teaċ amaċ. Sulma dtiocfaḋ le Peadar copán tae a ṫairisgint dó, ċuaiġ Seán síos ar leaṫ-ġlúin, agus ḃronn sé claiḋeaṁ ar Ṡorċa. Duḃairt sé léiṫe “A Ṡorċa, a stór. Tá taistealta i ḃfad agus i ngearr agam ċun an claiḋeaṁ a ḟáilt duitse. Bíoḋ an claiḋeaṁ ina ċoṁarṫa seirce duit, fianaise mo ġráiḋ duit.” Ṫóg Sorċa an claiḋeaṁ ina láṁaiḃ. Ċumail sí barra a méar de éadan an claiḋiṁ, ḃí solas ina súile, agus seo mar a laḃair sí: “Níor neaċ buan an té a rinn an claiḋeaṁ seo. Níl sé iomparṫa ag aon laoċ ar biṫ. Cá h-áit a ṡolas loisgeaċ? Cá h-áit a ġreanaḋ draoiṫeaċta? Ní h-é Claiḋeaṁ Solais mo iarrṫa agam.”
 
 Agus mar sin d’imiġ Seán Ó Cuinn sa foc ar ais go h-Allt na Péiste.
 
@@ -132,7 +132,7 @@ Ar a ngearáin, a ṫáinig dá ḃarr, lean sí uirṫi fríd ḋeoraiḃ: “N
 
 Ṫáinig meán oiḋċe. Soilsíoḋ an teaċ le réab-ġealaċ. Ḃí sé geal go leor ċun pioċán craicinn duine a ḟeiceáilt. Ar néalltaiḃ loinnreaċa seoiġ ṫáinig as na sbéarṫaiḃ daoiní daṫúla dóiġ. Rinneaḋ stangairí daofa a ḃí taoḃ amuiġ agus taoḃ istiġ ag an aṁarc. Fá ḋeireaḋ, rinn siad iarraċt tarraingt ar a ngunnaí agus a lánta, aċ ḃí láidreaċt imiṫe as a láṁaiḃ féin, ċaill siad a lúṫ gluaiseaċta. Níor ṫig leofa aċ aṁarc uaṫu, trí ċéile.
 
-Loinnraiġ duine ġealaiġe a ḃí cosúil leis an rí, agus lig sé beic: “Ṗeadair Ṁic
+Loinnraiġ duine ġealaiġe a ḃí cosaṁail leis an rí, agus lig sé beic: “Ṗeadair Ṁic
 Ḟionntaiġ! Gaḃ anseo!” D’ḟosgail an doras de ṗreab, agus ṫáinig Peadar amaċ. Sleaċt an seanduine go talaṁ os a ċoṁair, an té a d’ḟógair a ḋúṡlán féin ní i ḃfad roiṁe sin. D’impiġ Peadar ar an rí: “Le do ṫoil…lig dúinne aire a ṫaḃairt do Ṡorċa. Lig di fanaċt againn. Ḃí sinn ag taḃairt aire ṁaiṫ di. Le do ṫoil!”
 
 D’ḟreagair Rí na Gealaiġe, “A Ṁic Ḟionntaiġ. Is tú atá neaṁḃuíoċ as an am a ṫug muid daoiḃ léiṫe. Is tú atá neaṁḃuíoċ as do stipinn óir. Ba éigean di fanaċt liḃse boċta mar ġeall ar ṗeaca ḋeánta aici. Tá téarma pionóis críoċnaiṫe aici, agus ṫáinig muid fána coinne. Dá ṁéad do éagaoin, ní ṫig leat Sorċa a ċoinneáilt. Faiġ í ar an toirt!”
