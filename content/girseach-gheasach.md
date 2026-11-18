@@ -34,11 +34,11 @@ Aon lá aṁáin, rinneaḋ Feis Ṫaṁnaċ Ṁullaiġ ag an sgoil náisiúnta 
 Ċan Sorċa Nic Ḟionntaiġ aṁrán galánta i nGaeḋilg ḃlasta, agus ḃuaiġ sí an
 comórtas aṁránaiḋeaċta.
 
-Ḃí triúr fear faoi ḋraoiṫeaċt ag áilleaċt agus cumas Ṡorċa. Ba iad Seán Ó Cuinn as
+Ḃí triúr fear faoi ḋraoiṫeaċt ag áilleaċt agus cumas Ṡorċa. Ba iad Seán Mac Meanman as
 Allt na Péiste, Seán Mac an Ḃáird as An Eaglais, agus Seán Mac a' Lúin as
 Duḃċruaċ[^cruach]. Ḃí siad go leir ag iarraiḋ Sorċa a ṗósaḋ. Aċ níor suim ar biṫ léiṫe aon duine, mar sin ḃronn sí tasc do-ḋeánta ar gaċ fear. An té a ċríoċnóḋ a ṫasc ar dtús, ṗósfaḋ sí é.
 
-Do Ṡeán Ó Cuinn as Allt na Péiste, ba éigean dó An Claiḋeaṁ Solais a ṫaḃairt leis daoiṫe.
+Do Ṡeán Mac Meanman as Allt na Péiste, ba éigean dó An Claiḋeaṁ Solais a ṫaḃairt leis daoiṫe.
 
 Do Ṡeán Mac an Ḃáird as An Eaglais, ba éigean dó An Craoḃ Airgid a ṫaḃairt leis daoiṫe.
 
@@ -49,15 +49,15 @@ Loċ Ḃéal Séad a ṫaḃairt leis daoiṫe[^dobhar].
 <img src="../images/claidheamh.svg" alt="an claideamh solais" width="30%">
 </figure>
 
-Anois, ḃí Seán Ó Cuinn coṁ glic le sionnaċ. Níor ṫig leis gléas ársa a ḟáilt,
+Anois, ḃí Seán Mac Meanman coṁ glic le sionnaċ. Níor ṫig leis gléas ársa a ḟáilt,
 agus ṫuig sé sin go maiṫ. Ċuir sé Casán na mBráṫar[^casán] de, trasna na gCruaċ Gorm go Glinn Ḟinne, ċuige gaḃa Ḃaile Bó Báinín…
 
-Cupla mí ina ḋiaiḋ sin, ṫáinig Seán Ó Cuinn ar ais go Taṁnaċ Ṁullaiġ. Ní raḃ
+Cupla mí ina ḋiaiḋ sin, ṫáinig Seán Mac Meanman ar ais go Taṁnaċ Ṁullaiġ. Ní raḃ
 Sorċa sásta é a ḟeiceáilt ag teaċt suas an bealaċ go toiġ Ṁic Ḟionntaiġ. Duḃairt a h-áṫair altrama léiṫe “Cad ċuige naċ dtaḃarfá seans de? Lá inteaċt, beiḋ mise agus Bríd marḃ, agus tá imní orainn fár niġean a ḃeiṫ ina h-aonar.” Níor ċuir sí aċ puisín uirṫi féin.
 
-Níorḃ ḟada gur ḃain Seán Ó Cuinn an teaċ amaċ. Sulma dtiocfaḋ le Peadar copán tae a ṫairisgint dó, ċuaiġ Seán síos ar leaṫ-ġlúin, agus ḃronn sé claiḋeaṁ ar Ṡorċa. Duḃairt sé léiṫe “A Ṡorċa, a stór. Tá taistealta i ḃfad agus i ngearr agam ċun an claiḋeaṁ a ḟáilt duitse. Bíoḋ an claiḋeaṁ ina ċoṁarṫa seirce duit, fianaise mo ġráiḋ duit.” Ṫóg Sorċa an claiḋeaṁ ina láṁaiḃ. Ċumail sí barra a méar de éadan an claiḋiṁ, ḃí solas ina súile, agus seo mar a laḃair sí: “Níor neaċ buan an té a rinn an claiḋeaṁ seo. Níl sé iomparṫa ag aon laoċ ar biṫ. Cá h-áit a ṡolas loisgeaċ? Cá h-áit a ġreanaḋ draoiṫeaċta? Ní h-é Claiḋeaṁ Solais mo iarrṫa agam.”
+Níorḃ ḟada gur ḃain Seán Mac Meanman an teaċ amaċ. Sulma dtiocfaḋ le Peadar copán tae a ṫairisgint dó, ċuaiġ Seán síos ar leaṫ-ġlúin, agus ḃronn sé claiḋeaṁ ar Ṡorċa. Duḃairt sé léiṫe “A Ṡorċa, a stór. Tá taistealta i ḃfad agus i ngearr agam ċun an claiḋeaṁ a ḟáilt duitse. Bíoḋ an claiḋeaṁ ina ċoṁarṫa seirce duit, fianaise mo ġráiḋ duit.” Ṫóg Sorċa an claiḋeaṁ ina láṁaiḃ. Ċumail sí barra a méar de éadan an claiḋiṁ, ḃí solas ina súile, agus seo mar a laḃair sí: “Níor neaċ buan an té a rinn an claiḋeaṁ seo. Níl sé iomparṫa ag aon laoċ ar biṫ. Cá h-áit a ṡolas loisgeaċ? Cá h-áit a ġreanaḋ draoiṫeaċta? Ní h-é Claiḋeaṁ Solais mo iarrṫa agam.”
 
-Agus mar sin d’imiġ Seán Ó Cuinn sa foc ar ais go h-Allt na Péiste.
+Agus mar sin d’imiġ Seán Mac Meanman sa foc ar ais go h-Allt na Péiste.
 
 <figure>
 <img src="../images/craobh.svg" alt="an craobh airgid" width="30%">
@@ -96,17 +96,17 @@ Ní raḃ duine ar biṫ ṫuas ag Loċ Ḃéal Séad an tráṫnóna sin. Agus 
 <img src="../images/litir.svg" alt="litir do Shorcha" width="20%">
 </figure>
 
-Ṫóg fear eile a ṡúil ar Ṡorċa, giḋ naċ raḃ dadaiḋ ráite aige fós. I n-amanntaí, nuair a ḃí sé ag siúḃail amuiġ san oiḋċe, d'ḟeiceaḋ sé Sorċa ag aṁarc ar an ġealaċ, faoina luisne. Ḃí a ḟios aige go mbíoḋ Sorċa ag cuidiú lena tuismiṫeoirí agus páisdí áitiúla lena litreaċa, agus ḃí an-ṁeas aige uirṫi as sin. Ba é Míċeál Mac Meanman é, agus ḃí sé ina ṫeagasgóir ag Sgoil Náisiúnta Ċineal Conaill.
+Ṫóg fear eile a ṡúil ar Ṡorċa, giḋ naċ raḃ dadaiḋ ráite aige fós. I n-amanntaí, nuair a ḃí sé ag siúḃail amuiġ san oiḋċe, d'ḟeiceaḋ sé Sorċa ag aṁarc ar an ġealaċ, faoina luisne. Ḃí a ḟios aige go mbíoḋ Sorċa ag cuidiú lena tuismiṫeoirí agus páisdí áitiúla lena litreaċa, agus ḃí an-ṁeas aige uirṫi as sin. Ba é Donnċaḋ Ó Doṁnaill é, agus ḃí sé ina ṫeagasgóir ag Sgoil Náisiúnta Ċineal Conaill.
 
-Aon lá aṁáin, d’ḟág Míċeál litir ġráiḋ do Ṡorċa lena tuismiṫeoirí, nuair a ḃí Sorċa ag bailiú uiḃeaċa. Agus Bríd agus Peadar ina suiḋe ag stánaḋ go staidéaraċ ar an teine, ṫainig Sorċa isteaċ ar ais. Ṫóg Sorċa an litir as an tábla, í dearg fán ṗluic, agus ṡuiḋ sí ar an leabaiḋ raca le léaṁ. Ṡuiḋ Bríd agus Peadar ansin ag súimínteaċt ar a dtae, ag taḃairt aṁairc feasaċ dá ċéile.
+Aon lá aṁáin, d’ḟág Donnċaḋ litir ġráiḋ do Ṡorċa lena tuismiṫeoirí, nuair a ḃí Sorċa ag bailiú uiḃeaċa. Agus Bríd agus Peadar ina suiḋe ag stánaḋ go staidéaraċ ar an teine, ṫainig Sorċa isteaċ ar ais. Ṫóg Sorċa an litir as an tábla, í dearg fán ṗluic, agus ṡuiḋ sí ar an leabaiḋ raca le léaṁ. Ṡuiḋ Bríd agus Peadar ansin ag súimínteaċt ar a dtae, ag taḃairt aṁairc feasaċ dá ċéile.
 
-As sin amaċ, le ċéile a ba ṁinice a tċíṫí Sorċa agus Míċeál. Ag céiliḋṫe, nuair a ḃíoḋ Sorċa ag rá aṁrán galánta ina Gaeḋilg ḃlasta, tċíṫí do Ṁíċeál gur solas an tsaoil ar fad a loinnriġ ó Ṡorċa.
+As sin amaċ, le ċéile a ba ṁinice a tċíṫí Sorċa agus Donnċaḋ. Ag céiliḋṫe, nuair a ḃíoḋ Sorċa ag rá aṁrán galánta ina Gaeḋilg ḃlasta, tċíṫí do Ḋonnċaḋ gur solas an tsaoil ar fad a loinnriġ ó Ṡorċa.
 
 <figure>
 <img src="../images/teach.svg" alt="teach faoi ghealaigh" width="30%">
 </figure>
 
-Ṫáinig an t-earraċ, agus fuair Bríd Sorċa amuiġ, faoi ġealaċ ḋeirceaċ, ag gol go bog. “Caidé atá ort, a ṫaisciḋ?” duḃairt Bríd lena niġean dílis. Duḃairt Sorċa gur ċuir Míċeál ceiliúr pósta uirṫi. “Naċ sgéal deas é sin? Cad ċuige a ḃfuil tú ag gol?” Agus iad ag caint, ṫáinig Peadar anall as an toiġ, ag fiosrú caidé an sgéal.
+Ṫáinig an t-earraċ, agus fuair Bríd Sorċa amuiġ, faoi ġealaċ ḋeirceaċ, ag gol go bog. “Caidé atá ort, a ṫaisciḋ?” duḃairt Bríd lena niġean dílis. Duḃairt Sorċa gur ċuir Donnċaḋ ceiliúr pósta uirṫi. “Naċ sgéal deas é sin? Cad ċuige a ḃfuil tú ag gol?” Agus iad ag caint, ṫáinig Peadar anall as an toiġ, ag fiosrú caidé an sgéal.
 
 D’aṁarc Sorċa ar a tuismiṫeoirí dílse, agus seo mar a laḃair sí, fá ḋeireaḋ:
 “Tá mé ar a ḃeiṫ ag iarraiḋ insint seo daoiḃ le tamall, aċ ċoinniġ eagla go
@@ -119,9 +119,9 @@ Sgairt Peadar uirṫi “Ní ṫig liom glacaḋ leis seo. Fuair mé féin ṫú
 
 Ċaoin siad le ċéile, a dteaċ beag fionn-aolta ar a gcúl, an loċ agus na Cruaċa Gorma ag síneaḋ níos faide i gcéin.
 
-Ḃí croiḋe Ṁíċeál brisde ag an sgéala. Ḃí croiḋṫe Ṫaṁnaċ Ṁullaiġ brisde! Aċ níl sé an t-an-ḟad uilig ó ṡin ó ḃí siad ag cur i n-éadan a ḃeiṫ curṫa amaċ as a dtoiṫe féin. Ṫáinig siad le ċéile ansin, tiocfaiḋ siad le ċéile anseo.
+Ḃí croiḋe Ḋonnċaḋ brisde ag an sgéala. Ḃí croiḋṫe Ṫaṁnaċ Ṁullaiġ brisde! Aċ níl sé an t-an-ḟad uilig ó ṡin ó ḃí siad ag cur i n-éadan a ḃeiṫ curṫa amaċ as a dtoiṫe féin. Ṫáinig siad le ċéile ansin, tiocfaiḋ siad le ċéile anseo.
 
-Ḃí fuaim goil le cluinstin as toiġ Ṁic Ḟionntaiġ, le titim h-oiḋċe na lan-ġealaiġe. Le cois na teineaḋ, rug Bríd barróg ar Ṡorċa ina láṁaiḃ. Ḃí Peadar ag siuḃal síos suas an seomra. Ḃí Míċeál ina ṡuiḋe. Taoḃ amuiġ, ḃí slua comrádaiṫe cruinniṫe ann. Duḃairt Sorċa go gruama, “Dá láidre do ċosaint, ní ḃeiḋ siḃ i n-inniṁ diúltú do luċt ġealaiġe. Ní ḃeiḋ siḃ i n-inniṁ ḃur ngunnaí a sgaoileaḋ. Nuair a ḃeiḋ siad ag teaċt, fosglóiḋ aċan rud os a gcoinne. Ní ḃeiḋ an duine is láidre féin i n-inniṁ a ḃeiṫ ag streaċailt.”
+Ḃí fuaim goil le cluinstin as toiġ Ṁic Ḟionntaiġ, le titim h-oiḋċe na lan-ġealaiġe. Le cois na teineaḋ, rug Bríd barróg ar Ṡorċa ina láṁaiḃ. Ḃí Peadar ag siuḃal síos suas an seomra. Ḃí Donnċaḋ ina ṡuiḋe. Taoḃ amuiġ, ḃí slua comrádaiṫe cruinniṫe ann. Duḃairt Sorċa go gruama, “Dá láidre do ċosaint, ní ḃeiḋ siḃ i n-inniṁ diúltú do luċt ġealaiġe. Ní ḃeiḋ siḃ i n-inniṁ ḃur ngunnaí a sgaoileaḋ. Nuair a ḃeiḋ siad ag teaċt, fosglóiḋ aċan rud os a gcoinne. Ní ḃeiḋ an duine is láidre féin i n-inniṁ a ḃeiṫ ag streaċailt.”
 
 Ar a ngearáin, a ṫáinig dá ḃarr, lean sí uirṫi fríd ḋeoraiḃ: “Naċ ormsa atá an crá. Dá ṁéad gráḋ agam daoiḃ, ní mór doṁ a ġaḃail. Faoin ġealaiġ, d’impínn orṫu ligean doṁ fanaċt bliaḋan aṁáin eile. Ní ḃfuair mé mo aċainí. Ní ġaḃann luċt ġealaiġe i n-aois, níl imní orṫu fosta. Aċ níl mé sásta gaḃail ann. Ní ġaḃfaiḋ mise féin i n-aois, aċ ní ṫiocfaiḋ liom aire a ṫaḃairt daoiḃ nuair a ḃeiḋ aois ṁór agaiḃ.”
 
@@ -138,7 +138,7 @@ Loinnraiġ duine ġealaiġe a ḃí cosaṁail leis an rí, agus lig sé beic: �
 
 D’ḟreagair Rí na Gealaiġe, “A Ṁic Ḟionntaiġ. Is tú atá neaṁḃuíoċ as an am a ṫug muid daoiḃ léiṫe. Is tú atá neaṁḃuíoċ as do stipinn óir. Ba éigean di fanaċt liḃse boċta mar ġeall ar ṗeaca ḋeánta aici. Tá téarma pionóis críoċnaiṫe aici, agus ṫáinig muid fána coinne. Dá ṁéad do éagaoin, ní ṫig leat Sorċa a ċoinneáilt. Faiġ í ar an toirt!”
 
-Taoḃ istiġ den toiġ, ṗóg Sorċa Bríd ar a leiceann, d’éiriġ sí ina seasaṁ agus ṡiuḃail sí go Míċeál, agus rug sé barróg uirṫi. Agus iad ag deiġilt óna ċéile, as a póca, ṫóg sí amaċ litir dó. Ṡiuḃal sí go doras, an áit a ḃí Peadar ag gol go cráite. Ṫóg sí a láṁ ar a ġualann. “Ní de mo ṫoil féin a imím. Go dté tú slán, a ḋeaidí.”
+Taoḃ istiġ den toiġ, ṗóg Sorċa Bríd ar a leiceann, d’éiriġ sí ina seasaṁ agus ṡiuḃail sí go Donnċaḋ, agus rug sé barróg uirṫi. Agus iad ag deiġilt óna ċéile, as a póca, ṫóg sí amaċ litir dó. Ṡiuḃal sí go doras, an áit a ḃí Peadar ag gol go cráite. Ṫóg sí a láṁ ar a ġualann. “Ní de mo ṫoil féin a imím. Go dté tú slán, a ḋeaidí.”
 
 Ṫóg Sorċa Nic Ḟionntaiġ céim ċun cinn, ċuaiġ sí i n-airde ar néal, agus luċt Ṫaṁnaċ Ṁullaiġ ag féaċaint le h-iontas agus le h-eagla, d’éiriġ sí leis na daoiní flaiṫeasaċa, trasna na neiṁe foilṁe, go h-áit naċ ḃfuil fraoċ nó feoirṫinn ag fás.
 
@@ -151,7 +151,7 @@ Ba oiḋċe ḃrónaċ í an oiḋċe réab-ġealaiġe eadar Loċ Iasg agus an B
 Faoi ṡolas na gealaiġe, ḃí Míċeal ag léaṁ litreaċ Ṡorċa. Ḃrúiġ sé an litir i gcoinne a ċroiḋe, agus ṡiuḃail sé aḃaile ċun an toiġe sgoile lena ḟreagair a sgríoḃ.
 
 Le fáinne an lae, d’imiġ leis ó ṫuaiḋ. Ṡiuḃail sé le taoḃ An Ċorrabair, ṫar
-bráid Loċ Ḃéal Séad agus níos faide isteaċ ar na Cruaċaiḃ. Fá ḋeireaḋ, ṫáinig sé go dtí mullaċ na Cruaiċe Goirme, an mullaċ is airde ina ṫimpeall. D’ḟan sé ansin, ag féaċaint ar néalltaiḃ ag gluaiseaċt suas, go dtí go raḃ an ġrian imiṫe faoi, agus an ġealaċ éiriṫe i n-airde sa sbéir. Ṫóg sé litir do Ṡorċa as a ṗóca, agus ċuir sé í i bpoll beag sa tallaṁ. Las Míċeál cipín, agus é ag lasaḋ na litreaċ, d’ḟéaċ sé ar an ġealaiġ, deora lena ṡúile, ag guí go ḃfeicfeaḋ a stór an solas…
+bráid Loċ Ḃéal Séad agus níos faide isteaċ ar na Cruaċaiḃ. Fá ḋeireaḋ, ṫáinig sé go dtí mullaċ na Cruaiċe Goirme, an mullaċ is airde ina ṫimpeall. D’ḟan sé ansin, ag féaċaint ar néalltaiḃ ag gluaiseaċt suas, go dtí go raḃ an ġrian imiṫe faoi, agus an ġealaċ éiriṫe i n-airde sa sbéir. Ṫóg sé litir do Ṡorċa as a ṗóca, agus ċuir sé í i bpoll beag sa tallaṁ. Las Donnċaḋ cipín, agus é ag lasaḋ na litreaċ, d’ḟéaċ sé ar an ġealaiġ, deora lena ṡúile, ag guí go ḃfeicfeaḋ a stór an solas…
 
 ## Iarḟocal
 
