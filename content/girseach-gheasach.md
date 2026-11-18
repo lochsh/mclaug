@@ -65,7 +65,7 @@ Agus mar sin d’imiġ Seaġán Mac Meanman sa foc ar ais go h-Allt na Péisde.
 
 Lena linn sin, ḃí Seaġán Mac an Ḃáird as An Eaglais ag smaointeaṁ go mór. Ní raḃ airgead aige, aċ ḃí gliceas ag baint leis fosta, agus ba sgafaire stócaiġ é. Ḃearr sé é féin agus ċíor a ċuid gruaige. Ṡaor sé bróga as diaḃal boċt inteaċt, agus rinn sé ar Ḃaile Ḋún na nGall…
 
-Cupla mí ina ḋiaḋ sin, ṫáinig Seaghán Mac an Ḃáird ar ais go Taṁnaċ Ṁullaiġ. “Ná h-abair gur suiríoċ eile atá ann!” ṡíl Sorċa, nuair a ċonaic sí é. Ḃí rud lonraċ faoina ascaill aige, agus ċuir an raḋarc imní uirṫi. Ṫug Peadar cuireaḋ dó teaċt isteaċ, agus ṫairg sé copán tae don tsuiríoċ. Go doiċeallaċ, ċuaiġ Sorċa ina gcuideaċ cois tineaḋ.
+Cupla mí ina ḋiaḋ sin, ṫáinig Seaġán Mac an Ḃáird ar ais go Taṁnaċ Ṁullaiġ. “Ná h-abair gur suiríoċ eile atá ann!” ṡíl Sorċa, nuair a ċonaic sí é. Ḃí rud lonraċ faoina ascaill aige, agus ċuir an raḋarc imní uirṫi. Ṫug Peadar cuireaḋ dó teaċt isteaċ, agus ṫairg sé copán tae don tsuiríoċ. Go doiċeallaċ, ċuaiġ Sorċa ina gcuideaċ cois tineaḋ.
 
 “Cáide sin, a ṁic?” d’ḟiosraiġ Peadar do Ṡeaġán. “Is í seo An Craoḃ Airgid. Ṫóg
 mé féin í den ċrann uḃail Eaṁna faoi ḃláṫ. Deánta de airgead atá a coirt, deánta de ór atá a bláṫanna. Leis an ċraoḃ seo, tógaim mo ḃrídeaċ doṁ féin.”
