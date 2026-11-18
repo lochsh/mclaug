@@ -19,6 +19,11 @@ Dubhchruach. Baile Dhún na nGall is southwest of all.">
 <img src="../images/préataí.svg" alt="planda préata" width="30%">
 </figure>
 
+<audio controls>
+  <source src="/static/girseach-gheasach/préataí.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
 Fadó fadó, i n-áit darḃ ainm Taṁnaċ Ṁullaiġ, eadar Loċ Iasg agus an Bearnas
 Mór, ḃí sean-lánúin ina gcoṁnuiḋe i dtoiġ ḃeag ḟionn-aolta. Peadar agus Bríd
 Ṁic Ḟionntaiġ atá orṫu, agus óna dtoiġ ḃeag i mbaile fearainn Ġuala Duḃ, ṫig leat na Cruaċa Gorma agus trasna an loċa a ḟeiceáilt.
@@ -48,6 +53,10 @@ Loċ Ḃéal Séad a ṫaḃairt leis daoiṫe[^dobhar].
 <figure>
 <img src="../images/claidheamh.svg" alt="an claideamh solais" width="30%">
 </figure>
+<audio controls>
+  <source src="/static/girseach-gheasach/claidheamh.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
 
 Anois, ḃí Seaġán Mac Meanman coṁ glic le sionnaċ. Níor ṫig leis gléas ársa a ḟáilt,
 agus ṫuig sé sin go maiṫ. Ċuir sé Casán na mBráṫar[^casán] de, trasna na gCruaċ Gorm go Glinn Ḟinne, ċuig gaḃa Ḃaile Bó Báinín…
@@ -62,6 +71,10 @@ Agus mar sin d’imiġ Seaġán Mac Meanman sa foc ar ais go h-Allt na Péisde.
 <figure>
 <img src="../images/craobh.svg" alt="an craobh airgid" width="30%">
 </figure>
+<audio controls>
+  <source src="/static/girseach-gheasach/craobh.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
 
 Lena linn sin, ḃí Seaġán Mac an Ḃáird as An Eaglais ag smaointeaṁ go mór. Ní raḃ airgead aige, aċ ḃí gliceas ag baint leis fosta, agus ba sgafaire stócaiġ é. Ḃearr sé é féin agus ċíor a ċuid gruaige. Ṡaor sé bróga as diaḃal boċt inteaċt, agus rinn sé ar Ḃaile Ḋún na nGall…
 
@@ -87,6 +100,10 @@ Sorċa an Seaġán sin arís.
 <figure>
 <img src="../images/dobhar.svg" alt="an dobhar-chú" width="30%">
 </figure>
+<audio controls>
+  <source src="/static/girseach-gheasach/dobhar.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
 
 Ón uair a ḃronn Sorċa a ṫasc air, ḃí Seaġán Mac an Lúin as Duḃċruaċ ag iarraiḋ gaḃail suas go Loċ Ḃéal Séad gaċ lá. Ḃí an portaċ mallaiṫe ag cur air-san i dtolaṁ, agus ḃí sé ag streaċailt gaḃáil níos faide ná An Leaċta Bán. Sin go dtí iarnóin foṁar aṁáin, fá ḋeireaḋ, ḃain sé mullaċ cnoic roiṁ an loċ amaċ. Ṫáinig eagla air nuair a d’aṁarc sé ar an loċ mór le rá. Ċuir sé faitíos mór air ag smaointiú ar ḋúṡlán doḃar-con a ṫaḃairt. Ṫug sé céim ar ċúl ina éiginnteaċt, leag sé cos ar ṫalaṁ ḃog, agus ċuaiġ sé go coim sa ṗortaċ.
 

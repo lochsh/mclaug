@@ -11,3 +11,4 @@ wheels/
 
 output/
 content/static/fonts
+*.mp3
