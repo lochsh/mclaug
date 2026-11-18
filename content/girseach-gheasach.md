@@ -156,7 +156,7 @@ Ba oiḋċe ḃrónaċ í an oiḋċe réab-ġealaiġe eadar Loċ Iasg agus an B
 <img src="../images/cipín.svg" alt="cipín" width="20%">
 </figure>
 
-Faoi ṡolas na gealaiġe, ḃí Míċeal ag léaṁ litreaċ Ṡorċa. Ḃrúiġ sé an litir i gcoinne a ċroiḋe, agus ṡiuḃail sé aḃaile ċun an toiġe sgoile lena ḟreagair a sgríoḃ.
+Faoi ṡolas na gealaiġe, ḃí Donnċaḋ ag léaṁ litreaċ Ṡorċa. Ḃrúiġ sé an litir i gcoinne a ċroiḋe, agus ṡiuḃail sé aḃaile ċun an toiġe sgoile lena ḟreagair a sgríoḃ.
 
 Le fáinne an lae, d’imiġ leis ó ṫuaiḋ. Ṡiuḃail sé le taoḃ An Ċorrabair, ṫar
 bráid Loċ Ḃéal Séad agus níos faide isteaċ ar na Cruaċaiḃ. Fá ḋeireaḋ, ṫáinig sé go dtí mullaċ na Cruaiċe Goirme, an mullaċ is airde ina ṫimpeall. D’ḟan sé ansin, ag féaċaint ar néalltaiḃ ag gluaiseaċt suas, go dtí go raḃ an ġrian imiṫe faoi, agus an ġealaċ éiriṫe i n-airde sa sbéir. Ṫóg sé litir do Ṡorċa as a ṗóca, agus ċuir sé í i bpoll beag sa tallaṁ. Las Donnċaḋ cipín, agus é ag lasaḋ na litreaċ, d’ḟéaċ sé ar an ġealaiġ, deora lena ṡúile, ag guí go ḃfeicfeaḋ a stór an solas…
