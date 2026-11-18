@@ -25,7 +25,7 @@ Mór, ḃí sean-lánúin ina gcoṁnuiḋe i dtoiġ ḃeag ḟionn-aolta. Peada
 
 Tráṫnóna saṁraiḋ aṁáin, faoi lán-ġealaiġ, ḃí Peadar ag teaċt aḃaile i ndiaiḋ ċuidiú le coṁarsa, agus ċonaic sé rud aisteaċ ina ċuiḃreann préataí féin! Ḃí planda aṁáin ina ċaor ċoiṁṫíoċ! D’aṁarc sé níos gaire ar an ṗlanda, agus d’aimsiġ sé foinse an tsolais. Ḃí mion-ġirseaċ ṁaiseaċ ina suiḋe ar ḋuilleog préata ann! Ní raḃ fad ordóige inti, agus ḃí solas suaiṁneaċ ag teaċt uaiṫi.
 
-Duḃairt Peadar leis an ṁion-ġirseaċ “Tá tú faiġte agam mar tá tú anseo, sna préataí a mbím ag siúḃail ṫairis gaċ lá. Caiṫfiḋ sé sa ċinniúint go mbeifeá i do ṗáisde agam féin.” Ṫóg sé í ina láṁaiḃ agus ṫug sé leis aḃaile ċuige Bríd í.
+Duḃairt Peadar leis an ṁion-ġirseaċ “Tá tú faiġte agam mar tá tú anseo, sna préataí a mbím ag siúḃail ṫairis gaċ lá. Caiṫfiḋ sé sa ċinniúint go mbeifeá i do ṗáisde agam féin.” Ṫóg sé í ina láṁaiḃ agus ṫug sé leis aḃaile ċuig Bríd í.
 
 Ní raḃ clann ag an tsean-lánúin roiṁe sin, agus ṫug siad aire ṁaiṫ dá ngirseaċ ġeasaċ. D’ḟás sí go gasta, agus roiṁe ċeann trí míosa, rinneaḋ bean apaiḋ di. Lena linn sin, nuair a ḃíoḋ Peadar ag baint préataí, ḃíoḋ sé ag fáilt óir sa talaṁ. Ḃí siad ina sgaiṫ den tsaoġal. Nuair a ḃí Peadar nó Bríd i n-ísle brí, ṫig leofa aṁarc ar a niġean gléigeal agus ċuir sé ardú meanman orṫu. Sorċa a ṫug siad uirṫi, agus ba ḃean ḃáiḋiúl í.
 
