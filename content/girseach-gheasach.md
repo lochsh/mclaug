@@ -29,7 +29,7 @@ Duḃairt Peadar leis an ṁion-ġirseaċ “Tá tú faiġte agam mar tá tú an
 
 Ní raḃ clann ag an tsean-lánúin roiṁe sin, agus ṫug siad aire ṁaiṫ dá ngirseaċ ġeasaċ. D’ḟás sí go gasta, agus roiṁe ċeann trí míosa, rinneaḋ bean apaiḋ di. Lena linn sin, nuair a ḃíoḋ Peadar ag baint préataí, ḃíoḋ sé ag fáilt óir sa talaṁ. Ḃí siad ina sgaiṫ den tsaoġal. Nuair a ḃí Peadar nó Bríd i n-ísle brí, ṫig leofa aṁarc ar a niġean gléigeal agus ċuir sé ardú meanman orṫu. Sorċa a ṫug siad uirṫi, agus ba ḃean ḃáiḋiúl í.
 
-Aon lá aṁáin, rinneaḋ Feis Ṫaṁnaċ Ṁullaiġ ag an sgoil náisiúnta Ċineal Conaill.
+Aon lá aṁáin, rinneaḋ Féis Ṫaṁnaċ Ṁullaiġ[^feis] ag an sgoil náisiúnta Ċineal Conaill.
 Ṫáinig daoiní as gaċ cearn fá ċoinne  aṁránaiḋeaċta, filiḋeaċta agus seanċais.
 Duḃairt Sorċa Nic Ḟionntaiġ aṁrán galánta i nGaeḋilg ḃlasta, agus ḃuaiġ sí an
 comórtas aṁránaiḋeaċta.
@@ -210,6 +210,12 @@ fellow old writing appreciators, or too inaccessible for fellow learners.
 The font used is Anois Sans from <a href=https://gaeltacht-type.com/>Gaeltacht Type</a>.
 </div>
 
+[^feis]: Rinneaḋ Féis Ṫaṁnaċ Ṁullaiġ sa ḃliaḋain 1900. Ċum mo
+ṡin-sean-ṁáthair Máire Nic Fhionnlaoigh (Bean Ṁáirtíniġ (Brocaċ)) an dréaċt
+[seo](https://corpas.ria.ie/index.php?fsg_function=3&fsg_id=5398) fán Féis,
+agus foilsíodh é i n-Irisleaḃar na Gaeḋilge. Ba as Corr an Creaṁ i dTaṁnaċ
+Ṁullaiġ í, in aice le Guala Duḃ.
+
 [^cruach]: Tagairt fuaimniṫe: Pointe LASID 83 <span class=ipa>[dûʰrɔː]</span>.  [Quiggin](https://en.wikisource.org/wiki/A_Dialect_of_Donegal/The_Vowel_System#s27): <blockquote><span class=roman>
 A remarkable reduction of <i>uə</i> > <i>ɔ</i> before the stress occurs
 in <i>Lɔχ·pʹi꞉Nʹə</i>, ‘a penny­worth’ < Luəχ, Di. luach; <i>krɔχ
@@ -222,7 +228,7 @@ class=ipa>/jɛri/</span> b'ḟéidir.
 [^dobhar]: Is cat a ċosnaíos Loċ Ḃéal Séad sa
 [sgéal](https://www.duchas.ie/en/cbes/4428280/4391331/4478267) as Taṁnaċ Ṁullaiġ seo,
 ach is doḃar-ċú sa [sgéal](https://www.duchas.ie/en/cbes/4428277/4391185)
-seo eile. Ba ḟearr liom doḃar-ċú fá ċoinne mo sgéil.
+seo eile. Is ḟearr liom doḃar-ċú fá ċoinne mo sgéil.
 
 [^casán]: [bealach ársa eadar Loċ Iasg agus Gleann Ḟinne](https://www.duchas.ie/en/cbes/4428281/4391419/4478772)
 
