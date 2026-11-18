@@ -31,7 +31,7 @@ Ní raḃ clann ag an tsean-lánúin roiṁe sin, agus ṫug siad aire ṁaiṫ 
 
 Aon lá aṁáin, rinneaḋ Feis Ṫaṁnaċ Ṁullaiġ ag an sgoil náisiúnta Ċineal Conaill.
 Ṫáinig daoiní as gaċ cearn fá ċoinne  aṁránaiḋeaċta, filiḋeaċta agus seanċais.
-Ċan Sorċa Nic Ḟionntaiġ aṁrán galánta i nGaeḋilg ḃlasta, agus ḃuaiġ sí an
+Duḃairt Sorċa Nic Ḟionntaiġ aṁrán galánta i nGaeḋilg ḃlasta, agus ḃuaiġ sí an
 comórtas aṁránaiḋeaċta.
 
 Ḃí triúr fear faoi ḋraoiṫeaċt ag áilleaċt agus cumas Ṡorċa. Ba iad Seaġán Mac Meanman as
