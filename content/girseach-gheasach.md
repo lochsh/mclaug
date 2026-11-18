@@ -50,7 +50,7 @@ Loċ Ḃéal Séad a ṫaḃairt leis daoiṫe[^dobhar].
 </figure>
 
 Anois, ḃí Seaġán Mac Meanman coṁ glic le sionnaċ. Níor ṫig leis gléas ársa a ḟáilt,
-agus ṫuig sé sin go maiṫ. Ċuir sé Casán na mBráṫar[^casán] de, trasna na gCruaċ Gorm go Glinn Ḟinne, ċuige gaḃa Ḃaile Bó Báinín…
+agus ṫuig sé sin go maiṫ. Ċuir sé Casán na mBráṫar[^casán] de, trasna na gCruaċ Gorm go Glinn Ḟinne, ċuig gaḃa Ḃaile Bó Báinín…
 
 Cupla mí ina ḋiaiḋ sin, ṫáinig Seaġán Mac Meanman ar ais go Taṁnaċ Ṁullaiġ. Ní raḃ
 Sorċa sásta é a ḟeiceáilt ag teaċt suas an bealaċ go toiġ Ṁic Ḟionntaiġ. Duḃairt a h-áṫair altrama léiṫe “Cad ċuige naċ dtaḃarfá seans de? Lá inteaċt, beiḋ mise agus Bríd marḃ, agus tá imní orainn fár niġean a ḃeiṫ ina h-aonar.” Níor ċuir sí aċ puisín uirṫi féin.
