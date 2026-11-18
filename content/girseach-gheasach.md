@@ -139,7 +139,7 @@ Ar a ngearáin, a ṫáinig dá ḃarr, lean sí uirṫi fríd ḋeoraiḃ: “N
 <img src="../images/nealltaí.svg" alt="nealltaí loinnreacha seoigh" style="height: 8em;">
 </figure>
 
-Ṫáinig meán oiḋċe. Soilseochaiḋ an teaċ le réab-ġealaċ. Ḃí sé geal go leor ċun pioċán craicinn duine a ḟeiceáilt. Ar néalltaiḃ loinnreaċa seoiġ ṫáinig as na sbéarṫaiḃ daoiní daṫúla dóiġ. Rinneaḋ stangairí daofa a ḃí taoḃ amuiġ agus taoḃ istiġ ag an aṁarc. Fá ḋeireaḋ, rinn siad iarraċt tarraingt ar a ngunnaí agus a lánta, aċ ḃí láidreaċt imiṫe as a láṁaiḃ féin, ċaill siad a lúṫ gluaiseaċta. Níor ṫig leofa aċ aṁarc uaṫu, trí ċéile.
+Ṫáinig meán oiḋċe. Soilsíoḋ an teaċ le réab-ġealaċ. Ḃí sé geal go leor ċun pioċán craicinn duine a ḟeiceáilt. Ar néalltaiḃ loinnreaċa seoiġ ṫáinig as na sbéarṫaiḃ daoiní daṫúla dóiġ. Rinneaḋ stangairí daofa a ḃí taoḃ amuiġ agus taoḃ istiġ ag an aṁarc. Fá ḋeireaḋ, rinn siad iarraċt tarraingt ar a ngunnaí agus a lánta, aċ ḃí láidreaċt imiṫe as a láṁaiḃ féin, ċaill siad a lúṫ gluaiseaċta. Níor ṫig leofa aċ aṁarc uaṫu, trí ċéile.
 
 Loinnraiġ duine ġealaiġe a ḃí cosaṁail leis an rí, agus lig sé beic: “Ṗeadair Ṁic
 Ḟionntaiġ! Gaḃ anseo!” D’ḟosgail an doras de ṗreab, agus ṫáinig Peadar amaċ. Sleaċt an seanduine go talaṁ os a ċoṁair, an té a d’ḟógair a ḋúṡlán féin ní i ḃfad roiṁe sin. D’impiġ Peadar ar an rí: “Le do ṫoil…lig dúinne aire a ṫaḃairt do Ṡorċa. Lig di fanaċt againn. Ḃí sinn ag taḃairt aire ṁaiṫ di. Le do ṫoil!”
