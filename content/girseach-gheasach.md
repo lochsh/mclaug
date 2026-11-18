@@ -20,7 +20,7 @@ Dubhchruach. Baile Dhún na nGall is southwest of all.">
 </figure>
 
 Fadó fadó, i n-áit darḃ ainm Taṁnaċ Ṁullaiġ, eadar Loċ Iasg agus an Bearnas
-Mór, ḃí sean-lánúin i n-a gcoṁnuiḋe i dtoiġ ḃeag ḟionn-aolta. Peadar agus Bríd
+Mór, ḃí sean-lánúin ina gcoṁnuiḋe i dtoiġ ḃeag ḟionn-aolta. Peadar agus Bríd
 Ṁic Ḟionntaiġ atá orṫu, agus óna dtoiġ ḃeag i mbaile fearainn Ġuala Duḃ, ṫig leat na Cruaċa Gorma agus trasna an loċa a ḟeiceáilt.
 
 Tráṫnóna saṁraiḋ aṁáin, faoi lán-ġealaiġ, ḃí Peadar ag teaċt aḃaile i ndiaiḋ ċuidiú le coṁarsa, agus ċonaic sé rud aisteaċ ina ċuiḃreann préataí féin! Ḃí planda aṁáin ina ċaor ċoiṁṫíoċ! D’aṁarc sé níos gaire ar an ṗlanda, agus d’aimsiġ sé foinse an tsolais. Ḃí mion-ġirseaċ ṁaiseaċ ina suiḋe ar ḋuilleog préata ann! Ní raḃ fad ordóige inti, agus ḃí solas suaiṁneaċ ag teaċt uaiṫi.
