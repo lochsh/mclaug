@@ -65,7 +65,7 @@ Agus mar sin d’imiġ Seaġán Mac Meanman sa foc ar ais go h-Allt na Péiste.
 
 Lena linn sin, ḃí Seaġán Mac an Ḃáird as An Eaglais ag smaointeaṁ go mór. Ní raḃ airgead aige, aċ ḃí gliceas ag baint leis fosta, agus ba sgafaire stócaiġ é. Ḃearr sé é féin agus ċíor a ċuid gruaige. Ṡaor sé bróga as diaḃal boċt inteaċt, agus rinn sé ar Ḃaile Ḋún na nGall…
 
-Cupla mí ina ḋiaḋ sin, ṫáinig Séan Mac an Ḃáird ar ais go Taṁnaċ Ṁullaiġ. “Ná h-abair gur suiríoċ eile atá ann!” ṡíl Sorċa, nuair a ċonaic sí é. Ḃí rud lonraċ faoina ascaill aige, agus ċuir an raḋarc imní uirṫi. Ṫug Peadar cuireaḋ dó teaċt isteaċ, agus ṫairg sé copán tae don tsuiríoċ. Go doiċeallaċ, ċuaiġ Sorċa ina gcuideaċ cois tineaḋ.
+Cupla mí ina ḋiaḋ sin, ṫáinig Seaghán Mac an Ḃáird ar ais go Taṁnaċ Ṁullaiġ. “Ná h-abair gur suiríoċ eile atá ann!” ṡíl Sorċa, nuair a ċonaic sí é. Ḃí rud lonraċ faoina ascaill aige, agus ċuir an raḋarc imní uirṫi. Ṫug Peadar cuireaḋ dó teaċt isteaċ, agus ṫairg sé copán tae don tsuiríoċ. Go doiċeallaċ, ċuaiġ Sorċa ina gcuideaċ cois tineaḋ.
 
 “Cáide sin, a ṁic?” d’ḟiosraiġ Peadar do Ṡeaġán. “Is í seo An Craoḃ Airgid. Ṫóg
 mé féin í den ċrann uḃail Eaṁna faoi ḃláṫ. Deánta de airgead atá a coirt, deánta de ór atá a bláṫanna. Leis an ċraoḃ seo, tógaim mo ḃrídeaċ doṁ féin.”
@@ -113,7 +113,7 @@ D’aṁarc Sorċa ar a tuismiṫeoirí dílse, agus seo mar a laḃair sí, fá
 gcuirfinn go mór as daoiḃ mé féin siar. Aċ ní ṫig liom a ḃeiṫ ciúin níos faide
 – ní mór doṁ é ar fad a insint daoiḃ. Ní neaċ an doṁain seo mise. Is tír i ḃfad
 i gcéin mo áit dúċais, trasna na neiṁe foilṁe, i ḃfad ón áit seo a ḃfuil fraoċ
-agus feoirṫín ag fás[^fraoch]. Is as an ġealaċ mise, agus as an ġealaċ cuireaḋ anseo mé le dáiṁ a ċruṫú, agus a ḟios agam i riṫ an ama go mbeaḋ orm imeaċt, mar ṗionós. Anois, tá an uair ag teaċt – nuair a éiríonn an ċéad lán-ġealaċ eile, tiocfaiḋ mo iar-ṁuinntir le mé a ḟáilt. Níl de roġa agam aċ gaḃail.” Ċaoin sí go searḃ.
+agus feoirṫín ag fás[^fraoch]. Is as an ġealaċ mise, agus as an ġealaċ cuireaḋ anseo mé le dáiṁ a ċruṫú, agus a ḟios agam i riṫ an ama go mbeaḋ orm imeaċt, mar ṗionós. Anois, tá an uair ag teaċt – nuair a éiríonn an ċéad lán-ġealaċ eile, tiocfaiḋ mo iar-ṁuinntir le mé a ḟáilt. Níl de raoġa agam aċ gaḃail.” Ċaoin sí go searḃ.
 
 Sgairt Peadar uirṫi “Ní ṫig liom glacaḋ leis seo. Fuair mé féin ṫú i mo ċuiḃreann préataí nuair naċ raḃ fad ordóige ionat-sa, agus tá tú tógṫa againn go dtí go ḃfuil tú coṁ h-ard liom. Cé a ṫógfaiḋ tú uainn? An síleann tú go ligfinn dófa? Má ṫógann siad ṫú, ġeoḃaiḋ mé bás.”
 
