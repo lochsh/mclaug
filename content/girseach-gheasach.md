@@ -12,7 +12,7 @@ of the loch. Loch Bhéal Séad lies to the north of Loch Iasg, connected by the
 Abhainn Chorr Abair. Further northeast of there is Allt na Péiste and Gleann
 Fhinne. West of Loch Bhéal Séad is the Cruach Gorm, and north of there
 Dubhchruach. Baile Dhún na nGall is southwest of all.">
-<figcaption style="text-align: center;">Na h-áiteanna a ṫarlaíos ár sgéal</figcaption>
+<figcaption style="text-align: center;">Na h-áiteanna ina dtarlaíos ár sgéal</figcaption>
 </figure>
 
 <figure>
