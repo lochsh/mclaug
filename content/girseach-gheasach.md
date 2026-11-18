@@ -38,7 +38,7 @@ comórtas aṁránaiḋeaċta.
 Allt na Péiste, Seaġán Mac an Ḃáird as An Eaglais, agus Seaġán Mac a' Lúin as
 Duḃċruaċ[^cruach]. Ḃí siad go leir ag iarraiḋ[^iarraidh] Sorċa a ṗósaḋ. Aċ níor suim ar biṫ léiṫe aon duine, mar sin ḃronn sí tasc do-ḋeánta ar gaċ fear. An té a ċríoċnóḋ a ṫasc ar dtús, ṗósfaḋ sí é.
 
-Do Ṡeaġán Mac Meanman as Allt na Péiste, ba éigean dó An Claiḋeaṁ Solais a ṫaḃairt leis daoiṫe.
+Do Ṡeaġán Mac Meanman as Allt na Péiste, ba éigean dó An Claiḋeaṁ[^claidheamh] Solais a ṫaḃairt leis daoiṫe.
 
 Do Ṡeaġán Mac an Ḃáird as An Eaglais, ba éigean dó An Craoḃ Airgid a ṫaḃairt leis daoiṫe.
 
@@ -224,6 +224,11 @@ in <i>Lɔχ·pʹi꞉Nʹə</i>, ‘a penny­worth’ < Luəχ, Di. luach; <i>krɔ
 [^iarraidh]: Tagairt fuaimniṫe le <i>iarraiḋ</i>: [An taifead seo as Glinn
 Fhinne](https://www.teanga.info/oduibhin/sf/sceal35.htm) <span
 class=ipa>/jɛri/</span> b'ḟéidir.
+
+[^claidheamh]: Tagairt fuaimniṫe: Pointe LASID 83 <span
+class=ipa>[kʟɛ̃ːv′]</span>. <span class=roman>The LASID only records broad
+endings of this word in Munster. Old Donegal writers seem to use the spelling
+<i>claidheamh</i> and so I have written it that way too.</span>
 
 [^dobhar]: Is cat a ċosnaíos Loċ Ḃéal Séad sa
 [sgéal](https://www.duchas.ie/en/cbes/4428280/4391331/4478267) as Taṁnaċ Ṁullaiġ seo,
