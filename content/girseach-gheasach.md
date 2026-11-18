@@ -80,7 +80,7 @@ never will, that branch is mine! You’ll have me bankrupt! My poor children wil
 starve!”</span> Ṫarraing <span class=roman>James</span> Seaġán amaċ, aċ ġlaoiġ Sorċa air: <span
 class=roman>“Wait! I will buy the
 branch!”</span> Ḃí ór a fuair Peadar roinnte acu eadar ṫoiġṫe Ṫaṁnaċ Ṁullaiġ, aċ tá
-cuid mór acu fós. Ċaoin <span class=roman>James</span> cupla deoir sonais, ġaḃ sé buíoċas le Sorċa, agus
+cuid ṁór acu fós. Ċaoin <span class=roman>James</span> cupla deoir sonais, ġaḃ sé buíoċas le Sorċa, agus
 ṫarraing dorn ar Ṡeaġán Mac an Ḃáird. Ina ḋiaiḋ sin ċoinniġ sé air, agus ní ḟaca
 Sorċa an Seaġán sin arís.
 
@@ -96,7 +96,9 @@ Ní raḃ duine ar biṫ ṫuas ag Loċ Ḃéal Séad an tráṫnóna sin. Agus 
 <img src="../images/litir.svg" alt="litir do Shorcha" width="20%">
 </figure>
 
-Ṫóg fear eile a ṡúil ar Ṡorċa, giḋ naċ raḃ dadaiḋ ráite aige fós. I n-amanntaí, nuair a ḃí sé ag siúḃail amuiġ san oiḋċe, d'ḟeiceaḋ sé Sorċa ag aṁarc ar an ġealaċ, faoina luisne. Ḃí a ḟios aige go mbíoḋ Sorċa ag cuidiú lena tuismiṫeoirí agus páisdí áitiúla lena litreaċa, agus ḃí an-ṁeas aige uirṫi as sin. Ba é Donnċaḋ Ó Doṁnaill é, agus ḃí sé ina ṫeagasgóir ag Sgoil Náisiúnta Ċineal Conaill.
+Ṫóg fear eile a ṡúil ar Ṡorċa, giḋ naċ raḃ dadaiḋ ráite aige fós. I n-amanntaí,
+    nuair a ḃí sé ag siúḃail amuiġ san oiḋċe, d'ḟeiceaḋ sé Sorċa ag aṁarc ar an
+    ġealaiġ, faoina luisne. Ḃí a ḟios aige go mbíoḋ Sorċa ag cuidiú lena tuismiṫeoirí agus páisdí áitiúla lena litreaċa, agus ḃí an-ṁeas aige uirṫi as sin. Ba é Donnċaḋ Ó Doṁnaill é, agus ḃí sé ina ṫeagasgóir ag Sgoil Náisiúnta Ċineal Conaill.
 
 Aon lá aṁáin, d’ḟág Donnċaḋ litir ġráiḋ do Ṡorċa lena tuismiṫeoirí, nuair a ḃí Sorċa ag bailiú uiḃeaċa. Agus Bríd agus Peadar ina suiḋe ag stánaḋ go staidéaraċ ar an teine, ṫainig Sorċa isteaċ ar ais. Ṫóg Sorċa an litir as an tábla, í dearg fán ṗluic, agus ṡuiḋ sí ar an leabaiḋ raca le léaṁ. Ṡuiḋ Bríd agus Peadar ansin ag súimínteaċt ar a dtae, ag taḃairt aṁairc feasaċ dá ċéile.
 
@@ -106,14 +108,15 @@ As sin amaċ, le ċéile a ba ṁinice a tċíṫí Sorċa agus Donnċaḋ. Ag c
 <img src="../images/teach.svg" alt="teach faoi ghealaigh" width="30%">
 </figure>
 
-Ṫáinig an t-earraċ, agus fuair Bríd Sorċa amuiġ, faoi ġealaċ ḋeirceaċ, ag gol go bog. “Caidé atá ort, a ṫaisciḋ?” duḃairt Bríd lena niġean dílis. Duḃairt Sorċa gur ċuir Donnċaḋ ceiliúr pósta uirṫi. “Naċ sgéal deas é sin? Cad ċuige a ḃfuil tú ag gol?” Agus iad ag caint, ṫáinig Peadar anall as an toiġ, ag fiosrú caidé an sgéal.
+Ṫáinig an t-earraċ, agus fuair Bríd Sorċa amuiġ, faoi ġealaiġ ḋeirceaċ, ag gol
+go bog. “Caidé atá ort, a ṫaisgiḋ?” duḃairt Bríd lena niġean dílis. Duḃairt Sorċa gur ċuir Donnċaḋ ceiliúr pósta uirṫi. “Naċ sgéal deas é sin? Cad ċuige a ḃfuil tú ag gol?” Agus iad ag caint, ṫáinig Peadar anall as an toiġ, ag fiosrú caidé an sgéal.
 
 D’aṁarc Sorċa ar a tuismiṫeoirí dílse, agus seo mar a laḃair sí, fá ḋeireaḋ:
 “Tá mé ar a ḃeiṫ ag iarraiḋ insint seo daoiḃ le tamall, aċ ċoinniġ eagla go
 gcuirfinn go mór as daoiḃ mé féin siar. Aċ ní ṫig liom a ḃeiṫ ciúin níos faide
 – ní mór doṁ é ar fad a insint daoiḃ. Ní neaċ an doṁain seo mise. Is tír i ḃfad
 i gcéin mo áit dúċais, trasna na neiṁe foilṁe, i ḃfad ón áit seo a ḃfuil fraoċ
-agus feoirṫín ag fás[^fraoch]. Is as an ġealaċ mise, agus as an ġealaċ cuireaḋ anseo mé le dáiṁ a ċruṫú, agus a ḟios agam i riṫ an ama go mbeaḋ orm imeaċt, mar ṗionós. Anois, tá an uair ag teaċt – nuair a éiríonn an ċéad lán-ġealaċ eile, tiocfaiḋ mo iar-ṁuinntir le mé a ḟáilt. Níl de raoġa agam aċ gaḃail.” Ċaoin sí go searḃ.
+agus feoirṫín ag fás[^fraoch]. Is as an ġealaiġ mise, agus as an ġealaiġ cuireaḋ anseo mé le dáiṁ a ċruṫú, agus a ḟios agam i riṫ an ama go mbeaḋ orm imeaċt, mar ṗionós. Anois, tá an uair ag teaċt – nuair a éiríonn an ċéad lán-ġealaċ eile, tiocfaiḋ mo iar-ṁuinntir le mé a ḟáilt. Níl de raoġa agam aċ gaḃail.” Ċaoin sí go searḃ.
 
 Sgairt Peadar uirṫi “Ní ṫig liom glacaḋ leis seo. Fuair mé féin ṫú i mo ċuiḃreann préataí nuair naċ raḃ fad ordóige ionat-sa, agus tá tú tógṫa againn go dtí go ḃfuil tú coṁ h-ard liom. Cé a ṫógfaiḋ tú uainn? An síleann tú go ligfinn dófa? Má ṫógann siad ṫú, ġeoḃaiḋ mé bás.”
 
@@ -121,7 +124,12 @@ Sgairt Peadar uirṫi “Ní ṫig liom glacaḋ leis seo. Fuair mé féin ṫú
 
 Ḃí croiḋe Ḋonnċaḋ brisde ag an sgéala. Ḃí croiḋṫe Ṫaṁnaċ Ṁullaiġ brisde! Aċ níl sé an t-an-ḟad uilig ó ṡin ó ḃí siad ag cur i n-éadan a ḃeiṫ curṫa amaċ as a dtoiṫe féin. Ṫáinig siad le ċéile ansin, tiocfaiḋ siad le ċéile anseo.
 
-Ḃí fuaim goil le cluinstin as toiġ Ṁic Ḟionntaiġ, le titim h-oiḋċe na lan-ġealaiġe. Le cois na teineaḋ, rug Bríd barróg ar Ṡorċa ina láṁaiḃ. Ḃí Peadar ag siuḃal síos suas an seomra. Ḃí Donnċaḋ ina ṡuiḋe. Taoḃ amuiġ, ḃí slua comrádaiṫe cruinniṫe ann. Duḃairt Sorċa go gruama, “Dá láidre do ċosaint, ní ḃeiḋ siḃ i n-inniṁ diúltú do luċt ġealaiġe. Ní ḃeiḋ siḃ i n-inniṁ ḃur ngunnaí a sgaoileaḋ. Nuair a ḃeiḋ siad ag teaċt, fosglóiḋ aċan rud os a gcoinne. Ní ḃeiḋ an duine is láidre féin i n-inniṁ a ḃeiṫ ag streaċailt.”
+Ḃí fuaim goil le cluinstin as toiġ Ṁic Ḟionntaiġ, le titim h-oiḋċe na
+lan-ġealaiġe. Le cois na teineaḋ, rug Bríd barróg ar Ṡorċa ina láṁaiḃ. Ḃí
+Peadar ag siuḃal síos suas an seomra. Ḃí Donnċaḋ ina ṡuiḋe. Taoḃ amuiġ, ḃí slua
+comrádaiṫe cruinniṫe ann. Duḃairt Sorċa go gruama, “Dá láidre do ċosaint, ní
+ḃeiḋ siḃ i n-inniṁ diúltú do luċt ġealaiġe. Ní ḃeiḋ siḃ i n-inniṁ ḃur ngunnaí a
+sgaoileaḋ. Nuair a ḃeiḋ siad ag teaċt, fosglóċaiḋ aċan rud os a gcoinne. Ní ḃeiḋ an duine is láidre féin i n-inniṁ a ḃeiṫ ag streaċailt.”
 
 Ar a ngearáin, a ṫáinig dá ḃarr, lean sí uirṫi fríd ḋeoraiḃ: “Naċ ormsa atá an crá. Dá ṁéad gráḋ agam daoiḃ, ní mór doṁ a ġaḃail. Faoin ġealaiġ, d’impínn orṫu ligean doṁ fanaċt bliaḋan aṁáin eile. Ní ḃfuair mé mo aċainí. Ní ġaḃann luċt ġealaiġe i n-aois, níl imní orṫu fosta. Aċ níl mé sásta gaḃail ann. Ní ġaḃfaiḋ mise féin i n-aois, aċ ní ṫiocfaiḋ liom aire a ṫaḃairt daoiḃ nuair a ḃeiḋ aois ṁór agaiḃ.”
 
@@ -131,7 +139,7 @@ Ar a ngearáin, a ṫáinig dá ḃarr, lean sí uirṫi fríd ḋeoraiḃ: “N
 <img src="../images/nealltaí.svg" alt="nealltaí loinnreacha seoigh" style="height: 8em;">
 </figure>
 
-Ṫáinig meán oiḋċe. Soilsíoḋ an teaċ le réab-ġealaċ. Ḃí sé geal go leor ċun pioċán craicinn duine a ḟeiceáilt. Ar néalltaiḃ loinnreaċa seoiġ ṫáinig as na sbéarṫaiḃ daoiní daṫúla dóiġ. Rinneaḋ stangairí daofa a ḃí taoḃ amuiġ agus taoḃ istiġ ag an aṁarc. Fá ḋeireaḋ, rinn siad iarraċt tarraingt ar a ngunnaí agus a lánta, aċ ḃí láidreaċt imiṫe as a láṁaiḃ féin, ċaill siad a lúṫ gluaiseaċta. Níor ṫig leofa aċ aṁarc uaṫu, trí ċéile.
+Ṫáinig meán oiḋċe. Soilseochaiḋ an teaċ le réab-ġealaċ. Ḃí sé geal go leor ċun pioċán craicinn duine a ḟeiceáilt. Ar néalltaiḃ loinnreaċa seoiġ ṫáinig as na sbéarṫaiḃ daoiní daṫúla dóiġ. Rinneaḋ stangairí daofa a ḃí taoḃ amuiġ agus taoḃ istiġ ag an aṁarc. Fá ḋeireaḋ, rinn siad iarraċt tarraingt ar a ngunnaí agus a lánta, aċ ḃí láidreaċt imiṫe as a láṁaiḃ féin, ċaill siad a lúṫ gluaiseaċta. Níor ṫig leofa aċ aṁarc uaṫu, trí ċéile.
 
 Loinnraiġ duine ġealaiġe a ḃí cosaṁail leis an rí, agus lig sé beic: “Ṗeadair Ṁic
 Ḟionntaiġ! Gaḃ anseo!” D’ḟosgail an doras de ṗreab, agus ṫáinig Peadar amaċ. Sleaċt an seanduine go talaṁ os a ċoṁair, an té a d’ḟógair a ḋúṡlán féin ní i ḃfad roiṁe sin. D’impiġ Peadar ar an rí: “Le do ṫoil…lig dúinne aire a ṫaḃairt do Ṡorċa. Lig di fanaċt againn. Ḃí sinn ag taḃairt aire ṁaiṫ di. Le do ṫoil!”
@@ -226,9 +234,11 @@ Fhinne](https://www.teanga.info/oduibhin/sf/sceal35.htm) <span
 class=ipa>/jɛri/</span> b'ḟéidir.
 
 [^claidheamh]: Tagairt fuaimniṫe: Pointe LASID 83 <span
-class=ipa>[kʟɛ̃ːv′]</span>. <span class=roman>The LASID only records broad
-endings of this word in Munster. Old Donegal writers seem to use the spelling
-<i>claidheamh</i> and so I have written it that way too.</span>
+class=ipa>[kʟɛ̃ːv′]</span>. <span class=roman>The LASID records broad
+endings of this word in Munster only. Old Donegal writers seem to use the
+spelling <i>claidheamh</i> and so I have written it that way too. I couldn't
+find any references for the genitive pronunciation. Maybe it is the
+same.</span>
 
 [^dobhar]: Is cat a ċosnaíos Loċ Ḃéal Séad sa
 [sgéal](https://www.duchas.ie/en/cbes/4428280/4391331/4478267) as Taṁnaċ Ṁullaiġ seo,
