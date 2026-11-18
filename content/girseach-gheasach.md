@@ -34,61 +34,61 @@ Aon lá aṁáin, rinneaḋ Feis Ṫaṁnaċ Ṁullaiġ ag an sgoil náisiúnta 
 Ċan Sorċa Nic Ḟionntaiġ aṁrán galánta i nGaeḋilg ḃlasta, agus ḃuaiġ sí an
 comórtas aṁránaiḋeaċta.
 
-Ḃí triúr fear faoi ḋraoiṫeaċt ag áilleaċt agus cumas Ṡorċa. Ba iad Seán Mac Meanman as
-Allt na Péiste, Seán Mac an Ḃáird as An Eaglais, agus Seán Mac a' Lúin as
-Duḃċruaċ[^cruach]. Ḃí siad go leir ag iarraiḋ Sorċa a ṗósaḋ. Aċ níor suim ar biṫ léiṫe aon duine, mar sin ḃronn sí tasc do-ḋeánta ar gaċ fear. An té a ċríoċnóḋ a ṫasc ar dtús, ṗósfaḋ sí é.
+Ḃí triúr fear faoi ḋraoiṫeaċt ag áilleaċt agus cumas Ṡorċa. Ba iad Seaġán Mac Meanman as
+Allt na Péiste, Seaġán Mac an Ḃáird as An Eaglais, agus Seaġán Mac a' Lúin as
+Duḃċruaċ[^cruach]. Ḃí siad go leir ag iarraiḋ[^iarraidh] Sorċa a ṗósaḋ. Aċ níor suim ar biṫ léiṫe aon duine, mar sin ḃronn sí tasc do-ḋeánta ar gaċ fear. An té a ċríoċnóḋ a ṫasc ar dtús, ṗósfaḋ sí é.
 
-Do Ṡeán Mac Meanman as Allt na Péiste, ba éigean dó An Claiḋeaṁ Solais a ṫaḃairt leis daoiṫe.
+Do Ṡeaġán Mac Meanman as Allt na Péiste, ba éigean dó An Claiḋeaṁ Solais a ṫaḃairt leis daoiṫe.
 
-Do Ṡeán Mac an Ḃáird as An Eaglais, ba éigean dó An Craoḃ Airgid a ṫaḃairt leis daoiṫe.
+Do Ṡeaġán Mac an Ḃáird as An Eaglais, ba éigean dó An Craoḃ Airgid a ṫaḃairt leis daoiṫe.
 
-Do Ṡeán Mac an Lúin as Duḃċruaċ, ba éigean dó fiacail as an doḃar-ċú a ċosnaíos
+Do Ṡeaġán Mac an Lúin as Duḃċruaċ, ba éigean dó fiacail as an doḃar-ċú a ċosnaíos
 Loċ Ḃéal Séad a ṫaḃairt leis daoiṫe[^dobhar].
 
 <figure>
 <img src="../images/claidheamh.svg" alt="an claideamh solais" width="30%">
 </figure>
 
-Anois, ḃí Seán Mac Meanman coṁ glic le sionnaċ. Níor ṫig leis gléas ársa a ḟáilt,
+Anois, ḃí Seaġán Mac Meanman coṁ glic le sionnaċ. Níor ṫig leis gléas ársa a ḟáilt,
 agus ṫuig sé sin go maiṫ. Ċuir sé Casán na mBráṫar[^casán] de, trasna na gCruaċ Gorm go Glinn Ḟinne, ċuige gaḃa Ḃaile Bó Báinín…
 
-Cupla mí ina ḋiaiḋ sin, ṫáinig Seán Mac Meanman ar ais go Taṁnaċ Ṁullaiġ. Ní raḃ
+Cupla mí ina ḋiaiḋ sin, ṫáinig Seaġán Mac Meanman ar ais go Taṁnaċ Ṁullaiġ. Ní raḃ
 Sorċa sásta é a ḟeiceáilt ag teaċt suas an bealaċ go toiġ Ṁic Ḟionntaiġ. Duḃairt a h-áṫair altrama léiṫe “Cad ċuige naċ dtaḃarfá seans de? Lá inteaċt, beiḋ mise agus Bríd marḃ, agus tá imní orainn fár niġean a ḃeiṫ ina h-aonar.” Níor ċuir sí aċ puisín uirṫi féin.
 
-Níorḃ ḟada gur ḃain Seán Mac Meanman an teaċ amaċ. Sulma dtiocfaḋ le Peadar copán tae a ṫairisgint dó, ċuaiġ Seán síos ar leaṫ-ġlúin, agus ḃronn sé claiḋeaṁ ar Ṡorċa. Duḃairt sé léiṫe “A Ṡorċa, a stór. Tá taistealta i ḃfad agus i ngearr agam ċun an claiḋeaṁ a ḟáilt duitse. Bíoḋ an claiḋeaṁ ina ċoṁarṫa seirce duit, fianaise mo ġráiḋ duit.” Ṫóg Sorċa an claiḋeaṁ ina láṁaiḃ. Ċumail sí barra a méar de éadan an claiḋiṁ, ḃí solas ina súile, agus seo mar a laḃair sí: “Níor neaċ buan an té a rinn an claiḋeaṁ seo. Níl sé iomparṫa ag aon laoċ ar biṫ. Cá h-áit a ṡolas loisgeaċ? Cá h-áit a ġreanaḋ draoiṫeaċta? Ní h-é Claiḋeaṁ Solais mo iarrṫa agam.”
+Níorḃ ḟada gur ḃain Seaġán Mac Meanman an teaċ amaċ. Sulma dtiocfaḋ le Peadar copán tae a ṫairisgint dó, ċuaiġ Seaġán síos ar leaṫ-ġlúin, agus ḃronn sé claiḋeaṁ ar Ṡorċa. Duḃairt sé léiṫe “A Ṡorċa, a stór. Tá taistealta i ḃfad agus i ngearr agam ċun an claiḋeaṁ a ḟáilt duitse. Bíoḋ an claiḋeaṁ ina ċoṁarṫa seirce duit, fianaise mo ġráiḋ duit.” Ṫóg Sorċa an claiḋeaṁ ina láṁaiḃ. Ċumail sí barra a méar de éadan an claiḋiṁ, ḃí solas ina súile, agus seo mar a laḃair sí: “Níor neaċ buan an té a rinn an claiḋeaṁ seo. Níl sé iomparṫa ag aon laoċ ar biṫ. Cá h-áit a ṡolas loisgeaċ? Cá h-áit a ġreanaḋ draoiṫeaċta? Ní h-é Claiḋeaṁ Solais mo iarrṫa agam.”
 
-Agus mar sin d’imiġ Seán Mac Meanman sa foc ar ais go h-Allt na Péiste.
+Agus mar sin d’imiġ Seaġán Mac Meanman sa foc ar ais go h-Allt na Péiste.
 
 <figure>
 <img src="../images/craobh.svg" alt="an craobh airgid" width="30%">
 </figure>
 
-Lena linn sin, ḃí Seán Mac an Ḃáird as An Eaglais ag smaointeaṁ go mór. Ní raḃ airgead aige, aċ ḃí gliceas ag baint leis fosta, agus ba sgafaire stócaiġ é. Ḃearr sé é féin agus ċíor a ċuid gruaige. Ṡaor sé bróga as diaḃal boċt inteaċt, agus rinn sé ar Ḃaile Ḋún na nGall…
+Lena linn sin, ḃí Seaġán Mac an Ḃáird as An Eaglais ag smaointeaṁ go mór. Ní raḃ airgead aige, aċ ḃí gliceas ag baint leis fosta, agus ba sgafaire stócaiġ é. Ḃearr sé é féin agus ċíor a ċuid gruaige. Ṡaor sé bróga as diaḃal boċt inteaċt, agus rinn sé ar Ḃaile Ḋún na nGall…
 
 Cupla mí ina ḋiaḋ sin, ṫáinig Séan Mac an Ḃáird ar ais go Taṁnaċ Ṁullaiġ. “Ná h-abair gur suiríoċ eile atá ann!” ṡíl Sorċa, nuair a ċonaic sí é. Ḃí rud lonraċ faoina ascaill aige, agus ċuir an raḋarc imní uirṫi. Ṫug Peadar cuireaḋ dó teaċt isteaċ, agus ṫairg sé copán tae don tsuiríoċ. Go doiċeallaċ, ċuaiġ Sorċa ina gcuideaċ cois tineaḋ.
 
-“Cáide sin, a ṁic?” d’ḟiosraiġ Peadar do Ṡeán. “Is í seo An Craoḃ Airgid. Ṫóg
+“Cáide sin, a ṁic?” d’ḟiosraiġ Peadar do Ṡeaġán. “Is í seo An Craoḃ Airgid. Ṫóg
 mé féin í den ċrann uḃail Eaṁna faoi ḃláṫ. Deánta de airgead atá a coirt, deánta de ór atá a bláṫanna. Leis an ċraoḃ seo, tógaim mo ḃrídeaċ doṁ féin.”
 
 Ḃí Sorċa droċ-ḋaiṫteaċ. Ḃí Sorċa an-imníoċ! Ḃí sí ag smaointeaṁ ar ḋóiġ
 éalaiṫe, agus ṫáinig bualaḋ ag an doras! <span class=roman>“I know
 you’re in there you filthy thief!”</span> a duḃairt guṫ! D’ḟoscail Peadar an
-doras, agus cé a ṫáinig isteaċ aċ <span class=roman>James Henderson</span>, seodóir Ḃaile Ḋún na nGall! Le linn an ċlampair seo, rinn Seán ar aon slí amaċ eile, gan raṫ.
+doras, agus cé a ṫáinig isteaċ aċ <span class=roman>James Henderson</span>, seodóir Ḃaile Ḋún na nGall! Le linn an ċlampair seo, rinn Seaġán ar aon slí amaċ eile, gan raṫ.
 
-Rug <span class=roman>James</span> ar Ṡeán dá liopa ṡeacéid. <span class=roman>“Until I receive payment, which I now see I
+Rug <span class=roman>James</span> ar Ṡeaġán dá liopa ṡeacéid. <span class=roman>“Until I receive payment, which I now see I
 never will, that branch is mine! You’ll have me bankrupt! My poor children will
-starve!”</span> Ṫarraing <span class=roman>James</span> Seán amaċ, aċ ġlaoiġ Sorċa air: <span
+starve!”</span> Ṫarraing <span class=roman>James</span> Seaġán amaċ, aċ ġlaoiġ Sorċa air: <span
 class=roman>“Wait! I will buy the
 branch!”</span> Ḃí ór a fuair Peadar roinnte acu eadar ṫoiġṫe Ṫaṁnaċ Ṁullaiġ, aċ tá
 cuid mór acu fós. Ċaoin <span class=roman>James</span> cupla deoir sonais, ġaḃ sé buíoċas le Sorċa, agus
-ṫarraing dorn ar Ṡeán Mac an Ḃáird. Ina ḋiaiḋ sin ċoinniġ sé air, agus ní ḟaca
-Sorċa an Seán sin arís.
+ṫarraing dorn ar Ṡeaġán Mac an Ḃáird. Ina ḋiaiḋ sin ċoinniġ sé air, agus ní ḟaca
+Sorċa an Seaġán sin arís.
 
 <figure>
 <img src="../images/dobhar.svg" alt="an dobhar-chú" width="30%">
 </figure>
 
-Ón uair a ḃronn Sorċa a ṫasc air, ḃí Seán Mac an Lúin as Duḃċruaċ ag iarraiḋ gaḃail suas go Loċ Ḃéal Séad gaċ lá. Ḃí an portaċ mallaiṫe ag cur air-san i dtolaṁ, agus ḃí sé ag streaċailt gaḃáil níos faide ná An Leaċta Bán. Sin go dtí iarnóin foṁar aṁáin, fá ḋeireaḋ, ḃain sé mullaċ cnoic roiṁ an loċ amaċ. Ṫáinig eagla air nuair a d’aṁarc sé ar an loċ mór le rá. Ċuir sé faitíos mór air ag smaointiú ar ḋúṡlán doḃar-con a ṫaḃairt. Ṫug sé céim ar ċúl ina éiginnteaċt, leag sé cos ar ṫalaṁ ḃog, agus ċuaiġ sé go coim sa ṗortaċ.
+Ón uair a ḃronn Sorċa a ṫasc air, ḃí Seaġán Mac an Lúin as Duḃċruaċ ag iarraiḋ gaḃail suas go Loċ Ḃéal Séad gaċ lá. Ḃí an portaċ mallaiṫe ag cur air-san i dtolaṁ, agus ḃí sé ag streaċailt gaḃáil níos faide ná An Leaċta Bán. Sin go dtí iarnóin foṁar aṁáin, fá ḋeireaḋ, ḃain sé mullaċ cnoic roiṁ an loċ amaċ. Ṫáinig eagla air nuair a d’aṁarc sé ar an loċ mór le rá. Ċuir sé faitíos mór air ag smaointiú ar ḋúṡlán doḃar-con a ṫaḃairt. Ṫug sé céim ar ċúl ina éiginnteaċt, leag sé cos ar ṫalaṁ ḃog, agus ċuaiġ sé go coim sa ṗortaċ.
 
 Ní raḃ duine ar biṫ ṫuas ag Loċ Ḃéal Séad an tráṫnóna sin. Agus a ġlaoite ag géilleaḋ do ṫost ṫur na talún, gealaċ na gconlaċ ag éirí, ṡíl sé gur ċuala sé sblais as an loċ…
 
@@ -210,10 +210,14 @@ fellow old writing appreciators, or too inaccessible for fellow learners.
 The font used is Anois Sans from <a href=https://gaeltacht-type.com/>Gaeltacht Type</a>.
 </div>
 
-[^cruach]: Nóta fuaimniṫe: Pointe LASID 83 <span class=ipa>[dûʰrɔː]</span>.  [Quiggin](https://en.wikisource.org/wiki/A_Dialect_of_Donegal/The_Vowel_System#s27): <blockquote><span class=roman>
+[^cruach]: Tagairt fuaimniṫe: Pointe LASID 83 <span class=ipa>[dûʰrɔː]</span>.  [Quiggin](https://en.wikisource.org/wiki/A_Dialect_of_Donegal/The_Vowel_System#s27): <blockquote><span class=roman>
 A remarkable reduction of <i>uə</i> > <i>ɔ</i> before the stress occurs
 in <i>Lɔχ·pʹi꞉Nʹə</i>, ‘a penny­worth’ < Luəχ, Di. luach; <i>krɔχ
 ·eirʹ</i>, ‘hay-stack’, < cruach.</span></blockquote>
+
+[^iarraidh]: Tagairt fuaimniṫe le <i>iarraiḋ</i>: [An taifead seo as Glinn
+Fhinne](https://www.teanga.info/oduibhin/sf/sceal35.htm) <span
+class=ipa>/jɛri/</span> b'ḟéidir.
 
 [^dobhar]: Is cat a ċosnaíos Loċ Ḃéal Séad sa
 [sgéal](https://www.duchas.ie/en/cbes/4428280/4391331/4478267) as Taṁnaċ Ṁullaiġ seo,
