@@ -35,7 +35,7 @@ Duḃairt Sorċa Nic Ḟionntaiġ aṁrán galánta i nGaeḋilg ḃlasta, agus 
 comórtas aṁránaiḋeaċta.
 
 Ḃí triúr fear faoi ḋraoiṫeaċt ag áilleaċt agus cumas Ṡorċa. Ba iad Seaġán Mac Meanman as
-Allt na Péisde, Seaġán Mac an Ḃáird as An Eaglais, agus Seaġán Mac a' Lúin as
+Allt na Péisde, Seaġán Mac an Ḃáird as An Eaglais, agus Seaġán Mac an Lúin as
 Duḃċruaċ[^cruach]. Ḃí siad go leir ag iarraiḋ[^iarraidh] Sorċa a ṗósaḋ. Aċ níor suim ar biṫ léiṫe aon duine, mar sin ḃronn sí tasc do-ḋeánta ar gaċ fear. An té a ċríoċnóḋ a ṫasc ar dtús, ṗósfaḋ sí é.
 
 Do Ṡeaġán Mac Meanman as Allt na Péisde, ba éigean dó An Claiḋeaṁ[^claidheamh] Solais a ṫaḃairt leis daoiṫe.
@@ -195,22 +195,34 @@ own, as are the old-fashioned choices in spelling and grammar, which I have
 made for my own enjoyment and learning. The story is set around the turn of the
 20th Century, so it felt appropriate to me to use contemporary spelling. I also
 generally enjoy more etymological and dialectal spellings
-regardless of this context, and often employ them. The use of dative plurals
+regardless of this context, and often employ them. It is important to me to
+be literate in pre-Caighdeán writing, and I find etymological spellings useful
+for understanding phonological history.
+<br><br>
+The use of dative plurals
 such as <i>néalltaibh</i> is something I have come across in writing up until
 the dawn of the Caighdeán in the 1950s, though I have read that the pronunciation of the final syllable was
 usually <span class=ipa>/i/</span> in The Christian Brothers' <a
 href=https://www.teanga.info/oduibhin/leabharthai/First%20Irish%20Grammar%20(Ulster%20Edition).pdf>
-<i>First Irish Grammar Ulster Edition</i></a> and in Séamus Ó
+<i>First Irish Grammar Ulster Edition</i></a>. Séamus Ó
 Searcaigh's <a
 href=https://corpas.ria.ie/index.php?fsg_function=3&fsg_id=3024><i>Cloich
-Cheann-Fhaolaidh</i></a>, both from the first decade of the 20th
-Century. I find using these dative plurals useful from a learning perspective
-to make me more conscious of grammatical case, though given dative plurals are
-(largely?  completely?) defunct in the modern spoken language this is perhaps a
-pretentious endeavour!
+Cheann-Fhaolaidh</i></a> also notes that the <i>bh</i> is more often not
+pronounced. These are both from the first decade of the 20th Century. I find
+using these dative plurals useful from a learning perspective to make me more
+conscious of grammatical case, though given distinct dative plurals are
+defunct(?) in the modern spoken language this is perhaps a pretentious
+endeavour!
 <br><br>
-Using "sgéal" instead of "scéal" &c. is a personal
-preference, as is writing e.g. "ba iad" instead of "b'iad".
+Using <i>sgéal</i> instead of <i>scéal</i> &c. is a personal preference due to a feeling
+that aspiration is more phonemically salient than voicing in these clusters
+where the second consonant is tenuis. I have not been consistent about it at
+all. Writing e.g.  <i>ba iad</i> instead of <i>b'iad</i> is also a preference. I don't
+mind <i>b'</i> &c. but I do find it odd that it's non-standard to write "ba" or "mo"
+before a vowel. Given that Irish is traditionally spoken in mostly continuous
+breaths without hard attack, the resulting running together of adjacent
+vowels means I feel it seems a bit unnecessary to write <i>b'iad</i>. I do
+write b'fhéidir though…
 <br><br>
 I hope these writing choices are not too inconsistent for
 fellow old writing appreciators, or too inaccessible for fellow learners.
@@ -219,7 +231,7 @@ The font used is Anois Sans from <a href=https://gaeltacht-type.com/>Gaeltacht T
 </div>
 
 [^feis]: Rinneaḋ Féis Ṫaṁnaċ Ṁullaiġ sa ḃliaḋain 1900. Ċum mo
-ṡin-sean-ṁáthair Máire Nic Fhionnlaoigh (Bean Ṁáirtíniġ (Brocaċ)) an dréaċt
+ṡin-sean-ṁáṫair Máire Nic Ḟionnlaoiġ (Bean Ṁáirtíniġ (Brocaċ)) an dréaċt
 [seo](https://corpas.ria.ie/index.php?fsg_function=3&fsg_id=5398) fán Féis,
 agus foilsíodh é i n-Irisleaḃar na Gaeḋilge. Ba as Corr an Creaṁ i dTaṁnaċ
 Ṁullaiġ í, in aice le Guala Duḃ.
@@ -230,7 +242,7 @@ in <i>Lɔχ·pʹi꞉Nʹə</i>, ‘a penny­worth’ < Luəχ, Di. luach; <i>krɔ
 ·eirʹ</i>, ‘hay-stack’, < cruach.</span></blockquote>
 
 [^iarraidh]: Tagairt fuaimniṫe le <i>iarraiḋ</i>: [An taifead seo as Glinn
-Fhinne](https://www.teanga.info/oduibhin/sf/sceal35.htm) <span
+Ḟinne](https://www.teanga.info/oduibhin/sf/sceal35.htm) <span
 class=ipa>/jɛri/</span> b'ḟéidir.
 
 [^claidheamh]: Tagairt fuaimniṫe: Pointe LASID 83 <span
@@ -242,11 +254,11 @@ same.</span>
 
 [^dobhar]: Is cat a ċosnaíos Loċ Ḃéal Séad sa
 [sgéal](https://www.duchas.ie/en/cbes/4428280/4391331/4478267) as Taṁnaċ Ṁullaiġ seo,
-ach is doḃar-ċú sa [sgéal](https://www.duchas.ie/en/cbes/4428277/4391185)
+aċ is doḃar-ċú sa [sgéal](https://www.duchas.ie/en/cbes/4428277/4391185)
 seo eile. Is ḟearr liom doḃar-ċú fá ċoinne mo sgéil.
 
-[^casán]: [bealach ársa eadar Loċ Iasg agus Gleann Ḟinne](https://www.duchas.ie/en/cbes/4428281/4391419/4478772)
+[^casán]: [bealaċ ársa eadar Loċ Iasg agus Gleann Ḟinne](https://www.duchas.ie/en/cbes/4428281/4391419/4478772)
 
 [^fraoch]: [As an t-aṁrán áitiúl
 seo](https://www.duchas.ie/en/cbes/4428280/4391354/4478307), le mo
-ṡin-sean-ṁáthair, is cosaṁail é.
+ṡin-sean-ṁáṫair, is cosaṁail é.
