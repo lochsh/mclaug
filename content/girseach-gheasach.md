@@ -9,7 +9,7 @@ template: article-sean-chlo
 events of this story take place. Guala Dubh is on the northeast shore of Loch
 Iasg. Teach Sgoile is south of Guala Dubh. An Eaglais is on the northwest shore
 of the loch. Loch Bhéal Séad lies to the north of Loch Iasg, connected by the
-Abhainn Chorr Abair. Further northeast of there is Allt na Péiste and Gleann
+Abhainn Chorr Abair. Further northeast of there is Allt na Péisde and Gleann
 Fhinne. West of Loch Bhéal Séad is the Cruach Gorm, and north of there
 Dubhchruach. Baile Dhún na nGall is southwest of all.">
 <figcaption style="text-align: center;">Na h-áiteanna ina dtarlaíos ár sgéal</figcaption>
@@ -35,10 +35,10 @@ Duḃairt Sorċa Nic Ḟionntaiġ aṁrán galánta i nGaeḋilg ḃlasta, agus 
 comórtas aṁránaiḋeaċta.
 
 Ḃí triúr fear faoi ḋraoiṫeaċt ag áilleaċt agus cumas Ṡorċa. Ba iad Seaġán Mac Meanman as
-Allt na Péiste, Seaġán Mac an Ḃáird as An Eaglais, agus Seaġán Mac a' Lúin as
+Allt na Péisde, Seaġán Mac an Ḃáird as An Eaglais, agus Seaġán Mac a' Lúin as
 Duḃċruaċ[^cruach]. Ḃí siad go leir ag iarraiḋ[^iarraidh] Sorċa a ṗósaḋ. Aċ níor suim ar biṫ léiṫe aon duine, mar sin ḃronn sí tasc do-ḋeánta ar gaċ fear. An té a ċríoċnóḋ a ṫasc ar dtús, ṗósfaḋ sí é.
 
-Do Ṡeaġán Mac Meanman as Allt na Péiste, ba éigean dó An Claiḋeaṁ[^claidheamh] Solais a ṫaḃairt leis daoiṫe.
+Do Ṡeaġán Mac Meanman as Allt na Péisde, ba éigean dó An Claiḋeaṁ[^claidheamh] Solais a ṫaḃairt leis daoiṫe.
 
 Do Ṡeaġán Mac an Ḃáird as An Eaglais, ba éigean dó An Craoḃ Airgid a ṫaḃairt leis daoiṫe.
 
@@ -57,7 +57,7 @@ Sorċa sásta é a ḟeiceáilt ag teaċt suas an bealaċ go toiġ Ṁic Ḟionn
 
 Níorḃ ḟada gur ḃain Seaġán Mac Meanman an teaċ amaċ. Sulma dtiocfaḋ le Peadar copán tae a ṫairisgint dó, ċuaiġ Seaġán síos ar leaṫ-ġlúin, agus ḃronn sé claiḋeaṁ ar Ṡorċa. Duḃairt sé léiṫe “A Ṡorċa, a stór. Tá taistealta i ḃfad agus i ngearr agam ċun an claiḋeaṁ a ḟáilt duitse. Bíoḋ an claiḋeaṁ ina ċoṁarṫa seirce duit, fianaise mo ġráiḋ duit.” Ṫóg Sorċa an claiḋeaṁ ina láṁaiḃ. Ċumail sí barra a méar de éadan an claiḋiṁ, ḃí solas ina súile, agus seo mar a laḃair sí: “Níor neaċ buan an té a rinn an claiḋeaṁ seo. Níl sé iomparṫa ag aon laoċ ar biṫ. Cá h-áit a ṡolas loisgeaċ? Cá h-áit a ġreanaḋ draoiṫeaċta? Ní h-é Claiḋeaṁ Solais mo iarrṫa agam.”
 
-Agus mar sin d’imiġ Seaġán Mac Meanman sa foc ar ais go h-Allt na Péiste.
+Agus mar sin d’imiġ Seaġán Mac Meanman sa foc ar ais go h-Allt na Péisde.
 
 <figure>
 <img src="../images/craobh.svg" alt="an craobh airgid" width="30%">
