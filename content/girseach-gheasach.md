@@ -85,7 +85,11 @@ Your browser does not support the audio element.
 
 Lena linn sin, ḃí Seaġán Mac an Ḃáird as An Eaglais ag smaointeaṁ go mór. Ní raḃ airgead aige, aċ ḃí gliceas ag baint leis fosta, agus ba sgafaire stócaiġ é. Ḃearr sé é féin agus ċíor a ċuid gruaige. Ṡaor sé bróga as diaḃal boċt inteaċt, agus rinn sé ar Ḃaile Ḋún na nGall…
 
-Cupla mí ina ḋiaḋ sin, ṫáinig Seaġán Mac an Ḃáird ar ais go Taṁnaċ Ṁullaiġ. “Ná h-abair gur suiríoċ eile atá ann!” ṡíl Sorċa, nuair a ċonaic sí é. Ḃí rud lonraċ faoina ascaill aige, agus ċuir an raḋarc imní uirṫi. Ṫug Peadar cuireaḋ dó teaċt isteaċ, agus ṫairg sé copán tae don tsuiríoċ. Go doiċeallaċ, ċuaiġ Sorċa ina gcuideaċ cois tineaḋ.
+Cupla mí ina ḋiaḋ sin, ṫáinig Seaġán Mac an Ḃáird ar ais go Taṁnaċ Ṁullaiġ. “Ná
+h-abair gur suiríoċ eile atá ann!” ṡíl Sorċa, nuair a ċonaic sí é. Ḃí rud
+lonraċ faoina ascaill aige, agus ċuir an raḋarc imní uirṫi. Ṫug Peadar cuireaḋ
+dó teaċt isteaċ, agus ṫairg sé copán tae don tsuiríoċ. Go doiċeallaċ, ċuaiġ
+Sorċa ina gcuideaċ cois tineaḋ[^tineadh].
 
 “Cáide sin, a ṁic?” d’ḟiosraiġ Peadar do Ṡeaġán. “Is í seo An Craoḃ Airgid. Ṫóg
 mé féin í den ċrann uḃail Eaṁna faoi ḃláṫ. Deánta de airgead atá a coirt, deánta de ór atá a bláṫanna. Leis an ċraoḃ seo, tógaim mo ḃrídeaċ doṁ féin.”
@@ -139,6 +143,10 @@ As sin amaċ, le ċéile a ba ṁinice a tċíṫí Sorċa agus Donnċaḋ. Ag c
 <figure>
 <img src="../images/teach.svg" alt="teach faoi ghealaigh" width="30%">
 </figure>
+<audio controls>
+  <source src="/static/girseach-gheasach/teach.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
 
 Ṫáinig an t-earraċ, agus fuair Bríd Sorċa amuiġ, faoi ġealaiġ ḋeirceaċ, ag gol
 go bog. “Caidé atá ort, a ṫaisgiḋ?” duḃairt Bríd lena niġean dílis. Duḃairt Sorċa gur ċuir Donnċaḋ ceiliúr pósta uirṫi. “Naċ sgéal deas é sin? Cad ċuige a ḃfuil tú ag gol?” Agus iad ag caint, ṫáinig Peadar anall as an toiġ, ag fiosrú caidé an sgéal.
@@ -263,6 +271,11 @@ write b'fhéidir though…
 <br><br>
 I hope these writing choices are not too inconsistent for
 fellow old writing appreciators, or too inaccessible for fellow learners.
+Mostly I hope you enjoyed the story.
+<br><br>
+Unfortunately I accidentally used my webcam microphone for the first five
+recordings, which is why there is a sudden increase in audio quality six
+recordings in.
 <br><br>
 The font used is Anois Sans from <a href=https://gaeltacht-type.com/>Gaeltacht Type</a>.
 </div>
@@ -296,6 +309,19 @@ aċ is doḃar-ċú sa [sgéal](https://www.duchas.ie/en/cbes/4428277/4391185)
 seo eile. Is ḟearr liom doḃar-ċú fá ċoinne mo sgéil.
 
 [^casán]: [bealaċ ársa eadar Loċ Iasg agus Gleann Ḟinne](https://www.duchas.ie/en/cbes/4428281/4391419/4478772)
+
+[^tineadh]: <span class=roman>I'd be surprised if this pronunciation still
+exists in Donegal. In the mid 20th Century there were some remnants in Ulster
+of lenited broad d being pronunced as a voiced labial fricative, an evolution
+from its older voiced dental fricative realisation (this is more prevalently
+recorded elsewhere in Ireland and Scotland, usually in specific
+grammatical forms e.g. some places only had it on conditional verb
+forms). The LASID records this in a few places in Donegal for
+<i>tineadh</i>, including Na Cruacha, and it is used in [this
+recording](https://www.doegen.ie/LA_1262d1) from Townawilly. I thought it would
+be fun to use it in my recording of the story. I have been working on an
+article about this pronunciation for a while but I'm not sure when it will be
+done.</span>
 
 [^fraoch]: [As an t-aṁrán áitiúl
 seo](https://www.duchas.ie/en/cbes/4428280/4391354/4478307), le mo
