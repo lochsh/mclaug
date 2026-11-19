@@ -258,7 +258,8 @@ A remarkable reduction of <i>uə</i> > <i>ɔ</i> before the stress occurs
 in <i>Lɔχ·pʹi꞉Nʹə</i>, ‘a penny­worth’ < Luəχ, Di. luach; <i>krɔχ
 ·eirʹ</i>, ‘hay-stack’, < cruach.</span></blockquote>
 
-[^iarraidh]: Tagairt fuaimniṫe le <i>iarraiḋ</i>: [An taifead seo as Glinn
+[^iarraidh]: Tagairt fuaimniṫe le <i>iarraiḋ</i>: [An taifead seo as Taṁnaċ
+Ṁullaiġ](https://www.doegen.ie/LA_1262d1) agus [an taifead seo as Glinn
 Ḟinne](https://www.teanga.info/oduibhin/sf/sceal35.htm) <span
 class=ipa>/jɛri/</span> b'ḟéidir.
 
