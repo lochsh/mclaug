@@ -167,7 +167,7 @@ Loinnraiġ duine ġealaiġe a ḃí cosaṁail leis an rí, agus lig sé béic: 
 Ḟionntaiġ! Gaḃ anseo!” D’ḟosgail an doras de ṗreab, agus ṫáinig Peadar amaċ.
 Sleaċt an seanduine go talaṁ os a ċoṁair, an té a d’ḟuagair a ḋúṡlán féin ní i ḃfad roiṁe sin. D’impiġ Peadar ar an rí: “Le do ṫoil…lig dúinne aire a ṫaḃairt do Ṡorċa. Lig di fanaċt againn. Ḃí sinn ag taḃairt aire ṁaiṫ di. Le do ṫoil!”
 
-D’ḟreagair Rí na Gealaiġe, “A Ṁic Ḟionntaiġ. Is tú atá neaṁḃuíoċ as an am a ṫug muid daoiḃ léiṫe. Is tú atá neaṁḃuíoċ as do stipinn óir. Ba éigean di fanaċt liḃse boċta mar ġeall ar ṗeaca ḋeánta aici. Tá téarma pionóis críoċnaiṫe aici, agus ṫáinig muid fána coinne. Dá ṁéad do éagaoin, ní ṫig leat Sorċa a ċoinneáilt. Faiġ í ar an toirt!”
+D’ḟreagair Rí na Gealaiġe, “A Ṁic Ḟionntaiġ. Is tú atá neaṁ-ḃuiḋeaċ as an am a ṫug muid daoiḃ léiṫe. Is tú atá neaṁ-ḃuiḋeaċ as do stipinn óir. Ba éigean di fanaċt liḃse boċta mar ġeall ar ṗeaca ḋeánta aici. Tá téarma pionóis críoċnaiṫe aici, agus ṫáinig muid fána coinne. Dá ṁéad do éagaoin, ní ṫig leat Sorċa a ċoinneáilt. Faiġ í ar an toirt!”
 
 Taoḃ istiġ den toiġ, ṗóg Sorċa Bríd ar a leiceann, d’éiriġ sí ina seasaṁ agus ṡiuḃail sí go Donnċaḋ, agus rug sé barróg uirṫi. Agus iad ag deiġilt óna ċéile, as a póca, ṫóg sí amaċ litir dó. Ṡiuḃal sí go doras, an áit a ḃí Peadar ag gol go cráite. Ṫóg sí a láṁ ar a ġualann. “Ní de mo ṫoil féin a imím. Go dté tú slán, a ḋeaidí.”
 
