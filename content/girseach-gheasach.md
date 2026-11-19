@@ -178,6 +178,10 @@ Ar a ngearáin, a ṫáinig dá ḃarr, lean sí uirṫi fríd ḋeoraiḃ: “N
 <figure>
 <img src="../images/nealltaí.svg" alt="nealltaí loinnreacha seoigh" style="height: 8em;">
 </figure>
+<audio controls>
+  <source src="/static/girseach-gheasach/nealltaí.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
 
 Ṫáinig meán oiḋċe. Soilsíoḋ an teaċ le réab-ġealaiġ. Ḃí sé geal go leor ċun pioċán craicinn duine a ḟeiceáilt. Ar néalltaiḃ loinnreaċa seoiġ ṫáinig as na sbéarṫaiḃ daoiní daṫúla dóiġ. Rinneaḋ stangairí daoḃṫa a ḃí taoḃ amuiġ agus taoḃ istiġ ag an aṁarc. Fá ḋeireaḋ, rinn siad iarraċt tarraingt ar a ngunnaí agus a lánta, aċ ḃí láidreaċt imiṫe as a láṁaiḃ féin, ċaill siad a lúṫ gluaiseaċta. Níor ṫig leoḃṫa aċ aṁarc uaḃṫa, trí ċéile.
 
@@ -200,6 +204,10 @@ Ba oiḋċe ḃrónaċ í an oiḋċe réab-ġealaiġe eadar Loċ Iasg agus an B
 <figure>
 <img src="../images/cipín.svg" alt="cipín" width="20%">
 </figure>
+<audio controls>
+  <source src="/static/girseach-gheasach/cipín.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
 
 Faoi ṡolas na gealaiġe, ḃí Donnċaḋ ag léaṁ litreaċ Ṡorċa. Ḃrúiġ sé an litir i gcoinne a ċroiḋe, agus ṡiuḃail sé aḃaile ċun an toiġe sgoile lena ḟreagair a sgríoḃ.
 
@@ -274,8 +282,8 @@ fellow old writing appreciators, or too inaccessible for fellow learners.
 Mostly I hope you enjoyed the story.
 <br><br>
 Unfortunately I accidentally used my webcam microphone for the first five
-recordings, which is why there is a sudden increase in audio quality six
-recordings in.
+recordings, which is why there is a sudden increase in audio quality in the
+last three recordings.
 <br><br>
 The font used is Anois Sans from <a href=https://gaeltacht-type.com/>Gaeltacht Type</a>.
 </div>
