@@ -32,7 +32,7 @@ Tráṫnóna saṁraiḋ aṁáin, faoi lán-ġealaiġ, ḃí Peadar ag teaċt a
 
 Duḃairt Peadar leis an ṁion-ġirseaċ “Tá tú faiġte agam mar tá tú anseo, sna préataí a mbím ag siúḃail ṫairis gaċ lá. Caiṫfiḋ sé sa ċinniúint go mbeifeá i do ṗáisde agam féin.” Ṫóg sé í ina láṁaiḃ agus ṫug sé leis aḃaile ċuig Bríd í.
 
-Ní raḃ clann ag an tsean-lánúin roiṁe sin, agus ṫug siad aire ṁaiṫ dá ngirseaċ ġeasaċ. D’ḟás sí go gasta, agus roiṁe ċeann trí míosa, rinneaḋ bean apaiḋ di. Lena linn sin, nuair a ḃíoḋ Peadar ag baint préataí, ḃíoḋ sé ag fáilt óir sa talaṁ. Ḃí siad ina sgaiṫ den tsaoġal. Nuair a ḃí Peadar nó Bríd i n-ísle brí, ṫig leofa aṁarc ar a niġean gléigeal agus ċuir sé ardú meanman orṫu. Sorċa a ṫug siad uirṫi, agus ba ḃean ḃáiḋiúl í.
+Ní raḃ clann ag an tsean-lánúin roiṁe sin, agus ṫug siad aire ṁaiṫ dá ngirseaċ ġeasaċ. D’ḟás sí go gasta, agus roiṁe ċeann trí míosa, rinneaḋ bean apaiḋ di. Lena linn sin, nuair a ḃíoḋ Peadar ag baint préataí, ḃíoḋ sé ag fáilt óir sa talaṁ. Ḃí siad ina sgaiṫ den tsaoġal. Nuair a ḃí Peadar nó Bríd i n-ísle brí, ṫig leoḃṫa aṁarc ar a niġean gléigeal agus ċuir sé ardú meanman orṫu. Sorċa a ṫug siad uirṫi, agus ba ḃean ḃáiḋiúl í.
 
 Aon lá aṁáin, rinneaḋ Féis Ṫaṁnaċ Ṁullaiġ[^feis] ag an sgoil náisiúnta Ċineal Conaill.
 Ṫáinig daoiní as gaċ cearn fá ċoinne  aṁránaiḋeaċta, filiḋeaċta agus seanċaisg.
@@ -151,13 +151,13 @@ sgaoileaḋ. Nuair a ḃeiḋ siad ag teaċt, fosglóċaiḋ aċan rud os a gcoi
 
 Ar a ngearáin, a ṫáinig dá ḃarr, lean sí uirṫi fríd ḋeoraiḃ: “Naċ ormsa atá an crá. Dá ṁéad gráḋ agam daoiḃ, ní mór doṁ a ġaḃail. Faoin ġealaiġ, d’impínn orṫu ligean doṁ fanaċt bliaḋan aṁáin eile. Ní ḃfuair mé mo aċainí. Ní ġaḃann luċt ġealaiġe i n-aois, níl imní orṫu fosta. Aċ níl mé sásta gaḃail ann. Ní ġaḃfaiḋ mise féin i n-aois, aċ ní ṫiocfaiḋ liom aire a ṫaḃairt daoiḃ nuair a ḃeiḋ aois ṁór agaiḃ.”
 
-“Ná h-abair a leiṫéid de rudaí niṁneaċa”, a duḃairt Peadar go lag. “Ní ligfiḋ mé dófa tú a ġlacaḋ leofa!”
+“Ná h-abair a leiṫéid de rudaí niṁneaċa”, a duḃairt Peadar go lag. “Ní ligfiḋ mé dófa tú a ġlacaḋ leoḃṫa!”
 
 <figure>
 <img src="../images/nealltaí.svg" alt="nealltaí loinnreacha seoigh" style="height: 8em;">
 </figure>
 
-Ṫáinig meán oiḋċe. Soilsíoḋ an teaċ le réab-ġealaiġ. Ḃí sé geal go leor ċun pioċán craicinn duine a ḟeiceáilt. Ar néalltaiḃ loinnreaċa seoiġ ṫáinig as na sbéarṫaiḃ daoiní daṫúla dóiġ. Rinneaḋ stangairí daoḃṫa a ḃí taoḃ amuiġ agus taoḃ istiġ ag an aṁarc. Fá ḋeireaḋ, rinn siad iarraċt tarraingt ar a ngunnaí agus a lánta, aċ ḃí láidreaċt imiṫe as a láṁaiḃ féin, ċaill siad a lúṫ gluaiseaċta. Níor ṫig leofa aċ aṁarc uaṫu, trí ċéile.
+Ṫáinig meán oiḋċe. Soilsíoḋ an teaċ le réab-ġealaiġ. Ḃí sé geal go leor ċun pioċán craicinn duine a ḟeiceáilt. Ar néalltaiḃ loinnreaċa seoiġ ṫáinig as na sbéarṫaiḃ daoiní daṫúla dóiġ. Rinneaḋ stangairí daoḃṫa a ḃí taoḃ amuiġ agus taoḃ istiġ ag an aṁarc. Fá ḋeireaḋ, rinn siad iarraċt tarraingt ar a ngunnaí agus a lánta, aċ ḃí láidreaċt imiṫe as a láṁaiḃ féin, ċaill siad a lúṫ gluaiseaċta. Níor ṫig leoḃṫa aċ aṁarc uaṫu, trí ċéile.
 
 Loinnraiġ duine ġealaiġe a ḃí cosaṁail leis an rí, agus lig sé beic: “Ṗeadair Ṁic
 Ḟionntaiġ! Gaḃ anseo!” D’ḟosgail an doras de ṗreab, agus ṫáinig Peadar amaċ. Sleaċt an seanduine go talaṁ os a ċoṁair, an té a d’ḟógair a ḋúṡlán féin ní i ḃfad roiṁe sin. D’impiġ Peadar ar an rí: “Le do ṫoil…lig dúinne aire a ṫaḃairt do Ṡorċa. Lig di fanaċt againn. Ḃí sinn ag taḃairt aire ṁaiṫ di. Le do ṫoil!”
