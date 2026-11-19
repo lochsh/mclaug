@@ -35,7 +35,7 @@ Duḃairt Peadar leis an ṁion-ġirseaċ “Tá tú faiġte agam mar tá tú an
 Ní raḃ clann ag an tsean-lánúin roiṁe sin, agus ṫug siad aire ṁaiṫ dá ngirseaċ ġeasaċ. D’ḟás sí go gasta, agus roiṁe ċeann trí míosa, rinneaḋ bean apaiḋ di. Lena linn sin, nuair a ḃíoḋ Peadar ag baint préataí, ḃíoḋ sé ag fáilt óir sa talaṁ. Ḃí siad ina sgaiṫ den tsaoġal. Nuair a ḃí Peadar nó Bríd i n-ísle brí, ṫig leofa aṁarc ar a niġean gléigeal agus ċuir sé ardú meanman orṫu. Sorċa a ṫug siad uirṫi, agus ba ḃean ḃáiḋiúl í.
 
 Aon lá aṁáin, rinneaḋ Féis Ṫaṁnaċ Ṁullaiġ[^feis] ag an sgoil náisiúnta Ċineal Conaill.
-Ṫáinig daoiní as gaċ cearn fá ċoinne  aṁránaiḋeaċta, filiḋeaċta agus seanċais.
+Ṫáinig daoiní as gaċ cearn fá ċoinne  aṁránaiḋeaċta, filiḋeaċta agus seanċaisg.
 Duḃairt Sorċa Nic Ḟionntaiġ aṁrán galánta i nGaeḋilg ḃlasta, agus ḃuaiġ sí an
 comórtas aṁránaiḋeaċta.
 
