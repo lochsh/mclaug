@@ -41,7 +41,7 @@ comórtas aṁránaiḋeaċta.
 
 Ḃí triúr fear faoi ḋraoiṫeaċt ag áilleaċt agus cumas Ṡorċa. Ba iad Seaġán Mac Meanman as
 Allt na Péisde, Seaġán Mac an Ḃáird as An Eaglais, agus Seaġán Mac an Lúin as
-Duḃċruaċ[^cruach]. Ḃí siad go leir ag iarraiḋ[^iarraidh] Sorċa a ṗósaḋ. Aċ níor suim ar biṫ léiṫe aon duine, mar sin ḃronn sí tasc do-ḋeánta ar gaċ fear. An té a ċríoċnóḋ a ṫasc ar dtús, ṗósfaḋ sí é.
+Duḃċruaċ[^cruach]. Ḃí siad go léir ag iarraiḋ[^iarraidh] Sorċa a ṗósaḋ. Aċ níor suim ar biṫ léiṫe aon duine, mar sin ḃronn sí tasc do-ḋeánta ar gaċ fear. An té a ċríoċnóḋ a ṫasc ar dtús, ṗósfaḋ sí é.
 
 Do Ṡeaġán Mac Meanman as Allt na Péisde, ba éigean dó An Claiḋeaṁ[^claidheamh] Solais a ṫaḃairt leis daoiṫe.
 
