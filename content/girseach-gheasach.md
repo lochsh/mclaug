@@ -93,7 +93,8 @@ never will, that branch is mine! You’ll have me bankrupt! My poor children wil
 starve!”</span> Ṫarraing <span class=roman>James</span> Seaġán amaċ, aċ ġlaoiġ Sorċa air: <span
 class=roman>“Wait! I will buy the
 branch!”</span> Ḃí ór a fuair Peadar roinnte acu eadar ṫoiġṫe Ṫaṁnaċ Ṁullaiġ, aċ tá
-cuid ṁór acu fós. Ċaoin <span class=roman>James</span> cupla deoir sonais, ġaḃ sé buíoċas le Sorċa, agus
+cuid ṁór acu fós. Ċaoin <span class=roman>James</span> cupla deoir sonais, ġaḃ
+sé buiḋeaċas le Sorċa, agus
 ṫarraing dorn ar Ṡeaġán Mac an Ḃáird. Ina ḋiaiḋ sin ċoinniġ sé air, agus ní ḟaca
 Sorċa an Seaġán sin arís.
 
