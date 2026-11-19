@@ -136,7 +136,7 @@ gcuirfinn go mór as daoiḃ mé féin siar. Aċ ní ṫig liom a ḃeiṫ ciúi
 i gcéin mo áit dúċais, trasna na neiṁe foilṁe, i ḃfad ón áit seo a ḃfuil fraoċ
 agus feoirṫín ag fás[^fraoch]. Is as an ġealaiġ mise, agus as an ġealaiġ cuireaḋ anseo mé le dáiṁ a ċruṫú, agus a ḟios agam i riṫ an ama go mbeaḋ orm imeaċt, mar ṗionós. Anois, tá an uair ag teaċt – nuair a éiríonn an ċéad lán-ġealaċ eile, tiocfaiḋ mo iar-ṁuinntir le mé a ḟáilt. Níl de raoġa agam aċ gaḃail.” Ċaoin sí go searḃ.
 
-Sgairt Peadar uirṫi “Ní ṫig liom glacaḋ leis seo. Fuair mé féin ṫú i mo ċuiḃreann préataí nuair naċ raḃ fad ordóige ionat-sa, agus tá tú tógṫa againn go dtí go ḃfuil tú coṁ h-ard liom. Cé a ṫógfaiḋ tú uainn? An síleann tú go ligfinn dófa? Má ṫógann siad ṫú, ġeoḃaiḋ mé bás.”
+Sgairt Peadar uirṫi “Ní ṫig liom glacaḋ leis seo. Fuair mé féin ṫú i mo ċuiḃreann préataí nuair naċ raḃ fad ordóige ionat-sa, agus tá tú tógṫa againn go dtí go ḃfuil tú coṁ h-ard liom. Cé a ṫógfaiḋ tú uainn? An síleann tú go ligfinn dóḃṫa? Má ṫógann siad ṫú, ġeoḃaiḋ mé bás.”
 
 Ċaoin siad le ċéile, a dteaċ beag fionn-aolta ar a gcúl, an loċ agus na Cruaċa Gorma ag síneaḋ níos faide i gcéin.
 
@@ -151,7 +151,7 @@ sgaoileaḋ. Nuair a ḃeiḋ siad ag teaċt, fosglóċaiḋ aċan rud os a gcoi
 
 Ar a ngearáin, a ṫáinig dá ḃarr, lean sí uirṫi fríd ḋeoraiḃ: “Naċ ormsa atá an crá. Dá ṁéad gráḋ agam daoiḃ, ní mór doṁ a ġaḃail. Faoin ġealaiġ, d’impínn orṫu ligean doṁ fanaċt bliaḋan aṁáin eile. Ní ḃfuair mé mo aċainí. Ní ġaḃann luċt ġealaiġe i n-aois, níl imní orṫu fosta. Aċ níl mé sásta gaḃail ann. Ní ġaḃfaiḋ mise féin i n-aois, aċ ní ṫiocfaiḋ liom aire a ṫaḃairt daoiḃ nuair a ḃeiḋ aois ṁór agaiḃ.”
 
-“Ná h-abair a leiṫéid de rudaí niṁneaċa”, a duḃairt Peadar go lag. “Ní ligfiḋ mé dófa tú a ġlacaḋ leoḃṫa!”
+“Ná h-abair a leiṫéid de rudaí niṁneaċa”, a duḃairt Peadar go lag. “Ní ligfiḋ mé dóḃṫa tú a ġlacaḋ leoḃṫa!”
 
 <figure>
 <img src="../images/nealltaí.svg" alt="nealltaí loinnreacha seoigh" style="height: 8em;">
