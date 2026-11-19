@@ -120,7 +120,7 @@ Your browser does not support the audio element.
 Ón uair a ḃronn Sorċa a ṫasc air, ḃí Seaġán Mac an Lúin as Duḃċruaċ ag iarraiḋ
 gaḃail suas go Loċ Ḃéal Séad gaċ lá. Ḃí an portaċ mallaiṫe ag cur air-san i
 dtolaṁ, agus ḃí sé ag streaċailt gaḃáil níos faide ná An Leaċta Bán. Sin go dtí
-iarnóin foṁar aṁáin, fá ḋeireaḋ, ḃain sé mullaċ cnoic roiṁ an loċ amaċ. Aċ ṫáinig eagla air nuair a d’aṁarc sé ar an loċ mór le rá. Ċuir sé faitíos mór air ag smaointiú ar ḋúṡlán doḃar-con a ṫaḃairt. Ṫug sé céim ar ċúl ina éiginnteaċt, leag sé cos ar ṫalaṁ ḃog, agus ċuaiġ sé go coim sa ṗortaċ.
+iarnóin foṁar aṁáin, fá ḋeireaḋ, ḃain sé mullaċ cnoic roiṁ an loċ amaċ. Aċ ṫáinig eagla air nuair a d’aṁarc sé ar an loċ mór le rá. Ċuir sé faitíos mór air ag smaointiú ar ḋuḃ-ṡlán doḃar-con a ṫaḃairt. Ṫug sé céim ar ċúl ina éiginnteaċt, leag sé cos ar ṫalaṁ ḃog, agus ċuaiġ sé go coim sa ṗortaċ.
 
 Ní raḃ duine ar biṫ ṫuas ag Loċ Ḃéal Séad an tráṫnóna sin. Agus a ġlaoite ag géilleaḋ do ṫost ṫur na talún, gealaċ na gconlaċ ag éirí, ṡíl sé gur ċuala sé sblais as an loċ…
 
@@ -183,7 +183,7 @@ Ar a ngearáin, a ṫáinig dá ḃarr, lean sí uirṫi fríd ḋeoraiḃ: “N
 
 Loinnraiġ duine ġealaiġe a ḃí cosaṁail leis an rí, agus lig sé béic: “Ṗeadair Ṁic
 Ḟionntaiġ! Gaḃ anseo!” D’ḟosgail an doras de ṗreab, agus ṫáinig Peadar amaċ.
-Sleaċt an seanduine go talaṁ os a ċoṁair, an té a d’ḟuagair a ḋúṡlán féin ní i
+Sleaċt an seanduine go talaṁ os a ċoṁair, an té a d’ḟuagair a ḋuḃ-ṡlán féin ní i
 ḃfad roiṁe sin. D’impiġ Peadar ar an rí: “Le do ṫoil…lig dúinne aire a ṫaḃairt
 do Ṡorċa. Lig daoiṫe fanaċt againn. Ḃí sinn ag taḃairt aire ṁaiṫ daoiṫe. Le do ṫoil!”
 
