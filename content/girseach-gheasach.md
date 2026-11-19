@@ -179,7 +179,7 @@ Ar a ngearáin, a ṫáinig dá ḃarr, lean sí uirṫi fríd ḋeoraiḃ: “N
 <img src="../images/nealltaí.svg" alt="nealltaí loinnreacha seoigh" style="height: 8em;">
 </figure>
 
-Ṫáinig meán oiḋċe. Soilsíoḋ an teaċ le réab-ġealaiġ. Ḃí sé geal go leor ċun pioċán craicinn duine a ḟeiceáilt. Ar néalltaiḃ loinnreaċa seoiġ ṫáinig as na sbéarṫaiḃ daoiní daṫúla dóiġ. Rinneaḋ stangairí daoḃṫa a ḃí taoḃ amuiġ agus taoḃ istiġ ag an aṁarc. Fá ḋeireaḋ, rinn siad iarraċt tarraingt ar a ngunnaí agus a lánta, aċ ḃí láidreaċt imiṫe as a láṁaiḃ féin, ċaill siad a lúṫ gluaiseaċta. Níor ṫig leoḃṫa aċ aṁarc uaṫu, trí ċéile.
+Ṫáinig meán oiḋċe. Soilsíoḋ an teaċ le réab-ġealaiġ. Ḃí sé geal go leor ċun pioċán craicinn duine a ḟeiceáilt. Ar néalltaiḃ loinnreaċa seoiġ ṫáinig as na sbéarṫaiḃ daoiní daṫúla dóiġ. Rinneaḋ stangairí daoḃṫa a ḃí taoḃ amuiġ agus taoḃ istiġ ag an aṁarc. Fá ḋeireaḋ, rinn siad iarraċt tarraingt ar a ngunnaí agus a lánta, aċ ḃí láidreaċt imiṫe as a láṁaiḃ féin, ċaill siad a lúṫ gluaiseaċta. Níor ṫig leoḃṫa aċ aṁarc uaḃṫa, trí ċéile.
 
 Loinnraiġ duine ġealaiġe a ḃí cosaṁail leis an rí, agus lig sé béic: “Ṗeadair Ṁic
 Ḟionntaiġ! Gaḃ anseo!” D’ḟosgail an doras de ṗreab, agus ṫáinig Peadar amaċ.
