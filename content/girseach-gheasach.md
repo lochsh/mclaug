@@ -1,7 +1,6 @@
 Title: Girseaċ Ġeasaċ na Préataí
 Slug: girseach-gheasach
-Date: 15th November 2026
-Status: draft
+Date: 20th November 2026
 template: article-sean-chlo
 
 <figure>
