@@ -217,7 +217,8 @@ bráid Loċ Ḃéal Séad agus níos faide isteaċ ar na Cruaċaiḃ. Fá ḋeir
 ## Iarḟocal
 
 <div style="font-family: 'Comic Neue';">
-I wrote the above as a re-telling of the traditional Japanese story 竹取物語,
+I wrote the above as a re-telling of the traditional Japanese story
+<a href=https://en.wikipedia.org/wiki/The_Tale_of_the_Bamboo_Cutter>竹取物語</a>,
 known in English as The Tale of Princess Kaguya or The Tale of the Bamboo
 Cutter. In the original tale, the girl is found inside a bamboo stalk, rather
 than sitting on a potato leaf. There are five initial suitors, compared to the
@@ -233,7 +234,7 @@ three I adapted. The equivalent three from our tale are tasked with finding:
 It is the Emperor who she falls in love with, and Mount Fuji that the letter is
 burnt upon.
 <br><br>
-The moon as the location of an otherworld populated with celestial beings fits
+I think the moon as the location of an otherworld populated with celestial beings fits
 well into traditional stories of the Sinosphere, but is perhaps a little odd in
 the context of a Gaelic story. However, I feel good about the decision not to
 change this aspect &ndash; it accounts for much of the story's best imagery:
@@ -248,7 +249,7 @@ own, as are the old-fashioned choices in spelling and grammar, which I have
 made for my own enjoyment and learning. The story is set around the turn of the
 20th Century, so it felt appropriate to me to use contemporary spelling. I also
 generally enjoy more etymological and dialectal spellings
-regardless of this context, and often employ them. It is important to me to
+regardless of this context. It is important to me to
 be literate in pre-Caighdeán writing, and I find etymological spellings useful
 for understanding phonological history.
 <br><br>
@@ -275,15 +276,18 @@ mind <i>b'</i> &c. but I do find it odd that it's non-standard to write "ba" or 
 before a vowel. Given that Irish is traditionally spoken in mostly continuous
 breaths without hard attack, the resulting running together of adjacent
 vowels means I feel it seems a bit unnecessary to write <i>b'iad</i>. I do
-write b'fhéidir though…
+write <i>b'fhéidir</i> though…
 <br><br>
 I hope these writing choices are not too inconsistent for
 fellow old writing appreciators, or too inaccessible for fellow learners.
-Mostly I hope you enjoyed the story.
+Mostly I hope you enjoyed the story!
 <br><br>
 Unfortunately I accidentally used my webcam microphone for the first five
 recordings, which is why there is a sudden increase in audio quality in the
-last three recordings.
+last three recordings. I also had a little bit of a sore throat when recording
+which I will use as an excuse for my many pronunciation shortcomings. Mostly it
+seemed to deprive me of my already poor ability to produce voiced velar
+fricatives.
 <br><br>
 The font used is Anois Sans from <a href=https://gaeltacht-type.com/>Gaeltacht Type</a>.
 </div>
