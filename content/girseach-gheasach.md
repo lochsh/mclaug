@@ -208,7 +208,10 @@ D’ḟreagair Rí na Gealaiġe, “A Ṁic Ḟionntaiġ. Is tú atá neaṁ-ḃ
 ṫug muid daoiḃ léiṫe. Is tú atá neaṁ-ḃuiḋeaċ as do stipinn óir. Ba éigean
 daoiṫe fanaċt liḃse boċta mar ġeall ar ṗeaca ḋeánta aici. Tá téarma pionóis críoċnaiṫe aici, agus ṫáinig muid fána coinne. Dá ṁéad do éagaoin, ní ṫig leat Sorċa a ċoinneáilt. Faiġ í ar an toirt!”
 
-Taoḃ istiġ den toiġ, ṗóg Sorċa Bríd ar a leiceann, d’éiriġ sí ina seasaṁ agus ṡiuḃail sí go Donnċaḋ, agus rug sé barróg uirṫi. Agus iad ag deiġilt óna ċéile, as a póca, ṫóg sí amaċ litir dó. Ṡiuḃal sí go doras, an áit a ḃí Peadar ag gol go cráite. Ṫóg sí a láṁ ar a ġualann. “Ní de mo ṫoil féin a imím. Go dté tú slán, a ḋeaidí.”
+Taoḃ istiġ den toiġ, ṗóg Sorċa Bríd ar a leiceann, d’éiriġ sí ina seasaṁ agus
+ṡiuḃail sí go Donnċaḋ, agus rug sé barróg uirṫi. Agus iad ag deiġilt óna ċéile,
+as a póca, ṫóg sí amaċ litir dó. Ṡiuḃal sí go doras, an áit a ḃí Peadar ag
+gol go cráite. Ṫóg sí a láṁ ar a ġualainn. “Ní de mo ṫoil féin a imím. Go dté tú slán, a ḋeaidí.”
 
 Ṫóg Sorċa Nic Ḟionntaiġ céim ċun cinn, ċuaiġ sí i n-airde ar néal, agus luċt Ṫaṁnaċ Ṁullaiġ ag féaċaint le h-iontas agus le h-eagla, d’éiriġ sí leis na daoiní flaiṫeasaċa, trasna na neiṁe foilṁe, go h-áit naċ ḃfuil fraoċ nó feoirṫinn ag fás.
 
