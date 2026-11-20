@@ -19,10 +19,12 @@ Dubhchruach. Baile Dhún na nGall is southwest of all.">
 <img src="../images/préataí.svg" alt="planda préata" width="30%">
 </figure>
 
+<p align=center>
 <audio controls>
   <source src="/static/girseach-gheasach/préataí.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
+</p>
 
 Fadó fadó, i n-áit darḃ ainm Taṁnaċ Ṁullaiġ, eadar Loċ Iasg agus an Bearnas
 Mór, ḃí sean-lánúin ina gcoṁnuiḋe i dtoiġ ḃeag ḟionn-aolta. Peadar agus Bríd
@@ -56,10 +58,12 @@ Loċ Ḃéal Séad a ṫaḃairt leis daoiṫe[^dobhar].
 <figure>
 <img src="../images/claidheamh.svg" alt="an claideamh solais" width="30%">
 </figure>
+<p align=center>
 <audio controls>
   <source src="/static/girseach-gheasach/claidheamh.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
+</p>
 
 Anois, ḃí Seaġán Mac Meanman coṁ glic le sionnaċ. Níor ṫig leis gléas ársa a ḟáilt,
 agus ṫuig sé sin go maiṫ. Ċuir sé Casán na mBráṫar[^casán] de, trasna na gCruaċ Gorm go Glinn Ḟinne, ċuig gaḃa Ḃaile Bó Báinín…
@@ -78,10 +82,12 @@ Agus mar sin d’imiġ Seaġán Mac Meanman sa foc ar ais go h-Allt na Péisde.
 <figure>
 <img src="../images/craobh.svg" alt="an craobh airgid" width="30%">
 </figure>
+<p align=center>
 <audio controls>
   <source src="/static/girseach-gheasach/craobh.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
+</p>
 
 Lena linn sin, ḃí Seaġán Mac an Ḃáird as An Eaglais ag smaointeaṁ go mór. Ní raḃ airgead aige, aċ ḃí gliceas ag baint leis fosta, agus ba sgafaire stócaiġ é. Ḃearr sé é féin agus ċíor a ċuid gruaige. Ṡaor sé bróga as diaḃal boċt inteaċt, agus rinn sé ar Ḃaile Ḋún na nGall…
 
@@ -112,10 +118,12 @@ Sorċa an Seaġán sin arís.
 <figure>
 <img src="../images/dobhar.svg" alt="an dobhar-chú" width="30%">
 </figure>
+<p align=center>
 <audio controls>
   <source src="/static/girseach-gheasach/dobhar.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
+</p>
 
 Ón uair a ḃronn Sorċa a ṫasc air, ḃí Seaġán Mac an Lúin as Duḃċruaċ ag iarraiḋ
 gaḃail suas go Loċ Ḃéal Séad gaċ lá. Ḃí an portaċ mallaiṫe ag cur air-san i
@@ -127,10 +135,12 @@ Ní raḃ duine ar biṫ ṫuas ag Loċ Ḃéal Séad an tráṫnóna sin. Agus 
 <figure>
 <img src="../images/litir.svg" alt="litir do Shorcha" width="20%">
 </figure>
+<p align=center>
 <audio controls>
   <source src="/static/girseach-gheasach/litir.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
+</p>
 
 Ṫóg fear eile a ṡúil ar Ṡorċa, giḋ naċ raḃ dadaiḋ ráite aige fós. I n-amanntaí,
     nuair a ḃí sé ag siúḃail amuiġ san oiḋċe, d'ḟeiceaḋ sé Sorċa ag aṁarc ar an
@@ -143,10 +153,12 @@ As sin amaċ, le ċéile a ba ṁinice a tċíṫí Sorċa agus Donnċaḋ. Ag c
 <figure>
 <img src="../images/teach.svg" alt="teach faoi ghealaigh" width="30%">
 </figure>
+<p align=center>
 <audio controls>
   <source src="/static/girseach-gheasach/teach.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
+</p>
 
 Ṫáinig an t-earraċ, agus fuair Bríd Sorċa amuiġ, faoi ġealaiġ ḋeirceaċ, ag gol
 go bog. “Caidé atá ort, a ṫaisgiḋ?” duḃairt Bríd lena niġean dílis. Duḃairt Sorċa gur ċuir Donnċaḋ ceiliúr pósta uirṫi. “Naċ sgéal deas é sin? Cad ċuige a ḃfuil tú ag gol?” Agus iad ag caint, ṫáinig Peadar anall as an toiġ, ag fiosrú caidé an sgéal.
@@ -178,10 +190,12 @@ Ar a ngearáin, a ṫáinig dá ḃarr, lean sí uirṫi fríd ḋeoraiḃ: “N
 <figure>
 <img src="../images/nealltaí.svg" alt="nealltaí loinnreacha seoigh" style="height: 8em;">
 </figure>
+<p align=center>
 <audio controls>
   <source src="/static/girseach-gheasach/nealltaí.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
+</p>
 
 Ṫáinig meán oiḋċe. Soilsíoḋ an teaċ le réab-ġealaiġ. Ḃí sé geal go leor ċun pioċán craicinn duine a ḟeiceáilt. Ar néalltaiḃ loinnreaċa seoiġ ṫáinig as na sbéarṫaiḃ daoiní daṫúla dóiġ. Rinneaḋ stangairí daoḃṫa a ḃí taoḃ amuiġ agus taoḃ istiġ ag an aṁarc. Fá ḋeireaḋ, rinn siad iarraċt tarraingt ar a ngunnaí agus a lánta, aċ ḃí láidreaċt imiṫe as a láṁaiḃ féin, ċaill siad a lúṫ gluaiseaċta. Níor ṫig leoḃṫa aċ aṁarc uaḃṫa, trí ċéile.
 
@@ -204,10 +218,12 @@ Ba oiḋċe ḃrónaċ í an oiḋċe réab-ġealaiġe eadar Loċ Iasg agus an B
 <figure>
 <img src="../images/cipín.svg" alt="cipín" width="20%">
 </figure>
+<p align=center>
 <audio controls>
   <source src="/static/girseach-gheasach/cipín.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
+</p>
 
 Faoi ṡolas na gealaiġe, ḃí Donnċaḋ ag léaṁ litreaċ Ṡorċa. Ḃrúiġ sé an litir i gcoinne a ċroiḋe, agus ṡiuḃail sé aḃaile ċun an toiġe sgoile lena ḟreagair a sgríoḃ.
 
