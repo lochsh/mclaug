@@ -326,7 +326,7 @@ in <i>Lɔχ·pʹi꞉Nʹə</i>, ‘a penny­worth’ < Luəχ, Di. luach; <i>krɔ
 Ḟinne](https://www.teanga.info/oduibhin/sf/sceal35.htm) <span
 class=ipa>/jɛri/</span> b'ḟéidir.
 
-[^claidheamh]: Tagairt fuaimniṫe: Pointe LASID 83 léarscáil 265<span
+[^claidheamh]: Tagairt fuaimniṫe: Pointe LASID 83 léarscáil 265 <span
 class=ipa>[kʟɛ̃ːv′]</span>. <span class=roman>The LASID records broad
 endings of this word in Munster only. Old Donegal writers seem to use the
 spelling <i>claidheamh</i> and so I have written it that way too. I couldn't
