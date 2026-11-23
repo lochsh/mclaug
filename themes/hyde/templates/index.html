@@ -6,12 +6,24 @@
 		{% for article in articles_page.object_list %}
 			<div class="post">
 				<h1 class="post-title" href="{{ SITEURL }}/{{ article.url }}">
+                    {% if article.template == "article-sean-chlo" %}
+                    <span class=seanchlochunky>
+                    {% endif %}
 					<a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                    {% if article.template == "article-sean-chlo" %}
+                    </span>
+                    {% endif %}
 				</h1>
 				<span class="post-date">{{ article.locale_date }}</span>
+                {% if article.template == "article-sean-chlo" %}
+                <span class=seanchlo>
+                {% endif %}
 				<p>
 					{{ article.summary }}
 				</p>
+                {% if article.template == "article-sean-chlo" %}
+                </span>
+                {% endif %}
 				<a class="read-more" href="{{ article.url }}">Continue reading »</a>
 			</div>
 		{% endfor %}
