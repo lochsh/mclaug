@@ -9,8 +9,8 @@ For a good few months, I have been working on and off on digitising
 Linguistic Atlas and Survey of Irish Dialects, which comprises phonetic records
 collected in the 1950s and 60s. You can read more about the previous
 digitisation work by others that I am grateful to be building upon, my specific
-contributions, and the goals of my work at the [Github
-project](https://github.com/lochsh/lasid).
+contributions, and the goals of my work at the [Codeberg
+project](https://codeberg.org/lochsh/lasid).
 
 It will take a while for my vision for the LASID digitisation project to be
 fully realised, but in the meantime I thought it would be fun to publish some
