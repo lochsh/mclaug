@@ -32,7 +32,7 @@ Mór, ḃí sean-lánúin ina gcoṁnuiḋe i dtoiġ ḃeag ḟionn-aolta. Peada
 Tráṫnóna saṁraiḋ aṁáin, faoi lán-ġealaiġ, ḃí Peadar ag teaċt aḃaile i ndiaiḋ ċuidiú le coṁarsa, agus ċonaic sé rud aisteaċ ina ċuiḃreann préataí féin! Ḃí planda aṁáin ina ċaor ċoiṁṫíoċ! D’aṁarc sé níos gaire ar an ṗlanda, agus d’aimsiġ sé foinse an tsolais. Ḃí mion-ġirseaċ ṁaiseaċ ina suiḋe ar ḋuilleog préata ann! Ní raḃ fad ordóige inti, agus ḃí solas suaiṁneaċ ag teaċt uaiṫi.
 
 Duḃairt Peadar leis an ṁion-ġirseaċ “Tá tú faiġte agam mar tá tú anseo, sna
-préataí a mbím ag siúḃail ṫairis gaċ lá. Caiṫfiḋ sé sa ċinniúint go mbeifeá i
+préataí a mbím ag siúḃail ṫairis gaċ lá. Caiṫfiḋ sé sa ċinneaṁaint  go mbeifeá i
 do ṗáisde agam féin.”[^caithfidh] Ṫóg sé í ina láṁaiḃ agus ṫug sé leis aḃaile ċuig Bríd í.
 
 Ní raḃ clann ag an tsean-lánúin roiṁe sin, agus ṫug siad aire ṁaiṫ dá ngirseaċ
@@ -313,7 +313,7 @@ The font used is Anois Sans from <a href=https://gaeltacht-type.com/>Gaeltacht T
 </div>
 
 [^caithfidh]: Sílim go ḃfuil meancóg anseo. "Caiṫḟiḋ <b>go ḃfuil</b> sé sa
-ċinniúnt" nó "caiṫḟiḋ sé <b>a ḃeiṫ</b> sa ċinniúnt".
+ċinneaṁaint" nó "caiṫḟiḋ sé <b>a ḃeiṫ</b> sa ċinneaṁaint".
 
 [^feis]: Rinneaḋ Féis Ṫaṁnaċ Ṁullaiġ sa ḃliaḋain 1900. Ċum mo
 ṡin-sean-ṁáṫair Máire Nic Ḟionnlaoiġ (Bean Ṁáirtíniġ (Brocaċ)) an dréaċt
