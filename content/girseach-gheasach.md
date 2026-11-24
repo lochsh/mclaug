@@ -336,7 +336,7 @@ same.</span>
 [^dobhar]: Is cat a ċosnaíos Loċ Ḃéal Séad sa
 [sgéal](https://www.duchas.ie/en/cbes/4428280/4391331/4478267) as Taṁnaċ Ṁullaiġ seo,
 aċ is doḃar-ċú sa [sgéal](https://www.duchas.ie/en/cbes/4428277/4391185)
-seo eile. Is ḟearr liom doḃar-ċú fá ċoinne mo sgéil.
+seo eile. Is fearr liom doḃar-ċú fá ċoinne mo sgéil.
 
 [^casán]: [bealaċ ársa eadar Loċ Iasg agus Gleann Ḟinne](https://www.duchas.ie/en/cbes/4428281/4391419/4478772)
 
